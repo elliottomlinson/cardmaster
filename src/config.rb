@@ -2,8 +2,8 @@
 SAVED_OBJ_DIR = "/home/ellio/.local/share/Tabletop Simulator/Saves/Saved Objects"
 
 # local
-GIT_DIR = File.expand_path("..", Dir.pwd)
-
+GIT_DIR = "/home/ellio/projects/rpg-art"
+SAVED_OBJ_DIR = "/home/ellio/.local/share/Tabletop Simulator/Saves/Saved Objects"
 
 # figurine import
 CHAR_GIT_DIR = GIT_DIR+"/art/char"
