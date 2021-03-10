@@ -1,6 +1,7 @@
 require_relative "./templates.rb"
 require_relative "./config.rb"
 require "open-uri"
+require "addressable"
 
 # Figurine handling variables for Tabletop Simulator
 scale = 0.7
@@ -22,6 +23,7 @@ sets.each do |set|
   file.write CHARFILE_OPEN
   name.each_with_index do |name,i|
     url = CHAR_URL % {set:set,name:name}
+    url = Addressable::URI.encode(url)
 
     file.write CHARFILE_ENTRY % {
       name:name.chomp(".png"),
