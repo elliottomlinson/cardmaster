@@ -59,7 +59,7 @@ sets.each do |set|
       # thumbnail
       if i == 0
         File.open(setdir+".png", 'wb') do |thumbnail|
-          thumbnail.write URI.open(cardfronturl).read
+          thumbnail.write URI.open(cardbackurl).read
           puts "done item set "+set
         end
       end
