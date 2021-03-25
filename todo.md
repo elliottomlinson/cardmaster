@@ -1,0 +1,4 @@
+- port lore and other docs to repo
+- fix import tool dependencies
+- fix and upload rules and heuristics
+- summary in Campaign
