@@ -1,8 +1,8 @@
-## Cardmaster: Campaign
+# Cardmaster: Campaign
 
 todo: outline the "contract" setup
 
-### Background
+## Background
 
 Written for the players to read before character creation in the first session.
 
@@ -10,7 +10,7 @@ Written for the players to read before character creation in the first session.
 
 **Part 2:** [Life in The Tower](tower-present.md) explores the present-day situation
 
-### Session Primers
+## Session Primers
 
 Background information and/or mission descriptions given to the players each session.
 
@@ -18,7 +18,7 @@ Session 1: [Gerraro's Bandits](/sessions/1.md)
 
 Session 2: [Angel's Wings](/sessions/2.md)
 
-### Miscellaneous
+## Miscellaneous
 
 
 
