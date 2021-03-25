@@ -14,7 +14,7 @@ To this day, the Tower is still building new worlds. The space of possible world
 
 ---
 
-Next: [Life in The Tower](tower-present.md)
+Next: [Life in The Tower](tower-life.md)
 
 ---
 

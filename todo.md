@@ -2,3 +2,4 @@
 - fix import tool dependencies
 - fix and upload rules and heuristics
 - summary in Campaign
+- fix all the docs links for quality navigation experience
