@@ -18,4 +18,4 @@ Next: [Life in The Tower](tower-present.md)
 
 ---
 
-[Back to campaign](https://github.com/elliottomlinson/rpcg/blob/master/docs/campaign/README.md)
+[Back to campaign docs](https://github.com/elliottomlinson/rpcg/blob/master/docs/campaign/README.md)

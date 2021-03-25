@@ -6,4 +6,4 @@ Miscellaneous lore articles. May or may not be included in the story in the futu
 
 ---
 
-[Back to campaign](https://github.com/elliottomlinson/rpcg/blob/master/docs/campaign/README.md)
+[Back to campaign docs](https://github.com/elliottomlinson/rpcg/blob/master/docs/campaign/README.md)
