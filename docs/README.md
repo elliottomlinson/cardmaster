@@ -13,6 +13,12 @@ docs/rules
 └── heuristics.md....for dms
 ```
 
+## Scripts - TODO
+
+Visit the Scripts section (when it exists) to learn how to use our import scripts to 
+- generate the card decks
+- set the game up in tabletop simulator
+- etc
 
 ## Campaign
 
