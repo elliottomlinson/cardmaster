@@ -6,9 +6,9 @@ todo: outline the "contract" setup
 
 Written for the players to read before character creation in the first session.
 
-**Part 1:** [History of The Tower](tower-past.md) introduces the world the campaign takes place in.
+**Part 1:** [History of The Tower](intro/README.md) introduces the world the campaign takes place in.
 
-**Part 2:** [Life in The Tower](tower-present.md) explores the present-day situation
+**Part 2:** [Life in The Tower](intro/tower-present.md) explores the present-day situation
 
 ## Session Primers
 
