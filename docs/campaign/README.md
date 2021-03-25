@@ -14,9 +14,11 @@ Written for the players to read before character creation in the first session.
 
 Background information and/or mission descriptions given to the players each session.
 
-Session 1: [Gerraro's Bandits](/sessions/1.md)
+Overview: [Session Primers](sessions/README.md)
 
-Session 2: [Angel's Wings](/sessions/2.md)
+Session 1: [Gerraro's Bandits](sessions/1.md)
+
+Session 2: [Angel's Wings](sessions/2.md)
 
 ## Miscellaneous
 
