@@ -7,15 +7,15 @@ SAVED_OBJ_DIR = "/home/ellio/.local/share/Tabletop Simulator/Saves/Saved Objects
 GIT_DIR = "/home/ellio/projects/rpcg"
 
 # figurine import
-CHAR_GIT_DIR = GIT_DIR+"/assets/art/char"
+CHAR_GIT_DIR = GIT_DIR+"/assets/char"
 CHAR_SAVED_DIR = SAVED_OBJ_DIR+"/char"
-CHAR_URL = "https://github.com/elliottomlinson/rpcg/blob/master/assets/art/char/%{set}/%{name}?raw=true"
+CHAR_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/char/%{set}/%{name}"
 
 # item import
-ITEM_GIT_DIR = GIT_DIR+"/assets/art/item"
+ITEM_GIT_DIR = GIT_DIR+"/assets/item"
 ITEM_SAVED_DIR = SAVED_OBJ_DIR+"/item"
-ITEM_FACE_URL = "https://github.com/elliottomlinson/rpcg/blob/master/assets/art/item/%{set}/%{name}?raw=true"
-ITEM_BACK_URL = "https://github.com/elliottomlinson/rpcg/blob/master/assets/art/item/back/%{set}.png?raw=true"
+ITEM_FACE_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/item/%{set}/%{name}"
+ITEM_BACK_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/item/back/%{set}.png"
 
 # map import
 MAP_GIT_DIR = GIT_DIR+"/assets/map"
