@@ -1,0 +1,67 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "be23c3",
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -77.04647,
+        "posY": 2.27701139,
+        "posZ": -39.010582,
+        "rotX": 2.18052919E-05,
+        "rotY": 179.662216,
+        "rotZ": 0.0003055118,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Anvil",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.123691715,
+        "g": 0.123691715,
+        "b": 0.123691715
+      },
+      "LayoutGroupSortIndex": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1759190027211748336/01924590004C6F2038460AF8A5469FCD27365802/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}
