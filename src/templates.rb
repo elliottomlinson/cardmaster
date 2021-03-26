@@ -132,3 +132,25 @@ MAPFILE_ENTRY_CLOSE = "        \"ImageScalar\": 1.0,
     },"
 
 MAPFILE_CLOSE = "]}"
+
+#backgrounds
+BGFILE_OPEN = "{\"ObjectStates\":["
+BGFILE_ENTRY = "    {
+      \"Name\": \"Custom_Token\",
+      \"Transform\": {
+        \"posX\": %{posX},
+        \"posY\": 0,
+        \"posZ\": %{posZ},
+        \"rotX\": %{rotation},
+        \"rotY\": 0,
+        \"rotZ\": 0,
+        \"scaleX\": 0.98,
+        \"scaleY\": 0.2,
+        \"scaleZ\": 0.98
+      },
+      \"Nickname\": \"%{name}\",
+      \"CustomImage\": {
+        \"ImageURL\": \"%{url}\",
+      },
+    },"
+BGFILE_CLOSE = "]}"

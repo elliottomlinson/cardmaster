@@ -20,3 +20,8 @@ ITEM_BACK_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/a
 # map import
 MAP_GIT_DIR = GIT_DIR+"/assets/map"
 MAP_SAVED_DIR = SAVED_OBJ_DIR+"/map"
+
+# bg import
+BG_GIT_DIR = GIT_DIR+"/assets/bg"
+BG_SAVED_DIR = SAVED_OBJ_DIR+"/bg"
+BG_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/bg/%{set}/%{name}"
