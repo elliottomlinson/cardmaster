@@ -21,7 +21,7 @@ sets.each do |set|
 
   name = Dir.children(ITEM_GIT_DIR+"/"+set)
   setdir = ITEM_SAVED_DIR+"/"+set
-  posX = posZ = 0
+  posZ = posX = 0
 
   cardbackurl = ITEM_BACK_URL % {set:set}
   cardbackurl = Addressable::URI.encode(cardbackurl)
@@ -38,8 +38,8 @@ sets.each do |set|
     file.write ITEMFILE_ENTRY % {
 
       cardnum:cardnum,
-      posX:posX,
       posZ:posZ,
+      posX:posX,
       roation:rotation,
       name:name.chomp(".png"),
       scale:scale,
@@ -49,11 +49,11 @@ sets.each do |set|
       }
 
       # item card rows
-      if posZ<(-2*rowsize+4)
-        posZ=0
-        posX=posX-2
-      else
+      if posX<(-2*rowsize+4)
+        posX=0
         posZ=posZ-2
+      else
+        posX=posX-2
       end
 
       # thumbnail
