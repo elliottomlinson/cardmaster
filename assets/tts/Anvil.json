@@ -53,7 +53,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1759190027211748336/01924590004C6F2038460AF8A5469FCD27365802/",
+        "AssetbundleURL": "https://github.com/elliottomlinson/rpcg/blob/master/assets/unity/anvil.unity3d?raw=true",
         "AssetbundleSecondaryURL": "",
         "MaterialIndex": 0,
         "TypeIndex": 0,
