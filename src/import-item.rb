@@ -5,7 +5,7 @@ require "addressable"
 
 # card handling variables
 rowsize = 16
-cardnum=2000
+cardnum=1000
 scale=1
 rotation=90
 
