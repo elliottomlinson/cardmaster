@@ -1,9 +1,4 @@
-# tabletop simulator saved object folder
-# condsider implementing an option to choose if you're elliot or duncan
 SAVED_OBJ_DIR = "/home/ellio/.local/share/Tabletop Simulator/Saves/Saved Objects"
-
-# local
-# will fix this to be compatible cross-platform
 GIT_DIR = "/home/ellio/projects/rpcg"
 
 # figurine import
@@ -25,3 +20,7 @@ MAP_SAVED_DIR = SAVED_OBJ_DIR+"/map"
 BG_GIT_DIR = GIT_DIR+"/assets/bg"
 BG_SAVED_DIR = SAVED_OBJ_DIR+"/bg"
 BG_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/bg/%{set}/%{name}"
+
+# other import
+MISC_GIT_DIR = GIT_DIR+"/assets/tts"
+MISC_SAVED_DIR = SAVED_OBJ_DIR+"/misc"

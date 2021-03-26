@@ -47,11 +47,11 @@ sets.each do |set|
       }
 
       # item card rows
-      if posX<(-2*rowsize+4)
+      if posX>(2*rowsize-4)
         posX=0
         posZ=posZ-2
       else
-        posX=posX-2
+        posX=posX+2
       end
 
       # thumbnail

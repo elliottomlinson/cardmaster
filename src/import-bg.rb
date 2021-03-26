@@ -32,11 +32,11 @@ sets.each do |set|
       }
 
       # figurine rows
-      if posX<(-2*rowsize+4)
+      if posX>(4*rowsize-8)
         posX=0
-        posZ=posZ-2
+        posZ=posZ-4
       else
-        posX=posX-2
+        posX=posX+4
       end
 
       # thumbnail

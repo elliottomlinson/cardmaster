@@ -1,5 +1,4 @@
 require_relative "./templates.rb"
-require_relative "./sheets.rb"
 require_relative "./config.rb"
 require 'csv'
 
@@ -33,10 +32,10 @@ maps.each do |map|
             file.write MAP_INDEX[tile.to_i-1]
             file.write MAPFILE_ENTRY_CLOSE
           end
-          posX = posX+2
+          posX = posX-2
         end
         posX = 0
-        posZ = posZ + 2
+        posZ = posZ - 2
       end
     end
     file.write MAPFILE_CLOSE
