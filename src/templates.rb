@@ -53,10 +53,10 @@ ITEMFILE_ENTRY = "
     \"g\": 0.713235259,
     \"b\": 0.713235259
   },
-  \"CardID\": %{cardnum},
+  \"CardID\": %{cardnum}00,
   \"SidewaysCard\": false,
   \"CustomDeck\": {
-    \"40\": {
+    \"%{cardnum}\": {
       \"FaceURL\": \"%{cardfronturl}\",
       \"BackURL\": \"%{cardbackurl}\",
       \"NumWidth\": 1,

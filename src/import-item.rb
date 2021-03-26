@@ -5,7 +5,7 @@ require "addressable"
 
 # card handling variables
 rowsize = 16
-cardnum=1000
+cardnum=22
 scale=1
 rotation=90
 
@@ -16,7 +16,6 @@ puts "found "+sets.length.to_s+" item sets"
 
 
 sets.each do |set|
-  cardnum=cardnum+1000
 
   name = Dir.children(ITEM_GIT_DIR+"/"+set)
   setdir = ITEM_SAVED_DIR+"/"+set
