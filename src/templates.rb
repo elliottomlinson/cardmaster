@@ -1,4 +1,4 @@
-require_relative "./config.rb"
+require_relative "./dirs.rb"
 
 # i'm certain this is a major rookie move
 CHARFILE_OPEN = "{\"ObjectStates\":["
@@ -154,3 +154,69 @@ BGFILE_ENTRY = "    {
       },
     },"
 BGFILE_CLOSE = "]}"
+
+
+#STATED
+STATEDFILE_OPEN = "{\"ObjectStates\":["
+
+STATEDFILE_FIRST_ENTRY = "    {
+      \"Name\": \"Custom_Token\",
+      \"Transform\": {
+        \"posX\": 0,
+        \"posY\": 0,
+        \"posZ\": 0,
+        \"rotX\": %{rotation},
+        \"rotY\": 0,
+        \"rotZ\": 0,
+        \"scaleX\": 0.98,
+        \"scaleY\": 0.2,
+        \"scaleZ\": 0.98
+      },
+      \"Nickname\": \"%{name}\",
+      \"CustomImage\": {
+        \"ImageURL\": \"%{url}\",
+      },
+    \"LuaScript\": \"\",
+      \"LuaScriptState\": \"\",
+      \"XmlUI\": \"\",
+      \"States\": {"
+
+STATEDFILE_ENTRY =         "\"%{statenum}\": {
+          \"GUID\": \"4b8ee6\",
+          \"Name\": \"Custom_Token\",
+          \"Transform\": {
+            \"posX\": 0,
+            \"posY\": 0,
+            \"posZ\": 0,
+            \"rotX\": 0,
+            \"rotY\": 180,
+            \"rotZ\": %{rotation},
+            \"scaleX\": 0.98,
+            \"scaleY\": 0.2,
+            \"scaleZ\": 0.98
+          },
+          \"Nickname\": \"%{name}\",
+          \"Description\": \"\",
+          \"GMNotes\": \"\",
+          \"ColorDiffuse\": {
+            \"r\": 1.0,
+            \"g\": 1.0,
+            \"b\": 1.0
+          },
+          \"CustomImage\": {
+            \"ImageURL\": \"%{url}\",
+            \"ImageSecondaryURL\": \"\",
+            \"ImageScalar\": 1.0,
+            \"WidthScale\": 0.0,
+            \"CustomToken\": {
+              \"Thickness\": 0.2,
+              \"MergeDistancePixels\": 15.0,
+              \"StandUp\": false,
+              \"Stackable\": false
+            }
+          },
+          \"LuaScript\": \"\",
+          \"LuaScriptState\": \"\",
+          \"XmlUI\": \"\"
+        },"
+STATEDFILE_CLOSE = "}}]}"

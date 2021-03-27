@@ -1,5 +1,5 @@
 require_relative "./templates.rb"
-require_relative "./config.rb"
+require_relative "./dirs.rb"
 require "open-uri"
 require "addressable"
 
@@ -56,3 +56,4 @@ sets.each do |set|
     file.close
   end
 end
+puts "done all char sets"

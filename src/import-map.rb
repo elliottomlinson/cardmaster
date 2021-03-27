@@ -1,5 +1,5 @@
 require_relative "./templates.rb"
-require_relative "./config.rb"
+require_relative "./dirs.rb"
 require 'csv'
 
 # map handling variables
@@ -43,3 +43,4 @@ maps.each do |map|
     puts "finished "+maps.to_s.tr('[""]', '')
   end
 end
+puts "done all maps"
