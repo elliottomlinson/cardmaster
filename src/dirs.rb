@@ -28,5 +28,3 @@ STATED_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/asse
 # other import
 MISC_GIT_DIR = GIT_DIR+"/assets/tts"
 MISC_SAVED_DIR = SAVED_OBJ_DIR+"/misc"
-
-MAP_HEX_URL = ""
