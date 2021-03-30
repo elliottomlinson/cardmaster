@@ -3,7 +3,7 @@ require_relative "./dirs.rb"
 require "open-uri"
 require "addressable"
 
-# handling variables for Tabletop Simulator
+# handling variables
 rotation = 180
 rowsize = 16
 scale = 0.9

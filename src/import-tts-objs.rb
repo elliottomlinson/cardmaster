@@ -4,4 +4,4 @@ require 'fileutils'
 
 FileUtils.copy_entry MISC_GIT_DIR, MISC_SAVED_DIR
 
-puts "done all misc. type items"
+puts "done all misc. items"

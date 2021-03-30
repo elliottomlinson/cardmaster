@@ -56,4 +56,5 @@ sets.each do |set|
     file.close
   end
 end
+
 puts "done all char sets"

@@ -9,7 +9,7 @@ cardnum=22
 scale=1
 rotation=90
 
-# Each ITEM folder is a set, e.g. greenhouse-wench
+# Each item folder is a set, e.g. greenhouse-wench
 Dir.mkdir(ITEM_SAVED_DIR) unless File.exists?(ITEM_SAVED_DIR)
 sets = Dir.children(ITEM_GIT_DIR)
 puts "found "+sets.length.to_s+" item sets"
