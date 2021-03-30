@@ -20,12 +20,12 @@ sets.each do |set|
   posZ = posX = 0
 
   File.open(setdir+".json","w") do |file|
-  file.write CHARFILE_OPEN
+  file.write CHAR_OPEN
   name.each_with_index do |name,i|
     url = CHAR_URL % {set:set,name:name}
     url = Addressable::URI.encode(url)
 
-    file.write CHARFILE_ENTRY % {
+    file.write CHAR_ENTRY % {
       name:name.chomp(".png"),
       url:url,
       posZ:posZ,
@@ -52,7 +52,7 @@ sets.each do |set|
       end
 
     end
-    file.write CHARFILE_CLOSE
+    file.write CHAR_CLOSE
     file.close
   end
 end

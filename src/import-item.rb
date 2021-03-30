@@ -21,19 +21,19 @@ sets.each do |set|
   setdir = ITEM_SAVED_DIR+"/"+set
   posZ = posX = 0
 
-  cardbackurl = ITEM_BACK_URL % {set:set}
-  cardbackurl = Addressable::URI.encode(cardbackurl)
+  backurl = ITEM_BACK_URL % {set:set}
+  backurl = Addressable::URI.encode(backurl)
 
   File.open(setdir+".json","w") do |file|
-  file.write ITEMFILE_OPEN
+  file.write ITEM_OPEN
   name.each_with_index do |name,i|
 
     cardnum = cardnum+1
 
-    cardfronturl = ITEM_FACE_URL % {set:set,name:name}
-    cardfronturl = Addressable::URI.encode(cardfronturl)
+    faceurl = ITEM_FACE_URL % {set:set,name:name}
+    faceurl = Addressable::URI.encode(faceurl)
 
-    file.write ITEMFILE_ENTRY % {
+    file.write ITEM_ENTRY % {
 
       cardnum:cardnum,
       posZ:posZ,
@@ -42,8 +42,8 @@ sets.each do |set|
       name:name.chomp(".png"),
       scale:scale,
       rotation:rotation,
-      cardfronturl:cardfronturl,
-      cardbackurl:cardbackurl,
+      faceurl:faceurl,
+      backurl:backurl,
       }
 
       # item card rows
@@ -57,13 +57,13 @@ sets.each do |set|
       # thumbnail
       if i == 0
         File.open(setdir+".png", 'wb') do |thumbnail|
-          thumbnail.write URI.open(cardbackurl).read
+          thumbnail.write URI.open(backurl).read
           puts "done item set "+set
         end
       end
 
     end
-    file.write ITEMFILE_CLOSE
+    file.write ITEM_CLOSE
     file.close
   end
 end

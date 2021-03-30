@@ -6,6 +6,7 @@ require "addressable"
 # handling variables for Tabletop Simulator
 rotation = 180
 rowsize = 16
+scale = 0.9
 
 # Each char folder is a set, e.g. greenhouse-wench
 Dir.mkdir(BG_SAVED_DIR) unless File.exists?(BG_SAVED_DIR)
@@ -18,16 +19,17 @@ sets.each do |set|
   posZ = posX = 0
 
   File.open(setdir+".json","w") do |file|
-  file.write BGFILE_OPEN
+  file.write BG_OPEN
   name.each_with_index do |name,i|
     url = BG_URL % {set:set,name:name}
     url = Addressable::URI.encode(url)
 
-    file.write BGFILE_ENTRY % {
+    file.write BG_ENTRY % {
       name:name.chomp(".png"),
       url:url,
       posZ:posZ,
       posX:posX,
+      scale:scale;
       rotation:rotation
       }
 
@@ -48,7 +50,7 @@ sets.each do |set|
       end
 
     end
-    file.write BGFILE_CLOSE
+    file.write BG_CLOSE
     file.close
   end
 end
