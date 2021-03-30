@@ -1,17 +1,18 @@
-face
+dimensions
   height: 768
   width: 1024
 
-illustration
+face illustration
   width: 668
   top left corner (50,50)
 
 include
-  tier
+  tier (colour)
   name
   upgrade name
   description
   flavor
+  footer w/game information
 
 tier
   0: grey
