@@ -113,18 +113,19 @@ ITEM_CLOSE = "]}"
 # ------------------------------------------------------------------------------
 
 MAP_OPEN = "{\"ObjectStates\":["
-MAP_ENTRY = "{
-\"Name\": \"Custom_Tile\",
-\"Transform\": {
-\"posX\": %{posX},
-\"posY\": 0,
-\"posZ\": %{posZ},
-\"rotX\": 0,
-\"rotY\": 0,
-\"rotZ\": 0,
-\"scaleX\": %{scale},
-\"scaleY\": 1.0,
-\"scaleZ\":%{scale}
+MAP_ENTRY = "
+{
+  \"Name\": \"Custom_Tile\",
+  \"Transform\": {
+  \"posX\": %{posX},
+  \"posY\": 0,
+  \"posZ\": %{posZ},
+  \"rotX\": 0,
+  \"rotY\": 0,
+  \"rotZ\": 0,
+  \"scaleX\": %{scale},
+  \"scaleY\": 1.0,
+  \"scaleZ\": %{scale}
 },
 \"Nickname\": \"\",
 \"ColorDiffuse\": {
@@ -134,8 +135,7 @@ MAP_ENTRY = "{
 },
 \"GridProjection\": true,
 \"CustomImage\": {
-\"ImageURL\":\"https://dummyimage.com/100x100/%{hex}/&text=%99\"
-,\"ImageSecondaryURL\":\"%{backurl}\",
+\"ImageURL\":\"https://dummyimage.com/100x100/%{hex}/&text=%{text}\",\"ImageSecondaryURL\":\"%{backurl}\",
 \"ImageScalar\": 1.0,
 \"WidthScale\": 0.0,
 \"CustomTile\": {

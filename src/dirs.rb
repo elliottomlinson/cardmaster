@@ -12,7 +12,7 @@ ITEM_FACE_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/a
 ITEM_BACK_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/item/back/%{set}.png"
 
 # map import
-MAP_GIT_DIR = GIT_DIR+"/assets/map"
+MAP_GIT_DIR = GIT_DIR+"/assets/campaign/02 - Angel's Wings/map"
 MAP_SAVED_DIR = SAVED_OBJ_DIR+"/map"
 
 # bg import
