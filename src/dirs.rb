@@ -1,6 +1,6 @@
 SESSION_SAVED_DIR = SAVED_OBJ_DIR+"/"+$session
 SESSION_GIT_DIR = GIT_DIR+"/assets/campaign/"+$session
-RAWURL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/"+$session+"/"
+RAWURL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/campaign/"+$session+"/"
 
 
 # figurine import
