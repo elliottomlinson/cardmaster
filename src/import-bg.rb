@@ -4,7 +4,7 @@ require "open-uri"
 require "addressable"
 
 # handling variables for Tabletop Simulator
-scale=0.8
+scale = 0.8
 rotation = 180
 rowsize = 16
 
