@@ -23,9 +23,7 @@ sets.each do |set|
   file.write CHAR_OPEN
   name.each_with_index do |name,i|
     url = CHAR_URL % {set:set,name:name}
-    puts url
     url = Addressable::URI.encode(url)
-    puts url
 
     file.write CHAR_ENTRY % {
       name:name.chomp(".png"),
