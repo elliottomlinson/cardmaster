@@ -25,6 +25,7 @@ sets.each do |set|
       if i == 0
         file.write STATED_ENTRY_FIRST % {
           name:name.chomp(".png"),
+          scale:scale,
           url:url,
           rotation:rotation
         }
