@@ -6,7 +6,7 @@ RAWURL = "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/"
 # figurine import
 CHAR_GIT_DIR = SESSION_GIT_DIR+"/char"
 CHAR_SAVED_DIR = SAVED_OBJ_DIR+"/char"
-CHAR_URL = RAWURL+"/char/%{set}/%{name}"
+CHAR_URL = RAWURL+"char/%{set}/%{name}"
 
 # item import
 ITEM_GIT_DIR = SESSION_GIT_DIR+"/item"
