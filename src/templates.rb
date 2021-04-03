@@ -127,7 +127,9 @@ MAP_ENTRY = "
   \"scaleY\": 1.0,
   \"scaleZ\": %{scale}
 },
-\"Nickname\": \"\",
+\"Nickname\": \"%{name}\",
+\"Description\": \"%{desc}\",
+\"GMNotes\": \"%{notes}\",
 \"ColorDiffuse\": {
 \"r\": 0.165505171,
 \"g\": 0.165505171,
