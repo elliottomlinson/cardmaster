@@ -23,7 +23,7 @@ sessions.each do |eachsession|
   puts "done session"
 
 end
-  load "./import-tts-objs"
+  load "./import-tts-objs.rb"
 puts "all done"
 #  require_relative "./import-bg.rb"
 #  require_relative "./import-char.rb"
