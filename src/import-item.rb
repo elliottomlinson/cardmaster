@@ -16,6 +16,7 @@ puts "found "+sets.length.to_s+" item sets"
 
 
 sets.each do |set|
+  unless set == "back"
 
   name = Dir.children(ITEM_GIT_DIR+"/"+set)
   setdir = ITEM_SAVED_DIR+"/"+set
@@ -66,5 +67,6 @@ sets.each do |set|
     file.write ITEM_CLOSE
     file.close
   end
+end
 end
 puts "done all items"
