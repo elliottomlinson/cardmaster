@@ -1,11 +1,3 @@
-dimensions
-  height: 768
-  width: 1024
-
-face illustration
-  width: 668
-  top left corner (50,50)
-
 include
   tier (colour)
   name
