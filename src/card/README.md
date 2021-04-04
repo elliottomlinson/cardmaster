@@ -19,3 +19,4 @@ ruby src/card/generate_card_assets.rb
 
 It'll save the file in "test.png"
 
+To alter the look of the card, you can change the constants in `src/card/generators/vips_basic.rb` or overwrite the template images in `assets/core/card/template`
