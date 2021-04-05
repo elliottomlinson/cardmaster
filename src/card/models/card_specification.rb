@@ -5,13 +5,14 @@ module Card
 
       attr_accessor :title, :rules, :upgrade, :tier, :flavour, :art_path
 
-      def initialize(title, rules, upgrade, tier, flavour, art_path)
+      def initialize(title, rules, upgrade, tier, flavour, art_path, tags=[])
         @title = title
         @rules = rules
         @upgrade = upgrade
         @tier = validate_tier!(tier)
         @flavour = flavour
         @art_path = art_path
+        @tags = tags
       end
 
       def typeline
