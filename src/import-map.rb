@@ -51,7 +51,7 @@ maps.each do |map|
 
   Dir.mkdir(MAP_SAVED_DIR) unless File.exists?(MAP_SAVED_DIR)
 
-  File.open("/home/ellio/.local/share/Tabletop Simulator/Saves/Saved Objects/"+$session+"/map/"+map.chomp(".csv")+".json","w") do |file|
+  File.open(SAVED_OBJ_DIR+"/"+$session+"/map/"+map.chomp(".csv")+".json","w") do |file|
     file.write MAP_OPEN
     #CSV.foreach(MAP_GIT_DIR+"/"+map).with_index do |row,rownum|
     CSV.foreach(MAP_GIT_DIR+map).with_index do |row,rownum|
