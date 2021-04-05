@@ -5,6 +5,7 @@ GEM
     image_processing (1.12.1)
       mini_magick (>= 4.9.5, < 5)
       ruby-vips (>= 2.0.17, < 3)
+    json (2.5.1)
     mini_magick (4.11.0)
     ruby-vips (2.1.0)
       ffi (~> 1.12)
@@ -14,6 +15,7 @@ PLATFORMS
 
 DEPENDENCIES
   image_processing (~> 1.0)
+  json
   ruby-vips
 
 BUNDLED WITH
