@@ -35,6 +35,15 @@
             "rules": "Stun a character for one turn",
             "flavour": "The sweet smell of bathtub toast"
           }
+        },
+        {
+          "title": "Zop",
+          "tier": "blue",
+          "details": {
+            "rules": "Stun a character for two turns",
+            "flavour": "Human beings are basically just big potato batteries",
+            "image": "core/card/illustration/Inner\ Sun.png"
+          }
         }
       ]
     }

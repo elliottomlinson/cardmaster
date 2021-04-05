@@ -3,9 +3,7 @@ require "json"
 module Card
   module CatalogueAdapters
     class JsonCatalogueAdapter
-      class InvalidJsonCatalogue < RuntimeError
-
-      end
+      class InvalidJsonCatalogue < RuntimeError; end
 
       def initialize(catalogue_path)
         @catalogue_path = catalogue_path
@@ -48,7 +46,7 @@ module Card
       end
 
       def build_folder_recursively(folder, parent_names)
-        name_hierarchy = parent_names + [folder["name"]]
+        name_hierarchy = parent_names + [folder["folder"]]
         folder_content = validate_field!(folder, "content", name_hierarchy, "Folder")
         raise_format_error!("Folder under #{name_hierarchy} must have an array under the 'content' key") unless folder_content.is_a?(Array)
 
@@ -72,7 +70,7 @@ module Card
 
         upgrade = card["upgrade"]
 
-        Card::Models::CardSpecification.new(title, rules, upgrade, tier, flavour, image_path)
+        Card::Models::CardSpecification.new(title, rules, upgrade, tier, flavour, image_path, parent_names)
       end
 
       def validate_tier!(card, name_hierarchy)
@@ -91,7 +89,7 @@ module Card
       end
 
       def raise_format_error!(message)
-        raise "Invalid catalogue file at location '#{@catalogue_path}', received: #{message}"
+        raise InvalidJsonCatalogue, "Invalid catalogue file at location '#{@catalogue_path}': #{message}"
       end
     end
   end
