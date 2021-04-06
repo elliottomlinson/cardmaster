@@ -26,7 +26,7 @@ sets.each do |set|
     url = Addressable::URI.encode(url)
 
     file.write CHAR_ENTRY % {
-      name:name.chomp(".png"),
+      name:name.gsub("\"", "\\\"").chomp(".png"),
       url:url,
       posZ:posZ,
       posX:posX,
