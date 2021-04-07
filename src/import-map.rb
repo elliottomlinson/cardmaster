@@ -89,6 +89,7 @@ maps.each do |map|
                 name:name,
                 desc:desc,
                 notes:notes,
+                tag:name,
                 hex:hex,
                 backurl:backurl,
                 text:text

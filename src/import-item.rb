@@ -41,6 +41,7 @@ sets.each do |set|
       posX:posX,
       roation:rotation,
       name:name.chomp(".png"),
+      tag:set,
       scale:scale,
       rotation:rotation,
       faceurl:faceurl,

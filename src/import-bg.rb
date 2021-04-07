@@ -29,6 +29,7 @@ sets.each do |set|
       url:url,
       posZ:posZ,
       posX:posX,
+      tag: set,
       scale:scale,
       rotation:rotation
       }
