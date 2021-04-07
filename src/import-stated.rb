@@ -27,6 +27,7 @@ sets.each do |set|
           name:name.chomp(".png"),
           scale:scale,
           url:url,
+          tag:name.chomp(".png"),
           rotation:rotation
         }
         File.open(setdir+".png", 'wb') do |thumbnail|
