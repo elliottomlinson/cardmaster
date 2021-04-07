@@ -31,7 +31,6 @@ sets.each do |set|
       posZ:posZ,
       posX:posX,
       scale:scale,
-      tag:set,
       imgscale:imgscale,
       rotation:rotation
       }

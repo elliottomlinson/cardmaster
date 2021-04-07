@@ -45,9 +45,6 @@ CHAR_ENTRY = "
   \"g\": 1,
   \"b\": 1
 },
-\"Tags\": [
-  \"char\",\"%{tag}\"
-],
 },"
 CHAR_CLOSE = "]}"
 
@@ -89,9 +86,6 @@ ITEM_ENTRY = "{
   \"g\": 0.713235259,
   \"b\": 0.713235259
 },
-\"Tags\": [
-  \"item\",\"%{tag}\"
-],
 \"CardID\": %{cardnum}00,
 \"SidewaysCard\": false,
 \"CustomDeck\": {
@@ -153,9 +147,6 @@ MAP_ENTRY = "
 \"Stretch\": false
 }
 },
-\"Tags\": [
-  \"map-tile\",\"%{tag}\"
-],
 \"LuaScript\": \"\",
 \"LuaScriptState\": \"\",
 \"XmlUI\": \"\"
@@ -191,9 +182,6 @@ BG_ENTRY = "    {
 \"CustomImage\": {
 \"ImageURL\": \"%{url}\",
 },
-\"Tags\": [
-  \"bg\",\"%{tag}\"
-],
 },"
 BG_CLOSE = "]}"
 
@@ -225,9 +213,6 @@ STATED_ENTRY_FIRST = "{
 \"CustomImage\": {
 \"ImageURL\": \"%{url}\",
 },
-\"Tags\": [
-  \"stated-token\",\"%{tag}\"
-],
 \"LuaScript\": \"\",
 \"LuaScriptState\": \"\",
 \"XmlUI\": \"\",
