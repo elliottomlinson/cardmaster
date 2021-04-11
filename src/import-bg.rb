@@ -7,6 +7,7 @@ require "addressable"
 scale = 0.8
 rotation = 180
 rowsize = 16
+tag="background"
 
 # Each char folder is a set, e.g. greenhouse-wench
 Dir.mkdir(BG_SAVED_DIR) unless File.exists?(BG_SAVED_DIR)
@@ -29,7 +30,7 @@ sets.each do |set|
       url:url,
       posZ:posZ,
       posX:posX,
-      tag:set,
+      tag:tag,
       scale:scale,
       rotation:rotation
       }

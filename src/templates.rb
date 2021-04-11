@@ -46,7 +46,7 @@ CHAR_ENTRY = "
   \"b\": 1
 },
 \"Tags\": [
-  \"char\",\"%{tag}\"
+  \"%{tag}\"
 ],
 },"
 CHAR_CLOSE = "]}"
@@ -90,7 +90,7 @@ ITEM_ENTRY = "{
   \"b\": 0.713235259
 },
 \"Tags\": [
-  \"item\",\"%{tag}\"
+  \"%{tag}\"
 ],
 \"CardID\": %{cardnum}00,
 \"SidewaysCard\": false,
@@ -154,7 +154,7 @@ MAP_ENTRY = "
 }
 },
 \"Tags\": [
-  \"map-tile\",\"%{tag}\"
+  \"%{tag}\"
 ],
 \"LuaScript\": \"\",
 \"LuaScriptState\": \"\",
@@ -192,7 +192,7 @@ BG_ENTRY = "    {
 \"ImageURL\": \"%{url}\",
 },
 \"Tags\": [
-  \"bg\",\"%{tag}\"
+  \"%{tag}\"
 ],
 },"
 BG_CLOSE = "]}"
@@ -226,7 +226,7 @@ STATED_ENTRY_FIRST = "{
 \"ImageURL\": \"%{url}\",
 },
 \"Tags\": [
-  \"stated-token\",\"%{tag}\"
+  \"%{tag}\"
 ],
 \"LuaScript\": \"\",
 \"LuaScriptState\": \"\",
