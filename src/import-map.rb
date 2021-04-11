@@ -5,6 +5,7 @@ mapwidth = 50
 mapheight = 50
 scale = 0.99
 text = "%99"
+tag = "tile"
 
 class String
   def init
@@ -89,7 +90,7 @@ maps.each do |map|
                 name:name,
                 desc:desc,
                 notes:notes,
-                tag:name,
+                tag:tag,
                 hex:hex,
                 backurl:backurl,
                 text:text

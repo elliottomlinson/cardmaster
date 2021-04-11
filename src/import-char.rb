@@ -8,6 +8,7 @@ scale = 0.7
 rowsize = 16
 imgscale = 2
 rotation = 0
+tag = "character"
 
 # Each char folder is a set, e.g. greenhouse-wench
 Dir.mkdir(CHAR_SAVED_DIR) unless File.exists?(CHAR_SAVED_DIR)
@@ -31,7 +32,7 @@ sets.each do |set|
       posZ:posZ,
       posX:posX,
       scale:scale,
-      tag:set,
+      tag:tag,
       imgscale:imgscale,
       rotation:rotation
       }
