@@ -13,7 +13,7 @@ Locate your Tabletop Simulator Saved Objects folder. Export that path into an en
 
 ### Running the Import script
 
-You can call the script with `ruby src/import-cards.rb`. After it executes you should see your cards appear in Tabletop Simulator in the Saved Objects folder in "Cardmaster/Cards/Individual"
+You can call the script with `ruby src/import-cards.rb`. After it executes you should see your cards appear in Tabletop Simulator in the Saved Objects folder in "Cardmaster/Cards/Individual". They're imported as individual objects, deck based importing is still TBD
 
 ### Gotchas
 
