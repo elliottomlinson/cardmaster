@@ -4,7 +4,11 @@ require_relative "tabletop_simulator/models/card.rb"
 require_relative "card/storage_adapters.rb"
 
 # todo centralize
-saved_objects_folder = "/Users/duncanuszkay/Library/Tabletop Simulator/Saves/Saved Objects"
+TABLETOP_SAVED_OBJECTS_FOLDER_ENV_KEY = "TABLETOP_SAVED_OBJECTS_FOLDER"
+
+saved_objects_folder = ENV[TABLETOP_SAVED_OBJECTS_FOLDER_ENV_KEY]
+raise "You need to specify your saved objects folder in your env under the #{TABLETOP_SAVED_OBJECTS_FOLDER_ENV_KEY} key" unless saved_objects_folder
+
 base_directory = "Cardmaster"
 
 card_importer = TabletopSimulator::Importers::CardImporter.new(saved_objects_folder, base_directory)
