@@ -1,6 +1,7 @@
 require "json"
 require "json-schema"
 
+# TODO: complete this schema
 CARD_SCHEMA = {
   "type" => "object",
   "required" => ["ObjectStates"],
