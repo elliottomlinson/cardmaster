@@ -13,7 +13,7 @@
               "details": {
                 "rules": "Deal X damage to every non-player character you've ever known, where X is the number of complaints you can  list in 30 seconds",
                 "flavour": "\"The world is irredeemable. I have yet to meet a soul worth saving.\" -Fester the Limp",
-                "image": "core/card/illustration/Inner\ Sun.png"
+                "image": "assets/core/card/illustration/Inner\ Sun.png"
               }
             },
             {
@@ -22,7 +22,7 @@
               "details": {
                 "rules": "Sacrifice your life. Kill a character who you've met.",
                 "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" -Fester's final words",
-                "image": "core/card/illustration/Inner\ Sun.png"
+                "image": "assets/core/card/illustration/Inner\ Sun.png"
               }
             }
           ]
@@ -42,7 +42,7 @@
           "details": {
             "rules": "Stun a character for two turns",
             "flavour": "Human beings are basically just big potato batteries",
-            "image": "core/card/illustration/Inner\ Sun.png"
+            "image": "assets/core/card/illustration/Inner\ Sun.png"
           }
         }
       ]
