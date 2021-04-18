@@ -14,7 +14,7 @@ Dir.mktmpdir do |tmp_dir|
   printed_cards = card_specs.map.with_index do |card_spec, index|
     image_path = File.join(tmp_dir, "#{index}.png")
 
-    generator.generate(Card::Models::MOCK_CARD_SPECIFICATION, image_path)
+    generator.generate(card_spec, image_path)
 
     Card::Models::PrintedCard.new(
       image_path,

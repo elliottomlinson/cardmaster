@@ -49,6 +49,10 @@ module TabletopSimulator
         object_state["Nickname"] = val
       end
 
+      def front_image_url=(val)
+        object_state["CustomDeck"]["1"]["FaceURL"] = val
+      end
+
       def to_json
         @hash.to_json
       end
