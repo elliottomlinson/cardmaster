@@ -42,7 +42,11 @@ module TabletopSimulator
       end
 
       def name
-        object_state["Name"]
+        object_state["Nickname"].empty? ? object_state["Name"] : object_state["Nickname"]
+      end
+
+      def name=(val)
+        object_state["Nickname"] = val
       end
 
       def to_json

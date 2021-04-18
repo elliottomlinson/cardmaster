@@ -12,11 +12,22 @@ module TabletopSimulator
         @base_directory = base_directory
       end
 
-      def import(card)
+      def import(printed_card)
+        card = imprint(
+          TabletopSimulator::Models::Card.from_template,
+          printed_card
+        )
+
         save_individual_card(card)
       end
 
       private
+
+      def imprint(template_card, printed_card)
+        template_card.name = printed_card.spec.title
+
+        template_card
+      end
 
       def save_individual_card(card)
         save_card(card, INDIVIDUAL_CARDS_PATH)
