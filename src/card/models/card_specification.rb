@@ -31,14 +31,5 @@ module Card
         tier
       end
     end
-
-    MOCK_CARD_SPECIFICATION = CardSpecification.new(
-      "Foo",
-      "Deal X damage to every non-player character you've ever known, where X is the number of complaints you can list in 30 seconds",
-      "Bar",
-      :blue,
-      "\"The world is irredeemable. I have yet to meet a soul worth saving.\" -Fester the Limp",
-      "assets/core/card/illustration/Inner\ Sun.png"
-    )
   end
 end
