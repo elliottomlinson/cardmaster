@@ -28,6 +28,11 @@ The cards should be in this form:
 }
 ```
 
+This samples generated this image at the time of writing this guide:
+
+<img src="https://user-images.githubusercontent.com/8670351/115162495-cdd57880-a071-11eb-8eb9-25294d3d9e97.png" width="300" height="400" />
+
+
 Images should be stored in the [illustrations folder](../../assets/core/card/illustration) in your local filesystem.
 
 Make sure that your tier is one of grey, blue, green, red, or gold.
