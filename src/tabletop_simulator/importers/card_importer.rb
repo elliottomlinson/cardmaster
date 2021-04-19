@@ -35,6 +35,7 @@ module TabletopSimulator
       def imprint(template_card, printed_card)
         template_card.name = printed_card.spec.title
         template_card.front_image_url = printed_card.image_url
+        template_card.back_image_url = printed_card.back_url
 
         template_card
       end

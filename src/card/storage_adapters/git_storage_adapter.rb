@@ -6,7 +6,9 @@ module Card
     # Saves the images in the local git repository
     class GitStorageAdapter < Abstract
       # todo move to config
-      ASSET_PATH = "assets/core/card/printed"
+      ASSET_BASE = "assets/core/card"
+      FRONT_PATH = File.join(ASSET_BASE, "printed")
+      BACK_PATH = File.join(ASSET_BASE, "back")
       PRINT_MANIFEST_PATH = "assets/core/card/printed/print_manifest.json"
       GH_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg"
 
@@ -14,7 +16,7 @@ module Card
         printed_cards.each do |printed_card|
           FileUtils.cp(
             printed_card.image_path,
-            card_file_name(printed_card)
+            front_path(printed_card)
           )
         end
 
@@ -35,18 +37,22 @@ module Card
 
       def update_manifest(printed_cards)
         stored_cards = printed_cards.map do |printed_card|
-          Card::Models::StoredCard.new(printed_card.spec, github_repo_url(printed_card))
+          Card::Models::StoredCard.new(
+            printed_card.spec,
+            github_repo_url(front_path(printed_card)),
+            github_repo_url(printed_card.back_path)
+          )
         end
 
         File.write(PRINT_MANIFEST_PATH, Marshal.dump(stored_cards))
       end
 
-      def card_file_name(printed_card)
-        File.join(ASSET_PATH, "#{printed_card.spec.title}.png")
+      def front_path(printed_card)
+        File.join(FRONT_PATH, "#{printed_card.spec.title}.png")
       end
 
-      def github_repo_url(printed_card)
-        "#{GH_URL}/master/#{card_file_name(printed_card)}"
+      def github_repo_url(path)
+        "#{GH_URL}/master/#{path}"
       end
     end
   end
