@@ -6,6 +6,7 @@ module TabletopSimulator
     class CardImporter
       BASE_PATH = %w(Cards).freeze
       INDIVIDUAL_CARDS_PATH = (BASE_PATH + %w(Individual)).freeze
+      TEMPLATE = "data/testcard.json"
 
       def initialize(saved_objects_folder, base_directory)
         @saved_objects_folder = saved_objects_folder
@@ -14,7 +15,7 @@ module TabletopSimulator
 
       def import(printed_card)
         card = imprint(
-          TabletopSimulator::Models::Card.from_template,
+          TabletopSimulator::Models::Card.new(load_template),
           printed_card
         )
 
@@ -22,6 +23,14 @@ module TabletopSimulator
       end
 
       private
+
+      def load_template
+        raise "Template at #{TEMPLATE} is missing" unless File.exists?(TEMPLATE)
+
+        JSON.load(File.read(TEMPLATE))
+      rescue JSON::ParserError => e
+        raise "Template at #{TEMPLATE} failed parsing: #{e.inspect}"
+      end
 
       def imprint(template_card, printed_card)
         template_card.name = printed_card.spec.title

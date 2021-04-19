@@ -26,7 +26,6 @@ JSON::Validator.register_format_validator(
 module TabletopSimulator
   module Models
     class Card
-      TEMPLATE = "data/testcard.json"
 
       def initialize(hash)
         @hash = hash
