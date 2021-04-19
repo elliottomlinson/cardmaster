@@ -8,6 +8,14 @@ catalogue_adapter = Card::CatalogueAdapters::JsonCatalogueAdapter.new("data/card
 generator = Card::Generators::VipsBasic.new
 storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
 
+card_backs = {
+  grey: "assets/core/card/back/grey.png",
+  blue: "assets/core/card/back/blue.png",
+  green: "assets/core/card/back/green.png",
+  red: "assets/core/card/back/red.png",
+  gold: "assets/core/card/back/gold.png"
+}
+
 card_specs = catalogue_adapter.printable_cards
 
 Dir.mktmpdir do |tmp_dir|
@@ -18,7 +26,8 @@ Dir.mktmpdir do |tmp_dir|
 
     Card::Models::PrintedCard.new(
       image_path,
-      card_spec
+      card_spec,
+      card_backs[card_spec.tier]
     )
   end
 
