@@ -1,0 +1,46 @@
+current directory: /Users/duncanuszkay/src/github.com/Shopify/rpgc/vendor/bundle/ruby/2.6.0/gems/ruby-prof-1.4.3/ext/ruby_prof
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210420-62813-1dm6xi3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/duncanuszkay/src/github.com/Shopify/rpgc/vendor/bundle/ruby/2.6.0/gems/ruby-prof-1.4.3/ext/ruby_prof
+make "DESTDIR=" clean
+
+current directory: /Users/duncanuszkay/src/github.com/Shopify/rpgc/vendor/bundle/ruby/2.6.0/gems/ruby-prof-1.4.3/ext/ruby_prof
+make "DESTDIR="
+compiling rp_aggregate_call_tree.c
+compiling rp_allocation.c
+compiling rp_call_tree.c
+compiling rp_call_trees.c
+compiling rp_measure_allocations.c
+compiling rp_measure_memory.c
+compiling rp_measure_process_time.c
+compiling rp_measure_wall_time.c
+compiling rp_measurement.c
+compiling rp_method.c
+compiling rp_profile.c
+compiling rp_stack.c
+compiling rp_thread.c
+compiling ruby_prof.c
+linking shared-object ruby_prof.bundle
+ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.2.Internal.sdk/usr/local/lib'
+ld: warning: option -s is obsolete and being ignored
+ld: warning: ignoring file rp_allocation.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_aggregate_call_tree.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_call_tree.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_call_trees.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_measure_allocations.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_measure_wall_time.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_measure_memory.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_measure_process_time.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_measurement.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_stack.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ld: warning: ignoring file rp_profile.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ignoring file rp_thread.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file rp_method.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file ruby_prof.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.2.Internal.sdk/usr/local/lib'
+ld: warning: option -s is obsolete and being ignored
+
+current directory: /Users/duncanuszkay/src/github.com/Shopify/rpgc/vendor/bundle/ruby/2.6.0/gems/ruby-prof-1.4.3/ext/ruby_prof
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_prof.bundle ./.gem.20210420-62813-16oo78v

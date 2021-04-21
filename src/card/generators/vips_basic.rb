@@ -90,7 +90,11 @@ module Card
       end
 
       def load_at_size(image_path, width, height)
-        Vips::Image.new_from_file(image_path).crop(0, 0, width, height)
+        image = Vips::Image.new_from_file(image_path).crop(0, 0, width, height)
+
+        image = image.flatten background: [128, 255, 128] if image.has_alpha?
+
+        image
       end
 
       def generate_simple_text(text, box, font, width, height)
