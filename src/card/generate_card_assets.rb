@@ -20,6 +20,7 @@ card_specs = catalogue_adapter.printable_cards
 
 Dir.mktmpdir do |tmp_dir|
   printed_cards = card_specs.map.with_index do |card_spec, index|
+    puts "Printing #{card_spec.title}"
     image_path = File.join(tmp_dir, "#{index}.png")
 
     generator.generate(card_spec, image_path)
@@ -29,7 +30,7 @@ Dir.mktmpdir do |tmp_dir|
       card_spec,
       card_backs[card_spec.tier]
     )
-  end
+  end.compact
 
   storage_adapter.save(printed_cards)
 end
