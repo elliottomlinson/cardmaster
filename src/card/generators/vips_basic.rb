@@ -13,9 +13,8 @@ TITLE_BOX_IMAGE = "assets/core/card/template/title_box.png"
 TYPE_BOX_IMAGE = "assets/core/card/template/type_box.png"
 DESCRIPTION_BOX_IMAGE = "assets/core/card/template/description_box.png"
 BORDER_IMAGE = "assets/core/card/template/background.png"
-TITLE_FONT = "Karmatic Arcade"
-TYPE_FONT = "EB Garamond"
-RULES_FONT = "EB Garamond"
+TITLE_FONT = "Karmatic Arcade" # https://www.dafont.com/karmatic-arcade.font
+TYPE_FONT = RULES_FONT = "EB Garamond" # https://fonts.google.com/specimen/EB+Garamond
 
 # Generates and saves a card image using the libvips library
 # All images which are too large will be top-left cropped to size
