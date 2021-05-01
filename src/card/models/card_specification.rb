@@ -3,7 +3,7 @@ module Card
     class CardSpecification
       VALID_TIERS = [:grey, :blue, :green, :red, :gold].freeze
 
-      attr_accessor :title, :rules, :upgrade, :tier, :flavour, :art_path
+      attr_accessor :title, :rules, :upgrade, :tier, :flavour, :art_path, :tags
 
       def initialize(title, rules, upgrade, tier, flavour, art_path, tags=[])
         @title = title

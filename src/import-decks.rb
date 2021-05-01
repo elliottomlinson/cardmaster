@@ -1,5 +1,5 @@
 require "bundler/setup"
-require_relative "tabletop_simulator/importers/individual_card_importer.rb"
+require_relative "tabletop_simulator/importers/tagged_deck_importer.rb"
 require_relative "card/storage_adapters.rb"
 
 # todo centralize
@@ -10,12 +10,9 @@ raise "You need to specify your saved objects folder in your env under the #{TAB
 
 base_directory = "Cardmaster"
 
-individual_card_importer = TabletopSimulator::Importers::IndividualCardImporter.new(saved_objects_folder, base_directory)
-
 storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
+tagged_deck_importer = TabletopSimulator::Importers::TaggedDeckImporter.new(saved_objects_folder, base_directory)
 
 printed_cards = storage_adapter.printed_cards
 
-printed_cards.each do |printed_card|
-  individual_card_importer.import(printed_card)
-end
+tagged_deck_importer.import(printed_cards)
