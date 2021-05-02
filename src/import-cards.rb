@@ -16,6 +16,4 @@ storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
 
 stored_cards = storage_adapter.stored_cards
 
-stored_cards.each do |stored_card|
-  individual_card_importer.import(stored_card)
-end
+individual_card_importer.import(stored_cards)

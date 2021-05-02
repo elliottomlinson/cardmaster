@@ -1,4 +1,4 @@
-require_relative "models/object.rb"
+require_relative "../models/object.rb"
 
 module TabletopSimulator
   module CardFormatTranslator

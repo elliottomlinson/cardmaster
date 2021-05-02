@@ -1,22 +1,20 @@
 require "fileutils"
-require_relative "../card_format_translator.rb"
+require_relative "../modules.rb"
 
 module TabletopSimulator
-  # todo: centralize this
   module Importers
     class TaggedDeckImporter
       include CardFormatTranslator
+      include SavedObjectsManipulator
 
       BASE_PATH = %w(Decks).freeze
       TAGGED_DECK_PATH = (BASE_PATH + %w(Tags)).freeze
 
-      def initialize(saved_objects_folder, base_directory)
-        @saved_objects_folder = saved_objects_folder
-        @base_directory = base_directory
+      def initialize(*saved_object_args)
+        initialize_directory_pointers(*saved_object_args)
       end
 
       def import(printed_cards)
-        puts printed_cards.map { |p| p.image_url }
         decks_by_tag = sort_by_tag(printed_cards).map do |tag, cards|
           [
             tag,
@@ -44,15 +42,7 @@ module TabletopSimulator
       end
 
       def save_deck(deck, name, folders)
-        dir_path = path_in_saved_objects(folders)
-        FileUtils.mkdir_p(dir_path)
-
-        path = File.join(dir_path, "#{name}.json")
-        File.write(path, JSON.pretty_generate(deck.to_h))
-      end
-
-      def path_in_saved_objects(folders)
-        File.join(@saved_objects_folder, @base_directory, folders)
+        save_file("#{name}.json", JSON.pretty_generate(deck.to_h), folders)
       end
     end
   end
