@@ -19,6 +19,16 @@ module Card
         "Upgrade - #{@upgrade || "None"}"
       end
 
+      def ==(other)
+        title == other.title &&
+          rules == other.rules &&
+          upgrade == other.upgrade &&
+          tier == other.tier &&
+          flavour == other.flavour &&
+          art_path == other.art_path &&
+          tags == other.tags
+      end
+
       private
 
       def to_s
