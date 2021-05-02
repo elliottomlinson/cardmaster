@@ -803,7 +803,7 @@
           "tier": "green",
           "details": {
             "rules": "Return a Card with Green Rarity to your hand",
-            "flavour": "A tactical reload is the action of reloading a weapon that has only figold a few rounds out of its magazine, and retaining the original magazine",
+            "flavour": "A tactical reload is the action of reloading a weapon that has only fired a few rounds out of its magazine, and retaining the original magazine",
             "image": "assets/core/card/illustration/Tactical Reload.png"
           }
         },
@@ -813,7 +813,7 @@
           "tier": "red",
           "details": {
             "rules": "Return a Card with Red Rarity to your hand",
-            "flavour": "Cowboy's only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundgold dollar bill to pay the undertaker.",
+            "flavour": "Cowboy's only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
             "image": "assets/core/card/illustration/Cowboy Reload.png"
           }
         },
