@@ -14,10 +14,10 @@ module TabletopSimulator
         @base_directory = base_directory
       end
 
-      def import(printed_card)
-        card = TabletopSimulator::Models::Object.new(translate_card(printed_card))
+      def import(stored_card)
+        card = TabletopSimulator::Models::Object.new(translate_card(stored_card))
 
-        save_individual_card(card, printed_card.spec.title)
+        save_individual_card(card, stored_card.spec.title)
       end
 
       private
