@@ -14,8 +14,8 @@ individual_card_importer = TabletopSimulator::Importers::IndividualCardImporter.
 
 storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
 
-printed_cards = storage_adapter.printed_cards
+stored_cards = storage_adapter.stored_cards
 
-printed_cards.each do |printed_card|
-  individual_card_importer.import(printed_card)
+stored_cards.each do |stored_card|
+  individual_card_importer.import(stored_card)
 end

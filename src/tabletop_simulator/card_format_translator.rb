@@ -7,19 +7,19 @@ module TabletopSimulator
     BASE_CARD_ID = 100
     CARD_ID_INCREMENT = 100
 
-    def translate_card(printed_card, card_id=nil)
+    def translate_card(stored_card, card_id=nil)
       TabletopSimulator::Models::ObjectState.card(
-        nickname: printed_card.spec.title,
-        front_url: printed_card.image_url,
-        back_url: "http://cloud-3.steamusercontent.com/ugc/1770453729835188440/BA89FF48561CCA952BFB77A6C9891E0C38DB3559/",
+        nickname: stored_card.spec.title,
+        front_url: stored_card.image_url,
+        back_url: stored_card.back_url,
         card_id: card_id
       )
     end
 
-    def translate_cards(printed_cards)
+    def translate_cards(stored_cards)
       card_id = BASE_CARD_ID
 
-      printed_cards.map do |card|
+      stored_cards.map do |card|
         translated_card = translate_card(card, card_id)
 
         card_id += CARD_ID_INCREMENT
