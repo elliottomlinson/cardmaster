@@ -48,6 +48,61 @@
       ]
     },
     {
+      "folder": "greys",
+      "content": [
+        {
+          "title": "Boost",
+          "upgrade": "",
+          "tier": "grey",
+          "details": {
+            "rules": "Increase the value of a thrown d20 by 1",
+            "flavour": "The collective will of the people made manifest",
+            "image": "assets/core/card/illustration/Boost.png"
+          }
+        },
+        {
+          "title": "Shift",
+          "upgrade": "",
+          "tier": "grey",
+          "details": {
+            "rules": "Move 1 square in a straight line",
+            "flavour": "I can dodge bullets, baby!",
+            "image": "assets/core/card/illustration/Shift.png"
+          }
+        },
+        {
+          "title": "Fluster",
+          "upgrade": "",
+          "tier": "grey",
+          "details": {
+            "rules": "Decrease the value of a thrown d20 by 1",
+            "flavour": "The key to winning any game is disruping the flow of your opponent",
+            "image": "assets/core/card/illustration/Fluster.png"
+          }
+        },
+        {
+          "title": "Push",
+          "upgrade": "",
+          "tier": "grey",
+          "details": {
+            "rules": "Human force extends far past the limits of an earthly body",
+            "flavour": "",
+            "image": "assets/core/card/illustration/Fluster.png"
+          }
+        },
+        {
+          "title": "Pull",
+          "upgrade": "",
+          "tier": "grey",
+          "details": {
+            "rules": "Pull a visible object slightly",
+            "flavour": "It was as though his scepter longed to return to its rightful master",
+            "image": "assets/core/card/illustration/Fluster.png"
+          }
+        }
+      ]
+    },
+    {
       "folder": "key-items",
       "content": [
         {

@@ -1,5 +1,11 @@
 [
   {
+    "name": "grey-loot",
+    "tags": ["greys"],
+    "tiers": ["grey"],
+    "min-count": 200
+  },
+  {
     "name": "blue-loot",
     "tags": ["unique-1", "upgradeable-1"],
     "tiers": ["blue"],
