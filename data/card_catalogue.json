@@ -48,6 +48,98 @@
       ]
     },
     {
+      "folder": "key-items",
+      "content": [
+        {
+          "title": "Bloodstone Shard",
+          "upgrade": "",
+          "tier": "green",
+          "details": {
+            "rules": "Deal 6 damage to a character. If they die or go unconscious, return this card to your hand.",
+            "flavour": "Created from a blood ritual in the 7th Cathedral",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          },
+          "draft": true
+        },
+        {
+          "title": "Drake's Water Staff",
+          "upgrade": "",
+          "tier": "red",
+          "details": {
+            "rules": "While this card is in your hand, your attacks deal an additional d4 of damage and soak the target. Cast to spray a torrent of water in a line.",
+            "flavour": "Stolen from Drake Monroe in his Goat Factory",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          },
+          "draft": true
+        }
+      ]
+    },
+    {
+      "folder": "story-changing-golds",
+      "content": [
+        {
+          "title": "Cube Seed",
+          "upgrade": "",
+          "tier": "gold",
+          "details": {
+            "rules": "Describe a Cube. It will be created by the Tower.",
+            "flavour": "In the beginning God created the heaven and the earth.",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          },
+          "draft": true
+        },
+        {
+          "title": "Heroic Inspiration",
+          "upgrade": "",
+          "tier": "gold",
+          "details": {
+            "rules": "Name a non-player character. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.",
+            "flavour": "There was a light within us that few can see. One day it will shine through.",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          },
+          "draft": true
+        },
+        {
+          "title": "Untimely Death",
+          "upgrade": "",
+          "tier": "gold",
+          "details": {
+            "rules": "Name a character not on the current map. They take 100 damage.",
+            "flavour": "'I wish this guy would just die before we even showed up, that'd save us a lot of time' -General Tso",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          },
+          "draft": true
+        }
+      ]
+    },
+    {
+      "folder": "weapons",
+      "content": [
+        {
+          "title": "Sledgehammer",
+          "upgrade": "",
+          "tier": "gold",
+          "details": {
+            "rules": "While this card is in your hand, your melee attacks knock characters back 3 squares. Cast to knock a visible character back 3 squares.",
+            "flavour": "You could have a steam train, if you'd just lay down your tracks",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          },
+          "draft": true
+        },
+        {
+          "title": "Caduceus",
+          "upgrade": "",
+          "tier": "red",
+          "details": {
+            "rules": "While this card is in your hand, characters you damage are healed for the same amount instead. Cast to deal damage equal to the amount you healed this turn.",
+            "flavour": "",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          },
+          "draft": true
+        }
+      ]
+    },
+    {
       "folder": "unique-1",
       "content": [
         {
@@ -63,7 +155,7 @@
         {
           "title": "Apologize",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Target visible NPC can no longer feel negative emotions towards target visible character.",
             "flavour": "Vewy Sowwy.",
@@ -73,7 +165,7 @@
         {
           "title": "Anvil Drop",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Summon an ACME Anvil into existence above target character's head.",
             "flavour": "meep meep",
@@ -83,7 +175,7 @@
         {
           "title": "Woody's Roundup",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Target an article of clothing intended to be worn on a foot. A snake appears inside of it.",
             "flavour": "\"Reeeeeeach for the skies\" - The Sherrif",
@@ -93,7 +185,7 @@
         {
           "title": "Clippy",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Swap two words in a character's vocabulary until the end of the day. The character will be unaware that they are saying the wrong word.",
             "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Abraham Lincoln",
@@ -103,7 +195,7 @@
         {
           "title": "Ancient Throwing Bola",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Throw a pair of bola, a long range weapon design to wrap around a target.",
             "flavour": "Good for tripping and binding a long range target",
@@ -123,7 +215,7 @@
         {
           "title": "Empouched Earth",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "One handful of pocket sand.",
             "flavour": "Good for blinding a close range target",
@@ -131,19 +223,9 @@
           }
         },
         {
-          "title": "The Ship-Christener",
-          "upgrade": "",
-          "tier": "green",
-          "details": {
-            "rules": "Shake the bottle and return this card to the deck after picking one: Fire the cork, smash on a character, enjoy with allies. ",
-            "flavour": "Cheers",
-            "image": "assets/core/card/illustration/The Ship-Christener.png"
-          }
-        },
-        {
           "title": "Card Printer",
           "upgrade": "",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Choose a Blue or Green card in your hand. All cards in your hand become copies of that card.",
             "flavour": "Fax is short for facsimile, meaning \"make similar\".",
@@ -153,7 +235,7 @@
         {
           "title": "The Queen's Gambit",
           "upgrade": "",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Move instantly as many spaces as you want in a straight line.",
             "flavour": "Used without permission from Netflix, Inc.",
@@ -163,7 +245,7 @@
         {
           "title": "Commune",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Speak with any living NPC. Return this card to the deck and draw another.",
             "flavour": "Can also be used to contact the Gangster Party Line",
@@ -173,7 +255,7 @@
         {
           "title": "Seance",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Speak with any dead NPC. Return this card to the deck and draw another.",
             "flavour": "Can also be used to contact the Dead Gangster Party Line",
@@ -183,7 +265,7 @@
         {
           "title": "Nullify Magic",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Prevent a spell from being cast, or remove magic from target object.",
             "flavour": "As Salamu Alaikum Wa Rahmatulahi Wa Barakatu.",
@@ -193,7 +275,7 @@
         {
           "title": "Witch's Curse",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Target visible character will take 25 damage the next time they rest.",
             "flavour": "Sweet dreams.",
@@ -203,7 +285,7 @@
         {
           "title": "Escape",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "green",
           "details": {
             "rules": "All players return to Gerraro's Hideout. Return this card to the deck.",
             "flavour": "You cannot escape the responsibility of tomorrow by evading it today",
@@ -213,7 +295,7 @@
         {
           "title": "Disappear",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
             "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Shiv Khera",
@@ -223,7 +305,7 @@
         {
           "title": "Exhaust",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Target NPC becomes tired.",
             "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Newt Gingrich",
@@ -231,19 +313,9 @@
           }
         },
         {
-          "title": "Axe Spin",
-          "upgrade": "",
-          "tier": "grey",
-          "details": {
-            "rules": "All characters who are exactly 2 squares away from you take 6 damage",
-            "flavour": "\"Give me six hours to chop down a tree and I will spend the first four sharpening the axe.\" - Man who didn't have hostles closing in on him",
-            "image": "assets/core/card/illustration/Axe Spin.png"
-          }
-        },
-        {
           "title": "Prison",
           "upgrade": "",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Choose X up to 5. An boundary, impenetrable from within, is placed X squares away from you in all directions as long as you'd like",
             "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Coco Chanel",
@@ -253,7 +325,7 @@
         {
           "title": "The Swarm",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Pick a small animal or insect for your target to be swarmed by.",
             "flavour": "\"So Moses stretched out his staff over Egypt, and the Lord made an east wind blow across the land all that day and all that night. By morning the wind had brought the locusts\" ",
@@ -263,7 +335,7 @@
         {
           "title": "Glass Cannon",
           "upgrade": "",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Until your next turn, deal double damage and take double damage.",
             "flavour": "Squishy is a gaming term that refers to a character or unit with low base health or defense",
@@ -273,7 +345,7 @@
         {
           "title": "Monster Deterrent",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Creates a strong odor hardly noticeable by humans but detested by all other lifeforms.",
             "flavour": "...and robots",
@@ -283,7 +355,7 @@
         {
           "title": "Doorstucker",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
             "flavour": "Outta my way son!",
@@ -293,7 +365,7 @@
         {
           "title": "Proplauncher",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Stand atop an object. Your character and the object are flung in the direction of your choice until obstructed.",
             "flavour": "As documented in: Using Glitches and Tricks to beat Cardmaster",
@@ -303,27 +375,17 @@
         {
           "title": "The Ultimatum",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Return this card to the deck to flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
+            "rules": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
             "flavour": "The All Tomato. You either get the whole tomato, or none of the tomato.",
             "image": "assets/core/card/illustration/The Ultimatum.png"
           }
         },
         {
-          "title": "Divining Cod",
-          "upgrade": "",
-          "tier": "grey",
-          "details": {
-            "rules": "The ghost of a fish appears hovering in front of you. It swims towards the nearest source of freshwater for 3 seconds before vanishing.",
-            "flavour": "This is a really great card.",
-            "image": "assets/core/card/illustration/Divining Cod.png"
-          }
-        },
-        {
           "title": "Where-Ware Charm",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Learn the current location of an item you've touched in the past.",
             "flavour": "\"At last I'll be able to track down the missing socks\" - Angry Witch",
@@ -333,7 +395,7 @@
         {
           "title": "Groundburst",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "The ground shakes beneath you. All characters within 4 sqaures are knocked airborne and drop whatever they're holding.",
             "flavour": "Use near tectonic fault zones may be inadvisable",
@@ -343,7 +405,7 @@
         {
           "title": "Monk Mode",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Unarmed attacks deal double damage until you play your next card.",
             "flavour": "\"Humour is the weapon of unarmed people\" - Some Idiot",
@@ -355,7 +417,7 @@
           "upgrade": "",
           "tier": "blue",
           "details": {
-            "rules": "Deals 10 damage, breaking on use",
+            "rules": "Deals 10 damage. Return this card to the deck after using it.",
             "flavour": "Bonk",
             "image": "assets/core/card/illustration/Glass Hammer.png"
           }
@@ -363,9 +425,9 @@
         {
           "title": "Musty Musket",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Target a visible NPC and flip a coin. Heads: Deal 10 damage to target. Tails: Gun backfires, take 10 damage.",
+            "rules": "Flip a coin. Heads: Deal 10 damage to visible target. Tails: Gun backfires, take 10 damage.",
             "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
             "image": "assets/core/card/illustration/Musty Musket.png"
           }
@@ -373,7 +435,7 @@
         {
           "title": "Smoke Bomb",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Choose a 2x2 area to fill temporarily with an opaque smoke",
             "flavour": "\"What the fuck did you say to me, you little shit?\" - Tyler \"Ninja\" Blevins",
@@ -383,9 +445,9 @@
         {
           "title": "Phoenix Reborn",
           "upgrade": "",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "The next time you're unconscious this combat, return to life with 20 HP. For each card you discarded from your hand after going unconscious, draw another of the same rarity from the deck and put it into your hand.",
+            "rules": "The next time you're unconscious, return to life with 20 HP. For each card you discarded from your hand after going unconscious, draw another of the same rarity from the deck.",
             "flavour": "What he saw on the other side changed him",
             "image": "assets/core/card/illustration/Phoenix Reborn.png"
           }
@@ -393,7 +455,7 @@
         {
           "title": "Banana Peel",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Pick a tile up to 2 tiles away. The next charcter to walk on this tile will fall over.",
             "flavour": "Nothing like a little prop humour",
@@ -403,7 +465,7 @@
         {
           "title": "Grapple",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Draws you towards a charcter in your line of sight at high speed. Both take 6 damage on impact.",
             "flavour": "C'mere",
@@ -413,9 +475,9 @@
         {
           "title": "Ender Pearl",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Teleport to a space up to 10 tiles away and take 2 damage",
+            "rules": "Teleport to any visible space. Take damage equal to the number of squares moved.",
             "flavour": "Travelling is always a pain",
             "image": "assets/core/card/illustration/Ender Pearl.png"
           }
@@ -423,21 +485,11 @@
         {
           "title": "Poltergeist",
           "upgrade": "",
-          "tier": "grey",
-          "details": {
-            "rules": "Possess a non-magic object within 5 tiles of your body until the end of your turn",
-            "flavour": "\"There's something rather.. lively about this chair\" - General Kudzo",
-            "image": "assets/core/card/illustration/Poltergeist.png"
-          }
-        },
-        {
-          "title": "Beater Barter",
-          "upgrade": "",
           "tier": "green",
           "details": {
-            "rules": "The next time you're unconscious this combat, revive all other unconscious players. They get their lost cards returned to them.",
-            "flavour": "And on that day he realized that what his people needed wasn't a hero, but a martyr.",
-            "image": "assets/core/card/illustration/Beater Barter.png"
+            "rules": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
+            "flavour": "\"There's something rather.. lively about this chair\" - General Kudzo",
+            "image": "assets/core/card/illustration/Poltergeist.png"
           }
         },
         {
@@ -453,7 +505,7 @@
         {
           "title": "Mage Hand",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Summon a diembodied hand within 4 tiles to perform one simple action before vanishing.",
             "flavour": "\"Magicians are a bunch of lazy bums\" -Brinley",
@@ -463,7 +515,7 @@
         {
           "title": "Tripwire Charm",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
             "flavour": "Mafia hideouts are often mysteriously empty when Rebel forces arrive to perform arrests",
@@ -473,7 +525,7 @@
         {
           "title": "Counterspell",
           "upgrade": "",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "The effect of the next spell intended for you is applied instead to the caster.",
             "flavour": "Magic knows no loyalty",
@@ -483,9 +535,9 @@
         {
           "title": "Large-Caliber Artillery Invocation",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "red",
           "details": {
-            "rules": "A magical light takes the shape of a cannon and instantly fires a real shot in the direction of your choice. 1d10 +10 damage.",
+            "rules": "A magical light takes the shape of a cannon and instantly fires a real shot in the direction of your choice.",
             "flavour": "Cannonballs are designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
             "image": "assets/core/card/illustration/Large-Caliber Artillery Invocation.png"
           }
@@ -493,7 +545,7 @@
         {
           "title": "PBJT",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "A visible character of your choice receives a sandwich to the face.",
             "flavour": "After taking a sandwich to the face from one of his men, Coronel Kudzo was forced to retire, effective immediately",
@@ -503,9 +555,9 @@
         {
           "title": "Bound Bow",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "You summon a bow made of light. Deal triple damage on your next ranged attack.",
+            "rules": "While hodling this card in your hand, roll an additional d4 when you perform a ranged attack. Cast to deal 6 damage to a visible target.",
             "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light. -Battlefield Diaries, General Polonius",
             "image": "assets/core/card/illustration/Bound Bow.png"
           }
@@ -513,9 +565,9 @@
         {
           "title": "Bound Sword",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "You summon a sword made of light. Deal triple damage on your next melee attack.",
+            "rules": "While holding this card in your hand, roll an additional d6 when you perform a melee attack. Cast to deal 6 damage to a visible target.",
             "flavour": "It didn't slash or pierce, but rather burned. The fallen glowed as though their souls were leaving their bodies. -Battlefield Diaries, General Polonius",
             "image": "assets/core/card/illustration/Bound Sword.png"
           }
@@ -525,7 +577,7 @@
           "upgrade": "",
           "tier": "blue",
           "details": {
-            "rules": "Allows you to throw any non-magic object you can fit in your hand for double your normal ranged damage.",
+            "rules": "Allows you to throw any non-magic object you can fit in your hand as your ranged attack to deal an additional 6 damage.",
             "flavour": "You want it? Here.",
             "image": "assets/core/card/illustration/Slingshot.png"
           }
@@ -533,7 +585,7 @@
         {
           "title": "Locomotor Hex",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Targeted NPC becomes stuck in place for ten seconds.",
             "flavour": "Have my legs always been this heavy?",
@@ -553,7 +605,7 @@
         {
           "title": "Adjoint Immolation Hex",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "green",
           "details": {
             "rules": "You and any character you are touching burst into flames. 3d6 damage to each character ignited.",
             "flavour": "I'm taking you straight to hell.",
@@ -563,7 +615,7 @@
         {
           "title": "Glacial Hand",
           "upgrade": "",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
             "flavour": "Let's savour this moment forever.",
@@ -573,7 +625,7 @@
         {
           "title": "Magic Trick",
           "upgrade": "",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
             "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" -Barry the Bandit",
@@ -581,19 +633,9 @@
           }
         },
         {
-          "title": "Animal Accomplice",
-          "upgrade": "",
-          "tier": "blue",
-          "details": {
-            "rules": "Summons the magical imprint of a loyal wolfhound, which dissapates when it takes or deals damage. Will follow you until commanded to attack a target for 5 melee damage",
-            "flavour": "Her name is Daisy",
-            "image": "assets/core/card/illustration/Animal Accomplice.png"
-          }
-        },
-        {
           "title": "Pigeon Partner",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Summon a pigeon to perform one simple task",
             "flavour": "Will try not to be distracted by breadcrumbs.",
@@ -603,7 +645,7 @@
         {
           "title": "You're Toast",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Summons a slice of toast the size of a Door",
             "flavour": "\"This is excellent, but what if we cook it a second time?\" - Man about to invent toast",
@@ -613,9 +655,9 @@
         {
           "title": "Gloven Mitt",
           "upgrade": "",
-          "tier": "grey",
+          "tier": "green",
           "details": {
-            "rules": "Your next punch deals double damage and sets your target on fire, or turns a slice of bread into toast. Your choice.",
+            "rules": "Your next melee attack deals an additional d6 and sets your target on fire, or turns a slice of bread into toast. Your choice.",
             "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
             "image": "assets/core/card/illustration/Gloven Mitt.png"
           }
@@ -628,9 +670,9 @@
         {
           "title": "Whip",
           "upgrade": "Pitch",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Throw an object up to 10m",
+            "rules": "Throw an object up to 10 squares",
             "flavour": "\"Real Good\" -Divo",
             "image": "assets/core/card/illustration/Whip.png"
           }
@@ -638,9 +680,9 @@
         {
           "title": "Pitch",
           "upgrade": "Hurl",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "Throw an object up to 50m",
+            "rules": "Throw an object up to 50 squares",
             "flavour": "\"I will not rest until every window is smashed. They are an insult to me and my kind\" -Little Jimmy, neighborhood rascal",
             "image": "assets/core/card/illustration/Pitch.png"
           }
@@ -648,9 +690,9 @@
         {
           "title": "Hurl",
           "upgrade": "Launch",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Throw an object up to 300m",
+            "rules": "Throw an object as far as you want.",
             "flavour": "I want this thing gone, understand? I want to never see it again.",
             "image": "assets/core/card/illustration/Hurl.png"
           }
@@ -658,9 +700,9 @@
         {
           "title": "Launch",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "Throw an object as far as you want",
+            "rules": "Throw an object as far as you want. It cannot be stopped.",
             "flavour": "I guess in a way, we're all still chasing it.",
             "image": "assets/core/card/illustration/Launch.png"
           }
@@ -668,9 +710,9 @@
         {
           "title": "Flirt",
           "upgrade": "Charm",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "A compliment increases your rapport with an NPC",
+            "rules": "Increases your rapport with a visible character",
             "flavour": "Are you related to Jean-Claude Van Damme? Because Jean-Claude Van Damme you’re sexy!",
             "image": "assets/core/card/illustration/Flirt.png"
           }
@@ -678,9 +720,9 @@
         {
           "title": "Charm",
           "upgrade": "Arouse",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "Causes an NPC to like you.",
+            "rules": "Causes a visible character to like you.",
             "flavour": "Do you like raisins? How do you feel about a date?",
             "image": "assets/core/card/illustration/Charm.png"
           }
@@ -688,9 +730,9 @@
         {
           "title": "Arouse",
           "upgrade": "Seduce",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Causes an NPC to become attracted to you.",
+            "rules": "Causes a visible character to become attracted to you.",
             "flavour": "If you were a Transformer… you’d be Optimus Fine.",
             "image": "assets/core/card/illustration/Arouse.png"
           }
@@ -698,9 +740,9 @@
         {
           "title": "Seduce",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "Forces an NPC to act on their desire for you.",
+            "rules": "Force any character you can name to act on their desire for you.",
             "flavour": "Bitch lasagna",
             "image": "assets/core/card/illustration/Seduce.png"
           }
@@ -708,7 +750,7 @@
         {
           "title": "Imitate",
           "upgrade": "Copy",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Copy the last Blue card used by any character",
             "flavour": "This is how stupid you look, watch this.",
@@ -718,7 +760,7 @@
         {
           "title": "Copy",
           "upgrade": "Master Mimic",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Copy the last Green card used by any character",
             "flavour": "Stop copying me. Stop copying me.",
@@ -728,7 +770,7 @@
         {
           "title": "Master Mimic",
           "upgrade": "The Highest Form of Flattery",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Copy the last Red card used by any character",
             "flavour": "“Through others we become ourselves.” ― Lev S. Vygotsky",
@@ -738,7 +780,7 @@
         {
           "title": "The Highest Form of Flattery",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
             "rules": "Copy the last Gold card used by any character",
             "flavour": "Nothing is original",
@@ -748,9 +790,9 @@
         {
           "title": "Reload",
           "upgrade": "Tactical Reload",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Return a Card with Blue Rarity from your discard pile to your hand",
+            "rules": "Return a Card with Blue Rarity to your hand",
             "flavour": "Don't retreat, reload.",
             "image": "assets/core/card/illustration/Reload.png"
           }
@@ -758,29 +800,29 @@
         {
           "title": "Tactical Reload",
           "upgrade": "Cowboy Reload",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "Return a Card with Green Rarity from your discard pile to your hand",
-            "flavour": "A tactical reload is the action of reloading a weapon that has only fired a few rounds out of its magazine, and retaining the original magazine",
+            "rules": "Return a Card with Green Rarity to your hand",
+            "flavour": "A tactical reload is the action of reloading a weapon that has only figold a few rounds out of its magazine, and retaining the original magazine",
             "image": "assets/core/card/illustration/Tactical Reload.png"
           }
         },
         {
           "title": "Cowboy Reload",
           "upgrade": "Expert Reload",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Return a Card with Red Rarity from your discard pile to your hand",
-            "flavour": "Cowboy's only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
+            "rules": "Return a Card with Red Rarity to your hand",
+            "flavour": "Cowboy's only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundgold dollar bill to pay the undertaker.",
             "image": "assets/core/card/illustration/Cowboy Reload.png"
           }
         },
         {
           "title": "Expert Reload",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "Return a Card with Gold Rarity from your discard pile to your hand",
+            "rules": "Return a Card with Gold Rarity to your hand",
             "flavour": "“Peace is the time it takes to reload your rifle.” - Bob Dylan",
             "image": "assets/core/card/illustration/Expert Reload.png"
           }
@@ -788,9 +830,9 @@
         {
           "title": "Adlib",
           "upgrade": "Improvise",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Add Three Grey Rarity Cards to your hand. Return them to the deck at the end of the turn.",
+            "rules": "Draw 3 grey cards",
             "flavour": "Alright, okay what do we have here.. You guys hear about airplane food?",
             "image": "assets/core/card/illustration/Adlib.png"
           }
@@ -798,9 +840,9 @@
         {
           "title": "Improvise",
           "upgrade": "Extemporize",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "Add Three Blue Rarity Cards to your hand. Return them to the deck at the end of the turn.",
+            "rules": "Place 5 blue cards onto the table. Cast up to 3 of those cards.",
             "flavour": "You criticize, I improvise",
             "image": "assets/core/card/illustration/Improvise.png"
           }
@@ -808,9 +850,9 @@
         {
           "title": "Extemporize",
           "upgrade": "Helter-Skelter",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Add Three Green Rarity Cards to your hand. Return them to the deck at the end of the turn.",
+            "rules": "Place 5 green cards onto the table. Cast up to 3 of those cards.",
             "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
             "image": "assets/core/card/illustration/Extemporize.png"
           }
@@ -818,99 +860,19 @@
         {
           "title": "Helter-Skelter",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "Add Three Red Rarity Cards to your hand. Return them to the deck at the end of the turn.",
+            "rules": "Place 5 red cards onto the table. Cast up to 3 of those cards.",
             "flavour": "“In my mind's eye my thoughts light fires in your cities.” ― Charles Manson",
             "image": "assets/core/card/illustration/Helter-Skelter.png"
           }
         },
         {
-          "title": "Calm Strike",
-          "upgrade": "Planned Strike",
-          "tier": "grey",
-          "details": {
-            "rules": "If you have 14 cards in hand, deal 5 damage to a character in melee range and stun them for 1 turn. Otherwise, deal 3 to that character.",
-            "flavour": "When everything around you is crazy, it is ingenious to stay calm.",
-            "image": "assets/core/card/illustration/Calm Strike.png"
-          }
-        },
-        {
-          "title": "Planned Strike",
-          "upgrade": "Premeditated Strike",
-          "tier": "blue",
-          "details": {
-            "rules": "If you have 14 cards in hand, deal 10 damage to a character in melee range and stun them for 1 turn. Otherwise, deal 6",
-            "flavour": "By Failing to prepare, you are preparing to fail.",
-            "image": "assets/core/card/illustration/Planned Strike.png"
-          }
-        },
-        {
-          "title": "Premeditated Strike",
-          "upgrade": "Cold Blooded Strike",
-          "tier": "green",
-          "details": {
-            "rules": "If you have 14 cards in hand, deal 20 damage to a character in melee range and stun them for 1 turn. Otherwise, deal 10",
-            "flavour": "I've been thinking about this one for a long time.",
-            "image": "assets/core/card/illustration/Premeditated Strike.png"
-          }
-        },
-        {
-          "title": "Cold Blooded Strike",
-          "upgrade": "",
-          "tier": "red",
-          "details": {
-            "rules": "If you have 14 cards in hand, deal 40 damage to a character in melee range and stun them for 1 turn. Otherwise, deal 20",
-            "flavour": "Man is the cruelest animal.",
-            "image": "assets/core/card/illustration/Cold Blooded Strike.png"
-          }
-        },
-        {
-          "title": "Desperate Strike",
-          "upgrade": "Anguished Strike",
-          "tier": "grey",
-          "details": {
-            "rules": "Deal 3 damage to a character in melee range. If you're at 10 or less life, deal 6 instead.",
-            "flavour": "An animal is most dangerous when cornered",
-            "image": "assets/core/card/illustration/Desperate Strike.png"
-          }
-        },
-        {
-          "title": "Anguished Strike",
-          "upgrade": "Tormented Strike",
-          "tier": "blue",
-          "details": {
-            "rules": "Deal 6 damage to a character in melee range. If you're at 10 or less life, deal 10 instead.",
-            "flavour": "We should forgive our enemies, but not before they are hanged",
-            "image": "assets/core/card/illustration/Anguished Strike.png"
-          }
-        },
-        {
-          "title": "Tormented Strike",
-          "upgrade": "Wretched Strike",
-          "tier": "green",
-          "details": {
-            "rules": "Deal 10 damage to a character in melee range. Knock them back X squares, where X is your missing health.",
-            "flavour": "Show them how it feels",
-            "image": "assets/core/card/illustration/Tormented Strike.png"
-          }
-        },
-        {
-          "title": "Wretched Strike",
-          "upgrade": "",
-          "tier": "red",
-          "details": {
-            "rules": "Deal 10 damage to a character in melee range and curse them until end of combat. Whenever a cursed character targets you with an attack, you may recast this spell.",
-            "flavour": "Every wrong shall be revenged, one hundred fold",
-            "image": "assets/core/card/illustration/Wretched Strike.png"
-          }
-        },
-        {
           "title": "Spark",
           "upgrade": "Lightning Bolt",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Deal 3 damage to a visible character",
+            "rules": "Deal 3 damage to a visible character with a painful bolt of electricity.",
             "flavour": "A smile costs less than electricity, but gives much light",
             "image": "assets/core/card/illustration/Spark.png"
           }
@@ -918,7 +880,7 @@
         {
           "title": "Lightning Bolt",
           "upgrade": "Fork Lightning",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Deal 4 damage and stun up to 2 visible characters",
             "flavour": "\"No.\" -Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands",
@@ -928,7 +890,7 @@
         {
           "title": "Fork Lightning",
           "upgrade": "Electric Vortex",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Deal 6 damage and stun to up to 6 visible characters",
             "flavour": "I had enough electricity in my booty to jump-start the whole of New York City",
@@ -936,11 +898,11 @@
           }
         },
         {
-          "title": "Electric Vortex",
+          "title": "Elektra's Siphon",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "Deal 10 damage and stun each character that comes within 4 squares of you over the next two turns",
+            "rules": "Turn off the power in the current Cube. Draw 3 copies of Fork Lightning.",
             "flavour": "If your hate could be turned into electricity, it would light up the whole world. -Nikola Tesla",
             "image": "assets/core/card/illustration/Electric Vortex.png"
           }
@@ -948,7 +910,7 @@
         {
           "title": "Ignite",
           "upgrade": "Fireball",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Ignite a small fire on a visible, flammable object",
             "flavour": "In this case, we actually did start the fire.",
@@ -958,7 +920,7 @@
         {
           "title": "Fireball",
           "upgrade": "Immolate",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Hurl a ball of hot embers at a visible object",
             "flavour": "Time for a game of hot potato!",
@@ -968,9 +930,9 @@
         {
           "title": "Immolate",
           "upgrade": "Inner Sun",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Deal 15 damage and set fire to all objects within 3 squares",
+            "rules": "Deal 15 damage and set fire to all flammable non-player objects within 6 squares",
             "flavour": "The best part is that nice campfire smell.",
             "image": "assets/core/card/illustration/Immolate.png"
           }
@@ -978,9 +940,9 @@
         {
           "title": "Inner Sun",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "Choose X. Deal X damage to yourself. Deal X damage and set fire to all characters and objects within X squares.",
+            "rules": "Summon an Inner Sun the size of a baseball. The Inner sun is explosively flammable and burns forever.",
             "flavour": "My rage burns with the force of 1000 suns",
             "image": "assets/core/card/illustration/Inner Sun.png"
           }
@@ -988,7 +950,7 @@
         {
           "title": "Jump",
           "upgrade": "Leap",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Jump up 3 metres",
             "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, concerned father",
@@ -997,28 +959,28 @@
         },
         {
           "title": "Leap",
-          "upgrade": "Soar",
-          "tier": "blue",
+          "upgrade": "Levitate",
+          "tier": "green",
           "details": {
-            "rules": "Jump 8 metres in the air",
+            "rules": "Jump 25 metres in the air",
             "flavour": "\"Good lord, look at him go..\" - Warner Higgins, concerned father",
             "image": "assets/core/card/illustration/Leap.png"
           }
         },
         {
-          "title": "Soar",
+          "title": "Levitate",
           "upgrade": "Ascend",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Jump 25 metres in the air",
-            "flavour": "\"I don't think I can even catch him at this point. He's on his own. Hear that? You're on your own buddy.\" - Warner Higgins, concerned father",
+            "rules": "Hover up to 5 feet off the ground until you lose concentration.",
+            "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, concerned father",
             "image": "assets/core/card/illustration/Soar.png"
           }
         },
         {
           "title": "Ascend",
           "upgrade": "Moisten",
-          "tier": "red",
+          "tier": "gold",
           "details": {
             "rules": "Jump as high as you want",
             "flavour": "\"I miss him everyday\" - Warner Higgins, concerned father",
@@ -1028,7 +990,7 @@
         {
           "title": "Moisten",
           "upgrade": "Soak",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Target an object. It becomes moist, as if it had been sprayed with a fine mist",
             "flavour": "I think I'm going to need a change of clothes",
@@ -1038,7 +1000,7 @@
         {
           "title": "Soak",
           "upgrade": "Drench",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Target a point. Everything within 2m of this point is now saturated with water.",
             "flavour": "My plan: complete. Their day: ruined",
@@ -1048,7 +1010,7 @@
         {
           "title": "Drench",
           "upgrade": "Flood",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Summons 10000 gallons of water to a targeted point.",
             "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" -Quomo the Quivering",
@@ -1058,7 +1020,7 @@
         {
           "title": "Flood",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
             "rules": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
             "flavour": "Nature has a myriad of weapons to combat human arrogance.",
@@ -1068,9 +1030,9 @@
         {
           "title": "Hope",
           "upgrade": "Pray",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Change the value of a thrown d20 or the next d20 roll by 3",
+            "rules": "Change the value of thrown d20 or the next thrown d20 by 2",
             "flavour": "I can't see him, but I know he's there.",
             "image": "assets/core/card/illustration/Hope.png"
           }
@@ -1078,9 +1040,9 @@
         {
           "title": "Pray",
           "upgrade": "Preach",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "For the next 3 d20 rolls this turn, you may force them to be rerolled",
+            "rules": "You may force a thrown d20 or the next thrown d20 to be rerolled.",
             "flavour": "He will save us from our mortal errors",
             "image": "assets/core/card/illustration/Pray.png"
           }
@@ -1088,7 +1050,7 @@
         {
           "title": "Preach",
           "upgrade": "Wish",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Instill a religious vision of your choosing into target character",
             "flavour": "He lives deep in the hearts of all men",
@@ -1098,7 +1060,7 @@
         {
           "title": "Wish",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
             "rules": "All players will critically succeed on their next d20 roll this turn.",
             "flavour": "And the light shone bright upon the chosen",
@@ -1106,18 +1068,8 @@
           }
         },
         {
-          "title": "Lie",
-          "upgrade": "Distract",
-          "tier": "grey",
-          "details": {
-            "rules": "Target NPC will believe your next statement",
-            "flavour": "\"Yeah of course I did my homework\" -Little Sniver",
-            "image": "assets/core/card/illustration/Lie.png"
-          }
-        },
-        {
           "title": "Distract",
-          "upgrade": "Disguise",
+          "upgrade": "Lie",
           "tier": "blue",
           "details": {
             "rules": "Target NPC fails their current action and loses focus on you",
@@ -1126,11 +1078,21 @@
           }
         },
         {
-          "title": "Disguise",
-          "upgrade": "Revise",
+          "title": "Lie",
+          "upgrade": "Disguise",
           "tier": "green",
           "details": {
-            "rules": "Change your appearance to match that of another exactly",
+            "rules": "Target NPC will believe your next statement.",
+            "flavour": "\"Yeah of course I did my homework\" -Little Sniver",
+            "image": "assets/core/card/illustration/Lie.png"
+          }
+        },
+        {
+          "title": "Disguise",
+          "upgrade": "Revise",
+          "tier": "red",
+          "details": {
+            "rules": "Change your appearance to match that of another exactly for as long as you'd like.",
             "flavour": "\"It's-a-me! Mario! Sniver went into the other room to get his homework.\" -Little Sniver",
             "image": "assets/core/card/illustration/Disguise.png"
           }
@@ -1138,7 +1100,7 @@
         {
           "title": "Revise",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
             "rules": "Rewrite the contents of a visible character's memory",
             "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" -Little Sniver",
@@ -1148,9 +1110,9 @@
         {
           "title": "Cure",
           "upgrade": "Restore",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Heal 8 to character in melee range",
+            "rules": "Heal 8 to a visible character",
             "flavour": "\"Yeah that feels a little better\" -Hugo, recently decapitated",
             "image": "assets/core/card/illustration/Cure.png"
           }
@@ -1158,9 +1120,9 @@
         {
           "title": "Restore",
           "upgrade": "Renew",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "Heal 10 to target visible character",
+            "rules": "Heal 10 to a visible character",
             "flavour": "\"Well that sealed up the wound but it isn't really helping\" -Hugo, recently decapitated",
             "image": "assets/core/card/illustration/Restore.png"
           }
@@ -1168,9 +1130,9 @@
         {
           "title": "Renew",
           "upgrade": "Reincarnate",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Heal 30 to a character in melee range",
+            "rules": "Heal 30  to a visible character",
             "flavour": "\"I feel better than ever. Except for my body, which I can no longer feel\" -Hugo, recently decapitated",
             "image": "assets/core/card/illustration/Renew.png"
           }
@@ -1178,9 +1140,9 @@
         {
           "title": "Reincarnate",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "Revive a dead character. Return this card to the deck",
+            "rules": "Revive a dead character.",
             "flavour": "\"I have returned- what a joyous day\" -Huge, recently reunited with his body",
             "image": "assets/core/card/illustration/Reincarnate.png"
           }
@@ -1188,7 +1150,7 @@
         {
           "title": "Lunge",
           "upgrade": "Sprint",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Travel up to 5 squares in any direction",
             "flavour": "These are great for the glutes",
@@ -1198,9 +1160,9 @@
         {
           "title": "Sprint",
           "upgrade": "Teleport",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "Until end of combat, you can travel 2 extra squares with each movement",
+            "rules": "Until end of combat, you can travel twice as fast",
             "flavour": "What are you running from?",
             "image": "assets/core/card/illustration/Sprint.png"
           }
@@ -1208,7 +1170,7 @@
         {
           "title": "Teleport",
           "upgrade": "Gerraro's Door",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Teleport anywhere within 20 squares",
             "flavour": "If teleportation was impossible why did they make a word for it? Answer that one smart guy",
@@ -1218,7 +1180,7 @@
         {
           "title": "Gerraro's Door",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
             "rules": "Teleport the entire party anywhere",
             "flavour": "Endless folds in spacetime reveal themselves to the worthy",
@@ -1227,22 +1189,12 @@
         },
         {
           "title": "Brace",
-          "upgrade": "Block",
-          "tier": "grey",
-          "details": {
-            "rules": "Take half damage from the next attack targeting you",
-            "flavour": "I barely felt that! Who taught you how to punch?",
-            "image": "assets/core/card/illustration/Brace.png"
-          }
-        },
-        {
-          "title": "Block",
           "upgrade": "Reflect",
           "tier": "blue",
           "details": {
-            "rules": "Take no damage from the next attack targeting you",
-            "flavour": "You would try some horseshit like that wouldn't you? Well I see right through you",
-            "image": "assets/core/card/illustration/Block.png"
+            "rules": "Take no damage from the next attack targeting you.",
+            "flavour": "I barely felt that! Who taught you how to punch?",
+            "image": "assets/core/card/illustration/Brace.png"
           }
         },
         {
@@ -1257,18 +1209,28 @@
         },
         {
           "title": "Deflect",
-          "upgrade": "",
+          "upgrade": "Golan's Idol",
           "tier": "red",
           "details": {
-            "rules": "Any damage dealt to you until your next turn is instead dealt to your attacker",
+            "rules": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker",
             "flavour": "I am rubber, and you are glue",
             "image": "assets/core/card/illustration/Deflect.png"
           }
         },
         {
+          "title": "Golan's Idol",
+          "upgrade": "Reflect",
+          "tier": "gold",
+          "details": {
+            "rules": "When you cast this card, name a character. They can no longer deal damage to you.",
+            "flavour": "You would try some horseshit like that wouldn't you? Well I see right through you",
+            "image": "assets/core/card/illustration/Block.png"
+          }
+        },
+        {
           "title": "Double Strike",
           "upgrade": "Quad Strike",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "You can attack two additional times this turn",
             "flavour": "Before they even realized what happened, another punch sent them flying.",
@@ -1278,7 +1240,7 @@
         {
           "title": "Quad Strike",
           "upgrade": "Strike Storm",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "You can attack four additional times this turn",
             "flavour": "Their defense won't last forever. Strike, and strike again",
@@ -1288,7 +1250,7 @@
         {
           "title": "Strike Storm",
           "upgrade": "Endless blows",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "You can make twice times as many attacks as you otherwise would this turn.",
             "flavour": "Every fighter has gaps between attacks which can be exploited. Just make sure to take them after your opponent is dead.",
@@ -1298,7 +1260,7 @@
         {
           "title": "Endless blows",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
             "rules": "Take X damage. You can attack X times this turn",
             "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs",
@@ -1308,9 +1270,9 @@
         {
           "title": "Four Leaf Clover",
           "upgrade": "Rabbit's Foot",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
-            "rules": "Add one Green Card to your hand. Return it to the deck at the end of the turn.",
+            "rules": "Place 3 green cards on the table. You may cast one of them.",
             "flavour": "No more of this bush league nonsense. We need some real power",
             "image": "assets/core/card/illustration/Four Leaf Clover.png"
           }
@@ -1318,9 +1280,9 @@
         {
           "title": "Rabbit's Foot",
           "upgrade": "Jackpot",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "Add one Red Card to your hand. Return it to the deck at the end of the turn.",
+            "rules": "Place 3 Red cards on the table. You may cast one of them.",
             "flavour": "I might be able to pull it off- but just this once",
             "image": "assets/core/card/illustration/Rabbit_s Foot.png"
           }
@@ -1328,9 +1290,9 @@
         {
           "title": "Jackpot",
           "upgrade": "",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Add one Gold Card to your hand. Return it to the deck at the end of the turn.",
+            "rules": "Place 3 Gold cards on the table. You may cast one of them.",
             "flavour": "Do you believe in miracles?",
             "image": "assets/core/card/illustration/Jackpot.png"
           }
@@ -1338,7 +1300,7 @@
         {
           "title": "Gust of Wind",
           "upgrade": "Gale",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Knock target visible character airborne. If this character is already airborne, knock them back 5 squares",
             "flavour": "He should've worn a windbreaker",
@@ -1348,7 +1310,7 @@
         {
           "title": "Gale",
           "upgrade": "Wind Storm",
-          "tier": "blue",
+          "tier": "green",
           "details": {
             "rules": "Shoot a blast of wind from your hand in any direction. All characters hit by the wind are sent airborne. If any of those characters were already airborne, knock them back 8 squares",
             "flavour": "Bitch, you look like a birthday candle",
@@ -1358,27 +1320,27 @@
         {
           "title": "Wind Storm",
           "upgrade": "Hurricane",
-          "tier": "green",
+          "tier": "red",
           "details": {
             "rules": "Knock any number of visible targets airborne. If any are already already airborne, knock them back 10 squares",
-            "flavour": "Life isn't about waiting for the storm to pass...It's about learning to dance in the rain.",
+            "flavour": "Rise, rise towards the heavens.",
             "image": "assets/core/card/illustration/Wind Storm.png"
           }
         },
         {
           "title": "Hurricane",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "Knock any number of visible targets airborne.  For the rest of combat, characters who become airborne lose their next turn.",
-            "flavour": "Rise, rise towards the heavens",
+            "rules": "A powerful hurricane is summoned over the play area which lasts as long as you want.",
+            "flavour": "",
             "image": "assets/core/card/illustration/Hurricane.png"
           }
         },
         {
           "title": "Barrier",
           "upgrade": "Holomonk",
-          "tier": "grey",
+          "tier": "blue",
           "details": {
             "rules": "Summon an impassible wall of light on 1 square until end of turn.",
             "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" -Barry the Bandit",
@@ -1388,9 +1350,9 @@
         {
           "title": "Holomonk",
           "upgrade": "HoloKicker",
-          "tier": "blue",
+          "tier": "green",
           "details": {
-            "rules": "Summon an immobile monk until end of turn who punches adjacent characters for 6 damage. Deals double damage to characters who are being knocked back. ",
+            "rules": "Summon an immobile monk until end of turn who punches characters who come within range for 6 damage.",
             "flavour": "His name is Po",
             "image": "assets/core/card/illustration/Holomonk.png"
           }
@@ -1398,25 +1360,24 @@
         {
           "title": "HoloKicker",
           "upgrade": "Holodisco",
-          "tier": "green",
+          "tier": "red",
           "details": {
-            "rules": "Summon 3 immobile martial artists until end of turn who knocks adjacent characters back 8 squares, sending them airborne. ",
+            "rules": "Summon 3 immobile martial artists until end of turn who knock characters who come within range back 8 squares",
             "flavour": "Their names are Memboba, Imbosaa, and Steepedi",
             "image": "assets/core/card/illustration/HoloKicker.png"
           }
         },
         {
-          "title": "Holodisco",
+          "title": "Mirror Image",
           "upgrade": "",
-          "tier": "red",
+          "tier": "gold",
           "details": {
-            "rules": "For each summoned entity you control, create two duplicates",
-            "flavour": "There is great power in numbers.",
+            "rules": "Summon a copy of any non-player character",
+            "flavour": "'It's very nice to meet you Aunt Jemima' -Slick Sammy",
             "image": "assets/core/card/illustration/Holodisco.png"
           }
         }
       ]
     }
-
   ]
 }
