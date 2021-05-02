@@ -13,6 +13,6 @@ base_directory = "Cardmaster"
 storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
 tagged_deck_importer = TabletopSimulator::Importers::TaggedDeckImporter.new(saved_objects_folder, base_directory)
 
-printed_cards = storage_adapter.printed_cards
+stored_cards = storage_adapter.stored_cards
 
-tagged_deck_importer.import(printed_cards)
+tagged_deck_importer.import(stored_cards)
