@@ -121,7 +121,7 @@
           "tier": "gold",
           "details": {
             "rules": "While this card is in your hand, your melee attacks knock characters back 3 squares. Cast to knock a visible character back 3 squares.",
-            "flavour": "You could have a steam train, if you'd just lay down your tracks",
+            "flavour": "This one'll bring down the house",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
