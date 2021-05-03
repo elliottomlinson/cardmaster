@@ -823,7 +823,7 @@
           "tier": "gold",
           "details": {
             "rules": "Return a Card with Gold Rarity to your hand",
-            "flavour": "“Peace is the time it takes to reload your rifle.” - Bob Dylan",
+            "flavour": "“Peace is the time it takes to reload your rifle.” - Corp. Richfield",
             "image": "assets/core/card/illustration/Expert Reload.png"
           }
         },
