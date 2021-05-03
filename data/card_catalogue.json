@@ -863,7 +863,7 @@
           "tier": "gold",
           "details": {
             "rules": "Place 5 red cards onto the table. Cast up to 3 of those cards.",
-            "flavour": "What do rails, scripts, chain, walls, cuffs, and beaten paths have in common? We're going off them.",
+            "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
             "image": "assets/core/card/illustration/Helter-Skelter.png"
           }
         },
@@ -893,7 +893,7 @@
           "tier": "red",
           "details": {
             "rules": "Deal 6 damage and stun to up to 6 visible characters",
-            "flavour": "I had enough electricity in my booty to jump-start the whole of New York City",
+            "flavour": "\"Clear!\" yelled the doctor, before lighting up the whole city",
             "image": "assets/core/card/illustration/Fork Lightning.png"
           }
         },
