@@ -803,7 +803,7 @@
           "tier": "green",
           "details": {
             "rules": "Return a Card with Green Rarity to your hand",
-            "flavour": "A tactical reload is the action of reloading a weapon that has only fired a few rounds out of its magazine, and retaining the original magazine",
+            "flavour": "Wanna see me do it again?",
             "image": "assets/core/card/illustration/Tactical Reload.png"
           }
         },
