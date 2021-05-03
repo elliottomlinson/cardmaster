@@ -308,7 +308,7 @@
           "tier": "blue",
           "details": {
             "rules": "Target NPC becomes tired.",
-            "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Newt Gingrich",
+            "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Gregor the Delegator",
             "image": "assets/core/card/illustration/Exhaust.png"
           }
         },
