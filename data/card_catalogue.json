@@ -167,7 +167,7 @@
           "upgrade": "",
           "tier": "green",
           "details": {
-            "rules": "Summon an ACME Anvil into existence above target character's head.",
+            "rules": "Summon a cast-steel anvil into existence above target character's head.",
             "flavour": "meep meep",
             "image": "assets/core/card/illustration/Anvil Drop.png"
           }
