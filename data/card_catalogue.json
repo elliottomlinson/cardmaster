@@ -473,13 +473,13 @@
           }
         },
         {
-          "title": "Ender Pearl",
+          "title": "Platzfalt Step",
           "upgrade": "",
           "tier": "blue",
           "details": {
             "rules": "Teleport to any visible space. Take damage equal to the number of squares moved.",
             "flavour": "Travelling is always a pain",
-            "image": "assets/core/card/illustration/Ender Pearl.png"
+            "image": "assets/core/card/illustration/Platzfalt Step.png"
           }
         },
         {
