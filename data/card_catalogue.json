@@ -403,13 +403,13 @@
           }
         },
         {
-          "title": "Monk Mode",
+          "title": "Bashbolster",
           "upgrade": "",
           "tier": "green",
           "details": {
             "rules": "Unarmed attacks deal double damage until you play your next card.",
             "flavour": "\"Humour is the weapon of unarmed people\" - Some Idiot",
-            "image": "assets/core/card/illustration/Monk Mode.png"
+            "image": "assets/core/card/illustration/Bashbolster.png"
           }
         },
         {
