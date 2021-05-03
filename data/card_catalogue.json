@@ -167,7 +167,7 @@
           "upgrade": "",
           "tier": "green",
           "details": {
-            "rules": "Summon an ACME Anvil into existence above target character's head.",
+            "rules": "Summon a cast-steel anvil into existence above target character's head.",
             "flavour": "meep meep",
             "image": "assets/core/card/illustration/Anvil Drop.png"
           }
@@ -217,7 +217,7 @@
           "upgrade": "",
           "tier": "blue",
           "details": {
-            "rules": "One handful of pocket sand.",
+            "rules": "Cast a handful of sand and pocket lint into the air before you.",
             "flavour": "Good for blinding a close range target",
             "image": "assets/core/card/illustration/Empouched Earth.png"
           }
