@@ -173,13 +173,13 @@
           }
         },
         {
-          "title": "Woody's Roundup",
+          "title": "Sherrif's Roundup",
           "upgrade": "",
           "tier": "blue",
           "details": {
             "rules": "Target an article of clothing intended to be worn on a foot. A snake appears inside of it.",
             "flavour": "\"Reeeeeeach for the skies\" - The Sherrif",
-            "image": "assets/core/card/illustration/Woody's Roundup.png"
+            "image": "assets/core/card/illustration/Sherrif's Roundup.png"
           }
         },
         {
