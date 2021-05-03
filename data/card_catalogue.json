@@ -647,8 +647,8 @@
           "upgrade": "",
           "tier": "blue",
           "details": {
-            "rules": "Summons a slice of toast the size of a Door",
-            "flavour": "\"This is excellent, but what if we cook it a second time?\" - Man about to invent toast",
+            "rules": "Summons a slice of toast the size of a door",
+            "flavour": "Roughly 13000 calories",
             "image": "assets/core/card/illustration/You're Toast.png"
           }
         },
