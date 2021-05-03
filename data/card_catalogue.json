@@ -417,7 +417,7 @@
           "upgrade": "",
           "tier": "blue",
           "details": {
-            "rules": "Deals 10 damage. Return this card to the deck after using it.",
+            "rules": "Deal 10 damage to a visible target. Return this card to the deck after casting it.",
             "flavour": "Bonk",
             "image": "assets/core/card/illustration/Glass Hammer.png"
           }
