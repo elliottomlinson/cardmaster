@@ -503,13 +503,13 @@
           }
         },
         {
-          "title": "Mage Hand",
+          "title": "Eidolimb",
           "upgrade": "",
           "tier": "blue",
           "details": {
             "rules": "Summon a diembodied hand within 4 tiles to perform one simple action before vanishing.",
             "flavour": "\"Magicians are a bunch of lazy bums\" -Brinley",
-            "image": "assets/core/card/illustration/Mage Hand.png"
+            "image": "assets/core/card/illustration/Eidolimb.png"
           }
         },
         {
