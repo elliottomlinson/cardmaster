@@ -132,7 +132,7 @@
           "tier": "red",
           "details": {
             "rules": "While this card is in your hand, characters you damage are healed for the same amount instead. Cast to deal damage equal to the amount you healed this turn.",
-            "flavour": "",
+            "flavour": "\"Clear!\" - Dr. Asterope, before killing 10 with a defibrillator",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
@@ -1333,7 +1333,7 @@
           "tier": "gold",
           "details": {
             "rules": "A powerful hurricane is summoned over the play area which lasts as long as you want.",
-            "flavour": "",
+            "flavour": "It is rare for an area to know such devestation",
             "image": "assets/core/card/illustration/Hurricane.png"
           }
         },
