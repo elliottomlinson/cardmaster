@@ -363,13 +363,13 @@
           }
         },
         {
-          "title": "Proplauncher",
+          "title": "Object Eject",
           "upgrade": "",
           "tier": "green",
           "details": {
             "rules": "Stand atop an object. Your character and the object are flung in the direction of your choice until obstructed.",
             "flavour": "As documented in: Using Glitches and Tricks to beat Cardmaster",
-            "image": "assets/core/card/illustration/Proplauncher.png"
+            "image": "assets/core/card/illustration/Object Eject.png"
           }
         },
         {
