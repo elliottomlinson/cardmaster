@@ -12,7 +12,7 @@
               "tier": "blue",
               "details": {
                 "rules": "Deal X damage to every non-player character you've ever known, where X is the number of complaints you can  list in 30 seconds",
-                "flavour": "\"The world is irredeemable. I have yet to meet a soul worth saving.\" -Fester the Limp",
+                "flavour": "\"The world is irredeemable. I have yet to meet a soul worth saving.\" - Fester the Limp",
                 "image": "assets/core/card/illustration/Inner\ Sun.png"
               }
             },
@@ -21,7 +21,7 @@
               "tier": "green",
               "details": {
                 "rules": "Sacrifice your life. Kill a character who you've met.",
-                "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" -Fester's final words",
+                "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
                 "image": "assets/core/card/illustration/Inner\ Sun.png"
               }
             }
@@ -105,7 +105,7 @@
           "tier": "gold",
           "details": {
             "rules": "Name a character not on the current map. They take 100 damage.",
-            "flavour": "'I wish this guy would just die before we even showed up, that'd save us a lot of time' - General Zardon",
+            "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
@@ -178,7 +178,7 @@
           "tier": "blue",
           "details": {
             "rules": "Target an article of clothing intended to be worn on a foot. A snake appears inside of it.",
-            "flavour": "\"Reeeeeeach for the skies\" - The Sherrif",
+            "flavour": "\"Always drink upstream from the herd\" - The Sherrif",
             "image": "assets/core/card/illustration/Sherrif's Roundup.png"
           }
         },
@@ -298,7 +298,7 @@
           "tier": "green",
           "details": {
             "rules": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
-            "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Shiv Khera",
+            "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
             "image": "assets/core/card/illustration/Disappear.png"
           }
         },
@@ -318,7 +318,7 @@
           "tier": "red",
           "details": {
             "rules": "Choose X up to 5. An boundary, impenetrable from within, is placed X squares away from you in all directions as long as you'd like",
-            "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Man who doesn't own a pickaxe",
+            "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
             "image": "assets/core/card/illustration/Prison.png"
           }
         },
@@ -338,7 +338,7 @@
           "tier": "red",
           "details": {
             "rules": "Until your next turn, deal double damage and take double damage.",
-            "flavour": "\"[...] the stakes, therefore, remain at the same altitude\" - Noted Polymath Dr. F. Mickleson",
+            "flavour": "\"[...] the stakes, therefore, remain at the same altitude\" - Dr. F. Mickleson, Noted Polymath",
             "image": "assets/core/card/illustration/Glass Cannon.png"
           }
         },
@@ -358,7 +358,7 @@
           "tier": "green",
           "details": {
             "rules": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
-            "flavour": "\"You make a better door than a window\" - Obstructed individual",
+            "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
             "image": "assets/core/card/illustration/Porticostatic Hex.png"
           }
         },
@@ -388,7 +388,7 @@
           "tier": "blue",
           "details": {
             "rules": "Learn the current location of an item you've touched in the past.",
-            "flavour": "\"At last I'll be able to track down the missing socks\" - Angry Witch",
+            "flavour": "\"At last I'll be able to track down the missing socks\" - Cordelia Hex, Angry Witch",
             "image": "assets/core/card/illustration/Where-Ware Charm.png"
           }
         },
@@ -953,7 +953,7 @@
           "tier": "blue",
           "details": {
             "rules": "Jump up 3 metres",
-            "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, concerned father",
+            "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, Concerned Father",
             "image": "assets/core/card/illustration/Jump.png"
           }
         },
@@ -963,7 +963,7 @@
           "tier": "green",
           "details": {
             "rules": "Jump 25 metres in the air",
-            "flavour": "\"Good lord, look at him go..\" - Warner Higgins, concerned father",
+            "flavour": "\"Good lord, look at him go..\" - Warner Higgins, Concerned Father",
             "image": "assets/core/card/illustration/Leap.png"
           }
         },
@@ -973,7 +973,7 @@
           "tier": "red",
           "details": {
             "rules": "Hover up to 5 feet off the ground until you lose concentration.",
-            "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, concerned father",
+            "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, Concerned Father",
             "image": "assets/core/card/illustration/Soar.png"
           }
         },
@@ -983,7 +983,7 @@
           "tier": "gold",
           "details": {
             "rules": "Jump as high as you want",
-            "flavour": "\"I miss him everyday\" - Warner Higgins, concerned father",
+            "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
             "image": "assets/core/card/illustration/Ascend.png"
           }
         },
@@ -1013,7 +1013,7 @@
           "tier": "red",
           "details": {
             "rules": "Summons 10000 gallons of water to a targeted point.",
-            "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" -Quomo the Quivering",
+            "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" - Quomo the Quivering",
             "image": "assets/core/card/illustration/Drench.png"
           }
         },
@@ -1083,7 +1083,7 @@
           "tier": "green",
           "details": {
             "rules": "Target NPC will believe your next statement.",
-            "flavour": "\"Yeah of course I did my homework\" -Little Sniver",
+            "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
             "image": "assets/core/card/illustration/Lie.png"
           }
         },
@@ -1093,7 +1093,7 @@
           "tier": "red",
           "details": {
             "rules": "Change your appearance to match that of another exactly for as long as you'd like.",
-            "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" -Little Sniver",
+            "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
             "image": "assets/core/card/illustration/Disguise.png"
           }
         },
@@ -1103,7 +1103,7 @@
           "tier": "gold",
           "details": {
             "rules": "Rewrite the contents of a visible character's memory",
-            "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" -Little Sniver",
+            "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
             "image": "assets/core/card/illustration/Revise.png"
           }
         },
@@ -1113,7 +1113,7 @@
           "tier": "blue",
           "details": {
             "rules": "Heal 8 to a visible character",
-            "flavour": "\"Yeah that feels a little better\" -Hugo, recently decapitated",
+            "flavour": "\"Yeah that feels a little better\" -Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Cure.png"
           }
         },
@@ -1123,7 +1123,7 @@
           "tier": "green",
           "details": {
             "rules": "Heal 10 to a visible character",
-            "flavour": "\"Well that sealed up the wound but it isn't really helping\" -Hugo, recently decapitated",
+            "flavour": "\"Well that sealed up the wound but it isn't really helping\" -Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Restore.png"
           }
         },
@@ -1133,7 +1133,7 @@
           "tier": "red",
           "details": {
             "rules": "Heal 30  to a visible character",
-            "flavour": "\"I feel better than ever. Except for my body, which I can no longer feel\" -Hugo, recently decapitated",
+            "flavour": "\"I feel better than ever. Except for my body, which I can no longer feel\" -Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Renew.png"
           }
         },
@@ -1143,7 +1143,7 @@
           "tier": "gold",
           "details": {
             "rules": "Revive a dead character.",
-            "flavour": "\"I have returned- what a joyous day\" -Huge, recently reunited with his body",
+            "flavour": "\"I have returned- what a joyous day\" -Hugo, Recently Reunited With his Body",
             "image": "assets/core/card/illustration/Reincarnate.png"
           }
         },
@@ -1373,7 +1373,7 @@
           "tier": "gold",
           "details": {
             "rules": "Summon a copy of any non-player character",
-            "flavour": "\"I hated the man so much I made a point of killing him twice\" - Deranged summoner R.J. Alabaster",
+            "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Summoner",
             "image": "assets/core/card/illustration/Holodisco.png"
           }
         }
