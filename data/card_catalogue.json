@@ -233,13 +233,13 @@
           }
         },
         {
-          "title": "The Queen's Gambit",
+          "title": "Queen's Gambit",
           "upgrade": "",
           "tier": "red",
           "details": {
             "rules": "Move instantly as many spaces as you want in a straight line.",
             "flavour": "Used without permission from Netflix, Inc.",
-            "image": "assets/core/card/illustration/The Queen's Gambit.png"
+            "image": "assets/core/card/illustration/Queen's Gambit.png"
           }
         },
         {
