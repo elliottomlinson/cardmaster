@@ -553,13 +553,13 @@
           }
         },
         {
-          "title": "Bound Bow",
+          "title": "Bow Charm",
           "upgrade": "",
           "tier": "green",
           "details": {
             "rules": "While holding this card in your hand, roll an additional d4 when you perform a ranged attack. Cast to deal 6 damage to a visible target.",
             "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light",
-            "image": "assets/core/card/illustration/Bound Bow.png"
+            "image": "assets/core/card/illustration/Bow Charm.png"
           }
         },
         {
