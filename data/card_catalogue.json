@@ -358,7 +358,7 @@
           "tier": "green",
           "details": {
             "rules": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
-            "flavour": "Outta my way son!",
+            "flavour": "\"You make a better door than a window\" - Obstructed individual",
             "image": "assets/core/card/illustration/Porticostatic Hex.png"
           }
         },
