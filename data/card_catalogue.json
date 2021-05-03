@@ -893,7 +893,7 @@
           "tier": "red",
           "details": {
             "rules": "Deal 6 damage and stun to up to 6 visible characters",
-            "flavour": "\"Clear!\" yelled the doctor, before lighting up the whole city",
+            "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants",
             "image": "assets/core/card/illustration/Fork Lightning.png"
           }
         },
