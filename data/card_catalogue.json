@@ -183,13 +183,13 @@
           }
         },
         {
-          "title": "Clippy",
+          "title": "Word Warp",
           "upgrade": "",
           "tier": "blue",
           "details": {
             "rules": "Swap two words in a character's vocabulary until the end of the day. The character will be unaware that they are saying the wrong word.",
             "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Abraham Lincoln",
-            "image": "assets/core/card/illustration/Clippy.png"
+            "image": "assets/core/card/illustration/Word Warp.png"
           }
         },
         {
