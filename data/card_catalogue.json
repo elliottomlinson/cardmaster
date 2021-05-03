@@ -408,7 +408,7 @@
           "tier": "green",
           "details": {
             "rules": "Unarmed attacks deal double damage until you play your next card.",
-            "flavour": "\"Humour is the weapon of unarmed people\" - Some Idiot",
+            "flavour": "I'm not unarmed, I've got two of them",
             "image": "assets/core/card/illustration/Bashbolster.png"
           }
         },
@@ -508,7 +508,7 @@
           "tier": "blue",
           "details": {
             "rules": "Summon a diembodied hand within 4 tiles to perform one simple action before vanishing.",
-            "flavour": "\"Magicians are a bunch of lazy bums\" -Brinley",
+            "flavour": "\"Magicians are a bunch of lazy bums\" - Brinley",
             "image": "assets/core/card/illustration/Eidolimb.png"
           }
         },
@@ -628,7 +628,7 @@
           "tier": "green",
           "details": {
             "rules": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
-            "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" -Barry the Bandit",
+            "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
             "image": "assets/core/card/illustration/Magic Trick.png"
           }
         },
@@ -683,7 +683,7 @@
           "tier": "green",
           "details": {
             "rules": "Throw an object up to 50 squares",
-            "flavour": "\"I will not rest until every window is smashed. They are an insult to me and my kind\" -Little Jimmy, neighborhood rascal",
+            "flavour": "\"I will not rest until every window is smashed. They are an insult to me and my kind\" - Little Jimmy, neighborhood rascal",
             "image": "assets/core/card/illustration/Pitch.png"
           }
         },
@@ -883,7 +883,7 @@
           "tier": "green",
           "details": {
             "rules": "Deal 4 damage and stun up to 2 visible characters",
-            "flavour": "\"No.\" -Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands",
+            "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands",
             "image": "assets/core/card/illustration/Lightning Bolt.png"
           }
         },
@@ -1073,7 +1073,7 @@
           "tier": "blue",
           "details": {
             "rules": "Target NPC fails their current action and loses focus on you",
-            "flavour": "\"Ok one sec my homework is in my bag I'll grab it in a minute. How was your weekend?\" -Little Sniver",
+            "flavour": "\"Ok one sec my homework is in my bag I'll grab it in a minute. How was your weekend?\" - Little Sniver",
             "image": "assets/core/card/illustration/Distract.png"
           }
         },
@@ -1113,7 +1113,7 @@
           "tier": "blue",
           "details": {
             "rules": "Heal 8 to a visible character",
-            "flavour": "\"Yeah that feels a little better\" -Hugo, Recently Decapitated",
+            "flavour": "\"Yeah that feels a little better\" - Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Cure.png"
           }
         },
@@ -1123,7 +1123,7 @@
           "tier": "green",
           "details": {
             "rules": "Heal 10 to a visible character",
-            "flavour": "\"Well that sealed up the wound but it isn't really helping\" -Hugo, Recently Decapitated",
+            "flavour": "\"Well that sealed up the wound but it isn't really helping\" - Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Restore.png"
           }
         },
@@ -1133,7 +1133,7 @@
           "tier": "red",
           "details": {
             "rules": "Heal 30  to a visible character",
-            "flavour": "\"I feel better than ever. Except for my body, which I can no longer feel\" -Hugo, Recently Decapitated",
+            "flavour": "\"I feel better than ever. Except for my body, which I can no longer feel\" - Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Renew.png"
           }
         },
@@ -1143,7 +1143,7 @@
           "tier": "gold",
           "details": {
             "rules": "Revive a dead character.",
-            "flavour": "\"I have returned- what a joyous day\" -Hugo, Recently Reunited With his Body",
+            "flavour": "\"I have returned- what a joyous day\" - Hugo, Recently Reunited With his Body",
             "image": "assets/core/card/illustration/Reincarnate.png"
           }
         },
@@ -1223,7 +1223,7 @@
           "tier": "gold",
           "details": {
             "rules": "When you cast this card, name a character. They can no longer deal damage to you.",
-            "flavour": "You would try some horseshit like that wouldn't you? Well I see right through you",
+            "flavour": "You would try something like that wouldn't you? Well I see right through you",
             "image": "assets/core/card/illustration/Block.png"
           }
         },
@@ -1313,7 +1313,7 @@
           "tier": "green",
           "details": {
             "rules": "Shoot a blast of wind from your hand in any direction. All characters hit by the wind are sent airborne. If any of those characters were already airborne, knock them back 8 squares",
-            "flavour": "Bitch, you look like a birthday candle",
+            "flavour": "You look like a birthday candle",
             "image": "assets/core/card/illustration/Gale.png"
           }
         },
@@ -1343,7 +1343,7 @@
           "tier": "blue",
           "details": {
             "rules": "Summon an impassible wall of light on 1 square until end of turn.",
-            "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" -Barry the Bandit",
+            "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
             "image": "assets/core/card/illustration/Barrier.png"
           }
         },
