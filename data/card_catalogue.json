@@ -105,7 +105,7 @@
           "tier": "gold",
           "details": {
             "rules": "Name a character not on the current map. They take 100 damage.",
-            "flavour": "'I wish this guy would just die before we even showed up, that'd save us a lot of time' -General Tso",
+            "flavour": "'I wish this guy would just die before we even showed up, that'd save us a lot of time' - General Zardon",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
