@@ -318,7 +318,7 @@
           "tier": "red",
           "details": {
             "rules": "Choose X up to 5. An boundary, impenetrable from within, is placed X squares away from you in all directions as long as you'd like",
-            "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Coco Chanel",
+            "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Man who doesn't own a pickaxe",
             "image": "assets/core/card/illustration/Prison.png"
           }
         },
