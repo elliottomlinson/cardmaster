@@ -12,8 +12,8 @@
               "tier": "blue",
               "details": {
                 "rules": "Deal X damage to every non-player character you've ever known, where X is the number of complaints you can  list in 30 seconds",
-                "flavour": "\"The world is irredeemable. I have yet to meet a soul worth saving.\" -Fester the Limp",
-                "image": "assets/core/card/illustration/Inner\ Sun.png"
+                "flavour": "\"The world is irredeemable. I have yet to meet a soul worth saving.\" - Fester the Limp",
+                "image": "assets/core/card/illustration/Inner Sun.png"
               }
             },
             {
@@ -21,8 +21,8 @@
               "tier": "green",
               "details": {
                 "rules": "Sacrifice your life. Kill a character who you've met.",
-                "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" -Fester's final words",
-                "image": "assets/core/card/illustration/Inner\ Sun.png"
+                "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
+                "image": "assets/core/card/illustration/Inner Sun.png"
               }
             }
           ]
@@ -33,7 +33,7 @@
           "draft": true,
           "details": {
             "rules": "Stun a character for one turn",
-            "flavour": "The sweet smell of bathtub toast"
+            "flavour": "The sweet smell of bathtub toast."
           }
         },
         {
@@ -41,8 +41,8 @@
           "tier": "blue",
           "details": {
             "rules": "Stun a character for two turns",
-            "flavour": "Human beings are basically just big potato batteries",
-            "image": "assets/core/card/illustration/Inner\ Sun.png"
+            "flavour": "Human beings are basically just big potato batteries.",
+            "image": "assets/core/card/illustration/Inner Sun.png"
           }
         }
       ]
@@ -56,7 +56,7 @@
           "tier": "green",
           "details": {
             "rules": "Deal 6 damage to a character. If they die or go unconscious, return this card to your hand.",
-            "flavour": "Created from a blood ritual in the 7th Cathedral",
+            "flavour": "Created from a blood ritual in the 7th Cathedral.",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
@@ -67,7 +67,7 @@
           "tier": "red",
           "details": {
             "rules": "While this card is in your hand, your attacks deal an additional d4 of damage and soak the target. Cast to spray a torrent of water in a line.",
-            "flavour": "Stolen from Drake Monroe in his Goat Factory",
+            "flavour": "Stolen from Drake Monroe in his Goat Factory.",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
@@ -105,7 +105,7 @@
           "tier": "gold",
           "details": {
             "rules": "Name a character not on the current map. They take 100 damage.",
-            "flavour": "'I wish this guy would just die before we even showed up, that'd save us a lot of time' - General Zardon",
+            "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
@@ -121,7 +121,7 @@
           "tier": "gold",
           "details": {
             "rules": "While this card is in your hand, your melee attacks knock characters back 3 squares. Cast to knock a visible character back 3 squares.",
-            "flavour": "You could have a steam train, if you'd just lay down your tracks",
+            "flavour": "This one'll bring down the house.",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
@@ -132,7 +132,7 @@
           "tier": "red",
           "details": {
             "rules": "While this card is in your hand, characters you damage are healed for the same amount instead. Cast to deal damage equal to the amount you healed this turn.",
-            "flavour": "",
+            "flavour": "\"Clear!\" - Dr. Asterope, before killing 10 with a defibrillator.",
             "image": "assets/core/card/illustration/Bean Blast.png"
           },
           "draft": true
@@ -178,7 +178,7 @@
           "tier": "blue",
           "details": {
             "rules": "Target an article of clothing intended to be worn on a foot. A snake appears inside of it.",
-            "flavour": "\"Reeeeeeach for the skies\" - The Sherrif",
+            "flavour": "\"Always drink upstream from the herd\" - The Sherrif",
             "image": "assets/core/card/illustration/Sherrif's Roundup.png"
           }
         },
@@ -198,7 +198,7 @@
           "tier": "blue",
           "details": {
             "rules": "Throw a pair of bola, a long range weapon design to wrap around a target.",
-            "flavour": "Good for tripping and binding a long range target",
+            "flavour": "Good for tripping and binding a long range target.",
             "image": "assets/core/card/illustration/Ancient Throwing Bola.png"
           }
         },
@@ -218,7 +218,7 @@
           "tier": "blue",
           "details": {
             "rules": "Cast a handful of sand and pocket lint into the air before you.",
-            "flavour": "Good for blinding a close range target",
+            "flavour": "Good for blinding a close range target.",
             "image": "assets/core/card/illustration/Empouched Earth.png"
           }
         },
@@ -238,7 +238,7 @@
           "tier": "red",
           "details": {
             "rules": "Move instantly as many spaces as you want in a straight line.",
-            "flavour": "Used without permission from Netflix, Inc.",
+            "flavour": "Checkmate",
             "image": "assets/core/card/illustration/Queen's Gambit.png"
           }
         },
@@ -248,7 +248,7 @@
           "tier": "blue",
           "details": {
             "rules": "Speak with any living NPC. Return this card to the deck and draw another.",
-            "flavour": "How'd you get this number? I don't even own a phone",
+            "flavour": "How'd you get this number? I don't even own a phone!",
             "image": "assets/core/card/illustration/Commune.png"
           }
         },
@@ -258,7 +258,7 @@
           "tier": "blue",
           "details": {
             "rules": "Speak with any dead NPC. Return this card to the deck and draw another.",
-            "flavour": "How'd you get this number? I didn't even own a phone when I was alive",
+            "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
             "image": "assets/core/card/illustration/Seance.png"
           }
         },
@@ -288,7 +288,7 @@
           "tier": "green",
           "details": {
             "rules": "All players return to Gerraro's Hideout. Return this card to the deck.",
-            "flavour": "You cannot escape the responsibility of tomorrow by evading it today",
+            "flavour": "You cannot escape the responsibility of tomorrow by evading it today.",
             "image": "assets/core/card/illustration/Escape.png"
           }
         },
@@ -298,7 +298,7 @@
           "tier": "green",
           "details": {
             "rules": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
-            "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Shiv Khera",
+            "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
             "image": "assets/core/card/illustration/Disappear.png"
           }
         },
@@ -318,7 +318,7 @@
           "tier": "red",
           "details": {
             "rules": "Choose X up to 5. An boundary, impenetrable from within, is placed X squares away from you in all directions as long as you'd like",
-            "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Man who doesn't own a pickaxe",
+            "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
             "image": "assets/core/card/illustration/Prison.png"
           }
         },
@@ -328,7 +328,7 @@
           "tier": "green",
           "details": {
             "rules": "Pick a small animal or insect for your target to be swarmed by.",
-            "flavour": "The sky went dark, and all sound was drowned out by the hum of their arrival",
+            "flavour": "The sky went dark, and all sound was drowned out by the hum of their arrival.",
             "image": "assets/core/card/illustration/The Swarm.png"
           }
         },
@@ -338,7 +338,7 @@
           "tier": "red",
           "details": {
             "rules": "Until your next turn, deal double damage and take double damage.",
-            "flavour": "\"[...] the stakes, therefore, remain at the same altitude\" - Noted Polymath Dr. F. Mickleson",
+            "flavour": "\"[...] the stakes, therefore, remain at the same altitude\" - Dr. F. Mickleson, Noted Polymath",
             "image": "assets/core/card/illustration/Glass Cannon.png"
           }
         },
@@ -348,7 +348,7 @@
           "tier": "blue",
           "details": {
             "rules": "Creates a strong odor hardly noticeable by humans but detested by all other lifeforms.",
-            "flavour": "...and robots",
+            "flavour": "He who smelt it was dealt it.",
             "image": "assets/core/card/illustration/Monster Deterrent.png"
           }
         },
@@ -358,7 +358,7 @@
           "tier": "green",
           "details": {
             "rules": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
-            "flavour": "\"You make a better door than a window\" - Obstructed individual",
+            "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
             "image": "assets/core/card/illustration/Porticostatic Hex.png"
           }
         },
@@ -368,7 +368,7 @@
           "tier": "green",
           "details": {
             "rules": "Stand atop an object. Your character and the object are flung in the direction of your choice until obstructed.",
-            "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps",
+            "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
             "image": "assets/core/card/illustration/Object Eject.png"
           }
         },
@@ -388,7 +388,7 @@
           "tier": "blue",
           "details": {
             "rules": "Learn the current location of an item you've touched in the past.",
-            "flavour": "\"At last I'll be able to track down the missing socks\" - Angry Witch",
+            "flavour": "\"At last I'll be able to track down the missing socks\" - Cordelia Hex, Angry Witch",
             "image": "assets/core/card/illustration/Where-Ware Charm.png"
           }
         },
@@ -408,7 +408,7 @@
           "tier": "green",
           "details": {
             "rules": "Unarmed attacks deal double damage until you play your next card.",
-            "flavour": "\"Humour is the weapon of unarmed people\" - Some Idiot",
+            "flavour": "I'm not unarmed, I've got two of them.",
             "image": "assets/core/card/illustration/Bashbolster.png"
           }
         },
@@ -438,7 +438,7 @@
           "tier": "blue",
           "details": {
             "rules": "Choose a 2x2 area to fill temporarily with an opaque smoke",
-            "flavour": "Mildly anoxic",
+            "flavour": "Mildly anoxic.",
             "image": "assets/core/card/illustration/Smoke Bomb.png"
           }
         },
@@ -448,7 +448,7 @@
           "tier": "red",
           "details": {
             "rules": "The next time you're unconscious, return to life with 20 HP. For each card you discarded from your hand after going unconscious, draw another of the same rarity from the deck.",
-            "flavour": "What he saw on the other side changed him",
+            "flavour": "What he saw on the other side changed him.",
             "image": "assets/core/card/illustration/Phoenix Reborn.png"
           }
         },
@@ -458,7 +458,7 @@
           "tier": "blue",
           "details": {
             "rules": "Pick a tile up to 2 tiles away. The next charcter to walk on this tile will fall over.",
-            "flavour": "Nothing like a little prop humour",
+            "flavour": "Nothing like a little prop humour.",
             "image": "assets/core/card/illustration/Banana Peel.png"
           }
         },
@@ -468,7 +468,7 @@
           "tier": "green",
           "details": {
             "rules": "Draws you towards a charcter in your line of sight at high speed. Both take 6 damage on impact.",
-            "flavour": "C'mere",
+            "flavour": "C'mere.",
             "image": "assets/core/card/illustration/Grapple.png"
           }
         },
@@ -478,7 +478,7 @@
           "tier": "blue",
           "details": {
             "rules": "Teleport to any visible space. Take damage equal to the number of squares moved.",
-            "flavour": "Travelling is always a pain",
+            "flavour": "Travelling is always a pain.",
             "image": "assets/core/card/illustration/Platzfalt Step.png"
           }
         },
@@ -488,7 +488,7 @@
           "tier": "green",
           "details": {
             "rules": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
-            "flavour": "\"There's something rather.. lively about this chair\" - General Kudzo",
+            "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
             "image": "assets/core/card/illustration/Poltergeist.png"
           }
         },
@@ -498,7 +498,7 @@
           "tier": "green",
           "details": {
             "rules": "An aura surrounds you. NPCs believe this spell had the effect of your choice",
-            "flavour": "Conjurers con jurors",
+            "flavour": "Conjurers con jurors.",
             "image": "assets/core/card/illustration/Superficial Spectacle.png"
           }
         },
@@ -508,7 +508,7 @@
           "tier": "blue",
           "details": {
             "rules": "Summon a diembodied hand within 4 tiles to perform one simple action before vanishing.",
-            "flavour": "\"Magicians are a bunch of lazy bums\" -Brinley",
+            "flavour": "\"Magicians are a bunch of lazy bums\" - Brinley B.",
             "image": "assets/core/card/illustration/Eidolimb.png"
           }
         },
@@ -518,7 +518,7 @@
           "tier": "blue",
           "details": {
             "rules": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
-            "flavour": "Mafia hideouts are often mysteriously empty when Rebel forces arrive to perform arrests",
+            "flavour": "Mafia hideouts are often mysteriously empty when Rebel forces arrive to perform arrests.",
             "image": "assets/core/card/illustration/Tripwire Charm.png"
           }
         },
@@ -528,7 +528,7 @@
           "tier": "red",
           "details": {
             "rules": "The effect of the next spell intended for you is applied instead to the caster.",
-            "flavour": "Magic knows no loyalty",
+            "flavour": "Magic knows no loyalty.",
             "image": "assets/core/card/illustration/Counterspell.png"
           }
         },
@@ -557,7 +557,7 @@
           "upgrade": "",
           "tier": "green",
           "details": {
-            "rules": "While holding this card in your hand, roll an additional d4 when you perform a ranged attack. Cast to deal 6 damage to a visible target.",
+            "rules": "While this card is in your hand, roll an additional d4 when you perform a ranged attack. Cast to deal 6 damage to a visible target.",
             "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light",
             "image": "assets/core/card/illustration/Bow Charm.png"
           }
@@ -567,7 +567,7 @@
           "upgrade": "",
           "tier": "green",
           "details": {
-            "rules": "While holding this card in your hand, roll an additional d6 when you perform a melee attack. Cast to deal 6 damage to a visible target.",
+            "rules": "While this card is in your hand, roll an additional d6 when you perform a melee attack. Cast to deal 6 damage to a visible target.",
             "flavour": "It didn't slash or pierce, but rather burned. The fallen glowed as though their souls were leaving their bodies",
             "image": "assets/core/card/illustration/Sword Charm.png"
           }
@@ -597,8 +597,8 @@
           "upgrade": "",
           "tier": "blue",
           "details": {
-            "rules": "Covers a non-magic object in a thin layer of ice.",
-            "flavour": "Thou art all ice. Thy kindness freezes.  ",
+            "rules": "Cover a non-magic object in a thin layer of ice.",
+            "flavour": "Whoa, chill.",
             "image": "assets/core/card/illustration/Rime Charm.png"
           }
         },
@@ -628,7 +628,7 @@
           "tier": "green",
           "details": {
             "rules": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
-            "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" -Barry the Bandit",
+            "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
             "image": "assets/core/card/illustration/Magic Trick.png"
           }
         },
@@ -648,7 +648,7 @@
           "tier": "blue",
           "details": {
             "rules": "Summons a slice of toast the size of a door",
-            "flavour": "Roughly 13000 calories",
+            "flavour": "Roughly 13000 calories.",
             "image": "assets/core/card/illustration/You're Toast.png"
           }
         },
@@ -673,7 +673,7 @@
           "tier": "blue",
           "details": {
             "rules": "Throw an object up to 10 squares",
-            "flavour": "If you're going to throw in the towel, at least do it properly",
+            "flavour": "If you're going to throw in the towel, at least do it properly.",
             "image": "assets/core/card/illustration/Whip.png"
           }
         },
@@ -683,7 +683,7 @@
           "tier": "green",
           "details": {
             "rules": "Throw an object up to 50 squares",
-            "flavour": "\"I will not rest until every window is smashed. They are an insult to me and my kind\" -Little Jimmy, neighborhood rascal",
+            "flavour": "\"I will not rest until every window is smashed. They are an insult to me and my kind\" - Little Jimmy, neighborhood rascal",
             "image": "assets/core/card/illustration/Pitch.png"
           }
         },
@@ -713,7 +713,7 @@
           "tier": "blue",
           "details": {
             "rules": "Increases your rapport with a visible character",
-            "flavour": "If you were words on a card, you'd be some fine print",
+            "flavour": "If you were words on a card, you'd be some fine print.",
             "image": "assets/core/card/illustration/Flirt.png"
           }
         },
@@ -733,7 +733,7 @@
           "tier": "red",
           "details": {
             "rules": "Causes a visible character to become attracted to you.",
-            "flavour": "Are you a beaver? Because dam",
+            "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
             "image": "assets/core/card/illustration/Arouse.png"
           }
         },
@@ -783,7 +783,7 @@
           "tier": "gold",
           "details": {
             "rules": "Copy the last Gold card used by any character",
-            "flavour": "Nothing is original",
+            "flavour": "Nothing is original.",
             "image": "assets/core/card/illustration/The Highest Form of Flattery.png"
           }
         },
@@ -883,7 +883,7 @@
           "tier": "green",
           "details": {
             "rules": "Deal 4 damage and stun up to 2 visible characters",
-            "flavour": "\"No.\" -Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands",
+            "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
             "image": "assets/core/card/illustration/Lightning Bolt.png"
           }
         },
@@ -893,7 +893,7 @@
           "tier": "red",
           "details": {
             "rules": "Deal 6 damage and stun to up to 6 visible characters",
-            "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants",
+            "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants.",
             "image": "assets/core/card/illustration/Fork Lightning.png"
           }
         },
@@ -903,7 +903,7 @@
           "tier": "gold",
           "details": {
             "rules": "Turn off the power in the current Cube. Draw 3 copies of Fork Lightning.",
-            "flavour": "If your hate could be turned into electricity, it would light up the whole world",
+            "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
             "image": "assets/core/card/illustration/Electric Vortex.png"
           }
         },
@@ -913,7 +913,7 @@
           "tier": "blue",
           "details": {
             "rules": "Ignite a small fire on a visible, flammable object",
-            "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money",
+            "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
             "image": "assets/core/card/illustration/Ignite.png"
           }
         },
@@ -943,7 +943,7 @@
           "tier": "gold",
           "details": {
             "rules": "Summon an Inner Sun the size of a baseball. The Inner sun is explosively flammable and burns forever.",
-            "flavour": "My rage burns with the force of 1000 suns",
+            "flavour": "My rage burns with the force of 1000 suns.",
             "image": "assets/core/card/illustration/Inner Sun.png"
           }
         },
@@ -953,7 +953,7 @@
           "tier": "blue",
           "details": {
             "rules": "Jump up 3 metres",
-            "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, concerned father",
+            "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, Concerned Father",
             "image": "assets/core/card/illustration/Jump.png"
           }
         },
@@ -963,7 +963,7 @@
           "tier": "green",
           "details": {
             "rules": "Jump 25 metres in the air",
-            "flavour": "\"Good lord, look at him go..\" - Warner Higgins, concerned father",
+            "flavour": "\"Good lord, look at him go..\" - Warner Higgins, Concerned Father",
             "image": "assets/core/card/illustration/Leap.png"
           }
         },
@@ -973,7 +973,7 @@
           "tier": "red",
           "details": {
             "rules": "Hover up to 5 feet off the ground until you lose concentration.",
-            "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, concerned father",
+            "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, Concerned Father",
             "image": "assets/core/card/illustration/Soar.png"
           }
         },
@@ -983,7 +983,7 @@
           "tier": "gold",
           "details": {
             "rules": "Jump as high as you want",
-            "flavour": "\"I miss him everyday\" - Warner Higgins, concerned father",
+            "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
             "image": "assets/core/card/illustration/Ascend.png"
           }
         },
@@ -993,7 +993,7 @@
           "tier": "blue",
           "details": {
             "rules": "Target an object. It becomes moist, as if it had been sprayed with a fine mist",
-            "flavour": "I think I'm going to need a change of clothes",
+            "flavour": "I think I'm going to need a change of clothes.",
             "image": "assets/core/card/illustration/Moisten.png"
           }
         },
@@ -1003,7 +1003,7 @@
           "tier": "green",
           "details": {
             "rules": "Target a point. Everything within 2m of this point is now saturated with water.",
-            "flavour": "My plan: complete. Their day: ruined",
+            "flavour": "My plan: complete. Their day: ruined.",
             "image": "assets/core/card/illustration/Soak.png"
           }
         },
@@ -1013,7 +1013,7 @@
           "tier": "red",
           "details": {
             "rules": "Summons 10000 gallons of water to a targeted point.",
-            "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" -Quomo the Quivering",
+            "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" - Quomo the Quivering",
             "image": "assets/core/card/illustration/Drench.png"
           }
         },
@@ -1043,7 +1043,7 @@
           "tier": "green",
           "details": {
             "rules": "You may force a thrown d20 or the next thrown d20 to be rerolled.",
-            "flavour": "He will save us from our mortal errors",
+            "flavour": "He will save us from our mortal errors.",
             "image": "assets/core/card/illustration/Pray.png"
           }
         },
@@ -1053,7 +1053,7 @@
           "tier": "red",
           "details": {
             "rules": "Instill a religious vision of your choosing into target character",
-            "flavour": "He lives deep in the hearts of all men",
+            "flavour": "He lives deep in the hearts of all men.",
             "image": "assets/core/card/illustration/Preach.png"
           }
         },
@@ -1063,7 +1063,7 @@
           "tier": "gold",
           "details": {
             "rules": "All players will critically succeed on their next d20 roll this turn.",
-            "flavour": "And the light shone bright upon the chosen",
+            "flavour": "And the light shone bright upon the chosen.",
             "image": "assets/core/card/illustration/Wish.png"
           }
         },
@@ -1073,7 +1073,7 @@
           "tier": "blue",
           "details": {
             "rules": "Target NPC fails their current action and loses focus on you",
-            "flavour": "\"Ok one sec my homework is in my bag I'll grab it in a minute. How was your weekend?\" -Little Sniver",
+            "flavour": "\"Ok one sec my homework is in my bag I'll grab it in a minute. How was your weekend?\" - Little Sniver",
             "image": "assets/core/card/illustration/Distract.png"
           }
         },
@@ -1083,7 +1083,7 @@
           "tier": "green",
           "details": {
             "rules": "Target NPC will believe your next statement.",
-            "flavour": "\"Yeah of course I did my homework\" -Little Sniver",
+            "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
             "image": "assets/core/card/illustration/Lie.png"
           }
         },
@@ -1093,7 +1093,7 @@
           "tier": "red",
           "details": {
             "rules": "Change your appearance to match that of another exactly for as long as you'd like.",
-            "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" -Little Sniver",
+            "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
             "image": "assets/core/card/illustration/Disguise.png"
           }
         },
@@ -1103,7 +1103,7 @@
           "tier": "gold",
           "details": {
             "rules": "Rewrite the contents of a visible character's memory",
-            "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" -Little Sniver",
+            "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
             "image": "assets/core/card/illustration/Revise.png"
           }
         },
@@ -1113,7 +1113,7 @@
           "tier": "blue",
           "details": {
             "rules": "Heal 8 to a visible character",
-            "flavour": "\"Yeah that feels a little better\" -Hugo, recently decapitated",
+            "flavour": "\"Yeah that feels a little better\" - Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Cure.png"
           }
         },
@@ -1123,7 +1123,7 @@
           "tier": "green",
           "details": {
             "rules": "Heal 10 to a visible character",
-            "flavour": "\"Well that sealed up the wound but it isn't really helping\" -Hugo, recently decapitated",
+            "flavour": "\"Well that sealed up the wound but it isn't really helping\" - Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Restore.png"
           }
         },
@@ -1133,7 +1133,7 @@
           "tier": "red",
           "details": {
             "rules": "Heal 30  to a visible character",
-            "flavour": "\"I feel better than ever. Except for my body, which I can no longer feel\" -Hugo, recently decapitated",
+            "flavour": "\"I feel better than ever. Except for my body, which I can no longer feel\" - Hugo, Recently Decapitated",
             "image": "assets/core/card/illustration/Renew.png"
           }
         },
@@ -1143,7 +1143,7 @@
           "tier": "gold",
           "details": {
             "rules": "Revive a dead character.",
-            "flavour": "\"I have returned- what a joyous day\" -Huge, recently reunited with his body",
+            "flavour": "\"I have returned- what a joyous day\" - Hugo, Recently Reunited With his Body",
             "image": "assets/core/card/illustration/Reincarnate.png"
           }
         },
@@ -1153,7 +1153,7 @@
           "tier": "blue",
           "details": {
             "rules": "Travel up to 5 squares in any direction",
-            "flavour": "These are great for the glutes",
+            "flavour": "These are great for the glutes.",
             "image": "assets/core/card/illustration/Lunge.png"
           }
         },
@@ -1173,7 +1173,7 @@
           "tier": "red",
           "details": {
             "rules": "Teleport anywhere within 20 squares",
-            "flavour": "If teleportation was impossible why did they make a word for it? Answer that one smart guy",
+            "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
             "image": "assets/core/card/illustration/Teleport.png"
           }
         },
@@ -1203,7 +1203,7 @@
           "tier": "green",
           "details": {
             "rules": "Any damage dealt to you until your next turn is dealt both to you and your attacker",
-            "flavour": "Let's see how you like it!",
+            "flavour": "Let's see how you like it!.",
             "image": "assets/core/card/illustration/Reflect.png"
           }
         },
@@ -1213,7 +1213,7 @@
           "tier": "red",
           "details": {
             "rules": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker",
-            "flavour": "I am rubber, and you are glue",
+            "flavour": "I am rubber, and you are glue.",
             "image": "assets/core/card/illustration/Deflect.png"
           }
         },
@@ -1223,7 +1223,7 @@
           "tier": "gold",
           "details": {
             "rules": "When you cast this card, name a character. They can no longer deal damage to you.",
-            "flavour": "You would try some horseshit like that wouldn't you? Well I see right through you",
+            "flavour": "You would try something like that wouldn't you? Well I see right through you",
             "image": "assets/core/card/illustration/Block.png"
           }
         },
@@ -1243,7 +1243,7 @@
           "tier": "green",
           "details": {
             "rules": "You can attack four additional times this turn",
-            "flavour": "Their defense won't last forever. Strike, and strike again",
+            "flavour": "Their defense won't last forever. Strike, and strike again.",
             "image": "assets/core/card/illustration/Quad Strike.png"
           }
         },
@@ -1263,7 +1263,7 @@
           "tier": "gold",
           "details": {
             "rules": "Take X damage. You can attack X times this turn",
-            "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs",
+            "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs.",
             "image": "assets/core/card/illustration/Endless blows.png"
           }
         },
@@ -1273,7 +1273,7 @@
           "tier": "blue",
           "details": {
             "rules": "Place 3 green cards on the table. You may cast one of them.",
-            "flavour": "No more of this bush league nonsense. We need some real power",
+            "flavour": "No more of this bush league nonsense. We need some real power.",
             "image": "assets/core/card/illustration/Four Leaf Clover.png"
           }
         },
@@ -1283,7 +1283,7 @@
           "tier": "green",
           "details": {
             "rules": "Place 3 Red cards on the table. You may cast one of them.",
-            "flavour": "I might be able to pull it off- but just this once",
+            "flavour": "I might be able to pull it off- but just this once.",
             "image": "assets/core/card/illustration/Rabbit_s Foot.png"
           }
         },
@@ -1303,7 +1303,7 @@
           "tier": "blue",
           "details": {
             "rules": "Knock target visible character airborne. If this character is already airborne, knock them back 5 squares",
-            "flavour": "He should've worn a windbreaker",
+            "flavour": "He should've worn a windbreaker.",
             "image": "assets/core/card/illustration/Gust of Wind.png"
           }
         },
@@ -1313,7 +1313,7 @@
           "tier": "green",
           "details": {
             "rules": "Shoot a blast of wind from your hand in any direction. All characters hit by the wind are sent airborne. If any of those characters were already airborne, knock them back 8 squares",
-            "flavour": "Bitch, you look like a birthday candle",
+            "flavour": "You look like a birthday candle.",
             "image": "assets/core/card/illustration/Gale.png"
           }
         },
@@ -1333,7 +1333,7 @@
           "tier": "gold",
           "details": {
             "rules": "A powerful hurricane is summoned over the play area which lasts as long as you want.",
-            "flavour": "",
+            "flavour": "It is rare for an area to know such devestation.",
             "image": "assets/core/card/illustration/Hurricane.png"
           }
         },
@@ -1343,7 +1343,7 @@
           "tier": "blue",
           "details": {
             "rules": "Summon an impassible wall of light on 1 square until end of turn.",
-            "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" -Barry the Bandit",
+            "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
             "image": "assets/core/card/illustration/Barrier.png"
           }
         },
@@ -1353,7 +1353,7 @@
           "tier": "green",
           "details": {
             "rules": "Summon an immobile monk until end of turn who punches characters who come within range for 6 damage.",
-            "flavour": "His name is Po",
+            "flavour": "His name is Po.",
             "image": "assets/core/card/illustration/Holomonk.png"
           }
         },
@@ -1363,7 +1363,7 @@
           "tier": "red",
           "details": {
             "rules": "Summon 3 immobile martial artists until end of turn who knock characters who come within range back 8 squares",
-            "flavour": "Their names are Memboba, Imbosaa, and Steepedi",
+            "flavour": "Their names are Memboba, Imbosaa, and Steepedi.",
             "image": "assets/core/card/illustration/HoloKicker.png"
           }
         },
@@ -1373,7 +1373,7 @@
           "tier": "gold",
           "details": {
             "rules": "Summon a copy of any non-player character",
-            "flavour": "\"I hated the man so much I made a point of killing him twice\" - Deranged summoner R.J. Alabaster",
+            "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Summoner",
             "image": "assets/core/card/illustration/Holodisco.png"
           }
         }
