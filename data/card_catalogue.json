@@ -66,7 +66,7 @@
           "tier": "grey",
           "details": {
             "rules": "Move 1 square in a straight line",
-            "flavour": "I can dodge bullets, baby!",
+            "flavour": "When speed gets in the blood, one must move to live",
             "image": "assets/core/card/illustration/Shift.png"
           }
         },
@@ -76,7 +76,7 @@
           "tier": "grey",
           "details": {
             "rules": "Decrease the value of a thrown d20 by 1",
-            "flavour": "The key to winning any game is disruping the flow of your opponent",
+            "flavour": "The collective will of the people made manifest",
             "image": "assets/core/card/illustration/Fluster.png"
           }
         },
@@ -85,8 +85,8 @@
           "upgrade": "",
           "tier": "grey",
           "details": {
-            "rules": "Human force extends far past the limits of an earthly body",
-            "flavour": "",
+            "rules": "Push a visible object slightly",
+            "flavour": "Human force extends far past the limits of an earthly body",
             "image": "assets/core/card/illustration/Push.png"
           }
         },
@@ -96,7 +96,7 @@
           "tier": "grey",
           "details": {
             "rules": "Pull a visible object slightly",
-            "flavour": "It was as though his scepter longed to return to its rightful master",
+            "flavour": "Human force extends far past the limits of an earthly body",
             "image": "assets/core/card/illustration/Pull.png"
           }
         }
