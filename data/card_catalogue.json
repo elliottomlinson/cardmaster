@@ -113,8 +113,7 @@
             "rules": "Deal 6 damage to a character. If they die or go unconscious, return this card to your hand.",
             "flavour": "Created from a blood ritual in the 7th Cathedral.",
             "image": "assets/core/card/illustration/Bean Blast.png"
-          },
-          "draft": true
+          }
         },
         {
           "title": "Drake's Water Staff",
@@ -124,8 +123,7 @@
             "rules": "While this card is in your hand, your attacks deal an additional d4 of damage and soak the target. Cast to spray a torrent of water in a line.",
             "flavour": "Stolen from Drake Monroe in his Goat Factory.",
             "image": "assets/core/card/illustration/Bean Blast.png"
-          },
-          "draft": true
+          }
         }
       ]
     },
