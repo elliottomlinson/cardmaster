@@ -38,6 +38,17 @@ printed_by_title = stored_card_specs.each_with_object({}) do |card_spec, title_h
   title_hash[card_spec.title] = card_spec
 end
 
+specified_by_title = card_specs.each_with_object({}) do |card_spec, title_hash|
+  title_hash[card_spec.title] = card_spec
+end
+
+stored_card_specs.map do |card_spec|
+  if specified_by_title[card_spec.title].nil?
+    puts "Deleting printed card missing from spec #{card_spec.title}..."
+    storage_adapter.delete(card_spec.title)
+  end
+end
+
 spec_diffs = card_specs.map do |card_spec|
   {
     old: printed_by_title[card_spec.title],
