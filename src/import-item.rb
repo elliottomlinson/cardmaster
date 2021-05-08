@@ -68,4 +68,4 @@ sets.each do |set|
   end
 end
 end
-puts "done all items"
+puts "\tdone all items for session "+$session
