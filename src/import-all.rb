@@ -1,4 +1,5 @@
 require_relative "./config.rb"
+require 'bundler/setup'
 
 SESSIONS_GIT_DIR = GIT_DIR+"/assets/campaign"
 
