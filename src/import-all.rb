@@ -1,9 +1,11 @@
 require_relative "./config.rb"
 require 'bundler/setup'
-
+$VERBOSE = nil
 SESSIONS_GIT_DIR = GIT_DIR+"/assets/campaign"
 
 $session = ''
+
+load "./templates.rb"
 
 sessions = Dir.children(SESSIONS_GIT_DIR)
 puts "found "+sessions.length.to_s+" sessions"
@@ -15,10 +17,10 @@ sessions.each do |eachsession|
   load "./dirs.rb"
   Dir.mkdir(SESSION_SAVED_DIR) unless File.exists?(SESSION_SAVED_DIR)
 
-  load "./templates.rb"
-  load "./import-map.rb"
-  load "./import-char.rb"
-  load "./import-bg.rb"
+  #load "./templates.rb"
+  #load "./import-map.rb"
+  #load "./import-char.rb"
+  #load "./import-bg.rb"
   load "./import-item.rb"
   load "./import-stated.rb"
   puts "done session"
