@@ -8,7 +8,9 @@ $session = ''
 load "./templates.rb"
 
 sessions = Dir.children(SESSIONS_GIT_DIR)
+puts "begin Cardmaster asset import"
 puts "found "+sessions.length.to_s+" sessions"
+puts ""
 
 sessions.each do |eachsession|
   $session = eachsession
@@ -17,13 +19,14 @@ sessions.each do |eachsession|
   load "./dirs.rb"
   Dir.mkdir(SESSION_SAVED_DIR) unless File.exists?(SESSION_SAVED_DIR)
 
-  #load "./templates.rb"
-  #load "./import-map.rb"
-  #load "./import-char.rb"
-  #load "./import-bg.rb"
+  load "./templates.rb"
+  load "./import-map.rb"
+  load "./import-char.rb"
+  load "./import-bg.rb"
   load "./import-item.rb"
   load "./import-stated.rb"
-  puts "done session"
+  puts "done session "+eachsession
+  puts ""
 
 end
   load "./import-tts-objs.rb"
