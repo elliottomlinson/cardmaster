@@ -87,7 +87,7 @@
           "details": {
             "rules": "Human force extends far past the limits of an earthly body",
             "flavour": "",
-            "image": "assets/core/card/illustration/Fluster.png"
+            "image": "assets/core/card/illustration/Push.png"
           }
         },
         {
@@ -97,7 +97,7 @@
           "details": {
             "rules": "Pull a visible object slightly",
             "flavour": "It was as though his scepter longed to return to its rightful master",
-            "image": "assets/core/card/illustration/Fluster.png"
+            "image": "assets/core/card/illustration/Pull.png"
           }
         }
       ]
