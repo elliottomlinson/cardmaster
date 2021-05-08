@@ -12,7 +12,15 @@ TITLE_BORDER = 20
 TITLE_BOX_IMAGE = "assets/core/card/template/title_box.png"
 TYPE_BOX_IMAGE = "assets/core/card/template/type_box.png"
 DESCRIPTION_BOX_IMAGE = "assets/core/card/template/description_box.png"
-BORDER_IMAGE = "assets/core/card/template/background.png"
+BORDER_IMAGES = {
+  grey: "assets/core/card/template/background-grey.png",
+  blue: "assets/core/card/template/background-blue.png",
+  green: "assets/core/card/template/background-green.png",
+  pink: "assets/core/card/template/background-pink.png",
+  red: "assets/core/card/template/background-red.png",
+  gold: "assets/core/card/template/background-gold.png",
+}
+
 TITLE_FONT = "Karmatic Arcade" # https://www.dafont.com/karmatic-arcade.font
 TYPE_FONT = "Libre Baskerville" # https://github.com/impallari/Libre-Baskerville/blob/master/LibreBaskerville-Regular.ttf
 RULES_FONT = "EB Garamond" # https://fonts.google.com/specimen/EB+Garamond
@@ -39,7 +47,7 @@ module Card
           image.join(box, :vertical)
         end
 
-        card_image = wrap_content_with_border(card_content)
+        card_image = wrap_content_with_border(card_content, card.tier)
 
         card_image.write_to_file(output_path)
       end
@@ -88,9 +96,9 @@ module Card
         )
       end
 
-      def wrap_content_with_border(image)
+      def wrap_content_with_border(image, tier)
         border_layer = load_at_size(
-          BORDER_IMAGE,
+          BORDER_IMAGES[tier],
           image.width + CARD_BORDER*2,
           image.height + CARD_BORDER*2,
         )
