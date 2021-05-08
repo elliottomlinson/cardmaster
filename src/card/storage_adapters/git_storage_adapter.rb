@@ -41,10 +41,10 @@ module Card
         update_manifest
       end
 
-      def delete(printed_cards)
-        titles_to_delete = printed_cards.map(&:spec).map(&:title)
+      def delete(title)
+        deleted_card = @stored_cards.delete(title)
 
-        @stored_cards = @stored_cards.without(titles_to_delete)
+        delete_image(deleted_card)
 
         update_manifest
       end
@@ -55,11 +55,17 @@ module Card
 
       private
 
+      def delete_image(stored_card)
+        FileUtils.rm(
+          front_path(stored_card.spec)
+        )
+      end
+
       def save_images(printed_cards)
         printed_cards.each do |printed_card|
           FileUtils.cp(
             printed_card.image_path,
-            front_path(printed_card)
+            front_path(printed_card.spec)
           )
         end
       end
@@ -68,8 +74,8 @@ module Card
         File.write(PRINT_MANIFEST_PATH, Marshal.dump(@stored_cards))
       end
 
-      def front_path(printed_card)
-        File.join(FRONT_PATH, "#{printed_card.spec.title}.png")
+      def front_path(card_spec)
+        File.join(FRONT_PATH, "#{card_spec.title}.png")
       end
 
       def github_repo_url(path)
