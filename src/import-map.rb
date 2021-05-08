@@ -1,11 +1,14 @@
+#require_relative "./importa-"
 require 'csv'
+
+#load "./dirs.rb"
 
 # handling variables
 mapwidth = 50
 mapheight = 50
 scale = 0.99
 text = "%99"
-tag = "tile"
+maptag = "map"
 
 class String
   def init
@@ -31,11 +34,9 @@ ADDRESS = "\"ImageURL\":\"https://dummyimage.com/%{size}x100/%{hex}/&text=%{text
 #maps = Dir.children(MAP_GIT_DIR)
 
 maps = Dir.children(MAP_GIT_DIR)
-puts "found "+maps.length.to_s+" maps for "+$session
+puts "\tfound "+maps.length.to_s+" maps for "+$session
 
 maps.each do |map|
-
-  puts map
 
   mapid = []
   mapname = []
@@ -90,7 +91,7 @@ maps.each do |map|
                 name:name,
                 desc:desc,
                 notes:notes,
-                tag:tag,
+                tag:maptag,
                 hex:hex,
                 backurl:backurl,
                 text:text
@@ -104,7 +105,8 @@ maps.each do |map|
       end
     end
     file.write MAP_CLOSE
-    puts "imported map: "+map.chomp(".csv")
+    puts "\t\tdone map "+map.chomp(".csv")
     file.close
   end
 end
+puts "\tdone all maps for session "+$session

@@ -1,5 +1,3 @@
-require_relative "./templates.rb"
-require_relative "./dirs.rb"
 require "open-uri"
 require "addressable"
 
@@ -8,12 +6,12 @@ scale = 0.7
 rowsize = 16
 imgscale = 2
 rotation = 0
-tag = "character"
+tag = "char"
 
 # Each char folder is a set, e.g. greenhouse-wench
 Dir.mkdir(CHAR_SAVED_DIR) unless File.exists?(CHAR_SAVED_DIR)
 sets = Dir.children(CHAR_GIT_DIR)
-puts "found "+sets.length.to_s+" character sets"
+puts "\tfound "+sets.length.to_s+" char sets for session "+$session
 
 sets.each do |set|
   name = Dir.children(CHAR_GIT_DIR+"/"+set)
@@ -49,7 +47,7 @@ sets.each do |set|
       if i == 0
         File.open(setdir+".png", 'wb') do |thumbnail|
           thumbnail.write URI.open(url).read
-          puts "done character set "+set
+          puts "\t\tdone character set "+set
         end
       end
 
@@ -59,4 +57,4 @@ sets.each do |set|
   end
 end
 
-puts "done all char sets"
+puts "\tdone all char sets for session "+$session

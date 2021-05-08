@@ -1,16 +1,15 @@
-require_relative "./templates.rb"
-require_relative "./dirs.rb"
 require "open-uri"
 require "addressable"
 
 # handling variables for Tabletop Simulator
 rotation = 180
 scale = 1
+statedtag = "stated"
 
 # Each char folder is a set, e.g. greenhouse-wench
 Dir.mkdir(STATED_SAVED_DIR) unless File.exists?(STATED_SAVED_DIR)
 sets = Dir.children(STATED_GIT_DIR)
-puts "found "+sets.length.to_s+" stated items"
+puts "\tfound "+sets.length.to_s+" stated items for session "+$session
 
 sets.each do |set|
   name = Dir.children(STATED_GIT_DIR+"/"+set)
@@ -27,7 +26,7 @@ sets.each do |set|
           name:name.chomp(".png"),
           scale:scale,
           url:url,
-          tag:name.chomp(".png"),
+          tag:statedtag,
           rotation:rotation
         }
         File.open(setdir+".png", 'wb') do |thumbnail|
@@ -49,4 +48,4 @@ sets.each do |set|
     puts "done "+set.to_s
   end
 end
-puts "done all stated items"
+puts "\tdone all stated items for session "+$session
