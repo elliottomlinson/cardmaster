@@ -45,7 +45,7 @@ sets.each do |set|
       if i == 0
         File.open(setdir+".png", 'wb') do |thumbnail|
           thumbnail.write URI.open(url).read
-          puts "\t\t done background set "+set
+          puts "\t\tdone background set "+set
         end
       end
 
