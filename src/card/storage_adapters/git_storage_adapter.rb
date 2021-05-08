@@ -33,7 +33,7 @@ module Card
         printed_cards.each do |printed_card|
           @stored_cards[printed_card.spec.title] = Card::Models::StoredCard.new(
             printed_card.spec,
-            github_repo_url(front_path(printed_card)),
+            github_repo_url(front_path(printed_card.spec)),
             github_repo_url(printed_card.back_path)
           )
         end
