@@ -23,13 +23,13 @@ catalogue_adapter = Card::CatalogueAdapters::JsonCatalogueAdapter.new("data/card
 generator = Card::Generators::VipsBasic.new
 storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
 
-printed_card_specs = storage_adapter.printed_cards.map(&:spec)
+stored_card_specs = storage_adapter.stored_cards.map(&:spec)
 card_specs = catalogue_adapter.printable_cards
 
-puts "Found #{printed_card_specs.length} stored cards..."
+puts "Found #{stored_card_specs.length} stored cards..."
 puts "Found #{card_specs.length} cards specified in catalogue..."
 
-printed_by_title = printed_card_specs.each_with_object({}) do |card_spec, title_hash|
+printed_by_title = stored_card_specs.each_with_object({}) do |card_spec, title_hash|
   title_hash[card_spec.title] = card_spec
 end
 

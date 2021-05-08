@@ -1,0 +1,32 @@
+[
+  {
+    "name": "grey-loot",
+    "tags": ["greys"],
+    "tiers": ["grey"],
+    "min-count": 200
+  },
+  {
+    "name": "blue-loot",
+    "tags": ["unique-1", "upgradeable-1"],
+    "tiers": ["blue"],
+    "min-count": 200
+  },
+  {
+    "name": "green-loot",
+    "tags": ["unique-1", "upgradeable-1"],
+    "tiers": ["green"],
+    "min-count": 200
+  },
+  {
+    "name": "red-loot",
+    "tags": ["unique-1", "upgradeable-1"],
+    "tiers": ["red"],
+    "min-count": 200
+  },
+  {
+    "name": "gold-loot",
+    "tags": ["unique-1", "upgradeable-1"],
+    "tiers": ["gold"],
+    "min-count": 200
+  }
+]
