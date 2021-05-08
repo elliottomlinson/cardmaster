@@ -49,7 +49,7 @@ module Card
         update_manifest
       end
 
-      def printed_cards
+      def stored_cards
         @stored_cards.values
       end
 
