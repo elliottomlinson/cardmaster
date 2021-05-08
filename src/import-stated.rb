@@ -45,7 +45,7 @@ sets.each do |set|
     end
     file.write STATED_CLOSE
     file.close
-    puts "done "+set.to_s
+    puts "\t\tdone "+set.to_s
   end
 end
 puts "\tdone all stated items for session "+$session
