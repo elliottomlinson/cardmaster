@@ -6,7 +6,7 @@ CARD_BORDER = 50
 CARD_WIDTH = 668
 TITLE_HEIGHT = 100
 CARD_ART_HEIGHT = 477
-TYPE_INFO_HEIGHT = 50
+TYPE_INFO_HEIGHT = 60
 RULES_HEIGHT = 287
 TITLE_BORDER = 20
 TITLE_BOX_IMAGE = "assets/core/card/template/title_box.png"
@@ -14,7 +14,11 @@ TYPE_BOX_IMAGE = "assets/core/card/template/type_box.png"
 DESCRIPTION_BOX_IMAGE = "assets/core/card/template/description_box.png"
 BORDER_IMAGE = "assets/core/card/template/background.png"
 TITLE_FONT = "Karmatic Arcade" # https://www.dafont.com/karmatic-arcade.font
-TYPE_FONT = RULES_FONT = "EB Garamond" # https://fonts.google.com/specimen/EB+Garamond
+TYPE_FONT = "Libre Baskerville" # https://github.com/impallari/Libre-Baskerville/blob/master/LibreBaskerville-Regular.ttf
+RULES_FONT = "EB Garamond" # https://fonts.google.com/specimen/EB+Garamond
+TITLE_DPI = 350
+TYPE_DPI = 300
+RULES_DPI = 300
 
 # Generates and saves a card image using the libvips library
 # All images which are too large will be top-left cropped to size
@@ -48,7 +52,9 @@ module Card
           load_at_size(TITLE_BOX_IMAGE, CARD_WIDTH, TITLE_HEIGHT),
           TITLE_FONT,
           CARD_WIDTH - TITLE_BORDER,
-          TITLE_HEIGHT - TITLE_BORDER
+          TITLE_HEIGHT - TITLE_BORDER,
+          TITLE_DPI,
+          :centre
         )
       end
 
@@ -62,7 +68,8 @@ module Card
           load_at_size(TYPE_BOX_IMAGE, CARD_WIDTH, TYPE_INFO_HEIGHT),
           TYPE_FONT,
           CARD_WIDTH - TITLE_BORDER,
-          TYPE_INFO_HEIGHT - TITLE_BORDER
+          TYPE_INFO_HEIGHT - TITLE_BORDER,
+          TYPE_DPI
         )
       end
 
@@ -76,7 +83,8 @@ module Card
           load_at_size(DESCRIPTION_BOX_IMAGE, CARD_WIDTH, RULES_HEIGHT),
           RULES_FONT,
           CARD_WIDTH - TITLE_BORDER,
-          RULES_HEIGHT - TITLE_BORDER
+          RULES_HEIGHT - TITLE_BORDER,
+          RULES_DPI
         )
       end
 
@@ -98,18 +106,29 @@ module Card
         image
       end
 
-      def generate_simple_text(text, box, font, width, height)
-        text = Vips::Image.text(
+      def generate_simple_text(text, box, font, width, height, min_dpi, align=:low)
+        text_image, meta = Vips::Image.text(
           text,
           font: font,
           width: width,
           height: height,
+          align: align,
+          autofit_dpi: 1
         )
+
+        text_image = Vips::Image.text(
+          text,
+          font: font,
+          width: width,
+          height: height,
+          align: align,
+          dpi: min_dpi
+        ) if meta["autofit_dpi"] > min_dpi
 
         # We use a black sizing box so that we can identify the black
         # pixels later as ones where the box image needs to show through
         sizing_box = Vips::Image.black(box.width, box.height)
-        boxed_text = center_overlay(sizing_box, text)
+        boxed_text = center_overlay(sizing_box, text_image)
 
         # At this point we have white text on a black background.
         # We replace the white pixels with black, and the black pixels
