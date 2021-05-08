@@ -10,7 +10,7 @@ bgtag="bg"
 # Each char folder is a set, e.g. greenhouse-wench
 Dir.mkdir(BG_SAVED_DIR) unless File.exists?(BG_SAVED_DIR)
 sets = Dir.children(BG_GIT_DIR)
-puts "\tfound "+sets.length.to_s+" background sets for session"+$session
+puts "\tfound "+sets.length.to_s+" background sets for session "+$session
 
 sets.each do |set|
   name = Dir.children(BG_GIT_DIR+"/"+set)
