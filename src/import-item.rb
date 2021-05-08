@@ -1,5 +1,3 @@
-require_relative "./templates.rb"
-require_relative "./dirs.rb"
 require "open-uri"
 require "addressable"
 
@@ -8,12 +6,12 @@ rowsize = 16
 cardnum=22
 scale=1
 rotation=90
+itemtag = "item"
 
 # Each item folder is a set, e.g. greenhouse-wench
 Dir.mkdir(ITEM_SAVED_DIR) unless File.exists?(ITEM_SAVED_DIR)
 sets = Dir.children(ITEM_GIT_DIR)
-puts "found "+sets.length.to_s+" item sets"
-
+puts "\tfound "+sets.length.to_s+" item sets for session "+$session
 
 sets.each do |set|
   unless set == "back"
@@ -41,7 +39,7 @@ sets.each do |set|
       posX:posX,
       roation:rotation,
       name:name.chomp(".png"),
-      tag:set,
+      tag:itemtag,
       scale:scale,
       rotation:rotation,
       faceurl:faceurl,
@@ -60,7 +58,7 @@ sets.each do |set|
       if i == 0
         File.open(setdir+".png", 'wb') do |thumbnail|
           thumbnail.write URI.open(backurl).read
-          puts "done item set "+set
+          puts "\t\tdone item set "+set
         end
       end
 
