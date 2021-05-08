@@ -130,6 +130,96 @@
       ]
     },
     {
+      "folder": "boss-cards",
+      "content": [
+        {
+          "folder": "shared-1",
+          "content": [
+            {
+              "title": "Enough Playing Around",
+              "upgrade": "none",
+              "tier": "gold",
+              "details": {
+                "rules": "Cast when unconscious. Return to full health",
+                "flavour": "Not bad. But watch this...",
+                "image": "assets/core/card/illustration/Platzfalt Step.png"
+              }
+            },
+            {
+              "title": "I've Had Enough",
+              "upgrade": "none",
+              "tier": "gold",
+              "details": {
+                "rules": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
+                "flavour": "See you next fall!",
+                "image": "assets/core/card/illustration/Platzfalt Step.png"
+              }
+            },
+            {
+              "title": "Attrition",
+              "upgrade": "none",
+              "tier": "green",
+              "details": {
+                "rules": "At the start of your turn during combat, return all Blue cards you've cast this session to your hand.",
+                "flavour": "You've got nice moves, but you won't be able to keep up for long.",
+                "image": "assets/core/card/illustration/Platzfalt Step.png"
+              }
+            },
+            {
+              "title": "Take it Outside",
+              "upgrade": "none",
+              "tier": "gold",
+              "details": {
+                "rules": "Move any number of other allied characters out of combat.",
+                "flavour": "Let's make some space- this is about to get rowdy.",
+                "image": "assets/core/card/illustration/Platzfalt Step.png"
+              }
+            }
+          ]
+        },
+        {
+          "folder": "general-finn",
+          "content": [
+            {
+              "title": "Fishing Rod",
+              "upgrade": "none",
+              "tier": "blue",
+              "details": {
+                "rules": "Deal 4 damage and pull a visible character 2 squares in any direction.",
+                "flavour": "Looks like I caught a big one.",
+                "image": "assets/core/card/illustration/Platzfalt Step.png"
+              }
+            },
+            {
+              "title": "Teleport Strike",
+              "upgrade": "none",
+              "tier": "blue",
+              "details": {
+                "rules": "Teleport to a visible character and deal 4 damage to them with a swift kick.",
+                "flavour": "Apologies Corporal May!",
+                "image": "assets/core/card/illustration/Platzfalt Step.png"
+              }
+            }
+          ]
+        },
+        {
+          "folder": "corp-may",
+          "content": [
+            {
+              "title": "Healing Touch",
+              "upgrade": "none",
+              "tier": "gold",
+              "details": {
+                "rules": "While this is in your hand, you may restore 10 health instead of attacking. Cast to revive an unconscious character",
+                "flavour": "This'll make you feel better.",
+                "image": "assets/core/card/illustration/Platzfalt Step.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "folder": "story-changing-golds",
       "content": [
         {
