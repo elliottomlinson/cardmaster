@@ -16,7 +16,7 @@ module Card
       end
 
       def typeline
-        "Upgrade - #{@upgrade || "None"}"
+        @upgrade == '' ? "Unique" : "Upgrade - #{@upgrade}"
       end
 
       def ==(other)

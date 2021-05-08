@@ -13,10 +13,15 @@ card_backs = {
 }.freeze
 
 diff = ARGV.include?("--diff")
+cards_to_print = nil
 if diff
   puts "Printing new and updated cards."
 else
-  puts "Reprinting all cards."
+  if ARGV.length > 0
+    cards_to_print = ARGV
+  else
+    puts "Reprinting all cards."
+  end
 end
 
 catalogue_adapter = Card::CatalogueAdapters::JsonCatalogueAdapter.new("data/card_catalogue.json")
@@ -44,6 +49,7 @@ print_count = 0
 Dir.mktmpdir do |tmp_dir|
   printed_cards = spec_diffs.map.with_index do |spec_diff, index|
     next if spec_diff[:old] == spec_diff[:new] && diff
+    next if cards_to_print && !cards_to_print.include?(spec_diff[:new].title)
 
     print_count += 1
 
