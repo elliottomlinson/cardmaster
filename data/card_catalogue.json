@@ -44,6 +44,80 @@
             "flavour": "Human beings are basically just big potato batteries.",
             "image": "assets/core/card/illustration/Inner Sun.png"
           }
+        },
+        {
+          "title": "Paz",
+          "upgrade": "",
+          "tier": "green",
+          "details": {
+            "rules": {
+              "passive": "Everybody hates you",
+              "active": "Target character will love you from now on"
+            },
+            "flavour": "Nobody knew what he saw in her",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          }
+        }
+      ]
+    },
+    {
+      "folder": "druid",
+      "content": [
+        {
+          "draft": true,
+          "title": "Rodent Whisperer",
+          "upgrade": "",
+          "tier": "green",
+          "details": {
+            "rules": {
+              "passive": "You hold powerful influence over members of the Rodent family",
+              "active": "Turn into a member of the rodent family for as long as you choose"
+            },
+            "flavour": "Sometimes the smallest things take up the most room in your heart",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          }
+        },
+        {
+          "draft": true,
+          "title": "Avian Spirit",
+          "upgrade": "",
+          "tier": "green",
+          "details": {
+            "rules": {
+              "passive": "You can speak to birds",
+              "active": "Become a small hummingbird for as long as you choose"
+            },
+            "flavour": "Birds never fail to see the forest from the trees",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          }
+        },
+        {
+          "draft": true,
+          "title": "Oughe's Aura",
+          "upgrade": "",
+          "tier": "green",
+          "details": {
+            "rules": {
+              "passive": "Machines fear you",
+              "active": "Disable a visible machine until it is repaired"
+            },
+            "flavour": "Yeah I'm into tech, into smashing it up that is",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          }
+        },
+        {
+          "draft": true,
+          "title": "Equestrian",
+          "upgrade": "",
+          "tier": "green",
+          "details": {
+            "rules": {
+              "passive": "You can tame anything you can ride",
+              "active": "Summon a trusty steed"
+            },
+            "flavour": "Man was destined to tame the world",
+            "image": "assets/core/card/illustration/Bean Blast.png"
+          }
         }
       ]
     },

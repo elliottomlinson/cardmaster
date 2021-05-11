@@ -24,7 +24,7 @@ module Card
       def parse_catalogue!(raw)
         JSON.parse(raw)
       rescue JSON::ParserError => e
-        raise "Failed to parse catalogue file at #{@catalogue_path}, received: #{e.inspect}"
+        raise "Failed to parse catalogue file at #{@catalogue_path} with #{e.message}"
       end
 
       def build_cards(catalogue)
@@ -62,11 +62,11 @@ module Card
 
         title = validate_field!(card, "title", name_hierarchy, "Card")
         details = validate_field!(card, "details", name_hierarchy, "Card")
-        rules = validate_field!(details, "rules", name_hierarchy, "Card")
         flavour = validate_field!(details, "flavour", name_hierarchy, "Card")
         image_path = validate_field!(details, "image", name_hierarchy, "Card")
-
+        rules = validate_rules!(details, name_hierarchy)
         tier = validate_tier!(card, name_hierarchy)
+
 
         upgrade = card["upgrade"]
 
@@ -82,6 +82,28 @@ module Card
         end
 
         tier.to_sym
+      end
+
+      def validate_rules!(details, name_hierarchy)
+        rules = validate_field!(details, "rules", name_hierarchy, "Card")
+
+        simple_rule = extract_simple_rule(rules)
+        return simple_rule unless simple_rule.nil?
+
+        active_passive_rule = extract_active_passive_rule(rules)
+        return active_passive_rule unless active_passive_rule.nil?
+
+        raise_format_error!("Card at #{name_hierarchy} does not conform to any known rule format")
+      end
+
+      def extract_simple_rule(rules)
+        return Card::Models::SimpleRules.new(rules) if rules.is_a?(String)
+      end
+
+      def extract_active_passive_rule(rules)
+        return unless rules.is_a?(Hash) && rules["passive"] && rules["active"]
+
+        Card::Models::PassiveActiveRules.new(rules["passive"], rules["active"])
       end
 
       def validate_field!(node, field_name, hierarchy, node_type_name)

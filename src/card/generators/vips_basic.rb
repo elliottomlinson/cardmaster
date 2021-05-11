@@ -82,9 +82,11 @@ module Card
       end
 
       def generate_rules_box(rules, flavour)
+        rules_box_content = generate_rules_content(rules)
+
         description_text = flavour.nil? ?
           rules :
-          "<span>#{rules}</span>\n\n<span style='italic'>#{flavour}</span>"
+          "<span foreground='blue'>#{rules_box_content}</span>\n\n<span style='italic'>#{flavour}</span>"
 
         generate_simple_text(
           description_text,
@@ -152,6 +154,18 @@ module Card
           x: (lower_image.width - upper_image.width)/2,
           y: (lower_image.height - upper_image.height)/2
         )
+      end
+
+      def generate_rules_content(rules)
+        case rules
+        when Card::Models::SimpleRules
+          rules.text
+        when Card::Models::PassiveActiveRules
+          "✋: #{rules.passive}
+⚡: #{rules.active}"
+        else
+          raise "Unsupported rule type #{rules.class}"
+        end
       end
     end
   end

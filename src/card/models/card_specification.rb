@@ -1,3 +1,5 @@
+require_relative "./rules.rb"
+
 module Card
   module Models
     class CardSpecification
