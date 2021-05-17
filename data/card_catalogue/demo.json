@@ -1,0 +1,57 @@
+[
+  {
+    "folder": "hatred-series",
+    "content": [
+      {
+        "title": "Foo",
+        "upgrade": "Bar",
+        "tier": "blue",
+        "details": {
+          "rules": "Oh no",
+          "flavour": "Darn",
+          "image": "assets/core/card/illustration/Inner Sun.png"
+        }
+      },
+      {
+        "title": "Bar",
+        "tier": "green",
+        "details": {
+          "rules": "Sacrifice your life. Kill a character who you've met.",
+          "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of   Fester the Limp",
+          "image": "assets/core/card/illustration/Inner Sun.png"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Zap",
+    "tier": "grey",
+    "draft": true,
+    "details": {
+      "rules": "Stun a character for one turn",
+      "flavour": "The sweet smell of bathtub toast."
+    }
+  },
+  {
+    "title": "Zop",
+    "tier": "blue",
+    "details": {
+      "rules": "Stun a character for two turns",
+      "flavour": "Human beings are basically just big potato batteries.",
+      "image": "assets/core/card/illustration/Inner Sun.png"
+    }
+  },
+  {
+    "title": "Paz",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "passive": "Everybody hates you",
+        "active": "Target character will love you from now on"
+      },
+      "flavour": "Nobody knew what he saw in her",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  }
+]

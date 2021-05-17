@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Fishing Rod",
+    "upgrade": "none",
+    "tier": "blue",
+    "details": {
+      "rules": "Deal 4 damage and pull a visible character 2 squares in any direction.",
+      "flavour": "Looks like I caught a big one.",
+      "image": "assets/core/card/illustration/Platzfalt Step.png"
+    }
+  },
+  {
+    "title": "Teleport Strike",
+    "upgrade": "none",
+    "tier": "blue",
+    "details": {
+      "rules": "Teleport to a visible character and deal 4 damage to them with a swift kick.",
+      "flavour": "Apologies Corporal May!",
+      "image": "assets/core/card/illustration/Platzfalt Step.png"
+    }
+  }
+]

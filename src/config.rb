@@ -1,2 +1,2 @@
-SAVED_OBJ_DIR = "/home/ellio/.local/share/Tabletop Simulator/Saves/Saved Objects"
-GIT_DIR = "/home/ellio/projects/rpcg"
+SAVED_OBJ_DIR = "/Users/duncanuszkay/Library/Tabletop Simulator/Saves/Saved Objects"
+GIT_DIR = "/Users/duncanuszkay/src/github.com/Shopify/rpgc"

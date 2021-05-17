@@ -14,7 +14,6 @@ module Card
       HELP_SUGGESTION = "try printing again or reverting changes to #{PRINT_MANIFEST_PATH}"
 
       def initialize
-
         if File.exists?(PRINT_MANIFEST_PATH)
           @stored_cards = Marshal.load(File.read(PRINT_MANIFEST_PATH))
           raise "Print Manifest Invalid, #{HELP_SUGGESTION}" unless @stored_cards.is_a?(Hash) && @stored_cards.all? do |title, stored_card|
