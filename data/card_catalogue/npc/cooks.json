@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Spice Rack",
+    "upgrade": "Ambrosia",
+    "tier": "blue",
+    "details": {
+      "rules": "Swap the flavours of two visible objects.",
+      "flavour": "Mm, Crayons",
+      "image": "assets/core/card/illustration/Reload.png"
+    }
+  },
+  {
+    "title": "Ambrosia",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": "Summon a brick of Ambrosia. Any non-player who has tasted or smelt it before will find it irresistable.",
+      "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
+      "image": "assets/core/card/illustration/Reload.png"
+    }
+  }
+]
+
