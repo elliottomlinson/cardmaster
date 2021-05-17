@@ -34,7 +34,6 @@ module Card
       end
 
       def parse_content(directory)
-        sleep(1)
         parsed_content = Dir.entries(directory).map do |entry|
           next if ['.','..'].include?(entry)
           filename = File.join(directory, entry)
