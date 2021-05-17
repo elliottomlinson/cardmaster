@@ -12,19 +12,46 @@ module Card
       def printable_cards
         raise "Could not find catalogue at #{@catalogue_path}" unless File.exists?(@catalogue_path)
 
-        raw_catalogue = File.read(@catalogue_path)
-
-        parsed_catalogue = parse_catalogue!(raw_catalogue)
+        parsed_catalogue = parse_catalogue!(@catalogue_path)
 
         build_cards(parsed_catalogue)
       end
 
       private
 
-      def parse_catalogue!(raw)
-        JSON.parse(raw)
+      def parse_catalogue!(filename)
+        File.directory?(filename) ?
+          parse_catalogue_from_directory! :
+          JSON.parse(File.read(filename))
       rescue JSON::ParserError => e
-        raise "Failed to parse catalogue file at #{@catalogue_path} with #{e.message}"
+        raise "Failed to parse catalogue file at #{filename} with #{e.message}"
+      end
+
+      def parse_catalogue_from_directory!
+        {
+          "folders" => parse_content(@catalogue_path)
+        }
+      end
+
+      def parse_content(directory)
+        parsed_content = Dir.entries(directory).map do |entry|
+          next if ['.','..'].include?(entry)
+          filename = File.join(directory, entry)
+
+          if File.directory?(filename)
+            {
+              "folder" => entry,
+              "content" => parse_content(filename)
+            }
+          elsif File.extname(entry) == ".json"
+            {
+              "folder" => File.basename(entry, ".json"),
+              "content" => parse_catalogue!(filename)
+            }
+          end
+        end.compact
+
+        parsed_content.empty? ? nil : parsed_content
       end
 
       def build_cards(catalogue)

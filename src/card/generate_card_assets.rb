@@ -24,7 +24,7 @@ else
   end
 end
 
-catalogue_adapter = Card::CatalogueAdapters::JsonCatalogueAdapter.new("data/card_catalogue.json")
+catalogue_adapter = Card::CatalogueAdapters::JsonCatalogueAdapter.new("data/card_catalogue")
 generator = Card::Generators::VipsBasic.new
 storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
 
