@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Quick Shot",
+    "upgrade": "Empty the Clip",
+    "tier": "blue",
+    "details": {
+      "rules": "You can use an additional ranged attack",
+      "flavour": "Rebel assault rifles are equipped with manual and fully automatic firing modes.",
+      "image": "assets/core/card/illustration/Reload.png"
+    }
+  },
+  {
+    "title": "Empty the Clip",
+    "upgrade": "Surpression Maneuver",
+    "tier": "green",
+    "details": {
+      "rules": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
+      "flavour": "Rebel soliders employ distraction devices to buy time to reload.",
+      "image": "assets/core/card/illustration/Reload.png"
+    }
+  },
+  {
+    "title": "Surpression Maneuver",
+    "upgrade": "Bullet Rain",
+    "tier": "red",
+    "details": {
+      "rules": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
+      "flavour": "Rebel armies spare no expense when supplying their troops with ammunition.",
+      "image": "assets/core/card/illustration/Reload.png"
+    }
+  },
+  {
+    "title": "Bullet Rain",
+    "upgrade": "",
+    "tier": "gold",
+    "details": {
+      "rules": "Whenever you use a Card for the rest of the session, you may return a Card with lesser rarity to your hand.",
+      "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",
+      "image": "assets/core/card/illustration/Reload.png"
+    }
+  }
+]
+
