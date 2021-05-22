@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Lover Fatale",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "passive": "Attacks against characters who love you deal 25 bonus damage.",
+        "active": "A visible character develops feelings for you."
+      },
+      "flavour": "\"I trust her completely\" - Simon the Simple",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  },
+  {
+    "title": "Infamous",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "passive": "Deal 3 bonus damage when attacking characters who know your name.",
+        "active": "Tell a story about yourself. Any number of visible characters will believe they've heard rumours of this story being true."
+      },
+      "flavour": "His reputation preceeded him.",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  },
+  {
+    "title": "Concussive Mental Swap",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "passive": "Whenever a non-player character attacks you, you may swap a card in your hand with another of the same rarity",
+        "active": "Swap a card in your hand with a random card of the same rarity"
+      },
+      "flavour": "",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  }
+]

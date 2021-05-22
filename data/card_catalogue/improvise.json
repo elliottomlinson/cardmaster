@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Wing It",
+    "upgrade": "Brainstorm",
+    "tier": "blue",
+    "details": {
+      "rules":"Cast two random Blue Cards.",
+      "flavour": "Live by the luck of the draw.",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  },
+  {
+    "title": "Brainstorm",
+    "upgrade": "Spark of Inspiration",
+    "tier": "green",
+    "details": {
+      "rules":"Cast two random Green Cards.",
+      "flavour": "You never know what he'll pull out of thin air.",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  },
+  {
+    "title": "Spark of Inspiration",
+    "upgrade": "Randomize",
+    "tier": "red",
+    "details": {
+      "rules":"Cast two random Red Cards.",
+      "flavour": "I've got an idea",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  },
+  {
+    "title": "Randomize",
+    "upgrade": "",
+    "tier": "gold",
+    "details": {
+      "rules": "Cast two random Gold Cards.",
+      "flavour": "I don't know what I want, but I do want a lot of it.",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  },
+  {
+    "title": "Grobble",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": "Draw 6 random Grey Cards.",
+      "flavour": "Oh man, I've really Grobbled this one.",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  },
+  {
+    "title": "Slipshod Sorcery",
+    "upgrade": "",
+    "tier": "red",
+    "details": {
+      "rules": "Place 10 blue cards onto the table. Cast up to 8 of those Cards.",
+      "flavour": "What we lack in quality we've made up with quantity.",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  },
+  {
+    "title": "Spectrum Dance",
+    "upgrade": "",
+    "tier": "gold",
+    "details": {
+      "rules":"Place 5 cards of each rarity onto the table. Cast one Card of each rarity.",
+      "flavour": "The greatest plans begin with simple tactics.",
+      "image": "assets/core/card/illustration/Bean Blast.png"
+    }
+  }
+]
