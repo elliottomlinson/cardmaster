@@ -3,3 +3,4 @@ vendor/
 .bundle/
 Gemfile
 Gemfile.lock
+desktop.ini
