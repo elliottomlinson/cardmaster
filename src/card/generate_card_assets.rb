@@ -25,7 +25,7 @@ else
 end
 
 catalogue_adapter = Card::CatalogueAdapters::JsonCatalogueAdapter.new("data/card_catalogue")
-generator = Card::Generators::VipsBasic.new
+generator = Card::Generators::IMGKitBasic.new("assets/core/card/template/default.html", [])
 storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
 
 stored_card_specs = storage_adapter.stored_cards.map(&:spec)
