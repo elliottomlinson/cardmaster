@@ -11,7 +11,7 @@
   },
   {
     "title": "Talk it Out",
-    "upgrade": "Quiet",
+    "upgrade": "Timeout",
     "tier": "green",
     "details": {
       "rules": {
