@@ -28,6 +28,19 @@
     }
   },
   {
+    "title": "Swarm",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "active": "Pick a small animal or insect for your target to be swarmed by.",
+        "passive": "You are constantly covered in an insect of your choice"
+      },
+      "flavour": "The sky went dark, and all sound was drowned out by the hum of their arrival.",
+      "image": "assets/core/card/illustration/The Swarm.png"
+    }
+  },
+  {
     "draft": true,
     "title": "Oughe's Aura",
     "upgrade": "",

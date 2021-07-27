@@ -42,4 +42,34 @@
       "image": "assets/core/card/illustration/Gerraro_s Door.png"
     }
   },
+  {
+    "title": "Queen's Gambit",
+    "upgrade": "",
+    "tier": "red",
+    "details": {
+      "rules": "Move instantly as many spaces as you want in a straight line.",
+      "flavour": "Checkmate",
+      "image": "assets/core/card/illustration/Queen's Gambit.png"
+    }
+  },
+  {
+    "title": "Grapple",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": "Draws you towards a charcter in your line of sight at high speed. Both take 6 damage on impact.",
+      "flavour": "C'mere.",
+      "image": "assets/core/card/illustration/Grapple.png"
+    }
+  },
+  {
+    "title": "Platzfalt Step",
+    "upgrade": "",
+    "tier": "blue",
+    "details": {
+      "rules": "Teleport to any visible space. Take damage equal to the number of squares moved.",
+      "flavour": "Travelling is always a pain.",
+      "image": "assets/core/card/illustration/Platzfalt Step.png"
+    }
+  },
 ]

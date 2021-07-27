@@ -40,6 +40,36 @@
     }
   },
   {
+    "title": "Commune",
+    "upgrade": "",
+    "tier": "blue",
+    "details": {
+      "rules": "Speak with any living NPC. Return this card to the deck and draw another.",
+      "flavour": "How'd you get this number? I don't even own a phone!",
+      "image": "assets/core/card/illustration/Commune.png"
+    }
+  },
+  {
+    "title": "Seance",
+    "upgrade": "",
+    "tier": "blue",
+    "details": {
+      "rules": "Speak with any dead NPC. Return this card to the deck and draw another.",
+      "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
+      "image": "assets/core/card/illustration/Seance.png"
+    }
+  },
+  {
+    "title": "Apologize",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": "Target visible NPC can no longer feel negative emotions towards target visible character.",
+      "flavour": "Vewy Sowwy.",
+      "image": "assets/core/card/illustration/Apologize.png"
+    }
+  },
+  {
     "title": "Distract",
     "upgrade": "Lie",
     "tier": "blue",
@@ -77,6 +107,36 @@
       "rules": "Rewrite the contents of a visible character's memory",
       "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
       "image": "assets/core/card/illustration/Revise.png"
+    }
+  },
+  {
+    "title": "Superficial Spectacle",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": "An aura surrounds you. NPCs believe this spell had the effect of your choice",
+      "flavour": "Conjurers con jurors.",
+      "image": "assets/core/card/illustration/Superficial Spectacle.png"
+    }
+  },
+  {
+    "title": "Word Warp",
+    "upgrade": "",
+    "tier": "blue",
+    "details": {
+      "rules": "Swap two words in a character's vocabulary until the end of the day. The character will be unaware that they are saying the wrong word.",
+      "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
+      "image": "assets/core/card/illustration/Word Warp.png"
+    }
+  },
+  {
+    "title": "Magic Trick",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
+      "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
+      "image": "assets/core/card/illustration/Magic Trick.png"
     }
   },
 ]

@@ -10,16 +10,6 @@
     }
   },
   {
-    "title": "Apologize",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "Target visible NPC can no longer feel negative emotions towards target visible character.",
-      "flavour": "Vewy Sowwy.",
-      "image": "assets/core/card/illustration/Apologize.png"
-    }
-  },
-  {
     "title": "Anvil Drop",
     "upgrade": "",
     "tier": "green",
@@ -34,19 +24,9 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Target an article of clothing intended to be worn on a foot. A snake appears inside of it.",
+      "rules": "Target an article of clothing. A snake appears inside of it.",
       "flavour": "\"Always drink upstream from the herd\" - The Sherrif",
       "image": "assets/core/card/illustration/Sherrif's Roundup.png"
-    }
-  },
-  {
-    "title": "Word Warp",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Swap two words in a character's vocabulary until the end of the day. The character will be unaware that they are saying the wrong word.",
-      "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
-      "image": "assets/core/card/illustration/Word Warp.png"
     }
   },
   {
@@ -54,8 +34,8 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Throw a pair of bola, a long range weapon design to wrap around a target.",
-      "flavour": "Good for tripping and binding a long range target.",
+      "rules": "Throw a pair of bola around a visible target",
+      "flavour": "\"Bolas are excellent for capturing large mammals, like my portly friend Steve\"",
       "image": "assets/core/card/illustration/Ancient Throwing Bola.png"
     }
   },
@@ -64,7 +44,7 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Target a large object or willing NPC and return this card to the deck after placing them in your inventory.",
+      "rules": "Place target large object or willing NPC in your hand.",
       "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
       "image": "assets/core/card/illustration/Rolling Cart.png"
     }
@@ -87,36 +67,6 @@
       "rules": "Choose a Blue or Green card in your hand. All cards in your hand become copies of that card.",
       "flavour": "Fax is short for facsimile, meaning \"make similar\".",
       "image": "assets/core/card/illustration/Card Printer.png"
-    }
-  },
-  {
-    "title": "Queen's Gambit",
-    "upgrade": "",
-    "tier": "red",
-    "details": {
-      "rules": "Move instantly as many spaces as you want in a straight line.",
-      "flavour": "Checkmate",
-      "image": "assets/core/card/illustration/Queen's Gambit.png"
-    }
-  },
-  {
-    "title": "Commune",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Speak with any living NPC. Return this card to the deck and draw another.",
-      "flavour": "How'd you get this number? I don't even own a phone!",
-      "image": "assets/core/card/illustration/Commune.png"
-    }
-  },
-  {
-    "title": "Seance",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Speak with any dead NPC. Return this card to the deck and draw another.",
-      "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
-      "image": "assets/core/card/illustration/Seance.png"
     }
   },
   {
@@ -144,7 +94,7 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "All players return to Gerraro's Hideout. Return this card to the deck.",
+      "rules": "All players return to the bed they last slept in",
       "flavour": "You cannot escape the responsibility of tomorrow by evading it today.",
       "image": "assets/core/card/illustration/Escape.png"
     }
@@ -177,36 +127,6 @@
       "rules": "Choose X up to 5. An boundary, impenetrable from within, is placed X squares away from you in all directions as long as you'd like",
       "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
       "image": "assets/core/card/illustration/Prison.png"
-    }
-  },
-  {
-    "title": "The Swarm",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "Pick a small animal or insect for your target to be swarmed by.",
-      "flavour": "The sky went dark, and all sound was drowned out by the hum of their arrival.",
-      "image": "assets/core/card/illustration/The Swarm.png"
-    }
-  },
-  {
-    "title": "Glass Cannon",
-    "upgrade": "",
-    "tier": "red",
-    "details": {
-      "rules": "Until your next turn, deal double damage and take double damage.",
-      "flavour": "\"[...] the stakes, therefore, remain at the same altitude\" - Dr. F. Mickleson, Noted Polymath",
-      "image": "assets/core/card/illustration/Glass Cannon.png"
-    }
-  },
-  {
-    "title": "Monster Deterrent",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Creates a strong odor hardly noticeable by humans but detested by all other lifeforms.",
-      "flavour": "He who smelt it was dealt it.",
-      "image": "assets/core/card/illustration/Monster Deterrent.png"
     }
   },
   {
@@ -264,19 +184,9 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Unarmed attacks deal double damage until you play your next card.",
+      "rules": "Attacks deal double damage until you play your next card.",
       "flavour": "I'm not unarmed, I've got two of them.",
       "image": "assets/core/card/illustration/Bashbolster.png"
-    }
-  },
-  {
-    "title": "Glass Hammer",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Deal 10 damage to a visible target. Return this card to the deck after casting it.",
-      "flavour": "Bonk",
-      "image": "assets/core/card/illustration/Glass Hammer.png"
     }
   },
   {
@@ -284,7 +194,7 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Flip a coin. Heads: Deal 10 damage to visible target. Tails: Gun backfires, take 10 damage.",
+      "rules": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
       "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
       "image": "assets/core/card/illustration/Musty Musket.png"
     }
@@ -300,16 +210,6 @@
     }
   },
   {
-    "title": "Phoenix Reborn",
-    "upgrade": "",
-    "tier": "red",
-    "details": {
-      "rules": "The next time you're unconscious, return to life with 20 HP. For each card you discarded from your hand after going unconscious, draw another of the same rarity from the deck.",
-      "flavour": "What he saw on the other side changed him.",
-      "image": "assets/core/card/illustration/Phoenix Reborn.png"
-    }
-  },
-  {
     "title": "Banana Peel",
     "upgrade": "",
     "tier": "blue",
@@ -320,26 +220,6 @@
     }
   },
   {
-    "title": "Grapple",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "Draws you towards a charcter in your line of sight at high speed. Both take 6 damage on impact.",
-      "flavour": "C'mere.",
-      "image": "assets/core/card/illustration/Grapple.png"
-    }
-  },
-  {
-    "title": "Platzfalt Step",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Teleport to any visible space. Take damage equal to the number of squares moved.",
-      "flavour": "Travelling is always a pain.",
-      "image": "assets/core/card/illustration/Platzfalt Step.png"
-    }
-  },
-  {
     "title": "Poltergeist",
     "upgrade": "",
     "tier": "green",
@@ -347,16 +227,6 @@
       "rules": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
       "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
       "image": "assets/core/card/illustration/Poltergeist.png"
-    }
-  },
-  {
-    "title": "Superficial Spectacle",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "An aura surrounds you. NPCs believe this spell had the effect of your choice",
-      "flavour": "Conjurers con jurors.",
-      "image": "assets/core/card/illustration/Superficial Spectacle.png"
     }
   },
   {
@@ -380,19 +250,9 @@
     }
   },
   {
-    "title": "Counterspell",
-    "upgrade": "",
-    "tier": "red",
-    "details": {
-      "rules": "The effect of the next spell intended for you is applied instead to the caster.",
-      "flavour": "Magic knows no loyalty.",
-      "image": "assets/core/card/illustration/Counterspell.png"
-    }
-  },
-  {
     "title": "Large-Caliber Artillery Invocation",
     "upgrade": "",
-    "tier": "red",
+    "tier": "green",
     "details": {
       "rules": "A magical light takes the shape of a cannon and instantly fires a real shot in the direction of your choice.",
       "flavour": "Cannonballs are designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
@@ -407,36 +267,6 @@
       "rules": "A visible character of your choice receives a sandwich to the face.",
       "flavour": "After taking a sandwich to the face from one of his men, Coronel Kudzo was forced to retire, effective immediately",
       "image": "assets/core/card/illustration/PBJT.png"
-    }
-  },
-  {
-    "title": "Bow Charm",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "While this card is in your hand, roll an additional d4 when you perform a ranged attack. Cast to deal 6 damage to a visible target.",
-      "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light",
-      "image": "assets/core/card/illustration/Bow Charm.png"
-    }
-  },
-  {
-    "title": "Sword Charm",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "While this card is in your hand, roll an additional d6 when you perform a melee attack. Cast to deal 6 damage to a visible target.",
-      "flavour": "It didn't slash or pierce, but rather burned. The fallen glowed as though their souls were leaving their bodies",
-      "image": "assets/core/card/illustration/Sword Charm.png"
-    }
-  },
-  {
-    "title": "Slingshot",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Allows you to throw any non-magic object you can fit in your hand as your ranged attack to deal an additional 6 damage.",
-      "flavour": "You want it? Here.",
-      "image": "assets/core/card/illustration/Slingshot.png"
     }
   },
   {
@@ -480,16 +310,6 @@
     }
   },
   {
-    "title": "Magic Trick",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
-      "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
-      "image": "assets/core/card/illustration/Magic Trick.png"
-    }
-  },
-  {
     "title": "Pigeon Partner",
     "upgrade": "",
     "tier": "blue",
@@ -514,7 +334,7 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Your next melee attack deals an additional d6 and sets your target on fire, or turns a slice of bread into toast. Your choice.",
+      "rules": "Your next melee attack deals an additional d6 and sets your target on fire.",
       "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
       "image": "assets/core/card/illustration/Gloven Mitt.png"
     }
