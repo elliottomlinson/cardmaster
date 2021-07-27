@@ -1,11 +1,11 @@
 [
   {
-    "title": "Cube Seed",
+    "title": "Blank Deed",
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Describe a Cube. It will be created by the Tower.",
-      "flavour": "In the beginning God created the heaven and the earth.",
+      "rules": "Become the legal owner of a building of your choice. Existing tenants will be evicted immediately",
+      "flavour": "The gang battle of 2485 concluded after the mafioso purchased their fortress and had the police escort them to jail.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     },
     "draft": true
