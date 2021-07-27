@@ -2,23 +2,29 @@
   {
     "title": "Sledgehammer",
     "upgrade": "",
-    "tier": "gold",
+    "tier": "green",
     "details": {
-      "rules": "While this card is in your hand, your melee attacks knock characters back 3 squares. Cast    to knock a visible character back 3 squares.",
+      "rules": {
+        "passive": "Melee attacks knock the target back 3 squares",
+        "active": "Throw a heavy sledgehammer at a visible target"
+      },
       "flavour": "This one'll bring down the house.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     },
     "draft": true
   },
   {
-    "title": "Caduceus",
+    "title": "Longsword",
     "upgrade": "",
-    "tier": "red",
+    "tier": "gold",
     "details": {
-      "rules": "While this card is in your hand, characters you damage are healed for the same amount        instead. Cast to deal damage equal to the amount you healed this turn.",
-      "flavour": "\"Clear!\" - Dr. Asterope, before killing 10 with a defibrillator.",
+      "rules": {
+        "passive": "Melee attacks knock the target back 3 squares",
+        "active": "Throw a heavy sledgehammer at a visible target"
+      },
+      "flavour": "This one'll bring down the house.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     },
     "draft": true
-  }
+  },
 ]

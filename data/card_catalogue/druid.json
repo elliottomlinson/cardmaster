@@ -6,8 +6,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "You hold powerful influence over members of the Rodent family",
-        "active": "Turn into a member of the rodent family for as long as you choose"
+        "passive": "You hold influence over members of the Rodent family",
+        "active": "Turn into a rodent for as long as you choose"
       },
       "flavour": "Sometimes the smallest things take up the most room in your heart",
       "image": "assets/core/card/illustration/Bean Blast.png"
