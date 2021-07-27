@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Lunge",
+    "upgrade": "Charge",
+    "tier": "blue",
+    "details": {
+      "rules": "Move up to 5 squares in any direction",
+      "flavour": "These are great for the glutes.",
+      "image": "assets/core/card/illustration/Lunge.png"
+    }
+  },
+  {
+    "title": "Charge",
+    "upgrade": "Teleport",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "passive": "Gain advantage when running through obstacles",
+        "active": "Move up to 15 squares in any direction"
+      },
+      "flavour": "What are you running from?",
+      "image": "assets/core/card/illustration/Sprint.png"
+    }
+  },
+  {
+    "title": "Teleport",
+    "upgrade": "Leopold's Door",
+    "tier": "red",
+    "details": {
+      "rules": "Teleport to any visible location",
+      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
+      "image": "assets/core/card/illustration/Teleport.png"
+    }
+  },
+  {
+    "title": "Leopold's Door",
+    "upgrade": "",
+    "tier": "gold",
+    "details": {
+      "rules": "Teleport the entire party anywhere",
+      "flavour": "Endless folds in spacetime reveal themselves to the worthy",
+      "image": "assets/core/card/illustration/Gerraro_s Door.png"
+    }
+  },
+  {
+    "title": "Queen's Gambit",
+    "upgrade": "",
+    "tier": "red",
+    "details": {
+      "rules": "Move instantly as many spaces as you want in a straight line.",
+      "flavour": "Checkmate",
+      "image": "assets/core/card/illustration/Queen's Gambit.png"
+    }
+  },
+  {
+    "title": "Grapple",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": "Draws you towards a charcter in your line of sight at high speed. Both take 6 damage on impact.",
+      "flavour": "C'mere.",
+      "image": "assets/core/card/illustration/Grapple.png"
+    }
+  },
+  {
+    "title": "Platzfalt Step",
+    "upgrade": "",
+    "tier": "blue",
+    "details": {
+      "rules": "Teleport to any visible space. Take damage equal to the number of squares moved.",
+      "flavour": "Travelling is always a pain.",
+      "image": "assets/core/card/illustration/Platzfalt Step.png"
+    }
+  },
+]

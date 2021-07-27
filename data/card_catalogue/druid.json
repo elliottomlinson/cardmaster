@@ -1,20 +1,18 @@
 [
   {
-    "draft": true,
     "title": "Rodent Whisperer",
     "upgrade": "",
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "You hold powerful influence over members of the Rodent family",
-        "active": "Turn into a member of the rodent family for as long as you choose"
+        "passive": "You hold influence over members of the Rodent family",
+        "active": "Turn into a rodent for as long as you choose"
       },
       "flavour": "Sometimes the smallest things take up the most room in your heart",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
   },
   {
-    "draft": true,
     "title": "Avian Spirit",
     "upgrade": "",
     "tier": "green",
@@ -28,7 +26,19 @@
     }
   },
   {
-    "draft": true,
+    "title": "Swarm",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "active": "Pick a small animal or insect for your target to be swarmed by.",
+        "passive": "You are constantly covered in an insect of your choice"
+      },
+      "flavour": "The sky went dark, and all sound was drowned out by the hum of their arrival.",
+      "image": "assets/core/card/illustration/The Swarm.png"
+    }
+  },
+  {
     "title": "Oughe's Aura",
     "upgrade": "",
     "tier": "green",
@@ -42,7 +52,6 @@
     }
   },
   {
-    "draft": true,
     "title": "Equestrian",
     "upgrade": "",
     "tier": "green",

@@ -40,166 +40,6 @@
     }
   },
   {
-    "title": "Flirt",
-    "upgrade": "Charm",
-    "tier": "blue",
-    "details": {
-      "rules": "Increases your rapport with a visible character",
-      "flavour": "If you were words on a card, you'd be some fine print.",
-      "image": "assets/core/card/illustration/Flirt.png"
-    }
-  },
-  {
-    "title": "Charm",
-    "upgrade": "Arouse",
-    "tier": "green",
-    "details": {
-      "rules": "Causes a visible character to like you.",
-      "flavour": "Do you like raisins? How do you feel about a date?",
-      "image": "assets/core/card/illustration/Charm.png"
-    }
-  },
-  {
-    "title": "Arouse",
-    "upgrade": "Seduce",
-    "tier": "red",
-    "details": {
-      "rules": "Causes a visible character to become attracted to you.",
-      "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
-      "image": "assets/core/card/illustration/Arouse.png"
-    }
-  },
-  {
-    "title": "Seduce",
-    "upgrade": "",
-    "tier": "gold",
-    "details": {
-      "rules": "Force any character you can name to act on their desire for you.",
-      "flavour": "Here I am - Your other two wishes?",
-      "image": "assets/core/card/illustration/Seduce.png"
-    }
-  },
-  {
-    "title": "Imitate",
-    "upgrade": "Copy",
-    "tier": "blue",
-    "details": {
-      "rules": "Copy the last Blue card used by any character",
-      "flavour": "This is how stupid you look, watch this.",
-      "image": "assets/core/card/illustration/Imitate.png"
-    }
-  },
-  {
-    "title": "Copy",
-    "upgrade": "Master Mimic",
-    "tier": "green",
-    "details": {
-      "rules": "Copy the last Green card used by any character",
-      "flavour": "Stop copying me. Stop copying me.",
-      "image": "assets/core/card/illustration/Copy.png"
-    }
-  },
-  {
-    "title": "Master Mimic",
-    "upgrade": "The Highest Form of Flattery",
-    "tier": "red",
-    "details": {
-      "rules": "Copy the last Red card used by any character",
-      "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, revered pirate and theif",
-      "image": "assets/core/card/illustration/Master Mimic.png"
-    }
-  },
-  {
-    "title": "The Highest Form of Flattery",
-    "upgrade": "",
-    "tier": "gold",
-    "details": {
-      "rules": "Copy the last Gold card used by any character",
-      "flavour": "Nothing is original.",
-      "image": "assets/core/card/illustration/The Highest Form of Flattery.png"
-    }
-  },
-  {
-    "title": "Reload",
-    "upgrade": "Tactical Reload",
-    "tier": "blue",
-    "details": {
-      "rules": "Return a Card with Blue Rarity to your hand",
-      "flavour": "Don't retreat, reload.",
-      "image": "assets/core/card/illustration/Reload.png"
-    }
-  },
-  {
-    "title": "Tactical Reload",
-    "upgrade": "Cowboy Reload",
-    "tier": "green",
-    "details": {
-      "rules": "Return a Card with Green Rarity to your hand",
-      "flavour": "Wanna see me do it again?",
-      "image": "assets/core/card/illustration/Tactical Reload.png"
-    }
-  },
-  {
-    "title": "Cowboy Reload",
-    "upgrade": "Expert Reload",
-    "tier": "red",
-    "details": {
-      "rules": "Return a Card with Red Rarity to your hand",
-      "flavour": "Cowboy's only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
-      "image": "assets/core/card/illustration/Cowboy Reload.png"
-    }
-  },
-  {
-    "title": "Expert Reload",
-    "upgrade": "",
-    "tier": "gold",
-    "details": {
-      "rules": "Return a Card with Gold Rarity to your hand",
-      "flavour": "“Peace is the time it takes to reload your rifle.” - Corp. Richfield",
-      "image": "assets/core/card/illustration/Expert Reload.png"
-    }
-  },
-  {
-    "title": "Adlib",
-    "upgrade": "Improvise",
-    "tier": "blue",
-    "details": {
-      "rules": "Draw 3 grey cards",
-      "flavour": "Now, what do we have here...",
-      "image": "assets/core/card/illustration/Adlib.png"
-    }
-  },
-  {
-    "title": "Improvise",
-    "upgrade": "Extemporize",
-    "tier": "green",
-    "details": {
-      "rules": "Place 5 blue cards onto the table. Cast up to 3 of those cards.",
-      "flavour": "You criticize, I improvise",
-      "image": "assets/core/card/illustration/Improvise.png"
-    }
-  },
-  {
-    "title": "Extemporize",
-    "upgrade": "Helter-Skelter",
-    "tier": "red",
-    "details": {
-      "rules": "Place 5 green cards onto the table. Cast up to 3 of those cards.",
-      "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
-      "image": "assets/core/card/illustration/Extemporize.png"
-    }
-  },
-  {
-    "title": "Helter-Skelter",
-    "upgrade": "",
-    "tier": "gold",
-    "details": {
-      "rules": "Place 5 red cards onto the table. Cast up to 3 of those cards.",
-      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
-      "image": "assets/core/card/illustration/Helter-Skelter.png"
-    }
-  },
-  {
     "title": "Spark",
     "upgrade": "Lightning Bolt",
     "tier": "blue",
@@ -234,7 +74,7 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Turn off the power in the current Cube. Draw 3 copies of Fork Lightning.",
+      "rules": "Cause a complete blackout in a 100 kilometer radius. Draw 3 copies of Fork Lightning",
       "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
       "image": "assets/core/card/illustration/Electric Vortex.png"
     }
@@ -264,18 +104,18 @@
     "upgrade": "Inner Sun",
     "tier": "red",
     "details": {
-      "rules": "Deal 15 damage and set fire to all flammable non-player objects within 6 squares",
+      "rules": "Deal 15 damage and set fire to all flammable non-player objects within 6 squares.",
       "flavour": "The best part is that nice campfire smell.",
       "image": "assets/core/card/illustration/Immolate.png"
     }
   },
   {
-    "title": "Inner Sun",
+    "title": "Terrestrial Sun",
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Summon an Inner Sun the size of a baseball. The Inner sun is explosively flammable and burns forever.",
-      "flavour": "My rage burns with the force of 1000 suns.",
+      "rules": "Summon a brick of material which burns violently forever when set on fire.",
+      "flavour": "The fire in our hearts will never burn out",
       "image": "assets/core/card/illustration/Inner Sun.png"
     }
   },
@@ -395,67 +235,30 @@
     "tier": "gold",
     "details": {
       "rules": "All players will critically succeed on their next d20 roll this turn.",
-      "flavour": "And the light shone bright upon the chosen.",
+      "flavour": "The light will shine bright upon the chosen.",
       "image": "assets/core/card/illustration/Wish.png"
     }
   },
   {
-    "title": "Distract",
-    "upgrade": "Lie",
-    "tier": "blue",
-    "details": {
-      "rules": "Target NPC fails their current action and loses focus on you",
-      "flavour": "\"Ok one sec my homework is in my bag I'll grab it in a minute. How was your weekend?\" - Little Sniver",
-      "image": "assets/core/card/illustration/Distract.png"
-    }
-  },
-  {
-    "title": "Lie",
-    "upgrade": "Disguise",
-    "tier": "green",
-    "details": {
-      "rules": "Target NPC will believe your next statement.",
-      "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
-      "image": "assets/core/card/illustration/Lie.png"
-    }
-  },
-  {
-    "title": "Disguise",
-    "upgrade": "Revise",
-    "tier": "red",
-    "details": {
-      "rules": "Change your appearance to match that of another exactly for as long as you'd like.",
-      "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
-      "image": "assets/core/card/illustration/Disguise.png"
-    }
-  },
-  {
-    "title": "Revise",
-    "upgrade": "",
-    "tier": "gold",
-    "details": {
-      "rules": "Rewrite the contents of a visible character's memory",
-      "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
-      "image": "assets/core/card/illustration/Revise.png"
-    }
-  },
-  {
     "title": "Cure",
-    "upgrade": "Restore",
+    "upgrade": "Field Medicine",
     "tier": "blue",
     "details": {
-      "rules": "Heal 8 to a visible character",
-      "flavour": "\"Yeah that feels a little better\" - Hugo, Recently Decapitated",
+      "rules": "Cure the ailment of a visible character, or heal them 8.",
+      "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
       "image": "assets/core/card/illustration/Cure.png"
     }
   },
   {
-    "title": "Restore",
+    "title": "Field Medicine",
     "upgrade": "Renew",
     "tier": "green",
     "details": {
-      "rules": "Heal 10 to a visible character",
-      "flavour": "\"Well that sealed up the wound but it isn't really helping\" - Hugo, Recently Decapitated",
+      "rules": {
+        "active": "Heal 15 to a visible character. They can move twice as fast for the remainder of the session",
+        "passive": "Run twice as fast while carrying friendly characters" 
+      },
+      "flavour": "The best medicine is running far away from things which hurt you",
       "image": "assets/core/card/illustration/Restore.png"
     }
   },
@@ -464,8 +267,8 @@
     "upgrade": "Reincarnate",
     "tier": "red",
     "details": {
-      "rules": "Heal 30  to a visible character",
-      "flavour": "\"I feel better than ever. Except for my body, which I can no longer feel\" - Hugo, Recently Decapitated",
+      "rules": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
+      "flavour": "\"I hope you don't mind if I make some improvements while I'm in here\" - Dr. Reichthardt, Orthopedic Surgeon",
       "image": "assets/core/card/illustration/Renew.png"
     }
   },
@@ -475,48 +278,8 @@
     "tier": "gold",
     "details": {
       "rules": "Revive a dead character.",
-      "flavour": "\"I have returned- what a joyous day\" - Hugo, Recently Reunited With his Body",
+      "flavour": "If man is to play god, he ought to be a kind one.",
       "image": "assets/core/card/illustration/Reincarnate.png"
-    }
-  },
-  {
-    "title": "Lunge",
-    "upgrade": "Sprint",
-    "tier": "blue",
-    "details": {
-      "rules": "Travel up to 5 squares in any direction",
-      "flavour": "These are great for the glutes.",
-      "image": "assets/core/card/illustration/Lunge.png"
-    }
-  },
-  {
-    "title": "Sprint",
-    "upgrade": "Teleport",
-    "tier": "green",
-    "details": {
-      "rules": "Until end of combat, you can travel twice as fast",
-      "flavour": "What are you running from?",
-      "image": "assets/core/card/illustration/Sprint.png"
-    }
-  },
-  {
-    "title": "Teleport",
-    "upgrade": "Gerraro's Door",
-    "tier": "red",
-    "details": {
-      "rules": "Teleport anywhere within 20 squares",
-      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
-      "image": "assets/core/card/illustration/Teleport.png"
-    }
-  },
-  {
-    "title": "Gerraro's Door",
-    "upgrade": "",
-    "tier": "gold",
-    "details": {
-      "rules": "Teleport the entire party anywhere",
-      "flavour": "Endless folds in spacetime reveal themselves to the worthy",
-      "image": "assets/core/card/illustration/Gerraro_s Door.png"
     }
   },
   {
@@ -534,7 +297,9 @@
     "upgrade": "Deflect",
     "tier": "green",
     "details": {
-      "rules": "Any damage dealt to you until your next turn is dealt both to you and your attacker",
+      "rules": {
+        "passive": "Anything thrown on you is repelled with equal force",
+        "active": "Any damage dealt to you from the next attack targeting you is dealt both to you and your attacker",
       "flavour": "Let's see how you like it!.",
       "image": "assets/core/card/illustration/Reflect.png"
     }
@@ -554,8 +319,8 @@
     "upgrade": "Reflect",
     "tier": "gold",
     "details": {
-      "rules": "When you cast this card, name a character. They can no longer deal damage to you.",
-      "flavour": "You would try something like that wouldn't you? Well I see right through you",
+      "rules": "Name a character. They can no longer deal damage to you.",
+      "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5 year old Jacob, karate yellow belt",
       "image": "assets/core/card/illustration/Brace.png"
     }
   },
@@ -600,41 +365,11 @@
     }
   },
   {
-    "title": "Four Leaf Clover",
-    "upgrade": "Rabbit's Foot",
-    "tier": "blue",
-    "details": {
-      "rules": "Place 3 green cards on the table. You may cast one of them.",
-      "flavour": "No more of this bush league nonsense. We need some real power.",
-      "image": "assets/core/card/illustration/Four Leaf Clover.png"
-    }
-  },
-  {
-    "title": "Rabbit's Foot",
-    "upgrade": "Jackpot",
-    "tier": "green",
-    "details": {
-      "rules": "Place 3 Red cards on the table. You may cast one of them.",
-      "flavour": "I might be able to pull it off- but just this once.",
-      "image": "assets/core/card/illustration/Rabbit_s Foot.png"
-    }
-  },
-  {
-    "title": "Jackpot",
-    "upgrade": "",
-    "tier": "red",
-    "details": {
-      "rules": "Place 3 Gold cards on the table. You may cast one of them.",
-      "flavour": "Do you believe in miracles?",
-      "image": "assets/core/card/illustration/Jackpot.png"
-    }
-  },
-  {
     "title": "Gust of Wind",
     "upgrade": "Gale",
     "tier": "blue",
     "details": {
-      "rules": "Knock target visible character airborne. If this character is already airborne, knock them back 5 squares",
+      "rules": "Throw target visible character up into the air",
       "flavour": "He should've worn a windbreaker.",
       "image": "assets/core/card/illustration/Gust of Wind.png"
     }
@@ -644,7 +379,10 @@
     "upgrade": "Wind Storm",
     "tier": "green",
     "details": {
-      "rules": "Shoot a blast of wind from your hand in any direction. All characters hit by the wind are sent airborne. If any of those characters were already airborne, knock them back 8 squares",
+      "rules": {
+        "passive": "Whenever you throw a character in the air, you can also throw them 8 squares in any direction",
+        "active": "Throw any number of characters in a 3 square radius into the air."
+      },
       "flavour": "You look like a birthday candle.",
       "image": "assets/core/card/illustration/Gale.png"
     }
@@ -654,7 +392,7 @@
     "upgrade": "Hurricane",
     "tier": "red",
     "details": {
-      "rules": "Knock any number of visible targets airborne. If any are already already airborne, knock them back 10 squares",
+      "rules": "Throw any number of visible characters up into the air.",
       "flavour": "Rise, rise towards the heavens.",
       "image": "assets/core/card/illustration/Wind Storm.png"
     }
@@ -684,14 +422,14 @@
     "upgrade": "HoloKicker",
     "tier": "green",
     "details": {
-      "rules": "Summon an immobile monk until end of turn who punches characters who come within range for 6 damage.",
+      "rules": "Summon an immobile monk until end of turn who punches characters who come within range",
       "flavour": "His name is Po.",
       "image": "assets/core/card/illustration/Holomonk.png"
     }
   },
   {
     "title": "HoloKicker",
-    "upgrade": "Holodisco",
+    "upgrade": "Mirror Image",
     "tier": "red",
     "details": {
       "rules": "Summon 3 immobile martial artists until end of turn who knock characters who come within range back 8 squares",

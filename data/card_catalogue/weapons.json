@@ -2,23 +2,54 @@
   {
     "title": "Sledgehammer",
     "upgrade": "",
-    "tier": "gold",
+    "tier": "green",
     "details": {
-      "rules": "While this card is in your hand, your melee attacks knock characters back 3 squares. Cast    to knock a visible character back 3 squares.",
+      "rules": {
+        "passive": "Melee attacks knock the target back 3 squares",
+        "active": "Throw a heavy sledgehammer at a visible target"
+      },
       "flavour": "This one'll bring down the house.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     },
     "draft": true
   },
   {
-    "title": "Caduceus",
+    "title": "Bow Charm",
     "upgrade": "",
-    "tier": "red",
+    "tier": "green",
     "details": {
-      "rules": "While this card is in your hand, characters you damage are healed for the same amount        instead. Cast to deal damage equal to the amount you healed this turn.",
-      "flavour": "\"Clear!\" - Dr. Asterope, before killing 10 with a defibrillator.",
-      "image": "assets/core/card/illustration/Bean Blast.png"
-    },
-    "draft": true
+      "rules": {
+        "passive": "Roll an additional d4 when performing a ranged attack",
+        "active": "Deal 10 damage to a visible target."
+      },
+      "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light",
+      "image": "assets/core/card/illustration/Bow Charm.png"
+    }
+  },
+  {
+    "title": "Longsword",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "passive": "Roll an additional d6 when you perform a melee attack.",
+        "active": "Deal 10 damage to a visible target."
+      },
+      "flavour": "It didn't slash or pierce, but rather burned. The fallen glowed as though their souls were leaving their bodies",
+      "image": "assets/core/card/illustration/Sword Charm.png"
+    }
+  },
+  {
+    "title": "Slingshot",
+    "upgrade": "",
+    "tier": "blue",
+    "details": {
+      "rules": {
+        "passive": "Gain advantage when throwing objects",
+        "active": "Launch a baseball sized rock at a visible target"
+      },
+      "flavour": "You want it? Here.",
+      "image": "assets/core/card/illustration/Slingshot.png"
+    }
   }
 ]
