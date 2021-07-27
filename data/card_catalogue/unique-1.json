@@ -90,16 +90,6 @@
     }
   },
   {
-    "title": "Escape",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "All players return to the bed they last slept in",
-      "flavour": "You cannot escape the responsibility of tomorrow by evading it today.",
-      "image": "assets/core/card/illustration/Escape.png"
-    }
-  },
-  {
     "title": "Disappear",
     "upgrade": "",
     "tier": "green",

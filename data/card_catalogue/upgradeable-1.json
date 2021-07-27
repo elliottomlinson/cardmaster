@@ -74,7 +74,7 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Cause a complete blackout in a 100 meter radius. Draw 3 copies of Fork Lightning",
+      "rules": "Cause a complete blackout in a 100 kilometer radius. Draw 3 copies of Fork Lightning",
       "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
       "image": "assets/core/card/illustration/Electric Vortex.png"
     }

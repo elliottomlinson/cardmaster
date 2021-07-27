@@ -24,7 +24,7 @@
   },
   {
     "title": "Teleport",
-    "upgrade": "Gerraro's Door",
+    "upgrade": "Leopold's Door",
     "tier": "red",
     "details": {
       "rules": "Teleport to any visible location",
@@ -33,7 +33,7 @@
     }
   },
   {
-    "title": "Gerraro's Door",
+    "title": "Leopold's Door",
     "upgrade": "",
     "tier": "gold",
     "details": {
