@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Positivity",
+    "upgrade": "Talk it Out",
+    "tier": "blue",
+    "details": {
+      "rules": "A visible target is forced to think positive thoughts",
+      "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
+      "image": "assets/core/card/illustration/Lunge.png"
+    }
+  },
+  {
+    "title": "Talk it Out",
+    "upgrade": "Timeout",
+    "tier": "green",
+    "details": {
+      "rules": {
+	      "active": "A visible target is forced to stop what they're doing and discuss their feelings with you",
+	      "passive": "Whenever you make an attack, you can choose whether or not it will deal damage"
+      },
+      "flavour": "\"I guess, in a way, I've just been trying to impress my old man this whole time\" - Brutus the Bloody Impaler",
+      "image": "assets/core/card/illustration/Lunge.png"
+    }
+  },
+  {
+    "title": "Timeout",
+    "upgrade": "Change of Heart",
+    "tier": "red",
+    "details": {
+      "rules": "For one minute, non-player characters will not become hostile unless they receive damage",
+      "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, soon to be unemployed security guard",
+      "image": "assets/core/card/illustration/Lunge.png"
+    }
+  },
+  {
+    "title": "Change of Heart",
+    "upgrade": "",
+    "tier": "gold",
+    "details": {
+      "rules": "Name a non-player character. They will dedicate their lives to promoting peace.",
+      "flavour": "All life is precious, even the lives of your enemies",
+      "image": "assets/core/card/illustration/Lunge.png"
+    }
+  }
+]
