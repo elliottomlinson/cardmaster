@@ -12,7 +12,7 @@ module Cardmaster
       Registry.add(->() { const_get(const) }, cmd)
     end
 
-    register :Example, 'example', 'cardmaster/commands/example'
+    register :Query, 'query', 'cardmaster/commands/query'
     register :Help,    'help',    'cardmaster/commands/help'
   end
 end
