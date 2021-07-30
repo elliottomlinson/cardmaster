@@ -41,5 +41,41 @@
       "flavour": "All life is precious, even the lives of your enemies",
       "image": "assets/core/card/illustration/Lunge.png"
     }
+  },
+  {
+    "title": "Rue the Day",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": "Name up a character who has wronged you. They feel an remorse for what they have done.",
+      "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
+      "image": "assets/core/card/illustration/Lunge.png"
+    }
+  },
+  {
+    "title": "Shadow Strike",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+	"active": "Disappear for as long as you remain perfectly still",
+	"passive": "Deal double damage while out of combat"
+      },
+      "flavour": "Most battles are over before they've even begun",
+      "image": "assets/core/card/illustration/Lunge.png"
+    }
+  },
+  {
+    "title": "Survival Instincts",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+	"active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water",
+	"passive": "Get triple advantage on all rolls when below 5 health"
+      },
+      "flavour": "The key to survival is flexibility and urgency",
+      "image": "assets/core/card/illustration/Lunge.png"
+    }
   }
 ]
