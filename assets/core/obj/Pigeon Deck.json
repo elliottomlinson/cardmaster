@@ -83,7 +83,7 @@
       "CustomDeck": {
         "6": {
           "FaceURL": "https://i.imgur.com/p2P1NXF.jpg",
-          "BackURL": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/action/back/pigeon.png",
+          "BackURL": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/assets/action/back/pigeon.png",
           "NumWidth": 5,
           "NumHeight": 5,
           "BackIsHidden": false,
@@ -1119,7 +1119,7 @@
           "CustomDeck": {
             "6": {
               "FaceURL": "https://i.imgur.com/p2P1NXF.jpg",
-              "BackURL": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/assets/action/back/pigeon.png",
+              "BackURL": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/assets/action/back/pigeon.png",
               "NumWidth": 5,
               "NumHeight": 5,
               "BackIsHidden": false,

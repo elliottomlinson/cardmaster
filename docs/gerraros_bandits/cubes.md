@@ -90,4 +90,4 @@ The folding-up and reclamation of the cube's shielding, presumably to be used fo
 
 ---
 
-[Back to notes](https://github.com/elliottomlinson/rpcg/blob/master/docs/campaign/notes/README.md)
+[Back to notes](https://github.com/elliottomlinson/cardmaster/blob/master/docs/campaign/notes/README.md)
