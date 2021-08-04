@@ -17,7 +17,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Summon a cast-steel anvil into existence above target character's head.",
+      "rules": {
+        "active": "Summon a cast-steel anvil into existence above target character's head.",
+        "passive": ""
+      },
       "flavour": "meep meep",
       "image": "assets/core/card/illustration/Anvil Drop.png"
     }
