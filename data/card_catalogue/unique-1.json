@@ -277,11 +277,11 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "flavour": "\"Magicians are a bunch of lazy bums\" - Brinley B.",
       "rules": {
         "active": "Summon a disembodied hand to perform a simple action within 4 metres of you.",
         "passive": ""
       },
+      "flavour": "Give me five!",
       "image": "assets/core/card/illustration/Eidolimb.png"
     }
   },
