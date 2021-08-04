@@ -368,7 +368,10 @@
     "upgrade": "",
     "tier": "red",
     "details": {
-      "rules": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
+      "rules": {
+        "active": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
+        "passive": ""
+      },
       "flavour": "Let's savour this moment forever.",
       "image": "assets/core/card/illustration/Glacial Hand.png"
     }
