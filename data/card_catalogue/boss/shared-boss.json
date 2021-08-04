@@ -30,7 +30,10 @@
     "upgrade": "none",
     "tier": "gold",
     "details": {
-      "rules": "Move any number of other allied characters out of combat.",
+      "rules": {
+        "active": "Move any number of other allied characters out of combat.",
+        "passive": ""
+      },
       "flavour": "Let's make some space- this is about to get rowdy.",
       "image": "assets/core/card/illustration/Platzfalt Step.png"
     }
