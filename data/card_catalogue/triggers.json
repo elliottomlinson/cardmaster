@@ -5,8 +5,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Attacks against characters who love you deal 25 bonus damage.",
-        "active": "A visible character develops feelings for you."
+        "active": "A visible character develops feelings for you.",
+        "passive": "Attacks against characters who love you deal 25 bonus damage."
       },
       "flavour": "\"I trust her completely\" - Simon the Simple",
       "image": "assets/core/card/illustration/Bean Blast.png"
