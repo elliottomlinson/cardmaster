@@ -186,7 +186,10 @@
     "upgrade": "Extemporize",
     "tier": "green",
     "details": {
-      "rules": "Place 5 blue cards onto the table. Cast up to 3 of those cards.",
+      "rules": {
+        "active": "Draw 5 blue cards, face-up. Cast up to 3 and discard the rest.",
+        "passive": ""
+      },
       "flavour": "You criticize, I improvise",
       "image": "assets/core/card/illustration/Improvise.png"
     }
