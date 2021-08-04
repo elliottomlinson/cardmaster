@@ -4,7 +4,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Blind characters in a 3x3 square with bean juice.",
+      "rules": {
+        "active": "Blind everyone within 3 metres with bean juice.",
+        "passive": ""
+      },
       "flavour": "Industrial Grade",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
