@@ -238,7 +238,10 @@
     "upgrade": "Flood",
     "tier": "red",
     "details": {
-      "rules": "Summons 10000 gallons of water to a targeted point.",
+      "rules": {
+        "active": "Summon 50 thousand litres of water to a visible location.",
+        "passive": ""
+      },
       "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" - Quomo the Quivering",
       "image": "assets/core/card/illustration/Drench.png"
     }
