@@ -30,9 +30,12 @@
     "upgrade": "Change of Heart",
     "tier": "red",
     "details": {
-      "rules": "For one minute, non-player characters will not become hostile unless they receive damage",
       "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, soon to be unemployed security guard",
       "image": "assets/core/card/illustration/Lunge.png"
+      "rules": {
+        "active": "For one minute, NPCs will not become hostile unless they take damage.",
+        "passive": ""
+      },
     }
   },
   {
