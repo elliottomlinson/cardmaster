@@ -420,7 +420,10 @@
     "upgrade": "Quad Strike",
     "tier": "blue",
     "details": {
-      "rules": "You can attack two additional times this turn",
+      "rules": {
+        "active": "You can attack two additional times on your turn.",
+        "passive": ""
+      },
       "flavour": "Before they even realized what happened, another punch sent them flying.",
       "image": "assets/core/card/illustration/Double Strike.png"
     }
