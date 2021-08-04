@@ -317,7 +317,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "A visible character of your choice receives a sandwich to the face.",
+        "active": "Apply a sandwich to the face of a visible character.",
         "passive": ""
       },
       "flavour": "After taking a sandwich to the face from one of his men, Coronel Kudzo was forced to retire, effective immediately",
