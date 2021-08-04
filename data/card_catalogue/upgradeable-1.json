@@ -1,12 +1,12 @@
 [
   {
-    "title": "Whip",
     "upgrade": "Pitch",
+    "title": "Toss",
     "tier": "blue",
     "details": {
       "rules": "Throw an object up to 10 squares",
       "flavour": "If you're going to throw in the towel, at least do it properly.",
-      "image": "assets/core/card/illustration/Whip.png"
+      "image": "assets/core/card/illustration/Toss.png"
     }
   },
   {
