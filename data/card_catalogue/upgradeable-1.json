@@ -533,16 +533,6 @@
     }
   },
   {
-    "title": "HoloKicker",
-    "upgrade": "Mirror Image",
-    "tier": "red",
-    "details": {
-      "rules": "Summon 3 immobile martial artists until end of turn who knock characters who come within range back 8 squares",
-      "flavour": "Their names are Memboba, Imbosaa, and Steepedi.",
-      "image": "assets/core/card/illustration/HoloKicker.png"
-    }
-  },
-  {
     "title": "Mirror Image",
     "upgrade": "",
     "tier": "gold",
