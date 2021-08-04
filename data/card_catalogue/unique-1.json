@@ -30,7 +30,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Target an article of clothing. A snake appears inside of it.",
+      "rules": {
+        "active": "Choose a visible article of clothing. A snake appears inside of it.",
+        "passive": ""
+      },
       "flavour": "\"Always drink upstream from the herd\" - The Sherrif",
       "image": "assets/core/card/illustration/Sherrif's Roundup.png"
     }
