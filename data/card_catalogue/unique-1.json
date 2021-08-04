@@ -356,7 +356,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Burst into flames along with anyone you're touching. 3d6 damage to each character ignited.",
+        "active": "Burst into flames along with anyone you're touching. 3d6 damage to each.",
         "passive": ""
       },
       "flavour": "I'm taking you straight to hell.",
