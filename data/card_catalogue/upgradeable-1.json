@@ -342,7 +342,10 @@
     "upgrade": "Reincarnate",
     "tier": "red",
     "details": {
-      "rules": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
+      "rules": {
+        "active": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
+        "passive": "You are 3 feet taller."
+      },
       "flavour": "\"I hope you don't mind if I make some improvements while I'm in here\" - Dr. Reichthardt, Orthopedic Surgeon",
       "image": "assets/core/card/illustration/Renew.png"
     }
