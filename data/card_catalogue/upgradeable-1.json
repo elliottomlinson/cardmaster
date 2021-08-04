@@ -303,7 +303,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "All players will critically succeed on their next d20 roll this turn.",
+      "rules": {
+        "active": "Cause all players to critically succeed on their next d20 roll.",
+        "passive": ""
+      },
       "flavour": "The light will shine bright upon the chosen.",
       "image": "assets/core/card/illustration/Wish.png"
     }
