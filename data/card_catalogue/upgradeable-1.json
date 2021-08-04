@@ -4,7 +4,10 @@
     "upgrade": "Throw",
     "tier": "blue",
     "details": {
-      "rules": "Throw an object up to 10 squares",
+      "rules": {
+        "active": "Throw an object accurately at a target up to 5 metres away.",
+        "passive": ""
+      },
       "flavour": "Go ahead, toss your hat in the ring.",
       "image": "assets/core/card/illustration/Toss.png"
     }
