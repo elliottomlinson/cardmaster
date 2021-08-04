@@ -134,7 +134,10 @@
     "upgrade": "Tactical Reload",
     "tier": "blue",
     "details": {
-      "rules": "Return a Card with Blue Rarity to your hand",
+      "rules": {
+        "active": "Return a blue card you have Cast to your hand.",
+        "passive": ""
+      },
       "flavour": "Don't retreat, reload.",
       "image": "assets/core/card/illustration/Reload.png"
     }
