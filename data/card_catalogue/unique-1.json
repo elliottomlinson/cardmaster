@@ -212,7 +212,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Attacks deal double damage until you play your next card.",
+      "rules": {
+        "active": "Attacks deal double damage until you play your next card.",
+        "passive": ""
+      },
       "flavour": "I'm not unarmed, I've got two of them.",
       "image": "assets/core/card/illustration/Bashbolster.png"
     }
