@@ -524,7 +524,10 @@
     "upgrade": "Holomonk",
     "tier": "blue",
     "details": {
-      "rules": "Summon an impassible wall of light on 1 square until end of turn.",
+      "rules": {
+        "active": "Summon an impenetrable column of light in adjacent square metre for 5 minutes.",
+        "passive": ""
+      },
       "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
       "image": "assets/core/card/illustration/Barrier.png"
     }
