@@ -394,7 +394,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Your next melee attack deals an additional d6 and sets your target on fire.",
+      "rules": {
+        "active": "Deal d6 bonus melee damage, igniting the target.",
+        "passive": ""
+      },
       "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
       "image": "assets/core/card/illustration/Gloven Mitt.png"
     }
