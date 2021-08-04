@@ -264,7 +264,10 @@
     "upgrade": "Pray",
     "tier": "blue",
     "details": {
-      "rules": "Change the value of thrown d20 or the next thrown d20 by 2",
+      "rules": {
+        "active": "Change the result of a roll by 2.",
+        "passive": ""
+      },
       "flavour": "I can't see him, but I know he's there.",
       "image": "assets/core/card/illustration/Hope.png"
     }
