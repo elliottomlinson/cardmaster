@@ -186,11 +186,11 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "flavour": "\"At last I'll be able to track down the missing socks\" - Cordelia Hex, Angry Witch",
       "rules": {
         "active": "Learn the current location of an item you've touched in the past.",
         "passive": ""
       },
+      "flavour": "At last, the location of the missing socks.",
       "image": "assets/core/card/illustration/Where-Ware Charm.png"
     }
   },
