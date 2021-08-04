@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Gain advantage when running through obstacles",
-        "active": "Move up to 15 squares in any direction"
+        "active": "Move up to 15 squares in any direction.",
+        "passive": "Gain advantage when running through obstacles."
       },
       "flavour": "What are you running from?",
       "image": "assets/core/card/illustration/Sprint.png"
