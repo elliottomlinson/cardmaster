@@ -10,8 +10,8 @@
     }
   },
   {
-    "upgrade": "Hurl",
     "title": "Throw",
+    "upgrade": "Pitch",
     "tier": "green",
     "details": {
       "rules": "Throw an object up to 50 squares",
@@ -20,13 +20,13 @@
     }
   },
   {
-    "title": "Hurl",
+    "title": "Pitch",
     "upgrade": "Launch",
     "tier": "red",
     "details": {
       "rules": "Throw an object as far as you want.",
       "flavour": "I want this thing gone, understand? I want to never see it again.",
-      "image": "assets/core/card/illustration/Hurl.png"
+      "image": "assets/core/card/illustration/Pitch.png"
     }
   },
   {
