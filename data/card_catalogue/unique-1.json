@@ -161,7 +161,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Stand atop an object. Your character and the object are flung in the direction of your choice until obstructed.",
+        "active": "Stand atop an object. You and the object are flung in the direction of your choice until obstructed.",
         "passive": ""
       },
       "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
@@ -252,7 +252,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Pick a point on the floor up to 2 metres away. The next character to walk there will fall over.",
+        "active": "Pick a point on the floor up to 2 metres away. The next NPC to walk there will fall over.",
         "passive": ""
       },
       "flavour": "Nothing like a little prop humour.",

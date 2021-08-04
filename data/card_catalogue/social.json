@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Increases your rapport with a visible character",
+        "active": "Increases your rapport with a visible NPC",
         "passive": ""
       },
       "flavour": "If you were words on a card, you'd be some fine print.",
@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Causes a visible character to become attracted to you.",
+        "active": "Causes a visible NPC to become attracted to you.",
         "passive": ""
       },
       "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
@@ -44,7 +44,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Force any character you can name to act on their desire for you.",
+        "active": "Force any NPC you can name to act on their desire for you.",
         "passive": ""
       },
       "flavour": "Here I am - Your other two wishes?",

@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "A visible character is forced to think positive thoughts.",
+        "active": "A visible NPC is forced to think positive thoughts.",
         "passive": ""
       },
       "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",

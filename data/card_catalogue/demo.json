@@ -20,7 +20,7 @@
         "tier": "green",
         "details": {
           "rules": {
-            "active": "Sacrifice your life. Kill a character who you've met.",
+            "active": "Sacrifice your life. Kill an NPC who you've met.",
             "passive": ""
           },
           "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
@@ -35,7 +35,7 @@
     "draft": true,
     "details": {
       "rules": {
-        "active": "Stun a character for one turn",
+        "active": "Stun an NPC for a turn",
         "passive": ""
       },
       "flavour": "The sweet smell of bathtub toast."
@@ -46,7 +46,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Stun a character for two turns",
+        "active": "Stun an NPC for two turns",
         "passive": ""
       },
       "flavour": "Human beings are basically just big potato batteries.",
@@ -59,7 +59,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target character will love you from now on",
+        "active": "Target NPC will love you from now on",
         "passive": "Everybody hates you"
       },
       "flavour": "Nobody knew what he saw in her",

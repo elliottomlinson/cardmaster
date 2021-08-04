@@ -31,7 +31,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Move any number of other allied characters out of combat.",
+        "active": "Move any number of allied NPCs out of combat.",
         "passive": ""
       },
       "flavour": "Let's make some space- this is about to get rowdy.",
