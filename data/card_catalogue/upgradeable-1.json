@@ -212,7 +212,10 @@
     "upgrade": "Soak",
     "tier": "blue",
     "details": {
-      "rules": "Target an object. It becomes moist, as if it had been sprayed with a fine mist",
+      "rules": {
+        "active": "Pick a visible object. It becomes moist.",
+        "passive": ""
+      },
       "flavour": "I think I'm going to need a change of clothes.",
       "image": "assets/core/card/illustration/Moisten.png"
     }
