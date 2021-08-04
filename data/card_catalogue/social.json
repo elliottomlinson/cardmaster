@@ -121,7 +121,10 @@
     "upgrade": "Revise",
     "tier": "red",
     "details": {
-      "rules": "Change your appearance to match that of another exactly for as long as you'd like.",
+      "rules": {
+        "active": "Change your appearance to match that of another exactly for as long as you'd like.",
+        "passive": ""
+      },
       "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
       "image": "assets/core/card/illustration/Disguise.png"
     }
