@@ -290,7 +290,10 @@
     "upgrade": "Wish",
     "tier": "red",
     "details": {
-      "rules": "Instill a religious vision of your choosing into target character",
+      "rules": {
+        "active": "Describe a religious vision. Pick a visible NPC to experience it.",
+        "passive": ""
+      },
       "flavour": "He lives deep in the hearts of all men.",
       "image": "assets/core/card/illustration/Preach.png"
     }
