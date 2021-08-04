@@ -30,9 +30,12 @@
     "upgrade": "Randomize",
     "tier": "red",
     "details": {
-      "rules":"Cast two random Red Cards.",
-      "flavour": "I've got an idea",
       "image": "assets/core/card/illustration/Bean Blast.png"
+      "rules": {
+        "active":"Draw 2 red cards. Cast both.",
+        "passive": ""
+      },
+      "flavour": "I've got an idea...",
     }
   },
   {
