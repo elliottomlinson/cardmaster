@@ -1,15 +1,5 @@
 [
   {
-    "title": "Spice Rack",
-    "upgrade": "Ambrosia",
-    "tier": "blue",
-    "details": {
-      "rules": "Swap the flavours of two visible objects.",
-      "flavour": "Mm, Crayons",
-      "image": "assets/core/card/illustration/Reload.png"
-    }
-  },
-  {
     "title": "Ambrosia",
     "upgrade": "",
     "tier": "green",

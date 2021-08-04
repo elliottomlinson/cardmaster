@@ -1,2 +1,15 @@
 [
+  {
+    "title": "Spice Rack",
+    "upgrade": "Ambrosia",
+    "tier": "blue",
+    "details": {
+      "rules": {
+        "active": "Swap the flavours of two objects within your reach.",
+        "passive": ""
+      },
+      "flavour": "Mmm, Crayons",
+      "image": "assets/core/card/illustration/Spice Rack.png"
+    }
+  },
 ]
