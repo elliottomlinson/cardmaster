@@ -30,12 +30,12 @@
     "upgrade": "Randomize",
     "tier": "red",
     "details": {
-      "image": "assets/core/card/illustration/Bean Blast.png"
       "rules": {
         "active":"Draw 2 red cards. Cast both.",
         "passive": ""
       },
       "flavour": "I've got an idea...",
+      "image": "assets/core/card/illustration/Spark of Inspiration.png"
     }
   },
   {
