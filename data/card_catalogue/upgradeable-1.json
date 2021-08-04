@@ -108,7 +108,10 @@
     "upgrade": "Fireball",
     "tier": "blue",
     "details": {
-      "rules": "Ignite a small fire on a visible, flammable object",
+      "rules": {
+        "active": "Ignite a small object within 3 metres.",
+        "passive": ""
+      },
       "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
       "image": "assets/core/card/illustration/Ignite.png"
     }
