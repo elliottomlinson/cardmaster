@@ -225,8 +225,11 @@
     "upgrade": "Rabbit's Foot",
     "tier": "blue",
     "details": {
-      "rules": "Place 3 green cards on the table. You may cast one of them.",
-      "flavour": "No more of this bush league nonsense. We need some real power.",
+      "rules": {
+        "active": "Draw 3 green cards, face-up. Cast up to 3 and discard the rest.",
+        "passive": ""
+      },
+      "flavour": "No more of this bush-league nonsense. We need some real power.",
       "image": "assets/core/card/illustration/Four-Leaf Clover.png"
     }
   },
