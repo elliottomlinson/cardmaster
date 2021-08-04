@@ -173,7 +173,10 @@
     "upgrade": "Levitate",
     "tier": "green",
     "details": {
-      "rules": "Jump 25 metres in the air",
+      "rules": {
+        "active": "Jump 25 metres into the air.",
+        "passive": ""
+      },
       "flavour": "\"Good lord, look at him go..\" - Warner Higgins, Concerned Father",
       "image": "assets/core/card/illustration/Leap.png"
     }
