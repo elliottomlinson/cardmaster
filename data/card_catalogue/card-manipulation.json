@@ -238,9 +238,12 @@
     "upgrade": "Jackpot",
     "tier": "green",
     "details": {
-      "rules": "Place 3 Red cards on the table. You may cast one of them.",
-      "flavour": "I might be able to pull it off- but just this once.",
       "image": "assets/core/card/illustration/Rabbit_s Foot.png"
+      "rules": {
+        "active": "Draw 3 red cards, face-up. Cast up to 3 and discard the rest.",
+        "passive": ""
+      },
+      "flavour": "I might be able to pull it off - but just this once.",
     }
   },
   {
