@@ -30,7 +30,6 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "image": "assets/core/card/illustration/Bean Blast.png"
     },
     "draft": true
       "rules": {
@@ -38,5 +37,6 @@
         "passive": ""
       },
       "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",
+      "image": "assets/core/card/illustration/Untimely Death.png"
   }
 ]
