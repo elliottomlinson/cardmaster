@@ -472,7 +472,10 @@
     "upgrade": "Gale",
     "tier": "blue",
     "details": {
-      "rules": "Throw target visible character up into the air",
+      "rules": {
+        "active": "Throw a visible character up into the air.",
+        "passive": ""
+      },
       "flavour": "He should've worn a windbreaker.",
       "image": "assets/core/card/illustration/Gust of Wind.png"
     }
