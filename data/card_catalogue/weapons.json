@@ -5,8 +5,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Melee attacks knock the target back 3 squares",
-        "active": "Throw a heavy sledgehammer at a visible target"
+        "passive": "Melee attacks knock the target back 3 metres"
       },
       "flavour": "This one'll bring down the house.",
       "image": "assets/core/card/illustration/Bean Blast.png"
