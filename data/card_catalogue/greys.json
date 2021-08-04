@@ -39,23 +39,16 @@
     }
   },
   {
-    "title": "Push",
+    "title": "Force",
     "upgrade": "",
     "tier": "grey",
     "details": {
-      "rules": "Push a visible object slightly",
-      "flavour": "Human force extends far past the limits of an earthly body",
-      "image": "assets/core/card/illustration/Push.png"
-    }
-  },
-  {
-    "title": "Pull",
-    "upgrade": "",
-    "tier": "grey",
-    "details": {
-      "rules": "Pull a visible object slightly",
-      "flavour": "Human force extends far past the limits of an earthly body",
-      "image": "assets/core/card/illustration/Pull.png"
+      "rules": {
+        "active": "Push or pull a visible object slightly.",
+        "passive": ""
+      },
+      "flavour": "Human force extends far past the limits of an earthly body.",
+      "image": "assets/core/card/illustration/Force.png"
     }
   }
 ]
