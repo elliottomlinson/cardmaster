@@ -212,7 +212,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Place 5 red cards onto the table. Cast up to 3 of those cards.",
+      "rules": {
+        "active": "Draw 5 red cards, face-up. Cast up to 3 and discard the rest.",
+        "passive": ""
+      },
       "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
       "image": "assets/core/card/illustration/Helter-Skelter.png"
     }
