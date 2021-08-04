@@ -134,7 +134,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Rewrite the contents of a visible character's memory",
+      "rules": {
+        "active": "Rewrite the contents of an NPC's memory.",
+        "passive": ""
+      },
       "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
       "image": "assets/core/card/illustration/Revise.png"
     }
