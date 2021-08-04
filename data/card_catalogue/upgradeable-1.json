@@ -433,7 +433,10 @@
     "upgrade": "Strike Storm",
     "tier": "green",
     "details": {
-      "rules": "You can attack four additional times this turn",
+      "rules": {
+        "active": "You can attack four additional times on your turn.",
+        "passive": ""
+      },
       "flavour": "Their defense won't last forever. Strike, and strike again.",
       "image": "assets/core/card/illustration/Quad Strike.png"
     }
