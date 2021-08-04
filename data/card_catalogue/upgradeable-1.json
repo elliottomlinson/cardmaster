@@ -368,7 +368,10 @@
     "upgrade": "Reflect",
     "tier": "blue",
     "details": {
-      "rules": "Take no damage from the next attack targeting you.",
+      "rules": {
+        "active": "Take no damage from the next attack targeting you.",
+        "passive": ""
+      },
       "flavour": "I barely felt that! Who taught you how to punch?",
       "image": "assets/core/card/illustration/Brace.png"
     }
