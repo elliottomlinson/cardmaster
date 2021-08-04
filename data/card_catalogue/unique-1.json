@@ -251,7 +251,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Pick a tile up to 2 tiles away. The next charcter to walk on this tile will fall over.",
+      "rules": {
+        "active": "Pick a tile up to 2 metres away. The next charcter to walk on this tile will fall over.",
+        "passive": ""
+      },
       "flavour": "Nothing like a little prop humour.",
       "image": "assets/core/card/illustration/Banana Peel.png"
     }
