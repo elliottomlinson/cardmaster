@@ -43,7 +43,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Throw a pair of bola around a visible target",
+      "rules": {
+        "active": "Throw a pair of bola around a visible target",
+        "passive": ""
+      },
       "flavour": "\"Bolas are excellent for capturing large mammals, like my portly friend Steve\"",
       "image": "assets/core/card/illustration/Ancient Throwing Bola.png"
     }
