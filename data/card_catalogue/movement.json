@@ -43,7 +43,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Teleport the entire party anywhere",
+      "rules": {
+        "active": "Teleport the entire party anywhere.",
+        "passive": ""
+      },
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
       "image": "assets/core/card/illustration/Gerraro_s Door.png"
     }
