@@ -498,7 +498,10 @@
     "upgrade": "Hurricane",
     "tier": "red",
     "details": {
-      "rules": "Throw any number of visible characters up into the air.",
+      "rules": {
+        "active": "Throw any number of visible characters up into the air.",
+        "passive": ""
+      },
       "flavour": "Rise, rise towards the heavens.",
       "image": "assets/core/card/illustration/Wind Storm.png"
     }
