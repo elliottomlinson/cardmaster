@@ -30,7 +30,10 @@
     "upgrade": "Launch",
     "tier": "red",
     "details": {
-      "rules": "Throw an object as far as you want.",
+      "rules": {
+        "active": "Throw an object as far as you want.",
+        "passive": "Advantage when catching."
+      },
       "flavour": "I want this thing gone, understand? I want to never see it again.",
       "image": "assets/core/card/illustration/Pitch.png"
     }
