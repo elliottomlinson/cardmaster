@@ -4,8 +4,11 @@
     "upgrade": "",
     "tier": "grey",
     "details": {
-      "rules": "Increase the value of a thrown d20 by 1",
-      "flavour": "The collective will of the people made manifest",
+      "rules": {
+        "active": "Increase the result of a roll by 1.",
+        "passive": ""
+      },
+      "flavour": "The collective will of the people made manifest.",
       "image": "assets/core/card/illustration/Boost.png"
     }
   },
