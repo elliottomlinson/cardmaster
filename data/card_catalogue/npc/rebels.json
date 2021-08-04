@@ -14,7 +14,7 @@
   },
   {
     "title": "Empty the Clip",
-    "upgrade": "Surpression Maneuver",
+    "upgrade": "Suppression Maneuver",
     "tier": "green",
     "details": {
       "rules": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
@@ -23,7 +23,7 @@
     }
   },
   {
-    "title": "Surpression Maneuver",
+    "title": "Suppression Maneuver",
     "upgrade": "Bullet Rain",
     "tier": "red",
     "details": {
