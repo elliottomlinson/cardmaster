@@ -1,15 +1,5 @@
 [
   {
-    "title": "Enough Playing Around",
-    "upgrade": "none",
-    "tier": "gold",
-    "details": {
-      "rules": "Cast when unconscious. Return to full health",
-      "flavour": "Not bad. But watch this...",
-      "image": "assets/core/card/illustration/Platzfalt Step.png"
-    }
-  },
-  {
     "title": "I've Had Enough",
     "upgrade": "none",
     "tier": "gold",
