@@ -277,7 +277,10 @@
     "upgrade": "Preach",
     "tier": "green",
     "details": {
-      "rules": "You may force a thrown d20 or the next thrown d20 to be rerolled.",
+      "rules": {
+        "active": "Re-roll a d20.",
+        "passive": ""
+      },
       "flavour": "He will save us from our mortal errors.",
       "image": "assets/core/card/illustration/Pray.png"
     }
