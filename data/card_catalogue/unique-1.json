@@ -338,13 +338,13 @@
     }
   },
   {
-    "title": "Rime Charm",
+    "title": "Rime",
     "upgrade": "",
     "tier": "blue",
     "details": {
       "rules": "Cover a non-magic object in a thin layer of ice.",
       "flavour": "Whoa, chill.",
-      "image": "assets/core/card/illustration/Rime Charm.png"
+      "image": "assets/core/card/illustration/Rime.png"
     }
   },
   {
