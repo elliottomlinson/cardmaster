@@ -4,7 +4,10 @@
     "upgrade": "none",
     "tier": "gold",
     "details": {
-      "rules": "Cast this card only during your turn. At the start of your next turn, teleport to        safety and leave behind a piece of valuable loot.",
+      "rules": {
+        "active": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
+        "passive": ""
+      },
       "flavour": "See you next fall!",
       "image": "assets/core/card/illustration/Platzfalt Step.png"
     }
