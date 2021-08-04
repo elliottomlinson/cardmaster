@@ -91,7 +91,7 @@
     }
   },
   {
-    "title": "Witch's Curse",
+    "title": "Somnomalum",
     "upgrade": "",
     "tier": "green",
     "details": {
@@ -100,7 +100,7 @@
         "passive": ""
       },
       "flavour": "Sweet dreams.",
-      "image": "assets/core/card/illustration/Witch's Curse.png"
+      "image": "assets/core/card/illustration/Somnomalum.png"
     }
   },
   {
