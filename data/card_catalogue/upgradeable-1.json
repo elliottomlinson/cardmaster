@@ -196,10 +196,13 @@
   },
   {
     "title": "Ascend",
-    "upgrade": "Moisten",
+    "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Jump as high as you want",
+      "rules": {
+        "active": "Jump as high as you want.",
+        "passive": ""
+      },
       "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
       "image": "assets/core/card/illustration/Ascend.png"
     }
