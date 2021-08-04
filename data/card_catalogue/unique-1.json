@@ -225,7 +225,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
+      "rules": {
+        "active": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
+        "passive": ""
+      },
       "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
       "image": "assets/core/card/illustration/Musty Musket.png"
     }
