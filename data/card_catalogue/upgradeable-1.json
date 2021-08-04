@@ -446,7 +446,10 @@
     "upgrade": "Endless blows",
     "tier": "red",
     "details": {
-      "rules": "You can make twice times as many attacks as you otherwise would this turn.",
+      "rules": {
+        "active": "You can make twice times as many attacks as you otherwise would on your turn.",
+        "passive": ""
+      },
       "flavour": "Every fighter has gaps between attacks which can be exploited. Just make sure to take them after your opponent is dead.",
       "image": "assets/core/card/illustration/Strike Storm.png"
     }
