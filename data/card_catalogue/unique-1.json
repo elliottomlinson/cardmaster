@@ -160,7 +160,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Stand atop an object. Your character and the object are flung in the direction of your choice until obstructed.",
+      "rules": {
+        "active": "Stand atop an object. Your character and the object are flung in the direction of your choice until obstructed.",
+        "passive": ""
+      },
       "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
       "image": "assets/core/card/illustration/Object Eject.png"
     }
