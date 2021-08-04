@@ -160,7 +160,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
+      "rules": {
+        "active": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
+        "passive": ""
+      },
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
       "image": "assets/core/card/illustration/Magic Trick.png"
     }
