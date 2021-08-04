@@ -56,7 +56,10 @@
     "upgrade": "Slipshod Sorcery",
     "tier": "green",
     "details": {
-      "rules": "Draw 6 random Grey Cards.",
+      "rules": {
+        "active": "Draw 6 grey cards.",
+        "passive": ""
+      },
       "flavour": "Oh man, I've really Grobbled this one.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
