@@ -238,12 +238,12 @@
     "upgrade": "Jackpot",
     "tier": "green",
     "details": {
-      "image": "assets/core/card/illustration/Rabbit_s Foot.png"
       "rules": {
         "active": "Draw 3 red cards, face-up. Cast up to 3 and discard the rest.",
         "passive": ""
       },
       "flavour": "I might be able to pull it off - but just this once.",
+      "image": "assets/core/card/illustration/Rabbit's Foot.png"
     }
   },
   {
