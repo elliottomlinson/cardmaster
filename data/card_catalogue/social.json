@@ -30,7 +30,10 @@
     "upgrade": "Seduce",
     "tier": "red",
     "details": {
-      "rules": "Causes a visible character to become attracted to you.",
+      "rules": {
+        "active": "Causes a visible character to become attracted to you.",
+        "passive": ""
+      },
       "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
       "image": "assets/core/card/illustration/Arouse.png"
     }
