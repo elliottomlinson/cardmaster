@@ -199,11 +199,11 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "flavour": "Use near tectonic fault zones may be inadvisable",
       "rules": {
         "active": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
         "passive": ""
       },
+      "flavour": "Not suitable for tectonic fault zones.",
       "image": "assets/core/card/illustration/Groundburst.png"
     }
   },
