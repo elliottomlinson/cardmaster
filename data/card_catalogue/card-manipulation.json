@@ -147,7 +147,10 @@
     "upgrade": "Cowboy Reload",
     "tier": "green",
     "details": {
-      "rules": "Return a Card with Green Rarity to your hand",
+      "rules": {
+        "active": "Return a green card you have Cast to your hand.",
+        "passive": ""
+      },
       "flavour": "Wanna see me do it again?",
       "image": "assets/core/card/illustration/Tactical Reload.png"
     }
