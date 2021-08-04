@@ -82,7 +82,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules":"Place 5 cards of each rarity onto the table. Cast one Card of each rarity.",
+      "rules": {
+        "active":"Draw 5 cards of each rarity, face-up. Cast one of each rarity and discard the rest.",
+        "passive": ""
+      },
       "flavour": "The greatest plans begin with simple tactics.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
