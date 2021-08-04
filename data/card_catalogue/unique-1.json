@@ -278,7 +278,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Summon a disembodied hand to perform a simple action within 4 metres of you.",
+        "active": "Evoke a disembodied hand to perform a simple action within 4 metres of you.",
         "passive": ""
       },
       "flavour": "Give me five!",
