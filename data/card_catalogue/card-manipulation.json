@@ -4,7 +4,10 @@
     "upgrade": "Brainstorm",
     "tier": "blue",
     "details": {
-      "rules":"Cast two random Blue Cards.",
+      "rules": {
+        "active":"Draw 2 blue cards. Cast both.",
+        "passive": ""
+      },
       "flavour": "Live by the luck of the draw.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
