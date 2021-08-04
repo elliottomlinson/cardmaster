@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon a brick of Ambrosia. Any non-player who has tasted or smelt it before will find it irresistible.",
+        "active": "Summon a brick of Ambrosia. Any NPC who has tasted or smelt it before will find it irresistible.",
         "passive": ""
       },
       "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
