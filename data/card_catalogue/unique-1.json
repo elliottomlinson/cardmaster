@@ -390,16 +390,6 @@
     }
   },
   {
-    "title": "You're Toast",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Summons a slice of toast the size of a door",
-      "flavour": "Roughly 13000 calories.",
-      "image": "assets/core/card/illustration/You're Toast.png"
-    }
-  },
-  {
     "title": "Gloven Mitt",
     "upgrade": "",
     "tier": "green",
