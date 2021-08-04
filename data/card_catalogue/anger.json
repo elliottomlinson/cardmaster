@@ -83,8 +83,8 @@
     "tier": "green",
     "details": {
       "rules": {
-	"active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water",
-	"passive": "Get triple advantage on all rolls when below 5 health"
+        "active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water.",
+        "passive": "Triple advantage on all d20 rolls when below 5 health."
       },
       "flavour": "The key to survival is flexibility and urgency",
       "image": "assets/core/card/illustration/Lunge.png"
