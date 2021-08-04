@@ -82,7 +82,10 @@
     "upgrade": "Electric Vortex",
     "tier": "red",
     "details": {
-      "rules": "Deal 6 damage and stun to up to 6 visible characters",
+      "rules": {
+        "active": "Deal 6 damage and stun to up to 6 visible characters.",
+        "passive": ""
+      },
       "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants.",
       "image": "assets/core/card/illustration/Fork Lightning.png"
     }
