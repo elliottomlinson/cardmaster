@@ -82,7 +82,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Target visible NPC can no longer feel negative emotions towards target visible character.",
+      "rules": {
+        "active": "Target visible NPC can no longer feel negative emotions towards target visible character.",
+        "passive": ""
+      },
       "flavour": "Vewy Sowwy.",
       "image": "assets/core/card/illustration/Apologize.png"
     }
