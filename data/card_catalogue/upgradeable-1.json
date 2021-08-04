@@ -131,10 +131,13 @@
   },
   {
     "title": "Immolate",
-    "upgrade": "Inner Sun",
+    "upgrade": "Terrestrial Sun",
     "tier": "red",
     "details": {
-      "rules": "Deal 15 damage and set fire to all flammable non-player objects within 6 squares.",
+      "rules": {
+        "active": "Deal 15 damage and set fire to all flammable objects within 6 metres.",
+        "passive": ""
+      },
       "flavour": "The best part is that nice campfire smell.",
       "image": "assets/core/card/illustration/Immolate.png"
     }
