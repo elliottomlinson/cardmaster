@@ -252,7 +252,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Pick a tile up to 2 metres away. The next charcter to walk on this tile will fall over.",
+        "active": "Pick a point on the floor up to 2 metres away. The next character to walk there will fall over.",
         "passive": ""
       },
       "flavour": "Nothing like a little prop humour.",
