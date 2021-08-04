@@ -43,7 +43,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Whenever you use a Card for the rest of the session, you may return a Card with lesser rarity to your hand.",
+      "rules": {
+        "active": "Whenever you use a Card for the rest of the session, you may return a Card with lesser rarity to your hand.",
+        "passive": ""
+      },
       "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",
       "image": "assets/core/card/illustration/Reload.png"
     }
