@@ -355,7 +355,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Revive a dead character.",
+      "rules": {
+        "active": "Revive a dead character.",
+        "passive": "The dead fear you."
+      },
       "flavour": "If man is to play god, he ought to be a kind one.",
       "image": "assets/core/card/illustration/Reincarnate.png"
     }
