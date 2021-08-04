@@ -121,7 +121,10 @@
     "upgrade": "Immolate",
     "tier": "green",
     "details": {
-      "rules": "Hurl a ball of hot embers at a visible object",
+      "rules": {
+        "active": "Hurl a flaming ball of hot embers at a visible object.",
+        "passive": ""
+      },
       "flavour": "Time for a game of hot potato!",
       "image": "assets/core/card/illustration/Fireball.png"
     }
