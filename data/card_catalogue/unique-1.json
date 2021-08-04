@@ -108,7 +108,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
+      "rules": {
+        "active": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
+        "passive": ""
+      },
       "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
       "image": "assets/core/card/illustration/Disappear.png"
     }
