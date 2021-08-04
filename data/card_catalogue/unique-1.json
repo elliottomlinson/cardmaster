@@ -329,7 +329,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Targeted NPC becomes stuck in place for ten seconds.",
+      "rules": {
+        "active": "Choose an NPC. They are stuck in place for ten seconds.",
+        "passive": ""
+      },
       "flavour": "Have my legs always been this heavy?",
       "image": "assets/core/card/illustration/Locomotor Hex.png"
     }
