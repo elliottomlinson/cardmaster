@@ -60,8 +60,8 @@
         "active": "Summon a trusty steed.",
         "passive": "You can tame anything you can ride."
       },
-      "image": "assets/core/card/illustration/Bean Blast.png"
       "flavour": "Man was destined to tame the world.",
+      "image": "assets/core/card/illustration/Equestrian.png"
     }
   }
 ]
