@@ -12,4 +12,17 @@
       "image": "assets/core/card/illustration/Spice Rack.png"
     }
   },
+  {
+    "title": "Ambrosia",
+    "upgrade": "",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "active": "Summon a brick of Ambrosia. Any non-player who has tasted or smelt it before will find it irresistible.",
+        "passive": ""
+      },
+      "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
+      "image": "assets/core/card/illustration/Ambrosia.png"
+    }
+  }
 ]
