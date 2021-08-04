@@ -70,8 +70,8 @@
     "tier": "green",
     "details": {
       "rules": {
-	"active": "Disappear for as long as you remain perfectly still",
-	"passive": "Deal double damage while out of combat"
+        "active": "Disappear for as long as you remain perfectly still.",
+        "passive": "Deal double damage while out of combat."
       },
       "flavour": "Most battles are over before they've even begun",
       "image": "assets/core/card/illustration/Lunge.png"
