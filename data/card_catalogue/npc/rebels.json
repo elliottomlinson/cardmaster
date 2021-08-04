@@ -17,9 +17,12 @@
     "upgrade": "Suppression Maneuver",
     "tier": "green",
     "details": {
-      "rules": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
-      "flavour": "Rebel soliders employ distraction devices to buy time to reload.",
       "image": "assets/core/card/illustration/Reload.png"
+      "rules": {
+        "active": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
+        "passive": ""
+      },
+      "flavour": "Rebel soldiers employ distraction devices to buy time to reload.",
     }
   },
   {
