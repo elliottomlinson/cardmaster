@@ -69,7 +69,10 @@
     "upgrade": "Spectrum Dance",
     "tier": "red",
     "details": {
-      "rules": "Place 10 blue cards onto the table. Cast up to 8 of those Cards.",
+      "rules": {
+        "active": "Draw 10 blue cards, face-up. Cast up to 8 and discard the rest.",
+        "passive": ""
+      },
       "flavour": "What we lack in quality we've made up with quantity.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
