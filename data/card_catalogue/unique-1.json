@@ -342,7 +342,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Cover a non-magic object in a thin layer of ice.",
+      "rules": {
+        "active": "Cover an object in a thin layer of ice.",
+        "passive": ""
+      },
       "flavour": "Whoa, chill.",
       "image": "assets/core/card/illustration/Rime.png"
     }
