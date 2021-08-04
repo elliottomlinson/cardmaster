@@ -82,7 +82,10 @@
     "upgrade": "",
     "tier": "red",
     "details": {
-      "rules": "Choose a Blue or Green card in your hand. All cards in your hand become copies of that card.",
+      "rules": {
+        "active": "Choose a Blue or Green card in your hand. All cards in your hand become copies of that card.",
+        "passive": ""
+      },
       "flavour": "Fax is short for facsimile, meaning \"make similar\".",
       "image": "assets/core/card/illustration/Card Printer.png"
     }
