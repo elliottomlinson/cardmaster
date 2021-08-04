@@ -30,8 +30,11 @@
     "upgrade": "",
     "tier": "grey",
     "details": {
-      "rules": "Decrease the value of a thrown d20 by 1",
-      "flavour": "The collective will of the people made manifest",
+      "rules": {
+        "active": "Decrease the result of a roll by 1.",
+        "passive": ""
+      },
+      "flavour": "The collective will of the people made manifest.",
       "image": "assets/core/card/illustration/Fluster.png"
     }
   },
