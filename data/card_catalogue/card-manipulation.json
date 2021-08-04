@@ -121,8 +121,11 @@
     "upgrade": "",
     "tier": "red",
     "details": {
-      "rules": "Copy the last Red card used by any character",
-      "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, revered pirate and theif",
+      "rules": {
+        "active": "Copy the effect of the last red card Cast by any character.",
+        "passive": ""
+      },
+      "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, Revered Pirate and Theif",
       "image": "assets/core/card/illustration/Master Mimic.png"
     }
   },
