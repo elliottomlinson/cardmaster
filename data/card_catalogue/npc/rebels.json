@@ -4,7 +4,10 @@
     "upgrade": "Empty the Clip",
     "tier": "blue",
     "details": {
-      "rules": "You can use an additional ranged attack",
+      "rules": {
+        "active": "You can use an additional ranged attack.",
+        "passive": ""
+      },
       "flavour": "Rebel assault rifles are equipped with manual and fully automatic firing modes.",
       "image": "assets/core/card/illustration/Reload.png"
     }
