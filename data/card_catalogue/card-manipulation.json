@@ -251,7 +251,10 @@
     "upgrade": "",
     "tier": "red",
     "details": {
-      "rules": "Place 3 Gold cards on the table. You may cast one of them.",
+      "rules": {
+        "active": "Draw 3 green cards, face-up. Cast 1 and discard the rest.",
+        "passive": ""
+      },
       "flavour": "Do you believe in miracles?",
       "image": "assets/core/card/illustration/Jackpot.png"
     }
