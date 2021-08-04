@@ -199,8 +199,11 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "The ground shakes beneath you. All characters within 4 sqaures are knocked airborne and drop whatever they're holding.",
       "flavour": "Use near tectonic fault zones may be inadvisable",
+      "rules": {
+        "active": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
+        "passive": ""
+      },
       "image": "assets/core/card/illustration/Groundburst.png"
     }
   },
