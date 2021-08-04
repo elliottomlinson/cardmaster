@@ -108,7 +108,10 @@
     "upgrade": "Master Mimic",
     "tier": "green",
     "details": {
-      "rules": "Copy the last Green card used by any character",
+      "rules": {
+        "active": "Copy the effect of the last green card Cast by any character.",
+        "passive": ""
+      },
       "flavour": "Stop copying me. Stop copying me.",
       "image": "assets/core/card/illustration/Copy.png"
     }
