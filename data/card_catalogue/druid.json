@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "You can speak to birds",
-        "active": "Become a small hummingbird for as long as you choose"
+        "active": "Become a small hummingbird for as long as you want.",
+        "passive": "You can speak to birds."
       },
       "flavour": "Birds never fail to see the forest from the trees",
       "image": "assets/core/card/illustration/Bean Blast.png"
