@@ -69,7 +69,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Draws you towards a charcter in your line of sight at high speed. Both take 6 damage on impact.",
+      "rules": {
+        "active": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
+        "passive": ""
+      },
       "flavour": "C'mere.",
       "image": "assets/core/card/illustration/Grapple.png"
     }
