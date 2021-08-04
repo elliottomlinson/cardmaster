@@ -316,7 +316,10 @@
     "upgrade": "Field Medicine",
     "tier": "blue",
     "details": {
-      "rules": "Cure the ailment of a visible character, or heal them 8.",
+      "rules": {
+        "active": "Cure the ailment of a visible character, or heal them 8.",
+        "passive": ""
+      },
       "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
       "image": "assets/core/card/illustration/Cure.png"
     }
