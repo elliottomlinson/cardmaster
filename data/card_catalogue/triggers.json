@@ -18,11 +18,11 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Deal 3 bonus damage when attacking characters who know your name.",
-        "active": "Tell a story about yourself. Any number of visible characters will believe this story is true"
+        "active": "Tell a story about yourself. Any number of visible characters will believe this story is true.",
+        "passive": "Deal 3 bonus damage when attacking characters who know your name."
       },
-      "flavour": "His reputation preceeded him.",
       "image": "assets/core/card/illustration/Bean Blast.png"
+      "flavour": "His reputation preceded him.",
     }
   }
 ]
