@@ -394,7 +394,10 @@
     "upgrade": "Golan's Idol",
     "tier": "red",
     "details": {
-      "rules": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker",
+      "rules": {
+        "active": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker",
+        "passive": ""
+      },
       "flavour": "I am rubber, and you are glue.",
       "image": "assets/core/card/illustration/Deflect.png"
     }
