@@ -43,7 +43,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Force any character you can name to act on their desire for you.",
+      "rules": {
+        "active": "Force any character you can name to act on their desire for you.",
+        "passive": ""
+      },
       "flavour": "Here I am - Your other two wishes?",
       "image": "assets/core/card/illustration/Seduce.png"
     }
