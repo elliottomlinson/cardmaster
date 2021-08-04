@@ -26,7 +26,7 @@
     }
   },
   {
-    "title": "Sherriff's Roundup",
+    "title": "Sheriff's Roundup",
     "upgrade": "",
     "tier": "blue",
     "details": {
@@ -34,8 +34,8 @@
         "active": "Choose a visible article of clothing. A snake appears inside of it.",
         "passive": ""
       },
-      "flavour": "\"Always drink upstream from the herd\" - The Sherriff",
-      "image": "assets/core/card/illustration/Sherriff's Roundup.png"
+      "flavour": "\"Always drink upstream from the herd\" - The Sheriff",
+      "image": "assets/core/card/illustration/Sheriff's Roundup.png"
     }
   },
   {
