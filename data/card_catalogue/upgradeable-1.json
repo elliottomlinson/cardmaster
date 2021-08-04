@@ -486,8 +486,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Whenever you throw a character in the air, you can also throw them 8 squares in any direction",
-        "active": "Throw any number of characters in a 3 square radius into the air."
+        "active": "Throw any number of characters in a 3 metre radius into the air.",
+        "passive": "Whenever you throw a character in the air, you can also throw them 8 metres in any direction"
       },
       "flavour": "You look like a birthday candle.",
       "image": "assets/core/card/illustration/Gale.png"
