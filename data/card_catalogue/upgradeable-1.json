@@ -382,8 +382,9 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Anything thrown on you is repelled with equal force",
-        "active": "Any damage dealt to you from the next attack targeting you is dealt both to you and your attacker",
+        "active": "The next amount of damage dealt to you is also dealt to your attacker.",
+        "passive": "Thrown objects bounce off of you."
+      },
       "flavour": "Let's see how you like it!.",
       "image": "assets/core/card/illustration/Reflect.png"
     }
