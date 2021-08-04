@@ -134,7 +134,10 @@
     "upgrade": "",
     "tier": "red",
     "details": {
-      "rules": "Choose X up to 5. An boundary, impenetrable from within, is placed X squares away from you in all directions as long as you'd like",
+      "rules": {
+        "active": "Choose X up to 5. An boundary, impenetrable from within, is placed X squares away from you in all directions as long as you'd like",
+        "passive": ""
+      },
       "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
       "image": "assets/core/card/illustration/Prison.png"
     }
