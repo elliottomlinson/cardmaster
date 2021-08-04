@@ -56,7 +56,10 @@
     "upgrade": "",
     "tier": "red",
     "details": {
-      "rules": "Move instantly as many spaces as you want in a straight line.",
+      "rules": {
+        "active": "Move as far as you want in an unobstructed horizontal line.",
+        "passive": ""
+      },
       "flavour": "Checkmate",
       "image": "assets/core/card/illustration/Queen's Gambit.png"
     }
