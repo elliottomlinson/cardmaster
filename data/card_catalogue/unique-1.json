@@ -91,16 +91,6 @@
     }
   },
   {
-    "title": "Nullify Magic",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "Prevent a spell from being cast, or remove magic from target object.",
-      "flavour": "What are you gonna do about it robe-boy, hit me with that little stick?",
-      "image": "assets/core/card/illustration/Nullify Magic.png"
-    }
-  },
-  {
     "title": "Witch's Curse",
     "upgrade": "",
     "tier": "green",
