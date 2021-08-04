@@ -43,7 +43,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Cast two random Gold Cards.",
+      "rules": {
+        "active": "Draw 2 gold cards. Cast both.",
+        "passive": ""
+      },
       "flavour": "I don't know what I want, but I do want a lot of it.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
