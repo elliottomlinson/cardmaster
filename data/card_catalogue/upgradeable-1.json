@@ -69,7 +69,10 @@
     "upgrade": "Fork Lightning",
     "tier": "green",
     "details": {
-      "rules": "Deal 4 damage and stun up to 2 visible characters",
+      "rules": {
+        "active": "Deal 4 damage and stun up to 2 visible characters.",
+        "passive": ""
+      },
       "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
       "image": "assets/core/card/illustration/Lightning Bolt.png"
     }
