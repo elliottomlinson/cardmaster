@@ -299,13 +299,13 @@
     }
   },
   {
-    "title": "Large-Caliber Artillery Invocation",
+    "title": "Spectreblast",
     "upgrade": "",
     "tier": "green",
     "details": {
       "rules": "A magical light takes the shape of a cannon and instantly fires a real shot in the direction of your choice.",
       "flavour": "Cannonballs are designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
-      "image": "assets/core/card/illustration/Large-Caliber Artillery Invocation.png"
+      "image": "assets/core/card/illustration/Spectreblast.png"
     }
   },
   {
