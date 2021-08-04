@@ -44,8 +44,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Machines fear you",
-        "active": "Disable a visible machine until it is repaired"
+        "active": "Disable a visible machine until it is repaired.",
+        "passive": "Machines fear you."
       },
       "flavour": "Yeah I'm into tech, into smashing it up that is",
       "image": "assets/core/card/illustration/Bean Blast.png"
