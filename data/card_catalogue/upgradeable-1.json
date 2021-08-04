@@ -186,7 +186,10 @@
     "upgrade": "Ascend",
     "tier": "red",
     "details": {
-      "rules": "Hover up to 5 feet off the ground until you lose concentration.",
+      "rules": {
+        "active": "Hover up to 2 metres off the ground until you lose concentration.",
+        "passive": ""
+      },
       "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, Concerned Father",
       "image": "assets/core/card/illustration/Leap.png"
     }
