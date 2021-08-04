@@ -69,7 +69,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Cast a handful of sand and pocket lint into the air before you.",
+      "rules": {
+        "active": "Cast a handful of sand and pocket lint into the air before you.",
+        "passive": ""
+      },
       "flavour": "Good for blinding a close range target.",
       "image": "assets/core/card/illustration/Empouched Earth.png"
     }
