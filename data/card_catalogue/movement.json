@@ -4,7 +4,10 @@
     "upgrade": "Charge",
     "tier": "blue",
     "details": {
-      "rules": "Move up to 5 squares in any direction",
+      "rules": {
+        "active": "Move up to 5 squares in any direction.",
+        "passive": ""
+      },
       "flavour": "These are great for the glutes.",
       "image": "assets/core/card/illustration/Lunge.png"
     }
