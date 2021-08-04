@@ -1,7 +1,7 @@
 [
   {
-    "upgrade": "Pitch",
     "title": "Toss",
+    "upgrade": "Throw",
     "tier": "blue",
     "details": {
       "rules": "Throw an object up to 10 squares",
@@ -10,13 +10,13 @@
     }
   },
   {
-    "title": "Pitch",
     "upgrade": "Hurl",
+    "title": "Throw",
     "tier": "green",
     "details": {
       "rules": "Throw an object up to 50 squares",
       "flavour": "\"I will not rest until every window is smashed. They are an insult to me and my kind\" - Little Jimmy, neighborhood rascal",
-      "image": "assets/core/card/illustration/Pitch.png"
+      "image": "assets/core/card/illustration/Throw.png"
     }
   },
   {
