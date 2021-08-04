@@ -4,7 +4,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Become the legal owner of a building of your choice. Existing tenants will be evicted immediately",
+      "rules": {
+        "active": "Become the legal owner of a building of your choice. Existing tenants will be evicted immediately.",
+        "passive": ""
+      },
       "flavour": "The gang battle of 2485 concluded after the mafioso purchased their fortress and had the police escort them to jail.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     },
