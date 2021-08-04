@@ -330,10 +330,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Heal 15 to a visible character. They can move twice as fast for the remainder of the session",
-        "passive": "Run twice as fast while carrying friendly characters" 
+        "active": "Heal a visible character 15. They can move twice as fast for the remainder of the session.",
+        "passive": "Run twice as fast while carrying friendly characters."
       },
-      "flavour": "The best medicine is running far away from things which hurt you",
+      "flavour": "The best medicine is running far away from things which hurt you.",
       "image": "assets/core/card/illustration/Field Medicine.png"
     }
   },
