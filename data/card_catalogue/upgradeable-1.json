@@ -455,11 +455,14 @@
     }
   },
   {
-    "title": "Endless blows",
+    "title": "Endless Blows",
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Take X damage. You can attack X times this turn",
+      "rules": {
+        "active": "Take X damage. You can attack X times on your turn.",
+        "passive": ""
+      },
       "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs.",
       "image": "assets/core/card/illustration/Endless blows.png"
     }
