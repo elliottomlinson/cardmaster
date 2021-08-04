@@ -303,8 +303,11 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "A magical light takes the shape of a cannon and instantly fires a real shot in the direction of your choice.",
-      "flavour": "Cannonballs are designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
+      "rules": {
+        "active": "Fire a cannonball at a target of your choice.",
+        "passive": ""
+      },
+      "flavour": "Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
       "image": "assets/core/card/illustration/Spectreblast.png"
     }
   },
