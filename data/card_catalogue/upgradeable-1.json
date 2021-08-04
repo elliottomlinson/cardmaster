@@ -147,7 +147,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Summon a brick of material which burns violently forever when set on fire.",
+      "rules": {
+        "active": "Summon a brick of material which burns violently forever when set on fire.",
+        "passive": ""
+      },
       "flavour": "The fire in our hearts will never burn out",
       "image": "assets/core/card/illustration/Inner Sun.png"
     }
