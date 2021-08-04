@@ -264,7 +264,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
+      "rules": {
+        "active": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
+        "passive": ""
+      },
       "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
       "image": "assets/core/card/illustration/Poltergeist.png"
     }
