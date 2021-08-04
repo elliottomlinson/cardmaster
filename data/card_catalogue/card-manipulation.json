@@ -221,13 +221,13 @@
     }
   },
   {
-    "title": "Four Leaf Clover",
+    "title": "Four-Leaf Clover",
     "upgrade": "Rabbit's Foot",
     "tier": "blue",
     "details": {
       "rules": "Place 3 green cards on the table. You may cast one of them.",
       "flavour": "No more of this bush league nonsense. We need some real power.",
-      "image": "assets/core/card/illustration/Four Leaf Clover.png"
+      "image": "assets/core/card/illustration/Four-Leaf Clover.png"
     }
   },
   {
