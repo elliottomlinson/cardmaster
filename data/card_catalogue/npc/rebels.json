@@ -30,7 +30,10 @@
     "upgrade": "Bullet Rain",
     "tier": "red",
     "details": {
-      "rules": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
+      "rules": {
+        "active": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
+        "passive": ""
+      },
       "flavour": "Rebel armies spare no expense when supplying their troops with ammunition.",
       "image": "assets/core/card/illustration/Reload.png"
     }
