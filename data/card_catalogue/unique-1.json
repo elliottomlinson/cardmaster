@@ -173,7 +173,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
+      "rules": {
+        "active": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
+        "passive": ""
+      },
       "flavour": "\"I will never abide by absolutes\" - Leopold the Oppugnant",
       "image": "assets/core/card/illustration/The Ultimatum.png"
     }
