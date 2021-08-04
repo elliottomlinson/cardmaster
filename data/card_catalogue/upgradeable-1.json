@@ -56,7 +56,10 @@
     "upgrade": "Lightning Bolt",
     "tier": "blue",
     "details": {
-      "rules": "Deal 3 damage to a visible character with a painful bolt of electricity.",
+      "rules": {
+        "active": "Deal 3 damage to a visible character with a painful bolt of electricity",
+        "passive": ""
+      },
       "flavour": "A smile costs less than electricity, but gives much light",
       "image": "assets/core/card/illustration/Spark.png"
     }
