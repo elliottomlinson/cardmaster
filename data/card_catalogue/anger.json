@@ -30,12 +30,12 @@
     "upgrade": "Change of Heart",
     "tier": "red",
     "details": {
-      "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, soon to be unemployed security guard",
       "image": "assets/core/card/illustration/Lunge.png"
       "rules": {
         "active": "For one minute, NPCs will not become hostile unless they take damage.",
         "passive": ""
       },
+      "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
     }
   },
   {
