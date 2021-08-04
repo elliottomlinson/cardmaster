@@ -17,7 +17,10 @@
     "upgrade": "none",
     "tier": "green",
     "details": {
-      "rules": "At the start of your turn during combat, return all Blue cards you've cast this          session to your hand.",
+      "rules": {
+        "active": "At the start of your turn during combat, return all Blue cards you've cast this session to your hand.",
+        "passive": ""
+      },
       "flavour": "You've got nice moves, but you won't be able to keep up for long.",
       "image": "assets/core/card/illustration/Platzfalt Step.png"
     }
