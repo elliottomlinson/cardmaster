@@ -56,7 +56,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Name up a character who has wronged you. They feel an remorse for what they have done.",
+      "rules": {
+        "active": "Name a character who has wronged you. They feel remorse for what they have done.",
+        "passive": ""
+      },
       "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
       "image": "assets/core/card/illustration/Lunge.png"
     }
