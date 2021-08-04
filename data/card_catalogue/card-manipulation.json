@@ -17,7 +17,10 @@
     "upgrade": "Spark of Inspiration",
     "tier": "green",
     "details": {
-      "rules":"Cast two random Green Cards.",
+      "rules": {
+        "active":"Draw 2 green cards. Cast both.",
+        "passive": ""
+      },
       "flavour": "You never know what he'll pull out of thin air.",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
