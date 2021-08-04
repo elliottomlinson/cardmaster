@@ -160,7 +160,10 @@
     "upgrade": "Leap",
     "tier": "blue",
     "details": {
-      "rules": "Jump up 3 metres",
+      "rules": {
+        "active": "Jump up 3 metres.",
+        "passive": ""
+      },
       "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, Concerned Father",
       "image": "assets/core/card/illustration/Jump.png"
     }
