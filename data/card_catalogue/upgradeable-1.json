@@ -251,7 +251,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
+      "rules": {
+        "active": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
+        "passive": ""
+      },
       "flavour": "Nature has a myriad of weapons to combat human arrogance.",
       "image": "assets/core/card/illustration/Flood.png"
     }
