@@ -238,7 +238,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Choose a 2x2 area to fill temporarily with an opaque smoke",
+      "rules": {
+        "active": "Choose a 4 square metre area to fill temporarily with an opaque smoke",
+        "passive": ""
+      },
       "flavour": "Mildly anoxic.",
       "image": "assets/core/card/illustration/Smoke Bomb.png"
     }
