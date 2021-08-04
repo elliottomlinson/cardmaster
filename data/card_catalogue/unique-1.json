@@ -147,7 +147,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
+      "rules": {
+        "active": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
+        "passive": ""
+      },
       "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
       "image": "assets/core/card/illustration/Porticostatic Hex.png"
     }
