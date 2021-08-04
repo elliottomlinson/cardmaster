@@ -407,12 +407,12 @@
     "upgrade": "Reflect",
     "tier": "gold",
     "details": {
-      "image": "assets/core/card/illustration/Brace.png"
       "rules": {
         "active": "Name a character. They can no longer deal damage to you.",
         "passive": ""
       },
       "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5-Year-Old Jacob, Yellow Belt",
+      "image": "assets/core/card/illustration/Golan's Idol.png"
     }
   },
   {
