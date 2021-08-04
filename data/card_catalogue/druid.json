@@ -57,11 +57,11 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "You can tame anything you can ride",
-        "active": "Summon a trusty steed"
+        "active": "Summon a trusty steed.",
+        "passive": "You can tame anything you can ride."
       },
-      "flavour": "Man was destined to tame the world",
       "image": "assets/core/card/illustration/Bean Blast.png"
+      "flavour": "Man was destined to tame the world.",
     }
   }
 ]
