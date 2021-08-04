@@ -225,7 +225,10 @@
     "upgrade": "Drench",
     "tier": "green",
     "details": {
-      "rules": "Target a point. Everything within 2m of this point is now saturated with water.",
+      "rules": {
+        "active": "Cause everything within 2 metres of a visible object to become saturated with water.",
+        "passive": ""
+      },
       "flavour": "My plan: complete. Their day: ruined.",
       "image": "assets/core/card/illustration/Soak.png"
     }
