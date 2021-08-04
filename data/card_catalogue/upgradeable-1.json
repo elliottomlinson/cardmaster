@@ -521,7 +521,7 @@
   },
   {
     "title": "Barrier",
-    "upgrade": "Holomonk",
+    "upgrade": "",
     "tier": "blue",
     "details": {
       "rules": {
@@ -530,16 +530,6 @@
       },
       "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
       "image": "assets/core/card/illustration/Barrier.png"
-    }
-  },
-  {
-    "title": "Holomonk",
-    "upgrade": "HoloKicker",
-    "tier": "green",
-    "details": {
-      "rules": "Summon an immobile monk until end of turn who punches characters who come within range",
-      "flavour": "His name is Po.",
-      "image": "assets/core/card/illustration/Holomonk.png"
     }
   },
   {
