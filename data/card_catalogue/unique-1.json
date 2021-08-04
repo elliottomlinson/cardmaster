@@ -290,11 +290,11 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "flavour": "Mafia hideouts are often mysteriously empty when Rebel forces arrive to perform arrests.",
       "rules": {
         "active": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
         "passive": ""
       },
+      "flavour": "Mob hideouts are often mysteriously empty when the Cops arrive to perform arrests",
       "image": "assets/core/card/illustration/Tripwire Charm.png"
     }
   },
