@@ -199,7 +199,10 @@
     "upgrade": "Helter-Skelter",
     "tier": "red",
     "details": {
-      "rules": "Place 5 green cards onto the table. Cast up to 3 of those cards.",
+      "rules": {
+        "active": "Draw 5 green cards, face-up. Cast up to 3 and discard the rest.",
+        "passive": ""
+      },
       "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
       "image": "assets/core/card/illustration/Extemporize.png"
     }
