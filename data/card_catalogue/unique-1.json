@@ -277,8 +277,11 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Summon a diembodied hand within 4 tiles to perform one simple action before vanishing.",
       "flavour": "\"Magicians are a bunch of lazy bums\" - Brinley B.",
+      "rules": {
+        "active": "Summon a disembodied hand to perform a simple action within 4 metres of you.",
+        "passive": ""
+      },
       "image": "assets/core/card/illustration/Eidolimb.png"
     }
   },
