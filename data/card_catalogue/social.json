@@ -69,7 +69,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Speak with any dead NPC. Return this card to the deck and draw another.",
+      "rules": {
+        "active": "Speak with any dead NPC, then draw another blue card.",
+        "passive": ""
+      },
       "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
       "image": "assets/core/card/illustration/Seance.png"
     }
