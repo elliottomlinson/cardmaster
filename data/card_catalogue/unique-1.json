@@ -56,7 +56,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Place target large object or willing NPC in your hand.",
+      "rules": {
+        "active": "Put a large object or willing NPC in your hand.",
+        "passive": ""
+      },
       "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
       "image": "assets/core/card/illustration/Rolling Cart.png"
     }
