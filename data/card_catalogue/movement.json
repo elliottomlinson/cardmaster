@@ -82,7 +82,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Teleport to any visible space. Take damage equal to the number of squares moved.",
+      "rules": {
+        "active": "Teleport to any visible space. Take damage equal to the number of squares moved.",
+        "passive": ""
+      },
       "flavour": "Travelling is always a pain.",
       "image": "assets/core/card/illustration/Platzfalt Step.png"
     }
