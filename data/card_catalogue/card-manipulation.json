@@ -160,8 +160,11 @@
     "upgrade": "Expert Reload",
     "tier": "red",
     "details": {
-      "rules": "Return a Card with Red Rarity to your hand",
-      "flavour": "Cowboy's only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
+      "rules": {
+        "active": "Return a red card you have Cast to your hand.",
+        "passive": ""
+      },
+      "flavour": "Cowboys only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
       "image": "assets/core/card/illustration/Cowboy Reload.png"
     }
   },
