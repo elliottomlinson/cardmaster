@@ -95,7 +95,10 @@
     "upgrade": "Copy",
     "tier": "blue",
     "details": {
-      "rules": "Copy the last Blue card used by any character",
+      "rules": {
+        "active": "Copy the effect of the last blue card Cast by any character.",
+        "passive": ""
+      },
       "flavour": "This is how stupid you look, watch this.",
       "image": "assets/core/card/illustration/Imitate.png"
     }
