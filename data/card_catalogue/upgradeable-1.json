@@ -537,9 +537,12 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Summon a copy of any non-player character",
-      "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Summoner",
       "image": "assets/core/card/illustration/HoloKicker.png"
+      "rules": {
+        "active": "Summon a copy of any NPC.",
+        "passive": ""
+      },
+      "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Cardmaster",
     }
   }
 ]
