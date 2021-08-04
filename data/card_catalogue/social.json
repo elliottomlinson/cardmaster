@@ -56,7 +56,10 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Speak with any living NPC. Return this card to the deck and draw another.",
+      "rules": {
+        "active": "Speak with any living NPC, then draw another blue card.",
+        "passive": ""
+      },
       "flavour": "How'd you get this number? I don't even own a phone!",
       "image": "assets/core/card/illustration/Commune.png"
     }
