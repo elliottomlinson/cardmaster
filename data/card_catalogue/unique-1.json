@@ -381,8 +381,11 @@
     "upgrade": "",
     "tier": "blue",
     "details": {
-      "rules": "Summon a pigeon to perform one simple task",
-      "flavour": "Will try not to be distracted by breadcrumbs.",
+      "rules": {
+        "active": "Summon a pigeon to perform a simple task",
+        "passive": ""
+      },
+      "flavour": "He will try his best not to be distracted by breadcrumbs.",
       "image": "assets/core/card/illustration/Pigeon Partner.png"
     }
   },
