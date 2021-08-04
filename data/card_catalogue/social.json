@@ -108,7 +108,10 @@
     "upgrade": "Disguise",
     "tier": "green",
     "details": {
-      "rules": "Target NPC will believe your next statement.",
+      "rules": {
+        "active": "Target NPC will believe your next statement.",
+        "passive": ""
+      },
       "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
       "image": "assets/core/card/illustration/Lie.png"
     }
