@@ -95,7 +95,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "Target visible character will take 25 damage the next time they rest.",
+      "rules": {
+        "active": "Target visible character will take 25 damage the next time they rest.",
+        "passive": ""
+      },
       "flavour": "Sweet dreams.",
       "image": "assets/core/card/illustration/Witch's Curse.png"
     }
