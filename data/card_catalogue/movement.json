@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Move up to 15 squares in any direction.",
+        "active": "Move up to 15 metres in any direction.",
         "passive": "Gain advantage when running through obstacles."
       },
       "flavour": "What are you running from?",
