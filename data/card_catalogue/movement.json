@@ -30,7 +30,10 @@
     "upgrade": "Leopold's Door",
     "tier": "red",
     "details": {
-      "rules": "Teleport to any visible location",
+      "rules": {
+        "active": "Teleport to any visible location.",
+        "passive": ""
+      },
       "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
       "image": "assets/core/card/illustration/Teleport.png"
     }
