@@ -44,8 +44,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "passive": "Gain advantage when throwing objects",
-        "active": "Launch a baseball sized rock at a visible target"
+        "active": "Launch a baseball sized rock at a visible target.",
+        "passive": "Gain advantage when throwing objects."
       },
       "flavour": "You want it? Here.",
       "image": "assets/core/card/illustration/Slingshot.png"
