@@ -173,7 +173,10 @@
     "upgrade": "Improvise",
     "tier": "blue",
     "details": {
-      "rules": "Draw 3 grey cards",
+      "rules": {
+        "active": "Draw 3 grey cards.",
+        "passive": ""
+      },
       "flavour": "Now, what do we have here...",
       "image": "assets/core/card/illustration/Adlib.png"
     }
