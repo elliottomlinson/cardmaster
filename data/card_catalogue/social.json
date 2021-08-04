@@ -95,7 +95,10 @@
     "upgrade": "Lie",
     "tier": "blue",
     "details": {
-      "rules": "Target NPC fails their current action and loses focus on you",
+      "rules": {
+        "active": "Double-disadvantage an NPC currently performing an action.",
+        "passive": ""
+      },
       "flavour": "\"Ok one sec my homework is in my bag I'll grab it in a minute. How was your weekend?\" - Little Sniver",
       "image": "assets/core/card/illustration/Distract.png"
     }
