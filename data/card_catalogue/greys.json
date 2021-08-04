@@ -17,8 +17,11 @@
     "upgrade": "",
     "tier": "grey",
     "details": {
-      "rules": "Move 1 square in a straight line",
-      "flavour": "When speed gets in the blood, one must move to live",
+      "rules": {
+        "active": "Move a metre.",
+        "passive": ""
+      },
+      "flavour": "When speed gets in the blood, one must move to live.",
       "image": "assets/core/card/illustration/Shift.png"
     }
   },
