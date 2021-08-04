@@ -355,7 +355,10 @@
     "upgrade": "",
     "tier": "green",
     "details": {
-      "rules": "You and any character you are touching burst into flames. 3d6 damage to each character ignited.",
+      "rules": {
+        "active": "Burst into flames along with anyone you're touching. 3d6 damage to each character ignited.",
+        "passive": ""
+      },
       "flavour": "I'm taking you straight to hell.",
       "image": "assets/core/card/illustration/Adjoint Immolation Hex.png"
     }
