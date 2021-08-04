@@ -143,16 +143,6 @@
     }
   },
   {
-    "title": "Superficial Spectacle",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "An aura surrounds you. NPCs believe this spell had the effect of your choice",
-      "flavour": "Conjurers con jurors.",
-      "image": "assets/core/card/illustration/Superficial Spectacle.png"
-    }
-  },
-  {
     "title": "Word Warp",
     "upgrade": "",
     "tier": "blue",
