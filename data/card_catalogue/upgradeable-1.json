@@ -43,7 +43,10 @@
     "upgrade": "",
     "tier": "gold",
     "details": {
-      "rules": "Throw an object as far as you want. It cannot be stopped.",
+      "rules": {
+        "active": "Throw an object as far as you want. It cannot be stopped.",
+        "passive": ""
+      },
       "flavour": "I guess in a way, we're all still chasing it.",
       "image": "assets/core/card/illustration/Launch.png"
     }
