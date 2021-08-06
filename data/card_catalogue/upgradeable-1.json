@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "active": "Throw an object accurately at a target up to 12 metres away.",
-        "passive": "Advantage when catching small objects."
+        "passive": "Advantage when catching."
       },
       "flavour": "If you're going to throw in the towel, at least do it properly.",
       "image": "assets/core/card/illustration/Throw.png"
