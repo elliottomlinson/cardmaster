@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "active": "Move up to 5 metres in any direction.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "These are great for the glutes.",
       "image": "assets/core/card/illustration/Lunge.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "active": "Teleport to any visible location.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
       "image": "assets/core/card/illustration/Teleport.png"
@@ -40,12 +40,12 @@
   },
   {
     "title": "Leopold's Door",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
       "rules": {
         "active": "Teleport the entire party anywhere.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
       "image": "assets/core/card/illustration/Leopold's Door.png"
@@ -53,12 +53,12 @@
   },
   {
     "title": "Queen's Gambit",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "red",
     "details": {
       "rules": {
         "active": "Move as far as you want in an unobstructed horizontal line.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Checkmate",
       "image": "assets/core/card/illustration/Queen's Gambit.png"
@@ -66,12 +66,12 @@
   },
   {
     "title": "Grapple",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
         "active": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "C'mere.",
       "image": "assets/core/card/illustration/Grapple.png"
@@ -79,12 +79,12 @@
   },
   {
     "title": "Platzfalt Step",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
       "rules": {
         "active": "Teleport to any visible space. Take damage equal to the number of squares moved.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Travelling is always a pain.",
       "image": "assets/core/card/illustration/Platzfalt Step.png"

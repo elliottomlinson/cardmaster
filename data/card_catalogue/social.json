@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "active": "Increases your rapport with a visible NPC",
-        "passive": ""
+        "passive": null
       },
       "flavour": "If you were words on a card, you'd be some fine print.",
       "image": "assets/core/card/illustration/Flirt.png"
@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "active": "Causes a visible character to like you.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
       "image": "assets/core/card/illustration/Charm.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "active": "Causes a visible NPC to become attracted to you.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
       "image": "assets/core/card/illustration/Arouse.png"
@@ -40,12 +40,12 @@
   },
   {
     "title": "Seduce",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
       "rules": {
         "active": "Force any NPC you can name to act on their desire for you.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Here I am - Your other two wishes?",
       "image": "assets/core/card/illustration/Seduce.png"
@@ -53,12 +53,12 @@
   },
   {
     "title": "Commune",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
       "rules": {
         "active": "Speak with any living NPC, then draw another blue card.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
       "image": "assets/core/card/illustration/Commune.png"
@@ -66,12 +66,12 @@
   },
   {
     "title": "Seance",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
       "rules": {
         "active": "Speak with any dead NPC, then draw another blue card.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
       "image": "assets/core/card/illustration/Seance.png"
@@ -79,12 +79,12 @@
   },
   {
     "title": "Apologize",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
         "active": "Target visible NPC can no longer feel negative emotions towards target visible character.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Vewy Sowwy.",
       "image": "assets/core/card/illustration/Apologize.png"
@@ -97,7 +97,7 @@
     "details": {
       "rules": {
         "active": "Double-disadvantage an NPC currently performing an action.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"Ok one sec my homework is in my bag I'll grab it in a minute. How was your weekend?\" - Little Sniver",
       "image": "assets/core/card/illustration/Distract.png"
@@ -110,7 +110,7 @@
     "details": {
       "rules": {
         "active": "Target NPC will believe your next statement.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
       "image": "assets/core/card/illustration/Lie.png"
@@ -123,7 +123,7 @@
     "details": {
       "rules": {
         "active": "Change your appearance to match that of another exactly for as long as you'd like.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
       "image": "assets/core/card/illustration/Disguise.png"
@@ -131,12 +131,12 @@
   },
   {
     "title": "Revise",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
       "rules": {
         "active": "Rewrite the contents of an NPC's memory.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
       "image": "assets/core/card/illustration/Revise.png"
@@ -144,12 +144,12 @@
   },
   {
     "title": "Word Warp",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
       "rules": {
         "active": "Swap two words in an NPC's vocabulary. They will not be aware of the effect, which lasts for a day.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
       "image": "assets/core/card/illustration/Word Warp.png"
@@ -157,12 +157,12 @@
   },
   {
     "title": "Magic Trick",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
         "active": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
       "image": "assets/core/card/illustration/Magic Trick.png"

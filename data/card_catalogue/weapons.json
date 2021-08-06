@@ -1,7 +1,7 @@
 [
   {
     "title": "Sledgehammer",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -14,7 +14,7 @@
   },
   {
     "title": "Bow Hex",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -27,7 +27,7 @@
   },
   {
     "title": "Sword Hex",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -40,7 +40,7 @@
   },
   {
     "title": "Slingshot",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
       "rules": {

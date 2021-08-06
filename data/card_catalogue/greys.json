@@ -1,12 +1,12 @@
 [
   {
     "title": "Boost",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "grey",
     "details": {
       "rules": {
         "active": "Increase the result of a roll by 1.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "The collective will of the people made manifest.",
       "image": "assets/core/card/illustration/Boost.png"
@@ -14,12 +14,12 @@
   },
   {
     "title": "Shift",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "grey",
     "details": {
       "rules": {
         "active": "Move a metre.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "When speed gets in the blood, one must move to live.",
       "image": "assets/core/card/illustration/Shift.png"
@@ -27,12 +27,12 @@
   },
   {
     "title": "Fluster",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "grey",
     "details": {
       "rules": {
         "active": "Decrease the result of a roll by 1.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "The collective will of the people made manifest.",
       "image": "assets/core/card/illustration/Fluster.png"
@@ -40,12 +40,12 @@
   },
   {
     "title": "Force",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "grey",
     "details": {
       "rules": {
         "active": "Push or pull a visible object slightly.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Human force extends far past the limits of an earthly body.",
       "image": "assets/core/card/illustration/Force.png"

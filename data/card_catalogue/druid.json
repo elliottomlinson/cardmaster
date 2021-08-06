@@ -1,7 +1,7 @@
 [
   {
     "title": "Rodent Whisperer",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -14,7 +14,7 @@
   },
   {
     "title": "Avian Spirit",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -27,7 +27,7 @@
   },
   {
     "title": "Swarm",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -40,7 +40,7 @@
   },
   {
     "title": "Ouphe's Aura",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -53,7 +53,7 @@
   },
   {
     "title": "Equestrian",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {

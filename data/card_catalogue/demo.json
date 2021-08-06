@@ -9,7 +9,7 @@
         "details": {
           "rules": {
             "active": "Oh no",
-            "passive": ""
+            "passive": null
           },
           "flavour": "Darn",
           "image": "assets/core/card/illustration/Inner Sun.png"
@@ -21,7 +21,7 @@
         "details": {
           "rules": {
             "active": "Sacrifice your life. Kill an NPC who you've met.",
-            "passive": ""
+            "passive": null
           },
           "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
           "image": "assets/core/card/illustration/Inner Sun.png"
@@ -36,7 +36,7 @@
     "details": {
       "rules": {
         "active": "Stun an NPC for a turn",
-        "passive": ""
+        "passive": null
       },
       "flavour": "The sweet smell of bathtub toast."
     }
@@ -47,7 +47,7 @@
     "details": {
       "rules": {
         "active": "Stun an NPC for two turns",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Human beings are basically just big potato batteries.",
       "image": "assets/core/card/illustration/Inner Sun.png"
@@ -55,7 +55,7 @@
   },
   {
     "title": "Paz",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {

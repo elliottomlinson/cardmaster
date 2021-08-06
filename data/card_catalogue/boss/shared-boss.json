@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "active": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "See you next fall!",
       "image": "assets/core/card/illustration/I've Had Enough.png"
@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "active": "At the start of your turn during combat, return all Blue cards you've cast this session to your hand.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "You've got nice moves, but you won't be able to keep up for long.",
       "image": "assets/core/card/illustration/Attrition.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "active": "Move any number of allied NPCs out of combat.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "Let's make some space- this is about to get rowdy.",
       "image": "assets/core/card/illustration/Take it Outside.png"

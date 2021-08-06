@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "active": "A visible NPC is forced to think positive thoughts.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
       "image": "assets/core/card/illustration/Positivity.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "active": "For one minute, NPCs will not become hostile unless they take damage.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
       "image": "assets/core/card/illustration/Timeout.png"
@@ -40,12 +40,12 @@
   },
   {
     "title": "Change of Heart",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
       "rules": {
         "active": "Name an NPC. They will dedicate their lives to promoting peace.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "All life is precious, even the lives of your enemies",
       "image": "assets/core/card/illustration/Change of Heart.png"
@@ -53,12 +53,12 @@
   },
   {
     "title": "Rue the Day",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
         "active": "Name a character who has wronged you. They feel remorse for what they have done.",
-        "passive": ""
+        "passive": null
       },
       "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
       "image": "assets/core/card/illustration/Rue the Day.png"
@@ -66,7 +66,7 @@
   },
   {
     "title": "Shadow Strike",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -79,7 +79,7 @@
   },
   {
     "title": "Survival Instincts",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
