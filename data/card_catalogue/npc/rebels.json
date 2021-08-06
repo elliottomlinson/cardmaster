@@ -44,7 +44,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Whenever you use a Card for the rest of the session, you may return a Card with lesser rarity to your hand.",
+        "active": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
         "passive": null
       },
       "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",
