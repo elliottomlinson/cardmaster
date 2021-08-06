@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Throw an object as far as you want.",
+        "active": "Throw an object accurately as far as you want.",
         "passive": "Advantage when catching."
       },
       "flavour": "I want this thing gone, understand? I want to never see it again.",
