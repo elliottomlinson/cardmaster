@@ -10,7 +10,7 @@ module Card
       FRONT_PATH = File.join(ASSET_BASE, "printed")
       BACK_PATH = File.join(ASSET_BASE, "back")
       PRINT_MANIFEST_PATH = "assets/core/card/printed/print_manifest.json"
-      GH_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg"
+      GH_URL = "https://raw.githubusercontent.com/elliottomlinson/cardmaster"
       HELP_SUGGESTION = "try printing again or reverting changes to #{PRINT_MANIFEST_PATH}"
 
       def initialize
