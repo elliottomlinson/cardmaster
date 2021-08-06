@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Causes a visible character to like you.",
+        "active": "Causes a visible NPC to like you.",
         "passive": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
