@@ -4,9 +4,12 @@
     "upgrade": "Talk it Out",
     "tier": "blue",
     "details": {
-      "rules": "A visible target is forced to think positive thoughts",
+      "rules": {
+        "active": "A visible NPC is forced to think positive thoughts.",
+        "passive": null
+      },
       "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
-      "image": "assets/core/card/illustration/Lunge.png"
+      "image": "assets/core/card/illustration/Positivity.png"
     }
   },
   {
@@ -15,11 +18,11 @@
     "tier": "green",
     "details": {
       "rules": {
-	      "active": "A visible target is forced to stop what they're doing and discuss their feelings with you",
-	      "passive": "Whenever you make an attack, you can choose whether or not it will deal damage"
+	      "active": "A visible character is forced to stop what they're doing and discuss their feelings with you.",
+	      "passive": "Whenever you make an attack, you can choose whether or not it will deal damage."
       },
       "flavour": "\"I guess, in a way, I've just been trying to impress my old man this whole time\" - Brutus the Bloody Impaler",
-      "image": "assets/core/card/illustration/Lunge.png"
+      "image": "assets/core/card/illustration/Talk it Out.png"
     }
   },
   {
@@ -27,55 +30,64 @@
     "upgrade": "Change of Heart",
     "tier": "red",
     "details": {
-      "rules": "For one minute, non-player characters will not become hostile unless they receive damage",
-      "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, soon to be unemployed security guard",
-      "image": "assets/core/card/illustration/Lunge.png"
+      "rules": {
+        "active": "For one minute, NPCs will not become hostile unless they take damage.",
+        "passive": null
+      },
+      "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
+      "image": "assets/core/card/illustration/Timeout.png"
     }
   },
   {
     "title": "Change of Heart",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Name a non-player character. They will dedicate their lives to promoting peace.",
+      "rules": {
+        "active": "Name an NPC. They will dedicate their lives to promoting peace.",
+        "passive": null
+      },
       "flavour": "All life is precious, even the lives of your enemies",
-      "image": "assets/core/card/illustration/Lunge.png"
+      "image": "assets/core/card/illustration/Change of Heart.png"
     }
   },
   {
     "title": "Rue the Day",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Name up a character who has wronged you. They feel an remorse for what they have done.",
+      "rules": {
+        "active": "Name a character who has wronged you. They feel remorse for what they have done.",
+        "passive": null
+      },
       "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
-      "image": "assets/core/card/illustration/Lunge.png"
+      "image": "assets/core/card/illustration/Rue the Day.png"
     }
   },
   {
     "title": "Shadow Strike",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
-	"active": "Disappear for as long as you remain perfectly still",
-	"passive": "Deal double damage while out of combat"
+        "active": "Disappear for as long as you remain perfectly still.",
+        "passive": "Deal double damage while out of combat."
       },
       "flavour": "Most battles are over before they've even begun",
-      "image": "assets/core/card/illustration/Lunge.png"
+      "image": "assets/core/card/illustration/Shadow Strike.png"
     }
   },
   {
     "title": "Survival Instincts",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
-	"active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water",
-	"passive": "Get triple advantage on all rolls when below 5 health"
+        "active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water.",
+        "passive": "Triple advantage on all d20 rolls when below 5 health."
       },
       "flavour": "The key to survival is flexibility and urgency",
-      "image": "assets/core/card/illustration/Lunge.png"
+      "image": "assets/core/card/illustration/Survival Instincts.png"
     }
   }
 ]

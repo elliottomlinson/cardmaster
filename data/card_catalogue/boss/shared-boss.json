@@ -1,22 +1,15 @@
 [
   {
-    "title": "Enough Playing Around",
-    "upgrade": "none",
-    "tier": "gold",
-    "details": {
-      "rules": "Cast when unconscious. Return to full health",
-      "flavour": "Not bad. But watch this...",
-      "image": "assets/core/card/illustration/Platzfalt Step.png"
-    }
-  },
-  {
     "title": "I've Had Enough",
     "upgrade": "none",
     "tier": "gold",
     "details": {
-      "rules": "Cast this card only during your turn. At the start of your next turn, teleport to        safety and leave behind a piece of valuable loot.",
+      "rules": {
+        "active": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
+        "passive": null
+      },
       "flavour": "See you next fall!",
-      "image": "assets/core/card/illustration/Platzfalt Step.png"
+      "image": "assets/core/card/illustration/I've Had Enough.png"
     }
   },
   {
@@ -24,9 +17,12 @@
     "upgrade": "none",
     "tier": "green",
     "details": {
-      "rules": "At the start of your turn during combat, return all Blue cards you've cast this          session to your hand.",
+      "rules": {
+        "active": "At the start of your turn during combat, return all Blue cards you've cast this session to your hand.",
+        "passive": null
+      },
       "flavour": "You've got nice moves, but you won't be able to keep up for long.",
-      "image": "assets/core/card/illustration/Platzfalt Step.png"
+      "image": "assets/core/card/illustration/Attrition.png"
     }
   },
   {
@@ -34,9 +30,12 @@
     "upgrade": "none",
     "tier": "gold",
     "details": {
-      "rules": "Move any number of other allied characters out of combat.",
+      "rules": {
+        "active": "Move any number of allied NPCs out of combat.",
+        "passive": null
+      },
       "flavour": "Let's make some space- this is about to get rowdy.",
-      "image": "assets/core/card/illustration/Platzfalt Step.png"
+      "image": "assets/core/card/illustration/Take it Outside.png"
     }
   }
 ]

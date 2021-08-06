@@ -1,330 +1,403 @@
 [
   {
     "title": "Bean Blast",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Blind characters in a 3x3 square with bean juice.",
+      "rules": {
+        "active": "Blind everyone within 3 metres with bean juice.",
+        "passive": null
+      },
       "flavour": "Industrial Grade",
       "image": "assets/core/card/illustration/Bean Blast.png"
     }
   },
   {
     "title": "Anvil Drop",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Summon a cast-steel anvil into existence above target character's head.",
+      "rules": {
+        "active": "Summon a cast-steel anvil into existence above target character's head.",
+        "passive": null
+      },
       "flavour": "meep meep",
       "image": "assets/core/card/illustration/Anvil Drop.png"
     }
   },
   {
-    "title": "Sherrif's Roundup",
-    "upgrade": "",
+    "title": "Sheriff's Roundup",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Target an article of clothing. A snake appears inside of it.",
-      "flavour": "\"Always drink upstream from the herd\" - The Sherrif",
-      "image": "assets/core/card/illustration/Sherrif's Roundup.png"
+      "rules": {
+        "active": "Choose a visible article of clothing. A snake appears inside of it.",
+        "passive": null
+      },
+      "flavour": "\"Always drink upstream from the herd\" - The Sheriff",
+      "image": "assets/core/card/illustration/Sheriff's Roundup.png"
     }
   },
   {
     "title": "Ancient Throwing Bola",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Throw a pair of bola around a visible target",
+      "rules": {
+        "active": "Throw a pair of bola around a visible target",
+        "passive": null
+      },
       "flavour": "\"Bolas are excellent for capturing large mammals, like my portly friend Steve\"",
       "image": "assets/core/card/illustration/Ancient Throwing Bola.png"
     }
   },
   {
     "title": "Rolling Cart",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Place target large object or willing NPC in your hand.",
+      "rules": {
+        "active": "Put a large object or willing NPC in your hand.",
+        "passive": null
+      },
       "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
       "image": "assets/core/card/illustration/Rolling Cart.png"
     }
   },
   {
     "title": "Empouched Earth",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Cast a handful of sand and pocket lint into the air before you.",
+      "rules": {
+        "active": "Cast a handful of sand and pocket lint into the air before you.",
+        "passive": null
+      },
       "flavour": "Good for blinding a close range target.",
       "image": "assets/core/card/illustration/Empouched Earth.png"
     }
   },
   {
     "title": "Card Printer",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "red",
     "details": {
-      "rules": "Choose a Blue or Green card in your hand. All cards in your hand become copies of that card.",
+      "rules": {
+        "active": "Choose a Blue or Green card in your hand. All cards in your hand become copies of that card.",
+        "passive": null
+      },
       "flavour": "Fax is short for facsimile, meaning \"make similar\".",
       "image": "assets/core/card/illustration/Card Printer.png"
     }
   },
   {
-    "title": "Nullify Magic",
-    "upgrade": "",
+    "title": "Somnomalum",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Prevent a spell from being cast, or remove magic from target object.",
-      "flavour": "What are you gonna do about it robe-boy, hit me with that little stick?",
-      "image": "assets/core/card/illustration/Nullify Magic.png"
-    }
-  },
-  {
-    "title": "Witch's Curse",
-    "upgrade": "",
-    "tier": "green",
-    "details": {
-      "rules": "Target visible character will take 25 damage the next time they rest.",
+      "rules": {
+        "active": "Target visible character will take 25 damage the next time they rest.",
+        "passive": null
+      },
       "flavour": "Sweet dreams.",
-      "image": "assets/core/card/illustration/Witch's Curse.png"
+      "image": "assets/core/card/illustration/Somnomalum.png"
     }
   },
   {
     "title": "Disappear",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
+      "rules": {
+        "active": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
+        "passive": null
+      },
       "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
       "image": "assets/core/card/illustration/Disappear.png"
     }
   },
   {
     "title": "Exhaust",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Target NPC becomes tired.",
+      "rules": {
+        "active": "Target NPC becomes tired.",
+        "passive": null
+      },
       "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Gregor the Delegator",
       "image": "assets/core/card/illustration/Exhaust.png"
     }
   },
   {
     "title": "Prison",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "red",
     "details": {
-      "rules": "Choose X up to 5. An boundary, impenetrable from within, is placed X squares away from you in all directions as long as you'd like",
+      "rules": {
+        "active": "Choose X up to 5. A boundary, impenetrable from within, is placed X metres away from you in all directions as long as you'd like",
+        "passive": null
+      },
       "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
       "image": "assets/core/card/illustration/Prison.png"
     }
   },
   {
     "title": "Porticostatic Hex",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
+      "rules": {
+        "active": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
+        "passive": null
+      },
       "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
       "image": "assets/core/card/illustration/Porticostatic Hex.png"
     }
   },
   {
     "title": "Object Eject",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Stand atop an object. Your character and the object are flung in the direction of your choice until obstructed.",
+      "rules": {
+        "active": "Stand atop an object. You and the object are flung in the direction of your choice until obstructed.",
+        "passive": null
+      },
       "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
       "image": "assets/core/card/illustration/Object Eject.png"
     }
   },
   {
     "title": "The Ultimatum",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
+      "rules": {
+        "active": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
+        "passive": null
+      },
       "flavour": "\"I will never abide by absolutes\" - Leopold the Oppugnant",
       "image": "assets/core/card/illustration/The Ultimatum.png"
     }
   },
   {
     "title": "Where-Ware Charm",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Learn the current location of an item you've touched in the past.",
-      "flavour": "\"At last I'll be able to track down the missing socks\" - Cordelia Hex, Angry Witch",
+      "rules": {
+        "active": "Learn the current location of an item you've touched in the past.",
+        "passive": null
+      },
+      "flavour": "At last, the location of the missing socks.",
       "image": "assets/core/card/illustration/Where-Ware Charm.png"
     }
   },
   {
     "title": "Groundburst",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "The ground shakes beneath you. All characters within 4 sqaures are knocked airborne and drop whatever they're holding.",
-      "flavour": "Use near tectonic fault zones may be inadvisable",
+      "rules": {
+        "active": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
+        "passive": null
+      },
+      "flavour": "Not suitable for tectonic fault zones.",
       "image": "assets/core/card/illustration/Groundburst.png"
     }
   },
   {
     "title": "Bashbolster",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Attacks deal double damage until you play your next card.",
+      "rules": {
+        "active": "Attacks deal double damage until you play your next card.",
+        "passive": null
+      },
       "flavour": "I'm not unarmed, I've got two of them.",
       "image": "assets/core/card/illustration/Bashbolster.png"
     }
   },
   {
     "title": "Musty Musket",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
+      "rules": {
+        "active": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
+        "passive": null
+      },
       "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
       "image": "assets/core/card/illustration/Musty Musket.png"
     }
   },
   {
     "title": "Smoke Bomb",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Choose a 2x2 area to fill temporarily with an opaque smoke",
+      "rules": {
+        "active": "Choose a 4 square metre area to fill temporarily with an opaque smoke",
+        "passive": null
+      },
       "flavour": "Mildly anoxic.",
       "image": "assets/core/card/illustration/Smoke Bomb.png"
     }
   },
   {
     "title": "Banana Peel",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Pick a tile up to 2 tiles away. The next charcter to walk on this tile will fall over.",
+      "rules": {
+        "active": "Pick a point on the floor up to 2 metres away. The next NPC to walk there will fall over.",
+        "passive": null
+      },
       "flavour": "Nothing like a little prop humour.",
       "image": "assets/core/card/illustration/Banana Peel.png"
     }
   },
   {
     "title": "Poltergeist",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
+      "rules": {
+        "active": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
+        "passive": null
+      },
       "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
       "image": "assets/core/card/illustration/Poltergeist.png"
     }
   },
   {
     "title": "Eidolimb",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Summon a diembodied hand within 4 tiles to perform one simple action before vanishing.",
-      "flavour": "\"Magicians are a bunch of lazy bums\" - Brinley B.",
+      "rules": {
+        "active": "Evoke a disembodied hand to perform a simple action within 4 metres of you.",
+        "passive": null
+      },
+      "flavour": "Give me five!",
       "image": "assets/core/card/illustration/Eidolimb.png"
     }
   },
   {
-    "title": "Tripwire Charm",
-    "upgrade": "",
+    "title": "Espial Thread",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
-      "flavour": "Mafia hideouts are often mysteriously empty when Rebel forces arrive to perform arrests.",
+      "rules": {
+        "active": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
+        "passive": null
+      },
+      "flavour": "Mob hideouts are often mysteriously empty when the Cops arrive to perform arrests",
       "image": "assets/core/card/illustration/Tripwire Charm.png"
     }
   },
   {
-    "title": "Large-Caliber Artillery Invocation",
-    "upgrade": "",
+    "title": "Spectreblast",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "A magical light takes the shape of a cannon and instantly fires a real shot in the direction of your choice.",
-      "flavour": "Cannonballs are designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
-      "image": "assets/core/card/illustration/Large-Caliber Artillery Invocation.png"
+      "rules": {
+        "active": "Fire a cannonball at a target of your choice.",
+        "passive": null
+      },
+      "flavour": "Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
+      "image": "assets/core/card/illustration/Spectreblast.png"
     }
   },
   {
     "title": "PBJT",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "A visible character of your choice receives a sandwich to the face.",
-      "flavour": "After taking a sandwich to the face from one of his men, Coronel Kudzo was forced to retire, effective immediately",
+      "rules": {
+        "active": "Apply a sandwich to the face of a visible character.",
+        "passive": null
+      },
+      "flavour": "After taking a sandwich to the face from one of his men, Colonel Kudzo was forced to retire, effective immediately",
       "image": "assets/core/card/illustration/PBJT.png"
     }
   },
   {
     "title": "Locomotor Hex",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Targeted NPC becomes stuck in place for ten seconds.",
+      "rules": {
+        "active": "Choose an NPC. They are stuck in place for ten seconds.",
+        "passive": null
+      },
       "flavour": "Have my legs always been this heavy?",
       "image": "assets/core/card/illustration/Locomotor Hex.png"
     }
   },
   {
-    "title": "Rime Charm",
-    "upgrade": "",
+    "title": "Rime",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Cover a non-magic object in a thin layer of ice.",
+      "rules": {
+        "active": "Cover an object in a thin layer of ice.",
+        "passive": null
+      },
       "flavour": "Whoa, chill.",
-      "image": "assets/core/card/illustration/Rime Charm.png"
+      "image": "assets/core/card/illustration/Rime.png"
     }
   },
   {
-    "title": "Adjoint Immolation Hex",
-    "upgrade": "",
+    "title": "Akindle",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "You and any character you are touching burst into flames. 3d6 damage to each character ignited.",
+      "rules": {
+        "active": "Burst into flames along with anyone you're touching. 3d6 damage to each of you.",
+        "passive": null
+      },
       "flavour": "I'm taking you straight to hell.",
-      "image": "assets/core/card/illustration/Adjoint Immolation Hex.png"
+      "image": "assets/core/card/illustration/Akindle.png"
     }
   },
   {
     "title": "Glacial Hand",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "red",
     "details": {
-      "rules": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
+      "rules": {
+        "active": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
+        "passive": null
+      },
       "flavour": "Let's savour this moment forever.",
       "image": "assets/core/card/illustration/Glacial Hand.png"
     }
   },
   {
     "title": "Pigeon Partner",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Summon a pigeon to perform one simple task",
-      "flavour": "Will try not to be distracted by breadcrumbs.",
+      "rules": {
+        "active": "Summon a pigeon to perform a simple task",
+        "passive": null
+      },
+      "flavour": "He will try his best not to be distracted by breadcrumbs.",
       "image": "assets/core/card/illustration/Pigeon Partner.png"
     }
   },
   {
-    "title": "You're Toast",
-    "upgrade": "",
-    "tier": "blue",
-    "details": {
-      "rules": "Summons a slice of toast the size of a door",
-      "flavour": "Roughly 13000 calories.",
-      "image": "assets/core/card/illustration/You're Toast.png"
-    }
-  },
-  {
     "title": "Gloven Mitt",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Your next melee attack deals an additional d6 and sets your target on fire.",
+      "rules": {
+        "active": "Deal d6 bonus melee damage, igniting the target.",
+        "passive": null
+      },
       "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
       "image": "assets/core/card/illustration/Gloven Mitt.png"
     }

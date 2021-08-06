@@ -4,40 +4,51 @@
     "upgrade": "Empty the Clip",
     "tier": "blue",
     "details": {
-      "rules": "You can use an additional ranged attack",
+      "rules": {
+        "active": "You can use an additional ranged attack.",
+        "passive": null
+      },
       "flavour": "Rebel assault rifles are equipped with manual and fully automatic firing modes.",
-      "image": "assets/core/card/illustration/Reload.png"
+      "image": "assets/core/card/illustration/Quick Shot.png"
     }
   },
   {
     "title": "Empty the Clip",
-    "upgrade": "Surpression Maneuver",
+    "upgrade": "Suppression Maneuver",
     "tier": "green",
     "details": {
-      "rules": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
-      "flavour": "Rebel soliders employ distraction devices to buy time to reload.",
-      "image": "assets/core/card/illustration/Reload.png"
+      "rules": {
+        "active": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
+        "passive": null
+      },
+      "flavour": "Rebel soldiers employ distraction devices to buy time to reload.",
+      "image": "assets/core/card/illustration/Empty the Clip.png"
     }
   },
   {
-    "title": "Surpression Maneuver",
+    "title": "Suppression Maneuver",
     "upgrade": "Bullet Rain",
     "tier": "red",
     "details": {
-      "rules": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
+      "rules": {
+        "active": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
+        "passive": null
+      },
       "flavour": "Rebel armies spare no expense when supplying their troops with ammunition.",
-      "image": "assets/core/card/illustration/Reload.png"
+      "image": "assets/core/card/illustration/Suppression Maneuver.png"
     }
   },
   {
     "title": "Bullet Rain",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Whenever you use a Card for the rest of the session, you may return a Card with lesser rarity to your hand.",
+      "rules": {
+        "active": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
+        "passive": null
+      },
       "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",
-      "image": "assets/core/card/illustration/Reload.png"
+      "image": "assets/core/card/illustration/Bullet Rain.png"
     }
   }
 ]
-

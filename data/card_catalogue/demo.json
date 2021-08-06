@@ -7,7 +7,10 @@
         "upgrade": "Bar",
         "tier": "blue",
         "details": {
-          "rules": "Oh no",
+          "rules": {
+            "active": "Oh no",
+            "passive": null
+          },
           "flavour": "Darn",
           "image": "assets/core/card/illustration/Inner Sun.png"
         }
@@ -16,8 +19,11 @@
         "title": "Bar",
         "tier": "green",
         "details": {
-          "rules": "Sacrifice your life. Kill a character who you've met.",
-          "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of   Fester the Limp",
+          "rules": {
+            "active": "Sacrifice your life. Kill an NPC who you've met.",
+            "passive": null
+          },
+          "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
           "image": "assets/core/card/illustration/Inner Sun.png"
         }
       }
@@ -28,7 +34,10 @@
     "tier": "grey",
     "draft": true,
     "details": {
-      "rules": "Stun a character for one turn",
+      "rules": {
+        "active": "Stun an NPC for a turn",
+        "passive": null
+      },
       "flavour": "The sweet smell of bathtub toast."
     }
   },
@@ -36,19 +45,22 @@
     "title": "Zop",
     "tier": "blue",
     "details": {
-      "rules": "Stun a character for two turns",
+      "rules": {
+        "active": "Stun an NPC for two turns",
+        "passive": null
+      },
       "flavour": "Human beings are basically just big potato batteries.",
       "image": "assets/core/card/illustration/Inner Sun.png"
     }
   },
   {
     "title": "Paz",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Everybody hates you",
-        "active": "Target character will love you from now on"
+        "active": "Target NPC will love you from now on",
+        "passive": "Everybody hates you"
       },
       "flavour": "Nobody knew what he saw in her",
       "image": "assets/core/card/illustration/Bean Blast.png"

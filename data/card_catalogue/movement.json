@@ -4,7 +4,10 @@
     "upgrade": "Charge",
     "tier": "blue",
     "details": {
-      "rules": "Move up to 5 squares in any direction",
+      "rules": {
+        "active": "Move up to 5 metres in any direction.",
+        "passive": null
+      },
       "flavour": "These are great for the glutes.",
       "image": "assets/core/card/illustration/Lunge.png"
     }
@@ -15,11 +18,11 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Gain advantage when running through obstacles",
-        "active": "Move up to 15 squares in any direction"
+        "active": "Move up to 15 metres in any direction.",
+        "passive": "Gain advantage when running through obstacles."
       },
       "flavour": "What are you running from?",
-      "image": "assets/core/card/illustration/Sprint.png"
+      "image": "assets/core/card/illustration/Charge.png"
     }
   },
   {
@@ -27,49 +30,64 @@
     "upgrade": "Leopold's Door",
     "tier": "red",
     "details": {
-      "rules": "Teleport to any visible location",
+      "rules": {
+        "active": "Teleport to any visible location.",
+        "passive": null
+      },
       "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
       "image": "assets/core/card/illustration/Teleport.png"
     }
   },
   {
     "title": "Leopold's Door",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Teleport the entire party anywhere",
+      "rules": {
+        "active": "Teleport the entire party anywhere.",
+        "passive": null
+      },
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
-      "image": "assets/core/card/illustration/Gerraro_s Door.png"
+      "image": "assets/core/card/illustration/Leopold's Door.png"
     }
   },
   {
     "title": "Queen's Gambit",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "red",
     "details": {
-      "rules": "Move instantly as many spaces as you want in a straight line.",
+      "rules": {
+        "active": "Move as far as you want in an unobstructed horizontal line.",
+        "passive": null
+      },
       "flavour": "Checkmate",
       "image": "assets/core/card/illustration/Queen's Gambit.png"
     }
   },
   {
     "title": "Grapple",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "green",
     "details": {
-      "rules": "Draws you towards a charcter in your line of sight at high speed. Both take 6 damage on impact.",
+      "rules": {
+        "active": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
+        "passive": null
+      },
       "flavour": "C'mere.",
       "image": "assets/core/card/illustration/Grapple.png"
     }
   },
   {
     "title": "Platzfalt Step",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Teleport to any visible space. Take damage equal to the number of squares moved.",
+      "rules": {
+        "active": "Teleport to any visible space. Take damage equal to the number of squares moved.",
+        "passive": null
+      },
       "flavour": "Travelling is always a pain.",
       "image": "assets/core/card/illustration/Platzfalt Step.png"
     }
-  },
+  }
 ]

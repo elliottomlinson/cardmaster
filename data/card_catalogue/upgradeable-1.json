@@ -1,40 +1,52 @@
 [
   {
-    "title": "Whip",
-    "upgrade": "Pitch",
+    "title": "Toss",
+    "upgrade": "Throw",
     "tier": "blue",
     "details": {
-      "rules": "Throw an object up to 10 squares",
+      "rules": {
+        "active": "Throw an object accurately at a target up to 5 metres away.",
+        "passive": null
+      },
+      "flavour": "Go ahead, toss your hat in the ring.",
+      "image": "assets/core/card/illustration/Toss.png"
+    }
+  },
+  {
+    "title": "Throw",
+    "upgrade": "Pitch",
+    "tier": "green",
+    "details": {
+      "rules": {
+        "active": "Throw an object accurately at a target up to 12 metres away.",
+        "passive": "Advantage when catching."
+      },
       "flavour": "If you're going to throw in the towel, at least do it properly.",
-      "image": "assets/core/card/illustration/Whip.png"
+      "image": "assets/core/card/illustration/Throw.png"
     }
   },
   {
     "title": "Pitch",
-    "upgrade": "Hurl",
-    "tier": "green",
+    "upgrade": "Launch",
+    "tier": "red",
     "details": {
-      "rules": "Throw an object up to 50 squares",
-      "flavour": "\"I will not rest until every window is smashed. They are an insult to me and my kind\" - Little Jimmy, neighborhood rascal",
+      "rules": {
+        "active": "Throw an object accurately as far as you want.",
+        "passive": "Advantage when catching."
+      },
+      "flavour": "I want this thing gone, understand? I want to never see it again.",
       "image": "assets/core/card/illustration/Pitch.png"
     }
   },
   {
-    "title": "Hurl",
-    "upgrade": "Launch",
-    "tier": "red",
-    "details": {
-      "rules": "Throw an object as far as you want.",
-      "flavour": "I want this thing gone, understand? I want to never see it again.",
-      "image": "assets/core/card/illustration/Hurl.png"
-    }
-  },
-  {
     "title": "Launch",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Throw an object as far as you want. It cannot be stopped.",
+      "rules": {
+        "active": "Throw an object as far as you want. It cannot be stopped.",
+        "passive": null
+      },
       "flavour": "I guess in a way, we're all still chasing it.",
       "image": "assets/core/card/illustration/Launch.png"
     }
@@ -44,7 +56,10 @@
     "upgrade": "Lightning Bolt",
     "tier": "blue",
     "details": {
-      "rules": "Deal 3 damage to a visible character with a painful bolt of electricity.",
+      "rules": {
+        "active": "Deal 3 damage to a visible character with a painful bolt of electricity",
+        "passive": null
+      },
       "flavour": "A smile costs less than electricity, but gives much light",
       "image": "assets/core/card/illustration/Spark.png"
     }
@@ -54,7 +69,10 @@
     "upgrade": "Fork Lightning",
     "tier": "green",
     "details": {
-      "rules": "Deal 4 damage and stun up to 2 visible characters",
+      "rules": {
+        "active": "Deal 4 damage and stun up to 2 visible characters.",
+        "passive": null
+      },
       "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
       "image": "assets/core/card/illustration/Lightning Bolt.png"
     }
@@ -64,19 +82,25 @@
     "upgrade": "Electric Vortex",
     "tier": "red",
     "details": {
-      "rules": "Deal 6 damage and stun to up to 6 visible characters",
+      "rules": {
+        "active": "Deal 6 damage and stun to up to 6 visible characters.",
+        "passive": null
+      },
       "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants.",
       "image": "assets/core/card/illustration/Fork Lightning.png"
     }
   },
   {
     "title": "Elektra's Siphon",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Cause a complete blackout in a 100 kilometer radius. Draw 3 copies of Fork Lightning",
+      "rules": {
+        "active": "Cause a complete blackout in a 100 kilometre radius. Draw 3 copies of Fork Lightning",
+        "passive": null
+      },
       "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
-      "image": "assets/core/card/illustration/Electric Vortex.png"
+      "image": "assets/core/card/illustration/Elektra's Siphon.png"
     }
   },
   {
@@ -84,7 +108,10 @@
     "upgrade": "Fireball",
     "tier": "blue",
     "details": {
-      "rules": "Ignite a small fire on a visible, flammable object",
+      "rules": {
+        "active": "Ignite a small object within 3 metres.",
+        "passive": null
+      },
       "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
       "image": "assets/core/card/illustration/Ignite.png"
     }
@@ -94,29 +121,38 @@
     "upgrade": "Immolate",
     "tier": "green",
     "details": {
-      "rules": "Hurl a ball of hot embers at a visible object",
+      "rules": {
+        "active": "Hurl a flaming ball of hot embers at a visible object.",
+        "passive": null
+      },
       "flavour": "Time for a game of hot potato!",
       "image": "assets/core/card/illustration/Fireball.png"
     }
   },
   {
     "title": "Immolate",
-    "upgrade": "Inner Sun",
+    "upgrade": "Terrestrial Sun",
     "tier": "red",
     "details": {
-      "rules": "Deal 15 damage and set fire to all flammable non-player objects within 6 squares.",
+      "rules": {
+        "active": "Deal 15 damage and set fire to all flammable objects within 6 metres.",
+        "passive": null
+      },
       "flavour": "The best part is that nice campfire smell.",
       "image": "assets/core/card/illustration/Immolate.png"
     }
   },
   {
     "title": "Terrestrial Sun",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Summon a brick of material which burns violently forever when set on fire.",
+      "rules": {
+        "active": "Summon a brick of material which burns violently forever when set on fire.",
+        "passive": null
+      },
       "flavour": "The fire in our hearts will never burn out",
-      "image": "assets/core/card/illustration/Inner Sun.png"
+      "image": "assets/core/card/illustration/Terrestrial Sun.png"
     }
   },
   {
@@ -124,7 +160,10 @@
     "upgrade": "Leap",
     "tier": "blue",
     "details": {
-      "rules": "Jump up 3 metres",
+      "rules": {
+        "active": "Jump up 3 metres.",
+        "passive": null
+      },
       "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, Concerned Father",
       "image": "assets/core/card/illustration/Jump.png"
     }
@@ -134,7 +173,10 @@
     "upgrade": "Levitate",
     "tier": "green",
     "details": {
-      "rules": "Jump 25 metres in the air",
+      "rules": {
+        "active": "Jump 25 metres into the air.",
+        "passive": null
+      },
       "flavour": "\"Good lord, look at him go..\" - Warner Higgins, Concerned Father",
       "image": "assets/core/card/illustration/Leap.png"
     }
@@ -144,17 +186,23 @@
     "upgrade": "Ascend",
     "tier": "red",
     "details": {
-      "rules": "Hover up to 5 feet off the ground until you lose concentration.",
+      "rules": {
+        "active": "Hover up to 2 metres off the ground until you lose concentration.",
+        "passive": null
+      },
       "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, Concerned Father",
-      "image": "assets/core/card/illustration/Leap.png"
+      "image": "assets/core/card/illustration/Levitate.png"
     }
   },
   {
     "title": "Ascend",
-    "upgrade": "Moisten",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Jump as high as you want",
+      "rules": {
+        "active": "Jump as high as you want.",
+        "passive": null
+      },
       "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
       "image": "assets/core/card/illustration/Ascend.png"
     }
@@ -164,7 +212,10 @@
     "upgrade": "Soak",
     "tier": "blue",
     "details": {
-      "rules": "Target an object. It becomes moist, as if it had been sprayed with a fine mist",
+      "rules": {
+        "active": "Pick a visible object. It becomes moist.",
+        "passive": null
+      },
       "flavour": "I think I'm going to need a change of clothes.",
       "image": "assets/core/card/illustration/Moisten.png"
     }
@@ -174,7 +225,10 @@
     "upgrade": "Drench",
     "tier": "green",
     "details": {
-      "rules": "Target a point. Everything within 2m of this point is now saturated with water.",
+      "rules": {
+        "active": "Cause everything within 2 metres of a visible object to become saturated with water.",
+        "passive": null
+      },
       "flavour": "My plan: complete. Their day: ruined.",
       "image": "assets/core/card/illustration/Soak.png"
     }
@@ -184,17 +238,23 @@
     "upgrade": "Flood",
     "tier": "red",
     "details": {
-      "rules": "Summons 10000 gallons of water to a targeted point.",
+      "rules": {
+        "active": "Summon 50 thousand litres of water to a visible location.",
+        "passive": null
+      },
       "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" - Quomo the Quivering",
       "image": "assets/core/card/illustration/Drench.png"
     }
   },
   {
     "title": "Flood",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
+      "rules": {
+        "active": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
+        "passive": null
+      },
       "flavour": "Nature has a myriad of weapons to combat human arrogance.",
       "image": "assets/core/card/illustration/Flood.png"
     }
@@ -204,7 +264,10 @@
     "upgrade": "Pray",
     "tier": "blue",
     "details": {
-      "rules": "Change the value of thrown d20 or the next thrown d20 by 2",
+      "rules": {
+        "active": "Change the result of a roll by 2.",
+        "passive": null
+      },
       "flavour": "I can't see him, but I know he's there.",
       "image": "assets/core/card/illustration/Hope.png"
     }
@@ -214,7 +277,10 @@
     "upgrade": "Preach",
     "tier": "green",
     "details": {
-      "rules": "You may force a thrown d20 or the next thrown d20 to be rerolled.",
+      "rules": {
+        "active": "Re-roll a d20.",
+        "passive": null
+      },
       "flavour": "He will save us from our mortal errors.",
       "image": "assets/core/card/illustration/Pray.png"
     }
@@ -224,17 +290,23 @@
     "upgrade": "Wish",
     "tier": "red",
     "details": {
-      "rules": "Instill a religious vision of your choosing into target character",
+      "rules": {
+        "active": "Describe a religious vision. Pick a visible NPC to experience it.",
+        "passive": null
+      },
       "flavour": "He lives deep in the hearts of all men.",
       "image": "assets/core/card/illustration/Preach.png"
     }
   },
   {
     "title": "Wish",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "All players will critically succeed on their next d20 roll this turn.",
+      "rules": {
+        "active": "Cause all players to critically succeed on their next d20 roll.",
+        "passive": null
+      },
       "flavour": "The light will shine bright upon the chosen.",
       "image": "assets/core/card/illustration/Wish.png"
     }
@@ -244,7 +316,10 @@
     "upgrade": "Field Medicine",
     "tier": "blue",
     "details": {
-      "rules": "Cure the ailment of a visible character, or heal them 8.",
+      "rules": {
+        "active": "Cure the ailment of a visible character, or heal them 8.",
+        "passive": null
+      },
       "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
       "image": "assets/core/card/illustration/Cure.png"
     }
@@ -255,11 +330,11 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Heal 15 to a visible character. They can move twice as fast for the remainder of the session",
-        "passive": "Run twice as fast while carrying friendly characters" 
+        "active": "Heal a visible character 15. They can move twice as fast for the remainder of the session.",
+        "passive": "Run twice as fast while carrying friendly characters."
       },
-      "flavour": "The best medicine is running far away from things which hurt you",
-      "image": "assets/core/card/illustration/Restore.png"
+      "flavour": "The best medicine is running far away from things which hurt you.",
+      "image": "assets/core/card/illustration/Field Medicine.png"
     }
   },
   {
@@ -267,17 +342,23 @@
     "upgrade": "Reincarnate",
     "tier": "red",
     "details": {
-      "rules": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
+      "rules": {
+        "active": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
+        "passive": "You are 3 feet taller."
+      },
       "flavour": "\"I hope you don't mind if I make some improvements while I'm in here\" - Dr. Reichthardt, Orthopedic Surgeon",
       "image": "assets/core/card/illustration/Renew.png"
     }
   },
   {
     "title": "Reincarnate",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Revive a dead character.",
+      "rules": {
+        "active": "Revive a dead character.",
+        "passive": "The dead fear you."
+      },
       "flavour": "If man is to play god, he ought to be a kind one.",
       "image": "assets/core/card/illustration/Reincarnate.png"
     }
@@ -287,7 +368,10 @@
     "upgrade": "Reflect",
     "tier": "blue",
     "details": {
-      "rules": "Take no damage from the next attack targeting you.",
+      "rules": {
+        "active": "Take no damage from the next attack targeting you.",
+        "passive": null
+      },
       "flavour": "I barely felt that! Who taught you how to punch?",
       "image": "assets/core/card/illustration/Brace.png"
     }
@@ -298,8 +382,9 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Anything thrown on you is repelled with equal force",
-        "active": "Any damage dealt to you from the next attack targeting you is dealt both to you and your attacker",
+        "active": "The next amount of damage dealt to you is also dealt to your attacker.",
+        "passive": "Thrown objects bounce off of you with equal force."
+      },
       "flavour": "Let's see how you like it!.",
       "image": "assets/core/card/illustration/Reflect.png"
     }
@@ -309,7 +394,10 @@
     "upgrade": "Golan's Idol",
     "tier": "red",
     "details": {
-      "rules": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker",
+      "rules": {
+        "active": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker",
+        "passive": null
+      },
       "flavour": "I am rubber, and you are glue.",
       "image": "assets/core/card/illustration/Deflect.png"
     }
@@ -319,9 +407,12 @@
     "upgrade": "Reflect",
     "tier": "gold",
     "details": {
-      "rules": "Name a character. They can no longer deal damage to you.",
-      "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5 year old Jacob, karate yellow belt",
-      "image": "assets/core/card/illustration/Brace.png"
+      "rules": {
+        "active": "Name a character. They can no longer deal damage to you.",
+        "passive": null
+      },
+      "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5-Year-Old Jacob, Yellow Belt",
+      "image": "assets/core/card/illustration/Golan's Idol.png"
     }
   },
   {
@@ -329,7 +420,10 @@
     "upgrade": "Quad Strike",
     "tier": "blue",
     "details": {
-      "rules": "You can attack two additional times this turn",
+      "rules": {
+        "active": "You can attack two additional times on your turn.",
+        "passive": null
+      },
       "flavour": "Before they even realized what happened, another punch sent them flying.",
       "image": "assets/core/card/illustration/Double Strike.png"
     }
@@ -339,7 +433,10 @@
     "upgrade": "Strike Storm",
     "tier": "green",
     "details": {
-      "rules": "You can attack four additional times this turn",
+      "rules": {
+        "active": "You can attack four additional times on your turn.",
+        "passive": null
+      },
       "flavour": "Their defense won't last forever. Strike, and strike again.",
       "image": "assets/core/card/illustration/Quad Strike.png"
     }
@@ -349,19 +446,25 @@
     "upgrade": "Endless blows",
     "tier": "red",
     "details": {
-      "rules": "You can make twice times as many attacks as you otherwise would this turn.",
+      "rules": {
+        "active": "You can make twice times as many attacks as you otherwise would on your turn.",
+        "passive": null
+      },
       "flavour": "Every fighter has gaps between attacks which can be exploited. Just make sure to take them after your opponent is dead.",
       "image": "assets/core/card/illustration/Strike Storm.png"
     }
   },
   {
-    "title": "Endless blows",
-    "upgrade": "",
+    "title": "Endless Blows",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Take X damage. You can attack X times this turn",
+      "rules": {
+        "active": "Take X damage. You can attack X times on your turn.",
+        "passive": null
+      },
       "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs.",
-      "image": "assets/core/card/illustration/Endless blows.png"
+      "image": "assets/core/card/illustration/Endless Blows.png"
     }
   },
   {
@@ -369,7 +472,10 @@
     "upgrade": "Gale",
     "tier": "blue",
     "details": {
-      "rules": "Throw target visible character up into the air",
+      "rules": {
+        "active": "Throw a visible character up into the air.",
+        "passive": null
+      },
       "flavour": "He should've worn a windbreaker.",
       "image": "assets/core/card/illustration/Gust of Wind.png"
     }
@@ -380,8 +486,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "passive": "Whenever you throw a character in the air, you can also throw them 8 squares in any direction",
-        "active": "Throw any number of characters in a 3 square radius into the air."
+        "active": "Throw any number of characters in a 3 metre radius into the air.",
+        "passive": "Whenever you throw a character in the air, you can also throw them 8 metres in any direction"
       },
       "flavour": "You look like a birthday candle.",
       "image": "assets/core/card/illustration/Gale.png"
@@ -392,59 +498,51 @@
     "upgrade": "Hurricane",
     "tier": "red",
     "details": {
-      "rules": "Throw any number of visible characters up into the air.",
+      "rules": {
+        "active": "Throw any number of visible characters up into the air.",
+        "passive": null
+      },
       "flavour": "Rise, rise towards the heavens.",
       "image": "assets/core/card/illustration/Wind Storm.png"
     }
   },
   {
     "title": "Hurricane",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "A powerful hurricane is summoned over the play area which lasts as long as you want.",
-      "flavour": "It is rare for an area to know such devestation.",
+      "rules": {
+        "active": "A powerful hurricane is summoned over the play area for as long as you want.",
+        "passive": null
+      },
+      "flavour": "It is rare for an area to know such devastation.",
       "image": "assets/core/card/illustration/Hurricane.png"
     }
   },
   {
     "title": "Barrier",
-    "upgrade": "Holomonk",
+    "upgrade": null,
     "tier": "blue",
     "details": {
-      "rules": "Summon an impassible wall of light on 1 square until end of turn.",
+      "rules": {
+        "active": "Summon an impenetrable column of light in adjacent square metre for 5 minutes.",
+        "passive": null
+      },
       "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
       "image": "assets/core/card/illustration/Barrier.png"
     }
   },
   {
-    "title": "Holomonk",
-    "upgrade": "HoloKicker",
-    "tier": "green",
-    "details": {
-      "rules": "Summon an immobile monk until end of turn who punches characters who come within range",
-      "flavour": "His name is Po.",
-      "image": "assets/core/card/illustration/Holomonk.png"
-    }
-  },
-  {
-    "title": "HoloKicker",
-    "upgrade": "Mirror Image",
-    "tier": "red",
-    "details": {
-      "rules": "Summon 3 immobile martial artists until end of turn who knock characters who come within range back 8 squares",
-      "flavour": "Their names are Memboba, Imbosaa, and Steepedi.",
-      "image": "assets/core/card/illustration/HoloKicker.png"
-    }
-  },
-  {
     "title": "Mirror Image",
-    "upgrade": "",
+    "upgrade": null,
     "tier": "gold",
     "details": {
-      "rules": "Summon a copy of any non-player character",
-      "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Summoner",
-      "image": "assets/core/card/illustration/HoloKicker.png"
+      "rules": {
+        "active": "Summon a copy of any NPC.",
+        "passive": null
+      },
+      "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Cardmaster",
+      "image": "assets/core/card/illustration/Mirror Image.png"
     }
   }
 ]
