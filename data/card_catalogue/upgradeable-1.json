@@ -383,7 +383,7 @@
     "details": {
       "rules": {
         "active": "The next amount of damage dealt to you is also dealt to your attacker.",
-        "passive": "Thrown objects bounce off of you."
+        "passive": "Thrown objects bounce off of you with equal force."
       },
       "flavour": "Let's see how you like it!.",
       "image": "assets/core/card/illustration/Reflect.png"
