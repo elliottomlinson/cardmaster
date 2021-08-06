@@ -1,18 +1,5 @@
 [
   {
-    "title": "Sledgehammer",
-    "upgrade": null,
-    "tier": "green",
-    "details": {
-      "rules": {
-        "passive": "Melee attacks knock the target back 3 metres"
-      },
-      "flavour": "This one'll bring down the house.",
-      "image": "assets/core/card/illustration/Sledgehammer.png"
-    },
-    "draft": true
-  },
-  {
     "title": "Bow Hex",
     "upgrade": null,
     "tier": "green",
