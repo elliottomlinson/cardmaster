@@ -5,7 +5,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Become the legal owner of a building of your choice. Existing tenants will be evicted immediately.",
+        "cast": "Become the legal owner of a building of your choice. Existing tenants will be evicted immediately.",
         "passive": null
       },
       "flavour": "The gang battle of 2485 concluded after the mafioso purchased their fortress and had the police escort them to jail.",
@@ -18,7 +18,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.",
+        "cast": "Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.",
         "passive": null
       },
       "flavour": "There was a light within us that few can see. One day it will shine through.",
@@ -31,7 +31,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Name a character not on the current map. They take 100 damage.",
+        "cast": "Name a character not on the current map. They take 100 damage.",
         "passive": null
       },
       "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",

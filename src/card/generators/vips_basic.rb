@@ -162,7 +162,7 @@ module Card
           rules.text
         when Card::Models::PassiveActiveRules
           "✋: #{rules.passive}
-⚡: #{rules.active}"
+⚡: #{rules.cast}"
         else
           raise "Unsupported rule type #{rules.class}"
         end

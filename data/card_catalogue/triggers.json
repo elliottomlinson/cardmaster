@@ -5,7 +5,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "A visible NPC develops feelings for you.",
+        "cast": "A visible NPC develops feelings for you.",
         "passive": "Attacks against characters who love you deal 25 bonus damage."
       },
       "flavour": "\"I trust her completely\" - Simon the Simple",
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Tell a story about yourself. Any number of visible NPCs will believe this story is true.",
+        "cast": "Tell a story about yourself. Any number of visible NPCs will believe this story is true.",
         "passive": "Deal 3 bonus damage when attacking characters who know your name."
       },
       "flavour": "His reputation preceded him.",

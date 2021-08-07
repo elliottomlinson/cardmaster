@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Increases your rapport with a visible NPC",
+        "cast": "Increases your rapport with a visible NPC",
         "passive": null
       },
       "flavour": "If you were words on a card, you'd be some fine print.",
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Causes a visible NPC to like you.",
+        "cast": "Causes a visible NPC to like you.",
         "passive": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Causes a visible NPC to become attracted to you.",
+        "cast": "Causes a visible NPC to become attracted to you.",
         "passive": null
       },
       "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
@@ -44,7 +44,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Force any NPC you can name to act on their desire for you.",
+        "cast": "Force any NPC you can name to act on their desire for you.",
         "passive": null
       },
       "flavour": "Here I am - Your other two wishes?",
@@ -57,7 +57,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Speak with any living NPC, then draw another blue.",
+        "cast": "Speak with any living NPC, then draw another blue.",
         "passive": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
@@ -70,7 +70,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Speak with any dead NPC, then draw another blue.",
+        "cast": "Speak with any dead NPC, then draw another blue.",
         "passive": null
       },
       "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
@@ -83,7 +83,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target visible NPC can no longer feel negative emotions towards target visible character.",
+        "cast": "Target visible NPC can no longer feel negative emotions towards target visible character.",
         "passive": null
       },
       "flavour": "Vewy Sowwy.",
@@ -96,7 +96,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Force an NPC to act on their compulsion.",
+        "cast": "Force an NPC to act on their compulsion.",
         "passive": null
       },
       "flavour": "He wanted to pursue the thief, but he couldn't stand leaving the candy wrappers on his spotless kitchen floor.",
@@ -109,7 +109,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target NPC will believe your next statement.",
+        "cast": "Target NPC will believe your next statement.",
         "passive": null
       },
       "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
@@ -122,7 +122,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Change your appearance to match that of another exactly for as long as you'd like.",
+        "cast": "Change your appearance to match that of another exactly for as long as you'd like.",
         "passive": null
       },
       "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
@@ -135,7 +135,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Rewrite the contents of an NPC's memory.",
+        "cast": "Rewrite the contents of an NPC's memory.",
         "passive": null
       },
       "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
@@ -148,7 +148,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Swap two words in an NPC's vocabulary. They will not be aware of the effect, which lasts for a day.",
+        "cast": "Swap two words in an NPC's vocabulary. They will not be aware of the effect, which lasts for a day.",
         "passive": null
       },
       "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
@@ -161,7 +161,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
+        "cast": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
         "passive": null
       },
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
@@ -174,7 +174,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target visible NPC will love you from now on.",
+        "cast": "Target visible NPC will love you from now on.",
         "passive": "NPCs hate you."
       },
       "flavour": "Nobody knew what he saw in her.",

@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "You can use an additional ranged attack.",
+        "cast": "You can use an additional ranged attack.",
         "passive": null
       },
       "flavour": "Rebel assault rifles are equipped with manual and fully automatic firing modes.",
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
+        "cast": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
         "passive": null
       },
       "flavour": "Rebel soldiers employ distraction devices to buy time to reload.",
@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
+        "cast": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
         "passive": null
       },
       "flavour": "Rebel armies spare no expense when supplying their troops with ammunition.",
@@ -44,7 +44,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
+        "cast": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
         "passive": null
       },
       "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",

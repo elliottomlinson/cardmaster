@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Move up to 5 metres in any direction.",
+        "cast": "Move up to 5 metres in any direction.",
         "passive": null
       },
       "flavour": "These are great for the glutes.",
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Move up to 15 metres in any direction.",
+        "cast": "Move up to 15 metres in any direction.",
         "passive": "Gain advantage when running through obstacles."
       },
       "flavour": "What are you running from?",
@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Teleport to any visible location.",
+        "cast": "Teleport to any visible location.",
         "passive": null
       },
       "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
@@ -44,7 +44,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Teleport the entire party anywhere.",
+        "cast": "Teleport the entire party anywhere.",
         "passive": null
       },
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
@@ -57,7 +57,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Move as far as you want in an unobstructed horizontal line.",
+        "cast": "Move as far as you want in an unobstructed horizontal line.",
         "passive": null
       },
       "flavour": "Checkmate",
@@ -70,7 +70,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
+        "cast": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
         "passive": null
       },
       "flavour": "C'mere.",
@@ -83,7 +83,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Teleport to any visible space. Take damage equal to the number of squares moved.",
+        "cast": "Teleport to any visible space. Take damage equal to the number of squares moved.",
         "passive": null
       },
       "flavour": "Travelling is always a pain.",

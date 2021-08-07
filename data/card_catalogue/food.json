@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Swap the flavours of two objects within your reach.",
+        "cast": "Swap the flavours of two objects within your reach.",
         "passive": null
       },
       "flavour": "Mmm, Crayons",
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon a brick of Ambrosia. Any NPC who has tasted or smelt it before will find it irresistible.",
+        "cast": "Summon a brick of Ambrosia. Any NPC who has tasted or smelt it before will find it irresistible.",
         "passive": null
       },
       "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",

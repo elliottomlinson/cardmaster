@@ -5,7 +5,7 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "active": "Increase the result of a roll by 1.",
+        "cast": "Increase the result of a roll by 1.",
         "passive": null
       },
       "flavour": "The collective will of the people made manifest.",
@@ -18,7 +18,7 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "active": "Move a metre.",
+        "cast": "Move a metre.",
         "passive": null
       },
       "flavour": "When speed gets in the blood, one must move to live.",
@@ -31,7 +31,7 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "active": "Decrease the result of a roll by 1.",
+        "cast": "Decrease the result of a roll by 1.",
         "passive": null
       },
       "flavour": "The collective will of the people made manifest.",
@@ -44,7 +44,7 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "active": "Push or pull a visible object slightly.",
+        "cast": "Push or pull a visible object slightly.",
         "passive": null
       },
       "flavour": "Human force extends far past the limits of an earthly body.",

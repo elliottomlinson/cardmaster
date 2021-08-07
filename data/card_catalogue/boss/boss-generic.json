@@ -5,7 +5,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
+        "cast": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
         "passive": null
       },
       "flavour": "See you next fall!",
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "At the start of your turn during combat, return all blues you've cast this session to your hand.",
+        "cast": "At the start of your turn during combat, return all blues you've cast this session to your hand.",
         "passive": null
       },
       "flavour": "You've got nice moves, but you won't be able to keep up for long.",
@@ -31,7 +31,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Move any number of allied NPCs out of combat.",
+        "cast": "Move any number of allied NPCs out of combat.",
         "passive": null
       },
       "flavour": "Let's make some space- this is about to get rowdy.",

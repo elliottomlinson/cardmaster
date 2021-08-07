@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "A visible NPC is forced to think positive thoughts.",
+        "cast": "A visible NPC is forced to think positive thoughts.",
         "passive": null
       },
       "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-	      "active": "A visible character is forced to stop what they're doing and discuss their feelings with you.",
+	      "cast": "A visible character is forced to stop what they're doing and discuss their feelings with you.",
 	      "passive": "Whenever you make an attack, you can choose whether or not it will deal damage."
       },
       "flavour": "\"I guess, in a way, I've just been trying to impress my old man this whole time\" - Brutus the Bloody Impaler",
@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "For one minute, NPCs will not become hostile unless they take damage.",
+        "cast": "For one minute, NPCs will not become hostile unless they take damage.",
         "passive": null
       },
       "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
@@ -44,7 +44,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Name an NPC. They will dedicate their lives to promoting peace.",
+        "cast": "Name an NPC. They will dedicate their lives to promoting peace.",
         "passive": null
       },
       "flavour": "All life is precious, even the lives of your enemies",
@@ -57,7 +57,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Name a character who has wronged you. They feel remorse for what they have done.",
+        "cast": "Name a character who has wronged you. They feel remorse for what they have done.",
         "passive": null
       },
       "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
@@ -70,7 +70,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Disappear for as long as you remain perfectly still.",
+        "cast": "Disappear for as long as you remain perfectly still.",
         "passive": "Deal double damage while out of combat."
       },
       "flavour": "Most battles are over before they've even begun",
@@ -83,7 +83,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water.",
+        "cast": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water.",
         "passive": "Triple advantage on all d20 rolls when below 5 health."
       },
       "flavour": "The key to survival is flexibility and urgency",
