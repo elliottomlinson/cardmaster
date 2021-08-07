@@ -25,7 +25,7 @@ mapname=Array.new
 mapdesc=Array.new
 mapnote=Array.new
 
-backurl = "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/assets/tile/back.png"
+backurl = "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/tile/back.png"
 
 ADDRESS = "\"ImageURL\":\"https://dummyimage.com/%{size}x100/%{hex}/&text=%{text}\",\"ImageSecondaryURL\":\"%{backurl}\","
 

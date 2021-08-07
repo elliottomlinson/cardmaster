@@ -5,11 +5,11 @@ require_relative "./storage_adapters.rb"
 require "tmpdir"
 
 card_backs = {
-  grey: "assets/card/reverse/grey.png",
-  blue: "assets/card/reverse/blue.png",
-  green: "assets/card/reverse/green.png",
-  red: "assets/card/reverse/red.png",
-  gold: "assets/card/reverse/gold.png"
+  grey: "res/card/art/back/grey.png",
+  blue: "res/card/art/back/blue.png",
+  green: "res/card/art/back/green.png",
+  red: "res/card/art/back/red.png",
+  gold: "res/card/art/back/gold.png"
 }.freeze
 
 diff = ARGV.include?("--diff")
@@ -27,7 +27,7 @@ end
 catalogue_adapter = Card::CatalogueAdapters::JsonCatalogueAdapter.new("data/card_catalogue")
 
 card_templates = ->(card_spec) do
-  "assets/card/template/default.html"
+  "res/card/template/default.html"
 end
 generator = Card::Generators::IMGKitBasic.new(card_templates, [])
 

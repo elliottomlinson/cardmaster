@@ -1,8 +1,8 @@
 require_relative "./config.rb"
 
 SESSION_SAVED_DIR = SAVED_OBJ_DIR+"/"+$session
-SESSION_GIT_DIR = GIT_DIR+"/assets/campaign/"+$session
-RAWURL = "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/assets/campaign/"+$session+"/"
+SESSION_GIT_DIR = GIT_DIR+"/res/campaign/"+$session
+RAWURL = "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/campaign/"+$session+"/"
 
 # figurine import
 CHAR_GIT_DIR = SESSION_GIT_DIR+"/char"
@@ -30,5 +30,5 @@ STATED_SAVED_DIR = SESSION_SAVED_DIR+"/stated"
 STATED_URL = RAWURL+"/stated/%{set}/%{name}"
 
 # other import
-MISC_GIT_DIR = GIT_DIR+"/assets/obj"
+MISC_GIT_DIR = GIT_DIR+"/res/obj"
 MISC_SAVED_DIR = SAVED_OBJ_DIR+"/Cardmaster Misc."

@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
-      "image": "assets/card/illustration/Positivity.png"
+      "image": "res/card/art/illustration/Positivity.png"
     }
   },
   {
@@ -22,7 +22,7 @@
 	      "passive": "Whenever you make an attack, you can choose whether or not it will deal damage."
       },
       "flavour": "\"I guess, in a way, I've just been trying to impress my old man this whole time\" - Brutus the Bloody Impaler",
-      "image": "assets/card/illustration/Talk it Out.png"
+      "image": "res/card/art/illustration/Talk it Out.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": null
       },
       "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
-      "image": "assets/card/illustration/Timeout.png"
+      "image": "res/card/art/illustration/Timeout.png"
     }
   },
   {
@@ -48,7 +48,7 @@
         "passive": null
       },
       "flavour": "All life is precious, even the lives of your enemies",
-      "image": "assets/card/illustration/Change of Heart.png"
+      "image": "res/card/art/illustration/Change of Heart.png"
     }
   },
   {
@@ -61,7 +61,7 @@
         "passive": null
       },
       "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
-      "image": "assets/card/illustration/Rue the Day.png"
+      "image": "res/card/art/illustration/Rue the Day.png"
     }
   },
   {
@@ -74,7 +74,7 @@
         "passive": "Deal double damage while out of combat."
       },
       "flavour": "Most battles are over before they've even begun",
-      "image": "assets/card/illustration/Shadow Strike.png"
+      "image": "res/card/art/illustration/Shadow Strike.png"
     }
   },
   {
@@ -87,7 +87,7 @@
         "passive": "Triple advantage on all d20 rolls when below 5 health."
       },
       "flavour": "The key to survival is flexibility and urgency",
-      "image": "assets/card/illustration/Survival Instincts.png"
+      "image": "res/card/art/illustration/Survival Instincts.png"
     }
   }
 ]

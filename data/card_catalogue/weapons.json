@@ -9,7 +9,7 @@
         "passive": "Roll an additional d4 when performing a ranged attack."
       },
       "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light",
-      "image": "assets/card/illustration/Bow Hex.png"
+      "image": "res/card/art/illustration/Bow Hex.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": "Roll an additional d6 when you perform a melee attack."
       },
       "flavour": "It didn't slash or pierce, but rather burned. The fallen glowed as though their souls were leaving their bodies.",
-      "image": "assets/card/illustration/Sword Hex.png"
+      "image": "res/card/art/illustration/Sword Hex.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": "Gain advantage when throwing objects."
       },
       "flavour": "You want it? Here.",
-      "image": "assets/card/illustration/Slingshot.png"
+      "image": "res/card/art/illustration/Slingshot.png"
     }
   }
 ]
