@@ -160,7 +160,7 @@ module Card
         case rules
         when Card::Models::SimpleRules
           rules.text
-        when Card::Models::PassiveActiveRules
+        when Card::Models::HandCastRules
           "✋: #{rules.hand}
 ⚡: #{rules.cast}"
         else

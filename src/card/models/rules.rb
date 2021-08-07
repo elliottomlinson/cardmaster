@@ -12,7 +12,7 @@ module Card
       end
     end
 
-    class PassiveActiveRules
+    class HandCastRules
       attr_reader :hand, :cast
 
       def initialize(hand, cast)

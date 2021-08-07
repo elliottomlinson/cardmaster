@@ -130,7 +130,7 @@ module Card
       def extract_cast_hand_rule(rules)
         return unless rules.is_a?(Hash) && rules["hand"] && rules["cast"]
 
-        Card::Models::PassiveActiveRules.new(rules["hand"], rules["cast"])
+        Card::Models::HandCastRules.new(rules["hand"], rules["cast"])
       end
 
       def validate_field!(node, field_name, hierarchy, node_type_name)
