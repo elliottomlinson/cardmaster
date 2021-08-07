@@ -9,6 +9,7 @@ To print cards, follow [this guide](printing.md).
 Install Gems: `bundle install`
 
 Locate your Tabletop Simulator Saved Objects folder. Export that path into an environment variable:
+
 ```export TABLETOP_SAVED_OBJECTS_FOLDER="/path/to/saved/objects"```
 
 ### Running the Import script
