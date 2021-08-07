@@ -6,9 +6,10 @@ module Card
     # Saves the images in the local git repository
     class GitStorageAdapter < Abstract
       # todo move to config
-      ASSET_BASE = "res/card"
+      RESOURCE_BASE = "res/card"
+      ASSET_BASE = "asset/card"
       FRONT_PATH = File.join(ASSET_BASE, "printed")
-      BACK_PATH = File.join(ASSET_BASE, "back")
+      BACK_PATH = File.join(RESOURCE_BASE, "back")
       PRINT_MANIFEST_PATH = "res/card/printed/print_manifest.json"
       GH_URL = "https://raw.githubusercontent.com/elliottomlinson/cardmaster"
       HELP_SUGGESTION = "try printing again or reverting changes to #{PRINT_MANIFEST_PATH}"
