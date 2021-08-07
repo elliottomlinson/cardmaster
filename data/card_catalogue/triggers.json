@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "cast": "A visible NPC develops feelings for you.",
-        "passive": "Attacks against characters who love you deal 25 bonus damage."
+        "hand": "Attacks against characters who love you deal 25 bonus damage."
       },
       "flavour": "\"I trust her completely\" - Simon the Simple",
       "image": "res/card/art/illustration/Lover Fatale.png"
@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "cast": "Tell a story about yourself. Any number of visible NPCs will believe this story is true.",
-        "passive": "Deal 3 bonus damage when attacking characters who know your name."
+        "hand": "Deal 3 bonus damage when attacking characters who know your name."
       },
       "flavour": "His reputation preceded him.",
       "image": "res/card/art/illustration/Infamous.png"

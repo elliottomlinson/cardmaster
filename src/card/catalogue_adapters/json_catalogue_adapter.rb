@@ -117,8 +117,8 @@ module Card
         simple_rule = extract_simple_rule(rules)
         return simple_rule unless simple_rule.nil?
 
-        cast_passive_rule = extract_cast_passive_rule(rules)
-        return cast_passive_rule unless cast_passive_rule.nil?
+        cast_hand_rule = extract_cast_hand_rule(rules)
+        return cast_hand_rule unless cast_hand_rule.nil?
 
         raise_format_error!("Card at #{name_hierarchy} does not conform to any known rule format")
       end
@@ -127,10 +127,10 @@ module Card
         return Card::Models::SimpleRules.new(rules) if rules.is_a?(String)
       end
 
-      def extract_cast_passive_rule(rules)
-        return unless rules.is_a?(Hash) && rules["passive"] && rules["cast"]
+      def extract_cast_hand_rule(rules)
+        return unless rules.is_a?(Hash) && rules["hand"] && rules["cast"]
 
-        Card::Models::PassiveActiveRules.new(rules["passive"], rules["cast"])
+        Card::Models::PassiveActiveRules.new(rules["hand"], rules["cast"])
       end
 
       def validate_field!(node, field_name, hierarchy, node_type_name)

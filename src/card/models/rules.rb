@@ -13,15 +13,15 @@ module Card
     end
 
     class PassiveActiveRules
-      attr_reader :passive, :cast
+      attr_reader :hand, :cast
 
-      def initialize(passive, cast)
-        @passive = passive
+      def initialize(hand, cast)
+        @hand = hand
         @cast = cast
       end
 
       def ==(other)
-        other.passive == @passive &&
+        other.hand == @hand &&
         other.cast == @cast
       end
     end

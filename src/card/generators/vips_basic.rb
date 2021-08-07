@@ -161,7 +161,7 @@ module Card
         when Card::Models::SimpleRules
           rules.text
         when Card::Models::PassiveActiveRules
-          "✋: #{rules.passive}
+          "✋: #{rules.hand}
 ⚡: #{rules.cast}"
         else
           raise "Unsupported rule type #{rules.class}"

@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "cast": "Throw an object accurately at a target up to 5 metres away.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Go ahead, toss your hat in the ring.",
       "image": "res/card/art/illustration/Toss.png"
@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "cast": "Throw an object accurately at a target up to 12 metres away.",
-        "passive": "Advantage when catching."
+        "hand": "Advantage when catching."
       },
       "flavour": "If you're going to throw in the towel, at least do it properly.",
       "image": "res/card/art/illustration/Throw.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "cast": "Throw an object accurately as far as you want.",
-        "passive": "Advantage when catching."
+        "hand": "Advantage when catching."
       },
       "flavour": "I want this thing gone, understand? I want to never see it again.",
       "image": "res/card/art/illustration/Pitch.png"
@@ -45,7 +45,7 @@
     "details": {
       "rules": {
         "cast": "Throw an object as far as you want. It cannot be stopped.",
-        "passive": null
+        "hand": null
       },
       "flavour": "I guess in a way, we're all still chasing it.",
       "image": "res/card/art/illustration/Launch.png"
@@ -58,7 +58,7 @@
     "details": {
       "rules": {
         "cast": "Deal 3 damage to a visible character with a painful bolt of electricity",
-        "passive": null
+        "hand": null
       },
       "flavour": "A smile costs less than electricity, but gives much light",
       "image": "res/card/art/illustration/Spark.png"
@@ -71,7 +71,7 @@
     "details": {
       "rules": {
         "cast": "Deal 4 damage and stun up to 2 visible characters.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
       "image": "res/card/art/illustration/Lightning Bolt.png"
@@ -84,7 +84,7 @@
     "details": {
       "rules": {
         "cast": "Deal 6 damage and stun to up to 6 visible characters.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants.",
       "image": "res/card/art/illustration/Fork Lightning.png"
@@ -97,7 +97,7 @@
     "details": {
       "rules": {
         "cast": "Cause a complete blackout in a 100 kilometre radius. Draw 3 copies of Fork Lightning",
-        "passive": null
+        "hand": null
       },
       "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
       "image": "res/card/art/illustration/Elektra's Siphon.png"
@@ -110,7 +110,7 @@
     "details": {
       "rules": {
         "cast": "Ignite a small object within 3 metres.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
       "image": "res/card/art/illustration/Ignite.png"
@@ -123,7 +123,7 @@
     "details": {
       "rules": {
         "cast": "Hurl a flaming ball of hot embers at a visible object.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Time for a game of hot potato!",
       "image": "res/card/art/illustration/Fireball.png"
@@ -136,7 +136,7 @@
     "details": {
       "rules": {
         "cast": "Deal 15 damage and set fire to all flammable objects within 6 metres.",
-        "passive": null
+        "hand": null
       },
       "flavour": "The best part is that nice campfire smell.",
       "image": "res/card/art/illustration/Immolate.png"
@@ -149,7 +149,7 @@
     "details": {
       "rules": {
         "cast": "Summon a brick of material which burns violently forever when set on fire.",
-        "passive": null
+        "hand": null
       },
       "flavour": "The fire in our hearts will never burn out",
       "image": "res/card/art/illustration/Terrestrial Sun.png"
@@ -162,7 +162,7 @@
     "details": {
       "rules": {
         "cast": "Jump up 3 metres.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, Concerned Father",
       "image": "res/card/art/illustration/Jump.png"
@@ -175,7 +175,7 @@
     "details": {
       "rules": {
         "cast": "Jump 25 metres into the air.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"Good lord, look at him go..\" - Warner Higgins, Concerned Father",
       "image": "res/card/art/illustration/Leap.png"
@@ -188,7 +188,7 @@
     "details": {
       "rules": {
         "cast": "Hover up to 2 metres off the ground until you lose concentration.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, Concerned Father",
       "image": "res/card/art/illustration/Levitate.png"
@@ -201,7 +201,7 @@
     "details": {
       "rules": {
         "cast": "Jump as high as you want.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
       "image": "res/card/art/illustration/Ascend.png"
@@ -214,7 +214,7 @@
     "details": {
       "rules": {
         "cast": "Pick a visible object. It becomes moist.",
-        "passive": null
+        "hand": null
       },
       "flavour": "I think I'm going to need a change of clothes.",
       "image": "res/card/art/illustration/Moisten.png"
@@ -227,7 +227,7 @@
     "details": {
       "rules": {
         "cast": "Cause everything within 2 metres of a visible object to become saturated with water.",
-        "passive": null
+        "hand": null
       },
       "flavour": "My plan: complete. Their day: ruined.",
       "image": "res/card/art/illustration/Soak.png"
@@ -240,7 +240,7 @@
     "details": {
       "rules": {
         "cast": "Summon 50 thousand litres of water to a visible location.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" - Quomo the Quivering",
       "image": "res/card/art/illustration/Drench.png"
@@ -253,7 +253,7 @@
     "details": {
       "rules": {
         "cast": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Nature has a myriad of weapons to combat human arrogance.",
       "image": "res/card/art/illustration/Flood.png"
@@ -266,7 +266,7 @@
     "details": {
       "rules": {
         "cast": "Change the result of a roll by 2.",
-        "passive": null
+        "hand": null
       },
       "flavour": "I can't see him, but I know he's there.",
       "image": "res/card/art/illustration/Hope.png"
@@ -279,7 +279,7 @@
     "details": {
       "rules": {
         "cast": "Re-roll a d20.",
-        "passive": null
+        "hand": null
       },
       "flavour": "He will save us from our mortal errors.",
       "image": "res/card/art/illustration/Pray.png"
@@ -292,7 +292,7 @@
     "details": {
       "rules": {
         "cast": "Describe a religious vision. Pick a visible NPC to experience it.",
-        "passive": null
+        "hand": null
       },
       "flavour": "He lives deep in the hearts of all men.",
       "image": "res/card/art/illustration/Preach.png"
@@ -305,7 +305,7 @@
     "details": {
       "rules": {
         "cast": "Cause all players to critically succeed on their next d20 roll.",
-        "passive": null
+        "hand": null
       },
       "flavour": "The light will shine bright upon the chosen.",
       "image": "res/card/art/illustration/Wish.png"
@@ -318,7 +318,7 @@
     "details": {
       "rules": {
         "cast": "Cure the ailment of a visible character, or heal them 8.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
       "image": "res/card/art/illustration/Cure.png"
@@ -331,7 +331,7 @@
     "details": {
       "rules": {
         "cast": "Heal a visible character 15. They can move twice as fast for the remainder of the session.",
-        "passive": "Run twice as fast while carrying friendly characters."
+        "hand": "Run twice as fast while carrying friendly characters."
       },
       "flavour": "The best medicine is running far away from things which hurt you.",
       "image": "res/card/art/illustration/Field Medicine.png"
@@ -344,7 +344,7 @@
     "details": {
       "rules": {
         "cast": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
-        "passive": "You are 3 feet taller."
+        "hand": "You are 3 feet taller."
       },
       "flavour": "\"I hope you don't mind if I make some improvements while I'm in here\" - Dr. Reichthardt, Orthopedic Surgeon",
       "image": "res/card/art/illustration/Renew.png"
@@ -357,7 +357,7 @@
     "details": {
       "rules": {
         "cast": "Revive a dead character.",
-        "passive": "The dead fear you."
+        "hand": "The dead fear you."
       },
       "flavour": "If man is to play god, he ought to be a kind one.",
       "image": "res/card/art/illustration/Reincarnate.png"
@@ -370,7 +370,7 @@
     "details": {
       "rules": {
         "cast": "Take no damage from the next attack targeting you.",
-        "passive": null
+        "hand": null
       },
       "flavour": "I barely felt that! Who taught you how to punch?",
       "image": "res/card/art/illustration/Brace.png"
@@ -383,7 +383,7 @@
     "details": {
       "rules": {
         "cast": "The next amount of damage dealt to you is also dealt to your attacker.",
-        "passive": "Thrown objects bounce off of you with equal force."
+        "hand": "Thrown objects bounce off of you with equal force."
       },
       "flavour": "Let's see how you like it!.",
       "image": "res/card/art/illustration/Reflect.png"
@@ -396,7 +396,7 @@
     "details": {
       "rules": {
         "cast": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker",
-        "passive": null
+        "hand": null
       },
       "flavour": "I am rubber, and you are glue.",
       "image": "res/card/art/illustration/Deflect.png"
@@ -409,7 +409,7 @@
     "details": {
       "rules": {
         "cast": "Name a character. They can no longer deal damage to you.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5-Year-Old Jacob, Yellow Belt",
       "image": "res/card/art/illustration/Golan's Idol.png"
@@ -422,7 +422,7 @@
     "details": {
       "rules": {
         "cast": "You can attack two additional times on your turn.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Before they even realized what happened, another punch sent them flying.",
       "image": "res/card/art/illustration/Double Strike.png"
@@ -435,7 +435,7 @@
     "details": {
       "rules": {
         "cast": "You can attack four additional times on your turn.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Their defense won't last forever. Strike, and strike again.",
       "image": "res/card/art/illustration/Quad Strike.png"
@@ -448,7 +448,7 @@
     "details": {
       "rules": {
         "cast": "You can make twice times as many attacks as you otherwise would on your turn.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Every fighter has gaps between attacks which can be exploited. Just make sure to take them after your opponent is dead.",
       "image": "res/card/art/illustration/Strike Storm.png"
@@ -461,7 +461,7 @@
     "details": {
       "rules": {
         "cast": "Take X damage. You can attack X times on your turn.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs.",
       "image": "res/card/art/illustration/Endless Blows.png"
@@ -474,7 +474,7 @@
     "details": {
       "rules": {
         "cast": "Throw a visible character up into the air.",
-        "passive": null
+        "hand": null
       },
       "flavour": "He should've worn a windbreaker.",
       "image": "res/card/art/illustration/Gust of Wind.png"
@@ -487,7 +487,7 @@
     "details": {
       "rules": {
         "cast": "Throw any number of characters in a 3 metre radius into the air.",
-        "passive": "Whenever you throw a character in the air, you can also throw them 8 metres in any direction"
+        "hand": "Whenever you throw a character in the air, you can also throw them 8 metres in any direction"
       },
       "flavour": "You look like a birthday candle.",
       "image": "res/card/art/illustration/Gale.png"
@@ -500,7 +500,7 @@
     "details": {
       "rules": {
         "cast": "Throw any number of visible characters up into the air.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Rise, rise towards the heavens.",
       "image": "res/card/art/illustration/Wind Storm.png"
@@ -513,7 +513,7 @@
     "details": {
       "rules": {
         "cast": "A powerful hurricane is summoned over the play area for as long as you want.",
-        "passive": null
+        "hand": null
       },
       "flavour": "It is rare for an area to know such devastation.",
       "image": "res/card/art/illustration/Hurricane.png"
@@ -526,7 +526,7 @@
     "details": {
       "rules": {
         "cast": "Summon an impenetrable column of light in adjacent square metre for 5 minutes.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
       "image": "res/card/art/illustration/Barrier.png"
@@ -539,7 +539,7 @@
     "details": {
       "rules": {
         "cast": "Summon a copy of any NPC.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Cardmaster",
       "image": "res/card/art/illustration/Mirror Image.png"

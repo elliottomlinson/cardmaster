@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "cast": "Move up to 5 metres in any direction.",
-        "passive": null
+        "hand": null
       },
       "flavour": "These are great for the glutes.",
       "image": "res/card/art/illustration/Lunge.png"
@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "cast": "Move up to 15 metres in any direction.",
-        "passive": "Gain advantage when running through obstacles."
+        "hand": "Gain advantage when running through obstacles."
       },
       "flavour": "What are you running from?",
       "image": "res/card/art/illustration/Charge.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "cast": "Teleport to any visible location.",
-        "passive": null
+        "hand": null
       },
       "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
       "image": "res/card/art/illustration/Teleport.png"
@@ -45,7 +45,7 @@
     "details": {
       "rules": {
         "cast": "Teleport the entire party anywhere.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
       "image": "res/card/art/illustration/Leopold's Door.png"
@@ -58,7 +58,7 @@
     "details": {
       "rules": {
         "cast": "Move as far as you want in an unobstructed horizontal line.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Checkmate",
       "image": "res/card/art/illustration/Queen's Gambit.png"
@@ -71,7 +71,7 @@
     "details": {
       "rules": {
         "cast": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
-        "passive": null
+        "hand": null
       },
       "flavour": "C'mere.",
       "image": "res/card/art/illustration/Grapple.png"
@@ -84,7 +84,7 @@
     "details": {
       "rules": {
         "cast": "Teleport to any visible space. Take damage equal to the number of squares moved.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Travelling is always a pain.",
       "image": "res/card/art/illustration/Platzfalt Step.png"

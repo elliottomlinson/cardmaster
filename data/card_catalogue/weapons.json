@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "cast": "Deal 10 damage to a visible target.",
-        "passive": "Roll an additional d4 when performing a ranged attack."
+        "hand": "Roll an additional d4 when performing a ranged attack."
       },
       "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light",
       "image": "res/card/art/illustration/Bow Hex.png"
@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "cast": "Deal 10 damage to a visible target.",
-        "passive": "Roll an additional d6 when you perform a melee attack."
+        "hand": "Roll an additional d6 when you perform a melee attack."
       },
       "flavour": "It didn't slash or pierce, but rather burned. The fallen glowed as though their souls were leaving their bodies.",
       "image": "res/card/art/illustration/Sword Hex.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "cast": "Launch a baseball sized rock at a visible target.",
-        "passive": "Gain advantage when throwing objects."
+        "hand": "Gain advantage when throwing objects."
       },
       "flavour": "You want it? Here.",
       "image": "res/card/art/illustration/Slingshot.png"

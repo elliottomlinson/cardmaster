@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "cast": "Increases your rapport with a visible NPC",
-        "passive": null
+        "hand": null
       },
       "flavour": "If you were words on a card, you'd be some fine print.",
       "image": "res/card/art/illustration/Flirt.png"
@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "cast": "Causes a visible NPC to like you.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
       "image": "res/card/art/illustration/Charm.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "cast": "Causes a visible NPC to become attracted to you.",
-        "passive": null
+        "hand": null
       },
       "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
       "image": "res/card/art/illustration/Arouse.png"
@@ -45,7 +45,7 @@
     "details": {
       "rules": {
         "cast": "Force any NPC you can name to act on their desire for you.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Here I am - Your other two wishes?",
       "image": "res/card/art/illustration/Seduce.png"
@@ -58,7 +58,7 @@
     "details": {
       "rules": {
         "cast": "Speak with any living NPC, then draw another blue.",
-        "passive": null
+        "hand": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
       "image": "res/card/art/illustration/Commune.png"
@@ -71,7 +71,7 @@
     "details": {
       "rules": {
         "cast": "Speak with any dead NPC, then draw another blue.",
-        "passive": null
+        "hand": null
       },
       "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
       "image": "res/card/art/illustration/Seance.png"
@@ -84,7 +84,7 @@
     "details": {
       "rules": {
         "cast": "Target visible NPC can no longer feel negative emotions towards target visible character.",
-        "passive": null
+        "hand": null
       },
       "flavour": "Vewy Sowwy.",
       "image": "res/card/art/illustration/Apologize.png"
@@ -97,7 +97,7 @@
     "details": {
       "rules": {
         "cast": "Force an NPC to act on their compulsion.",
-        "passive": null
+        "hand": null
       },
       "flavour": "He wanted to pursue the thief, but he couldn't stand leaving the candy wrappers on his spotless kitchen floor.",
       "image": "res/card/art/illustration/Distract.png"
@@ -110,7 +110,7 @@
     "details": {
       "rules": {
         "cast": "Target NPC will believe your next statement.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
       "image": "res/card/art/illustration/Lie.png"
@@ -123,7 +123,7 @@
     "details": {
       "rules": {
         "cast": "Change your appearance to match that of another exactly for as long as you'd like.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
       "image": "res/card/art/illustration/Disguise.png"
@@ -136,7 +136,7 @@
     "details": {
       "rules": {
         "cast": "Rewrite the contents of an NPC's memory.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
       "image": "res/card/art/illustration/Revise.png"
@@ -149,7 +149,7 @@
     "details": {
       "rules": {
         "cast": "Swap two words in an NPC's vocabulary. They will not be aware of the effect, which lasts for a day.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
       "image": "res/card/art/illustration/Word Warp.png"
@@ -162,7 +162,7 @@
     "details": {
       "rules": {
         "cast": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
       "image": "res/card/art/illustration/Magic Trick.png"
@@ -175,7 +175,7 @@
     "details": {
       "rules": {
         "cast": "Target visible NPC will love you from now on.",
-        "passive": "NPCs hate you."
+        "hand": "NPCs hate you."
       },
       "flavour": "Nobody knew what he saw in her.",
       "image": "res/card/art/illustration/Polarize.png"

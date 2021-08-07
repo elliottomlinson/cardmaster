@@ -6,7 +6,7 @@
     "details": {
       "rules": {
         "cast": "Become the legal owner of a building of your choice. Existing tenants will be evicted immediately.",
-        "passive": null
+        "hand": null
       },
       "flavour": "The gang battle of 2485 concluded after the mafioso purchased their fortress and had the police escort them to jail.",
       "image": "res/card/art/illustration/Blank Deed.png"
@@ -19,7 +19,7 @@
     "details": {
       "rules": {
         "cast": "Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.",
-        "passive": null
+        "hand": null
       },
       "flavour": "There was a light within us that few can see. One day it will shine through.",
       "image": "res/card/art/illustration/Heroic Inspiration.png"
@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "cast": "Name a character not on the current map. They take 100 damage.",
-        "passive": null
+        "hand": null
       },
       "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",
       "image": "res/card/art/illustration/Untimely Death.png"
