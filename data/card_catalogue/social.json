@@ -167,5 +167,18 @@
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
       "image": "assets/core/card/illustration/Magic Trick.png"
     }
+  },
+  {
+    "title": "Polarize",
+    "upgrade": null,
+    "tier": "green",
+    "details": {
+      "rules": {
+        "active": "Target visible NPC will love you from now on.",
+        "passive": "NPCs hate you."
+      },
+      "flavour": "Nobody knew what he saw in her.",
+      "image": "assets/core/card/illustration/Polarize.png"
+    }
   }
 ]
