@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active":"Draw 2 blue cards. Cast both.",
+        "active":"Draw 2 blues. Cast both.",
         "passive": null
       },
       "flavour": "Live by the luck of the draw.",
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active":"Draw 2 green cards. Cast both.",
+        "active":"Draw 2 greens. Cast both.",
         "passive": null
       },
       "flavour": "You never know what he'll pull out of thin air.",
@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active":"Draw 2 red cards. Cast both.",
+        "active":"Draw 2 reds. Cast both.",
         "passive": null
       },
       "flavour": "I've got an idea...",
@@ -44,7 +44,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Draw 2 gold cards. Cast both.",
+        "active": "Draw 2 golds. Cast both.",
         "passive": null
       },
       "flavour": "I don't know what I want, but I do want a lot of it.",
@@ -57,7 +57,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 6 grey cards.",
+        "active": "Draw 6 greys.",
         "passive": null
       },
       "flavour": "Oh man, I've really Grobbled this one.",
@@ -70,7 +70,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 10 blue cards, face-up. Cast up to 8 and discard the rest.",
+        "active": "Draw 10 blues, face-up. Cast up to 8 and discard the rest.",
         "passive": null
       },
       "flavour": "What we lack in quality we've made up with quantity.",
@@ -96,7 +96,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last blue card Cast by any character.",
+        "active": "Copy the effect of the last blue cast by any character.",
         "passive": null
       },
       "flavour": "This is how stupid you look, watch this.",
@@ -109,7 +109,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last green card Cast by any character.",
+        "active": "Copy the effect of the last green cast by any character.",
         "passive": null
       },
       "flavour": "Stop copying me. Stop copying me.",
@@ -122,7 +122,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last red card Cast by any character.",
+        "active": "Copy the effect of the last red cast by any character.",
         "passive": null
       },
       "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, Revered Pirate and Thief",
@@ -135,7 +135,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Return a blue card you have Cast to your hand.",
+        "active": "Return a blue you've cast to your hand.",
         "passive": null
       },
       "flavour": "Don't retreat, reload.",
@@ -148,7 +148,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Return a green card you have Cast to your hand.",
+        "active": "Return a green you've cast to your hand.",
         "passive": null
       },
       "flavour": "Wanna see me do it again?",
@@ -161,7 +161,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Return a red card you have Cast to your hand.",
+        "active": "Return a red you've cast to your hand.",
         "passive": null
       },
       "flavour": "Cowboys only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
@@ -174,7 +174,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Draw 3 grey cards.",
+        "active": "Draw 3 greys.",
         "passive": null
       },
       "flavour": "Now, what do we have here...",
@@ -187,7 +187,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 5 blue cards, face-up. Cast up to 3 and discard the rest.",
+        "active": "Draw 5 blues, face-up. Cast up to 3 and discard the rest.",
         "passive": null
       },
       "flavour": "You criticize, I improvise",
@@ -200,7 +200,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 5 green cards, face-up. Cast up to 3 and discard the rest.",
+        "active": "Draw 5 greens, face-up. Cast up to 3 and discard the rest.",
         "passive": null
       },
       "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
@@ -213,7 +213,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Draw 5 red cards, face-up. Cast up to 3 and discard the rest.",
+        "active": "Draw 5 reds, face-up. Cast up to 3 and discard the rest.",
         "passive": null
       },
       "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
@@ -226,7 +226,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Draw 3 green cards, face-up. Cast up to 3 and discard the rest.",
+        "active": "Draw 3 greens, face-up. Cast up to 3 and discard the rest.",
         "passive": null
       },
       "flavour": "No more of this bush-league nonsense. We need some real power.",
@@ -239,7 +239,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 3 red cards, face-up. Cast up to 3 and discard the rest.",
+        "active": "Draw 3 reds, face-up. Cast up to 3 and discard the rest.",
         "passive": null
       },
       "flavour": "I might be able to pull it off - but just this once.",
@@ -252,7 +252,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 3 green cards, face-up. Cast 1 and discard the rest.",
+        "active": "Draw 3 greens, face-up. Cast 1 and discard the rest.",
         "passive": null
       },
       "flavour": "Do you believe in miracles?",

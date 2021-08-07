@@ -36,7 +36,7 @@ storage_adapter = Card::StorageAdapters::GitStorageAdapter.new
 stored_card_specs = storage_adapter.stored_cards.map(&:spec)
 card_specs = catalogue_adapter.printable_cards
 
-puts "Found #{stored_card_specs.length} stored cards..."
+puts "Found #{stored_card_specs.length} storeds..."
 puts "Found #{card_specs.length} cards specified in catalogue..."
 
 printed_by_title = stored_card_specs.each_with_object({}) do |card_spec, title_hash|
@@ -84,7 +84,7 @@ Dir.mktmpdir do |tmp_dir|
   end.compact
 
   if print_count == 0
-    puts "Stored cards are up to date."
+    puts "Storeds are up to date."
   else
     puts "Printed #{print_count} cards. Storing..."
     storage_adapter.save(printed_cards)

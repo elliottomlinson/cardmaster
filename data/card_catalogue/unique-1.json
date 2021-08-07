@@ -83,7 +83,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Choose a Blue or Green card in your hand. All cards in your hand become copies of that card.",
+        "active": "Choose a Blue or green in your hand. All cards in your hand become copies of that card.",
         "passive": null
       },
       "flavour": "Fax is short for facsimile, meaning \"make similar\".",
