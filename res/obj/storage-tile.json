@@ -1,0 +1,73 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "851f87",
+      "Name": "Custom_Assetbundle_Bag",
+      "Transform": {
+        "posX": 41.00122,
+        "posY": 1.72704017,
+        "posZ": 25.0010223,
+        "rotX": -1.07437714E-07,
+        "rotY": 270.120239,
+        "rotZ": -3.497765E-06,
+        "scaleX": 1.99,
+        "scaleY": 0.1,
+        "scaleZ": 1.99
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.5296168,
+        "g": 0.5296168,
+        "b": 0.5296168
+      },
+      "LayoutGroupSortIndex": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 0,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "https://github.com/elliottomlinson/cardmaster/blob/master/res/unity/storage-tile.unity3d?raw=true",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 3,
+        "TypeIndex": 6,
+        "LoopingEffectIndex": 0
+      },
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

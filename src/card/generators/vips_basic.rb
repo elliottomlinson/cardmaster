@@ -9,16 +9,16 @@ CARD_ART_HEIGHT = 477
 TYPE_INFO_HEIGHT = 60
 RULES_HEIGHT = 287
 TITLE_BORDER = 20
-TITLE_BOX_IMAGE = "assets/core/card/template/title_box.png"
-TYPE_BOX_IMAGE = "assets/core/card/template/type_box.png"
-DESCRIPTION_BOX_IMAGE = "assets/core/card/template/description_box.png"
+TITLE_BOX_IMAGE = "res/card/template/title_box.png"
+TYPE_BOX_IMAGE = "res/card/template/type_box.png"
+DESCRIPTION_BOX_IMAGE = "res/card/template/description_box.png"
 BORDER_IMAGES = {
-  grey: "assets/core/card/template/background-grey.png",
-  blue: "assets/core/card/template/background-blue.png",
-  green: "assets/core/card/template/background-green.png",
-  pink: "assets/core/card/template/background-pink.png",
-  red: "assets/core/card/template/background-red.png",
-  gold: "assets/core/card/template/background-gold.png",
+  grey: "res/card/template/background-grey.png",
+  blue: "res/card/template/background-blue.png",
+  green: "res/card/template/background-green.png",
+  pink: "res/card/template/background-pink.png",
+  red: "res/card/template/background-red.png",
+  gold: "res/card/template/background-gold.png",
 }
 
 TITLE_FONT = "Karmatic Arcade" # https://www.dafont.com/karmatic-arcade.font

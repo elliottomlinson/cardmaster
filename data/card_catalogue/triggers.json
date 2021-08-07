@@ -9,7 +9,7 @@
         "passive": "Attacks against characters who love you deal 25 bonus damage."
       },
       "flavour": "\"I trust her completely\" - Simon the Simple",
-      "image": "assets/core/card/illustration/Lover Fatale.png"
+      "image": "res/card/art/illustration/Lover Fatale.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": "Deal 3 bonus damage when attacking characters who know your name."
       },
       "flavour": "His reputation preceded him.",
-      "image": "assets/core/card/illustration/Infamous.png"
+      "image": "res/card/art/illustration/Infamous.png"
     }
   }
 ]

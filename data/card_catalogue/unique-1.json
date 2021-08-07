@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "Industrial Grade",
-      "image": "assets/core/card/illustration/Bean Blast.png"
+      "image": "res/card/art/illustration/Bean Blast.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": null
       },
       "flavour": "meep meep",
-      "image": "assets/core/card/illustration/Anvil Drop.png"
+      "image": "res/card/art/illustration/Anvil Drop.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": null
       },
       "flavour": "\"Always drink upstream from the herd\" - The Sheriff",
-      "image": "assets/core/card/illustration/Sheriff's Roundup.png"
+      "image": "res/card/art/illustration/Sheriff's Roundup.png"
     }
   },
   {
@@ -48,7 +48,7 @@
         "passive": null
       },
       "flavour": "\"Bolas are excellent for capturing large mammals, like my portly friend Steve\"",
-      "image": "assets/core/card/illustration/Ancient Throwing Bola.png"
+      "image": "res/card/art/illustration/Ancient Throwing Bola.png"
     }
   },
   {
@@ -61,7 +61,7 @@
         "passive": null
       },
       "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
-      "image": "assets/core/card/illustration/Rolling Cart.png"
+      "image": "res/card/art/illustration/Rolling Cart.png"
     }
   },
   {
@@ -74,7 +74,7 @@
         "passive": null
       },
       "flavour": "Good for blinding a close range target.",
-      "image": "assets/core/card/illustration/Empouched Earth.png"
+      "image": "res/card/art/illustration/Empouched Earth.png"
     }
   },
   {
@@ -87,7 +87,7 @@
         "passive": null
       },
       "flavour": "Fax is short for facsimile, meaning \"make similar\".",
-      "image": "assets/core/card/illustration/Card Printer.png"
+      "image": "res/card/art/illustration/Card Printer.png"
     }
   },
   {
@@ -100,7 +100,7 @@
         "passive": null
       },
       "flavour": "Sweet dreams.",
-      "image": "assets/core/card/illustration/Somnomalum.png"
+      "image": "res/card/art/illustration/Somnomalum.png"
     }
   },
   {
@@ -113,7 +113,7 @@
         "passive": null
       },
       "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
-      "image": "assets/core/card/illustration/Disappear.png"
+      "image": "res/card/art/illustration/Disappear.png"
     }
   },
   {
@@ -126,7 +126,7 @@
         "passive": null
       },
       "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Gregor the Delegator",
-      "image": "assets/core/card/illustration/Exhaust.png"
+      "image": "res/card/art/illustration/Exhaust.png"
     }
   },
   {
@@ -139,7 +139,7 @@
         "passive": null
       },
       "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
-      "image": "assets/core/card/illustration/Prison.png"
+      "image": "res/card/art/illustration/Prison.png"
     }
   },
   {
@@ -152,7 +152,7 @@
         "passive": null
       },
       "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
-      "image": "assets/core/card/illustration/Porticostatic Hex.png"
+      "image": "res/card/art/illustration/Porticostatic Hex.png"
     }
   },
   {
@@ -165,7 +165,7 @@
         "passive": null
       },
       "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
-      "image": "assets/core/card/illustration/Object Eject.png"
+      "image": "res/card/art/illustration/Object Eject.png"
     }
   },
   {
@@ -178,7 +178,7 @@
         "passive": null
       },
       "flavour": "\"I will never abide by absolutes\" - Leopold the Oppugnant",
-      "image": "assets/core/card/illustration/The Ultimatum.png"
+      "image": "res/card/art/illustration/The Ultimatum.png"
     }
   },
   {
@@ -191,7 +191,7 @@
         "passive": null
       },
       "flavour": "At last, the location of the missing socks.",
-      "image": "assets/core/card/illustration/Where-Ware Charm.png"
+      "image": "res/card/art/illustration/Where-Ware Charm.png"
     }
   },
   {
@@ -204,7 +204,7 @@
         "passive": null
       },
       "flavour": "Not suitable for tectonic fault zones.",
-      "image": "assets/core/card/illustration/Groundburst.png"
+      "image": "res/card/art/illustration/Groundburst.png"
     }
   },
   {
@@ -217,7 +217,7 @@
         "passive": null
       },
       "flavour": "I'm not unarmed, I've got two of them.",
-      "image": "assets/core/card/illustration/Bashbolster.png"
+      "image": "res/card/art/illustration/Bashbolster.png"
     }
   },
   {
@@ -230,7 +230,7 @@
         "passive": null
       },
       "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
-      "image": "assets/core/card/illustration/Musty Musket.png"
+      "image": "res/card/art/illustration/Musty Musket.png"
     }
   },
   {
@@ -243,7 +243,7 @@
         "passive": null
       },
       "flavour": "Mildly anoxic.",
-      "image": "assets/core/card/illustration/Smoke Bomb.png"
+      "image": "res/card/art/illustration/Smoke Bomb.png"
     }
   },
   {
@@ -256,7 +256,7 @@
         "passive": null
       },
       "flavour": "Nothing like a little prop humour.",
-      "image": "assets/core/card/illustration/Banana Peel.png"
+      "image": "res/card/art/illustration/Banana Peel.png"
     }
   },
   {
@@ -269,7 +269,7 @@
         "passive": null
       },
       "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
-      "image": "assets/core/card/illustration/Poltergeist.png"
+      "image": "res/card/art/illustration/Poltergeist.png"
     }
   },
   {
@@ -282,7 +282,7 @@
         "passive": null
       },
       "flavour": "Give me five!",
-      "image": "assets/core/card/illustration/Eidolimb.png"
+      "image": "res/card/art/illustration/Eidolimb.png"
     }
   },
   {
@@ -295,7 +295,7 @@
         "passive": null
       },
       "flavour": "Mob hideouts are often mysteriously empty when the Cops arrive to perform arrests",
-      "image": "assets/core/card/illustration/Tripwire Charm.png"
+      "image": "res/card/art/illustration/Tripwire Charm.png"
     }
   },
   {
@@ -308,7 +308,7 @@
         "passive": null
       },
       "flavour": "Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
-      "image": "assets/core/card/illustration/Spectreblast.png"
+      "image": "res/card/art/illustration/Spectreblast.png"
     }
   },
   {
@@ -321,7 +321,7 @@
         "passive": null
       },
       "flavour": "After taking a sandwich to the face from one of his men, Colonel Kudzo was forced to retire, effective immediately",
-      "image": "assets/core/card/illustration/PBJT.png"
+      "image": "res/card/art/illustration/PBJT.png"
     }
   },
   {
@@ -334,7 +334,7 @@
         "passive": null
       },
       "flavour": "Have my legs always been this heavy?",
-      "image": "assets/core/card/illustration/Locomotor Hex.png"
+      "image": "res/card/art/illustration/Locomotor Hex.png"
     }
   },
   {
@@ -347,7 +347,7 @@
         "passive": null
       },
       "flavour": "Whoa, chill.",
-      "image": "assets/core/card/illustration/Rime.png"
+      "image": "res/card/art/illustration/Rime.png"
     }
   },
   {
@@ -360,7 +360,7 @@
         "passive": null
       },
       "flavour": "I'm taking you straight to hell.",
-      "image": "assets/core/card/illustration/Akindle.png"
+      "image": "res/card/art/illustration/Akindle.png"
     }
   },
   {
@@ -373,7 +373,7 @@
         "passive": null
       },
       "flavour": "Let's savour this moment forever.",
-      "image": "assets/core/card/illustration/Glacial Hand.png"
+      "image": "res/card/art/illustration/Glacial Hand.png"
     }
   },
   {
@@ -386,7 +386,7 @@
         "passive": null
       },
       "flavour": "He will try his best not to be distracted by breadcrumbs.",
-      "image": "assets/core/card/illustration/Pigeon Partner.png"
+      "image": "res/card/art/illustration/Pigeon Partner.png"
     }
   },
   {
@@ -399,7 +399,7 @@
         "passive": null
       },
       "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
-      "image": "assets/core/card/illustration/Gloven Mitt.png"
+      "image": "res/card/art/illustration/Gloven Mitt.png"
     }
   }
 ]

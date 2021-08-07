@@ -1,7 +1,7 @@
 require_relative "./config.rb"
 require 'bundler/setup'
 $VERBOSE = nil
-SESSIONS_GIT_DIR = GIT_DIR+"/assets/campaign"
+SESSIONS_GIT_DIR = GIT_DIR+"/res/campaign"
 
 $session = ''
 

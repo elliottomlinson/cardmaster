@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "Live by the luck of the draw.",
-      "image": "assets/core/card/illustration/Wing It.png"
+      "image": "res/card/art/illustration/Wing It.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": null
       },
       "flavour": "You never know what he'll pull out of thin air.",
-      "image": "assets/core/card/illustration/Brainstorm.png"
+      "image": "res/card/art/illustration/Brainstorm.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": null
       },
       "flavour": "I've got an idea...",
-      "image": "assets/core/card/illustration/Spark of Inspiration.png"
+      "image": "res/card/art/illustration/Spark of Inspiration.png"
     }
   },
   {
@@ -48,7 +48,7 @@
         "passive": null
       },
       "flavour": "I don't know what I want, but I do want a lot of it.",
-      "image": "assets/core/card/illustration/Randomize.png"
+      "image": "res/card/art/illustration/Randomize.png"
     }
   },
   {
@@ -61,7 +61,7 @@
         "passive": null
       },
       "flavour": "Oh man, I've really Grobbled this one.",
-      "image": "assets/core/card/illustration/Grobble.png"
+      "image": "res/card/art/illustration/Grobble.png"
     }
   },
   {
@@ -74,7 +74,7 @@
         "passive": null
       },
       "flavour": "What we lack in quality we've made up with quantity.",
-      "image": "assets/core/card/illustration/Slipshod Sorcery.png"
+      "image": "res/card/art/illustration/Slipshod Sorcery.png"
     }
   },
   {
@@ -87,7 +87,7 @@
         "passive": null
       },
       "flavour": "The greatest plans begin with simple tactics.",
-      "image": "assets/core/card/illustration/Spectrum Dance.png"
+      "image": "res/card/art/illustration/Spectrum Dance.png"
     }
   },
   {
@@ -100,7 +100,7 @@
         "passive": null
       },
       "flavour": "This is how stupid you look, watch this.",
-      "image": "assets/core/card/illustration/Imitate.png"
+      "image": "res/card/art/illustration/Imitate.png"
     }
   },
   {
@@ -113,7 +113,7 @@
         "passive": null
       },
       "flavour": "Stop copying me. Stop copying me.",
-      "image": "assets/core/card/illustration/Copy.png"
+      "image": "res/card/art/illustration/Copy.png"
     }
   },
   {
@@ -126,7 +126,7 @@
         "passive": null
       },
       "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, Revered Pirate and Thief",
-      "image": "assets/core/card/illustration/Master Mimic.png"
+      "image": "res/card/art/illustration/Master Mimic.png"
     }
   },
   {
@@ -139,7 +139,7 @@
         "passive": null
       },
       "flavour": "Don't retreat, reload.",
-      "image": "assets/core/card/illustration/Reload.png"
+      "image": "res/card/art/illustration/Reload.png"
     }
   },
   {
@@ -152,7 +152,7 @@
         "passive": null
       },
       "flavour": "Wanna see me do it again?",
-      "image": "assets/core/card/illustration/Tactical Reload.png"
+      "image": "res/card/art/illustration/Tactical Reload.png"
     }
   },
   {
@@ -165,7 +165,7 @@
         "passive": null
       },
       "flavour": "Cowboys only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
-      "image": "assets/core/card/illustration/Cowboy Reload.png"
+      "image": "res/card/art/illustration/Cowboy Reload.png"
     }
   },
   {
@@ -178,7 +178,7 @@
         "passive": null
       },
       "flavour": "Now, what do we have here...",
-      "image": "assets/core/card/illustration/Adlib.png"
+      "image": "res/card/art/illustration/Adlib.png"
     }
   },
   {
@@ -191,7 +191,7 @@
         "passive": null
       },
       "flavour": "You criticize, I improvise",
-      "image": "assets/core/card/illustration/Improvise.png"
+      "image": "res/card/art/illustration/Improvise.png"
     }
   },
   {
@@ -204,7 +204,7 @@
         "passive": null
       },
       "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
-      "image": "assets/core/card/illustration/Extemporize.png"
+      "image": "res/card/art/illustration/Extemporize.png"
     }
   },
   {
@@ -217,7 +217,7 @@
         "passive": null
       },
       "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
-      "image": "assets/core/card/illustration/Helter-Skelter.png"
+      "image": "res/card/art/illustration/Helter-Skelter.png"
     }
   },
   {
@@ -230,7 +230,7 @@
         "passive": null
       },
       "flavour": "No more of this bush-league nonsense. We need some real power.",
-      "image": "assets/core/card/illustration/Four-Leaf Clover.png"
+      "image": "res/card/art/illustration/Four-Leaf Clover.png"
     }
   },
   {
@@ -243,7 +243,7 @@
         "passive": null
       },
       "flavour": "I might be able to pull it off - but just this once.",
-      "image": "assets/core/card/illustration/Rabbit's Foot.png"
+      "image": "res/card/art/illustration/Rabbit's Foot.png"
     }
   },
   {
@@ -256,7 +256,7 @@
         "passive": null
       },
       "flavour": "Do you believe in miracles?",
-      "image": "assets/core/card/illustration/Jackpot.png"
+      "image": "res/card/art/illustration/Jackpot.png"
     }
   }
 ]
