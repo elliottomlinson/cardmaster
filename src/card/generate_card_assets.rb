@@ -5,11 +5,11 @@ require_relative "./storage_adapters.rb"
 require "tmpdir"
 
 card_backs = {
-  grey: "assets/card/back/grey.png",
-  blue: "assets/card/back/blue.png",
-  green: "assets/card/back/green.png",
-  red: "assets/card/back/red.png",
-  gold: "assets/card/back/gold.png"
+  grey: "assets/card/reverse/grey.png",
+  blue: "assets/card/reverse/blue.png",
+  green: "assets/card/reverse/green.png",
+  red: "assets/card/reverse/red.png",
+  gold: "assets/card/reverse/gold.png"
 }.freeze
 
 diff = ARGV.include?("--diff")
