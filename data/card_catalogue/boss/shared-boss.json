@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "At the start of your turn during combat, return all Blue cards you've cast this session to your hand.",
+        "active": "At the start of your turn during combat, return all blues you've cast this session to your hand.",
         "passive": null
       },
       "flavour": "You've got nice moves, but you won't be able to keep up for long.",

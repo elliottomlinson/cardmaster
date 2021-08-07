@@ -57,7 +57,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Speak with any living NPC, then draw another blue card.",
+        "active": "Speak with any living NPC, then draw another blue.",
         "passive": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
@@ -70,7 +70,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Speak with any dead NPC, then draw another blue card.",
+        "active": "Speak with any dead NPC, then draw another blue.",
         "passive": null
       },
       "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
