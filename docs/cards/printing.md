@@ -23,7 +23,7 @@ The cards should be in this form:
   "details": {
     "rules": "Deal X damage to every non-player character you've ever known, where X is the number of complaints you can  list in 30 seconds",
     "flavour": "\"The world is irredeemable. I have yet to meet a soul worth saving.\" -Fester the Limp",
-    "image": "assets/core/card/illustration/Inner\ Sun.png"
+    "image": "assets/card/illustration/Inner\ Sun.png"
   }
 }
 ```
@@ -33,7 +33,7 @@ This samples generated this image at the time of writing this guide:
 <img src="https://user-images.githubusercontent.com/8670351/115162495-cdd57880-a071-11eb-8eb9-25294d3d9e97.png" width="300" height="400" />
 
 
-Images should be stored in the [illustrations folder](../../assets/core/card/illustration) in your local filesystem.
+Images should be stored in the [illustrations folder](../../assets/card/illustration) in your local filesystem.
 
 Make sure that your tier is one of grey, blue, green, red, or gold.
 
@@ -43,7 +43,7 @@ Cards with the `"draft"` flag set will be ignored when generating and importing.
 
 To generate the images, run a ruby script: `ruby src/card/generate_card_assets.rb`
 
-This'll write the images into the [printed folder](../../assets/core/card/printed).
+This'll write the images into the [printed folder](../../assets/card/printed).
 
 You can review the images now to ensure that they printed as expected. If they look good, you can proceed to the next step.
 

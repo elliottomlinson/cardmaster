@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "Mmm, Crayons",
-      "image": "assets/core/card/illustration/Spice Rack.png"
+      "image": "assets/card/illustration/Spice Rack.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": null
       },
       "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
-      "image": "assets/core/card/illustration/Ambrosia.png"
+      "image": "assets/card/illustration/Ambrosia.png"
     }
   }
 ]

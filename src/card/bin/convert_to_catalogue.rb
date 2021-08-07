@@ -28,7 +28,7 @@ cards = csv_file.split("\n").map do |row|
     "details": {
       "rules": row[2],
       "flavour": row[4],
-      "image": "assets/core/card/illustration/#{row[1]}.png"
+      "image": "assets/card/illustration/#{row[1]}.png"
     }
   }
 end.compact

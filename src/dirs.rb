@@ -30,5 +30,5 @@ STATED_SAVED_DIR = SESSION_SAVED_DIR+"/stated"
 STATED_URL = RAWURL+"/stated/%{set}/%{name}"
 
 # other import
-MISC_GIT_DIR = GIT_DIR+"/assets/core/obj"
+MISC_GIT_DIR = GIT_DIR+"/assets/obj"
 MISC_SAVED_DIR = SAVED_OBJ_DIR+"/Cardmaster Misc."

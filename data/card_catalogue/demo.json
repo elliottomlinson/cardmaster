@@ -12,7 +12,7 @@
             "passive": null
           },
           "flavour": "Darn",
-          "image": "assets/core/card/illustration/Inner Sun.png"
+          "image": "assets/card/illustration/Inner Sun.png"
         }
       },
       {
@@ -24,7 +24,7 @@
             "passive": null
           },
           "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
-          "image": "assets/core/card/illustration/Inner Sun.png"
+          "image": "assets/card/illustration/Inner Sun.png"
         }
       }
     ]
@@ -50,7 +50,7 @@
         "passive": null
       },
       "flavour": "Human beings are basically just big potato batteries.",
-      "image": "assets/core/card/illustration/Inner Sun.png"
+      "image": "assets/card/illustration/Inner Sun.png"
     }
   },
   {
@@ -63,7 +63,7 @@
         "passive": "Everybody hates you"
       },
       "flavour": "Nobody knew what he saw in her",
-      "image": "assets/core/card/illustration/Bean Blast.png"
+      "image": "assets/card/illustration/Bean Blast.png"
     }
   }
 ]

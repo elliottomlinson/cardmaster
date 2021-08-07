@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "Rebel assault rifles are equipped with manual and fully automatic firing modes.",
-      "image": "assets/core/card/illustration/Quick Shot.png"
+      "image": "assets/card/illustration/Quick Shot.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": null
       },
       "flavour": "Rebel soldiers employ distraction devices to buy time to reload.",
-      "image": "assets/core/card/illustration/Empty the Clip.png"
+      "image": "assets/card/illustration/Empty the Clip.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": null
       },
       "flavour": "Rebel armies spare no expense when supplying their troops with ammunition.",
-      "image": "assets/core/card/illustration/Suppression Maneuver.png"
+      "image": "assets/card/illustration/Suppression Maneuver.png"
     }
   },
   {
@@ -48,7 +48,7 @@
         "passive": null
       },
       "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",
-      "image": "assets/core/card/illustration/Bullet Rain.png"
+      "image": "assets/card/illustration/Bullet Rain.png"
     }
   }
 ]

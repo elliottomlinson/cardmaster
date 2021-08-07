@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "The gang battle of 2485 concluded after the mafioso purchased their fortress and had the police escort them to jail.",
-      "image": "assets/core/card/illustration/Blank Deed.png"
+      "image": "assets/card/illustration/Blank Deed.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": null
       },
       "flavour": "There was a light within us that few can see. One day it will shine through.",
-      "image": "assets/core/card/illustration/Heroic Inspiration.png"
+      "image": "assets/card/illustration/Heroic Inspiration.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": null
       },
       "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",
-      "image": "assets/core/card/illustration/Untimely Death.png"
+      "image": "assets/card/illustration/Untimely Death.png"
     }
   }
 ]
