@@ -1,8 +1,10 @@
 # Cardmaster
 
-> A role-playing game for *Tabletop Simulator*
+> A tabletop role-playing game
 
 ![site status](https://img.shields.io/website/http/cardmaster.io)
+
+Designed to be played in [Tabletop Simulator](https://tabletopsimulator.com/)
 
 
 
