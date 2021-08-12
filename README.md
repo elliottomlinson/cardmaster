@@ -1,6 +1,6 @@
-# cardmaster
+# Cardmaster
 
-> a tabletop role-playing game
+> A tabletop role-playing game
 
 [![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
 
