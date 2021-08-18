@@ -58,7 +58,6 @@ module Cardmaster
 
       def pretty_print(card_spec)
         CLI::UI::Frame.open(card_spec.title, color: box_color(card_spec.tier)) {
-          puts "Title: #{card_spec.title}"
           case card_spec.rules
           when Card::Models::SimpleRules
             puts "Rules: #{card_spec.rules.text}" 
