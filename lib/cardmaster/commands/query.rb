@@ -5,10 +5,10 @@ module Cardmaster
     class Query < Cardmaster::Command
       include Arguments
 
-      SUPPORTED_PARAMETERS = ["name"].freeze
+      SUPPORTED_PARAMETERS = ["title"].freeze
 
       def call(args, _name)
-        query_parameters = validate_parameters(named_arguments(args)) 
+        query_parameters = validate_parameters(named_arguments(args))
 
         if query_parameters.nil?
           puts Query.help
@@ -42,7 +42,7 @@ module Cardmaster
       def validate_parameters(query_parameters)
         if (invalid_parameters = query_parameters.keys.select { |key| !SUPPORTED_PARAMETERS.include?(key) }).size > 0
           puts "Invalid query parameters: #{invalid_parameters}"
-          return 
+          return
         end
 
         query_parameters
@@ -60,12 +60,12 @@ module Cardmaster
         CLI::UI::Frame.open(card_spec.title, color: box_color(card_spec.tier)) {
           case card_spec.rules
           when Card::Models::SimpleRules
-            puts "Rules: #{card_spec.rules.text}" 
+            puts "Rules: #{card_spec.rules.text}"
           when Card::Models::PassiveActiveRules
             puts "Passive: #{card_spec.rules.passive}"
             puts "Active: #{card_spec.rules.active}"
           else
-            raise "Invalid Rule type #{card_spec.rules.class}" 
+            raise "Invalid Rule type #{card_spec.rules.class}"
           end
           puts "Flavour: #{card_spec.flavour}"
           puts "Art: #{card_spec.art_path}"

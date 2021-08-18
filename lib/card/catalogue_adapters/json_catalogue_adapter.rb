@@ -124,7 +124,7 @@ module Card
       end
 
       def extract_simple_rule(rules)
-        return Card::Models::SimpleRules.new(rules) if rules.is_a?(String)
+        return Card::Models::SimpleRules.new(rules["active"]) if rules["passive"].nil?
       end
 
       def extract_active_passive_rule(rules)
