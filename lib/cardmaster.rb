@@ -1,8 +1,11 @@
 require 'cli/ui'
 require 'cli/kit'
+require "tmpdir"
 require_relative 'cardmaster/arguments'
 require_relative "./card/catalogue_adapters.rb"
+require_relative "./card/storage_adapters.rb"
 require_relative "./card/models.rb"
+require_relative "./card/generators.rb"
 
 CLI::UI::StdoutRouter.enable
 

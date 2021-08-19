@@ -19,8 +19,6 @@ module Cardmaster
           .printable_cards
           .select { |card_spec| matches_query(card_spec, query_parameters) }
 
-
-
         CLI::UI::Frame.open('Search Results') do
           if results.empty?
             puts CLI::UI.fmt "{{x}} No results found."
