@@ -69,7 +69,6 @@ module Card
           raw_manifest = File.read(@storage_manifest_path)
           JSON.parse(raw_manifest)
         else
-          puts "Warning: No Print Manifest found at #{@storage_manifest_path}"
           {}
         end
       end

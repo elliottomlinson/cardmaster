@@ -41,7 +41,7 @@ module Cardmaster
 
         CLI::UI::Frame.open("Generate", color: :cyan) do
           if flags.include?("force")
-            puts CLI::UI.fmt "{{*}} Running in force mode. All specified cards will be generated"
+            puts CLI::UI.fmt "{{*}} Running in force mode. All specified cards will be generated."
             @force = true
           end
 
@@ -70,8 +70,8 @@ module Cardmaster
           stored_card_specs = storage_adapter.stored_cards.map(&:spec)
           card_specs = catalogue_adapter.card_specifications
 
-          puts "Cards recorded in storage manifest: #{stored_card_specs.length}"
-          puts "Cards specified in catalogue: #{card_specs.length}"
+          puts CLI::UI.fmt "{{*}} Cards recorded in storage manifest: #{stored_card_specs.length}"
+          puts CLI::UI.fmt "{{*}} Cards specified in catalogue: #{card_specs.length}"
 
           if @force
             spec_diffs = card_specs.map { |card_spec| { old: nil, new: card_spec } }
@@ -172,6 +172,7 @@ module Cardmaster
       end
 
       def storage_adapter
+        puts CLI::UI.fmt "{{?}} Warning: No storage manifest found at #{MANIFEST_PATH}. A new manifest will be created." unless File.exists?(MANIFEST_PATH)
         @storage_adapter ||= Card::StorageAdapters::GitStorageAdapter.new(MANIFEST_PATH)
       end
     end
