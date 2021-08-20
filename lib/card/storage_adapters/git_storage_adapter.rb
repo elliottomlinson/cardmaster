@@ -9,19 +9,19 @@ module Card
       ASSET_BASE = "assets/core/card"
       FRONT_PATH = File.join(ASSET_BASE, "printed")
       BACK_PATH = File.join(ASSET_BASE, "back")
-      PRINT_MANIFEST_PATH = "assets/core/card/printed/print_manifest.json"
       GH_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg"
-      HELP_SUGGESTION = "try printing again or reverting changes to #{PRINT_MANIFEST_PATH}"
+      HELP_SUGGESTION = "try printing again or reverting changes to #{@print_manifest_path}"
 
-      def initialize
-        if File.exists?(PRINT_MANIFEST_PATH)
-          @stored_cards = Marshal.load(File.read(PRINT_MANIFEST_PATH))
+      def initialize(print_manifest_path)
+        @print_manifest_path = print_manifest_path
+        if File.exists?(@print_manifest_path)
+          @stored_cards = Marshal.load(File.read(@print_manifest_path))
           raise "Print Manifest Invalid, #{HELP_SUGGESTION}" unless @stored_cards.is_a?(Hash) && @stored_cards.all? do |title, stored_card|
             stored_card.is_a?(Card::Models::StoredCard)
             title.is_a?(String)
           end
         else
-          puts "Warning: No Print Manifest found at #{PRINT_MANIFEST_PATH}"
+          puts "Warning: No Print Manifest found at #{@print_manifest_path}"
           @stored_cards = {}
         end
       end
@@ -70,7 +70,7 @@ module Card
       end
 
       def update_manifest
-        File.write(PRINT_MANIFEST_PATH, Marshal.dump(@stored_cards))
+        File.write(@print_manifest_path, Marshal.dump(@stored_cards))
       end
 
       def front_path(card_spec)

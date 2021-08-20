@@ -13,6 +13,7 @@ module Cardmaster
     end
 
     register :Query, 'query', 'cardmaster/commands/query'
+    register :Generate, 'generate', 'cardmaster/commands/generate'
     register :Help,    'help',    'cardmaster/commands/help'
   end
 end
