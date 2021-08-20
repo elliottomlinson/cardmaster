@@ -7,13 +7,13 @@ module Card
     class GitStorageAdapter < Abstract
       # todo move to config
       ASSET_BASE = "res/card"
-      FRONT_PATH = File.join(ASSET_BASE, "printed")
+      FRONT_PATH = File.join(ASSET_BASE, "generated")
       BACK_PATH = File.join(ASSET_BASE, "back")
       GH_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg"
-      HELP_SUGGESTION = "try printing again or reverting changes to #{@print_manifest_path}"
+      HELP_SUGGESTION = "try printing again or reverting changes to #{@storage_manifest_path}"
 
-      def initialize(print_manifest_path)
-        @print_manifest_path = print_manifest_path
+      def initialize(storage_manifest_path)
+        @storage_manifest_path = storage_manifest_path
         @stored_cards = {}
 
         manifest = load_manifest
@@ -21,14 +21,14 @@ module Card
         parse_manifest(manifest)
       end
 
-      def save(printed_cards)
-        save_images(printed_cards)
+      def save(generated_cards)
+        save_images(generated_cards)
 
-        printed_cards.each do |printed_card|
-          @stored_cards[printed_card.spec.title] = Card::Models::StoredCard.new(
-            printed_card.spec,
-            github_repo_url(front_path(printed_card.spec)),
-            github_repo_url(printed_card.back_path)
+        generated_cards.each do |generated_card|
+          @stored_cards[generated_card.spec.title] = Card::Models::StoredCard.new(
+            generated_card.spec,
+            github_repo_url(front_path(generated_card.spec)),
+            github_repo_url(generated_card.back_path)
           )
         end
 
@@ -55,21 +55,20 @@ module Card
         )
       end
 
-      def save_images(printed_cards)
-        printed_cards.each do |printed_card|
+      def save_images(generated_cards)
+        generated_cards.each do |generated_card|
           FileUtils.cp(
-            printed_card.image_path,
-            front_path(printed_card.spec)
+            generated_card.image_path,
+            front_path(generated_card.spec)
           )
         end
       end
 
       def load_manifest
-        if File.exists?(@print_manifest_path)
-          raw_manifest = File.read(@print_manifest_path)
+        if File.exists?(@storage_manifest_path)
+          raw_manifest = File.read(@storage_manifest_path)
           JSON.parse(raw_manifest)
         else
-          puts "Warning: No Print Manifest found at #{@print_manifest_path}"
           {}
         end
       end
@@ -81,7 +80,7 @@ module Card
       end
 
       def update_manifest
-        File.write(@print_manifest_path, JSON.pretty_generate(@stored_cards.transform_values(&:to_h)))
+        File.write(@storage_manifest_path, JSON.pretty_generate(@stored_cards.transform_values(&:to_h)))
       end
 
       def front_path(card_spec)

@@ -1,6 +1,6 @@
 # Importing Cards
 
-This process imports all cards that have been printed into Tabletop Simulator.
+This process imports all cards that have been generated into Tabletop Simulator.
 
 To print cards, follow [this guide](printing.md).
 

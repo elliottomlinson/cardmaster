@@ -5,7 +5,7 @@ module Card
         if hash.has_key?("text")
           SimpleRules.new(hash["text"])
         elsif hash.has_key?("passive") && hash.has_key?("active")
-          PassiveActiverules.new(hash["passive"], hash["active"])
+          PassiveActiveRules.new(hash["passive"], hash["active"])
         end
       end
     end
