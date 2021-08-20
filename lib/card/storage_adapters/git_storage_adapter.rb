@@ -81,7 +81,7 @@ module Card
       end
 
       def update_manifest
-        File.write(@print_manifest_path, @stored_cards.transform_values(&:to_h).to_json)
+        File.write(@print_manifest_path, JSON.pretty_generate(@stored_cards.transform_values(&:to_h)))
       end
 
       def front_path(card_spec)
