@@ -8,6 +8,15 @@ module Cardmaster
       SUPPORTED_FLAGS = ["all"].freeze
 
       MANIFEST_PATH = "data/print_manifest.json"
+      CARD_BACKS = {
+        grey: "res/card/back/grey.png",
+        blue: "res/card/back/blue.png",
+        green: "res/card/back/green.png",
+        red: "res/card/back/red.png",
+        gold: "res/card/back/gold.png"
+      }.freeze
+      DEFAULT_TEMPLATE = "res/card/template/default.html"
+
 
       def call(args, _name)
         flags = flag_arguments(args)
@@ -22,12 +31,17 @@ module Cardmaster
         end
 
         specified_cards = positional_arguments(args)
+        skipped_matching = false
 
         print_count = 0
         Dir.mktmpdir do |tmp_dir|
           printed_cards = spec_diffs.map.with_index do |spec_diff, index|
-            next if spec_diff[:old] == spec_diff[:new] && !flags.include?("all")
-            next if specified_cards && !specified_cards.include?(spec_diff[:new].title)
+            next unless specified_cards.empty? || specified_cards.include?(spec_diff[:new].title)
+
+            unless flags.include?("all") || spec_diff[:old] != spec_diff[:new]
+              puts "Card #{spec_diff[:new].title} is already up to date in Print Manifest. Skipping..."
+              next
+            end
 
             print_count += 1
 
@@ -41,17 +55,15 @@ module Cardmaster
             Card::Models::PrintedCard.new(
               image_path,
               card_spec,
-              card_backs[card_spec.tier]
+              CARD_BACKS[card_spec.tier]
             )
           end.compact
 
-          if print_count == 0
-            puts "Stored cards are up to date."
-          else
-            puts "Printed #{print_count} cards. Storing..."
+          puts "Printed #{print_count} cards."
+          if print_count > 0
+            puts "Storing printed cards..."
             storage_adapter.save(printed_cards)
           end
-          puts "All Finished."
         end
       end
 
@@ -67,8 +79,8 @@ module Cardmaster
         stored_card_specs = storage_adapter.stored_cards.map(&:spec)
         card_specs = catalogue_adapter.printable_cards
 
-        puts "Found #{stored_card_specs.length} stored cards..."
-        puts "Found #{card_specs.length} cards specified in catalogue..."
+        puts "Cards Stored in Print Manifest: #{stored_card_specs.length}"
+        puts "Cards Specified in Catalogue: #{card_specs.length}"
 
         printed_by_title = stored_card_specs.each_with_object({}) do |card_spec, title_hash|
           title_hash[card_spec.title] = card_spec
@@ -96,7 +108,7 @@ module Cardmaster
 
       def generator
         card_templates = ->(card_spec) do
-          "assets/core/card/template/default.html"
+          DEFAULT_TEMPLATE
         end
         @generator ||= Card::Generators::IMGKitBasic.new(card_templates, [])
       end
