@@ -1,7 +1,7 @@
 module Card
   module StorageAdapters
     class Abstract
-      # Takes a list of Card::Models::PrintedCards
+      # Takes a list of Card::Models::GeneratedCards
       # stores the images in a location which can be
       # retrieved via the stored_cards method
       def save(cards)

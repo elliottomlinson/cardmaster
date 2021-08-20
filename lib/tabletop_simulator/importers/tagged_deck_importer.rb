@@ -14,8 +14,8 @@ module TabletopSimulator
         initialize_directory_pointers(*saved_object_args)
       end
 
-      def import(printed_cards)
-        decks_by_tag = sort_by_tag(printed_cards).map do |tag, cards|
+      def import(generated_cards)
+        decks_by_tag = sort_by_tag(generated_cards).map do |tag, cards|
           [
             tag,
             TabletopSimulator::Models::Object.new(
@@ -32,11 +32,11 @@ module TabletopSimulator
 
       private
 
-      def sort_by_tag(printed_cards)
-        printed_cards.each_with_object({}) do |printed_card, printed_cards_by_tag|
-          printed_card.spec.tags.each do |tag|
-            printed_cards_by_tag[tag] ||= []
-            printed_cards_by_tag[tag].append(printed_card)
+      def sort_by_tag(generated_cards)
+        generated_cards.each_with_object({}) do |generated_card, generated_cards_by_tag|
+          generated_card.spec.tags.each do |tag|
+            generated_cards_by_tag[tag] ||= []
+            generated_cards_by_tag[tag].append(generated_card)
           end
         end
       end

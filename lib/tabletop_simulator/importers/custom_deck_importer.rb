@@ -53,10 +53,10 @@ module TabletopSimulator
       private
 
       def sort_by_tag(stored_cards)
-        stored_cards.each_with_object({}) do |printed_card, stored_cards_by_tag|
-          printed_card.spec.tags.each do |tag|
+        stored_cards.each_with_object({}) do |generated_card, stored_cards_by_tag|
+          generated_card.spec.tags.each do |tag|
             stored_cards_by_tag[tag] ||= []
-            stored_cards_by_tag[tag].append(printed_card)
+            stored_cards_by_tag[tag].append(generated_card)
           end
         end
       end

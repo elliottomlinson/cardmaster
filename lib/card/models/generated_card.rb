@@ -1,6 +1,6 @@
 module Card
   module Models
-    class PrintedCard
+    class GeneratedCard
       attr_reader :image_path, :spec, :back_path
 
       def initialize(image_path, spec, back_path)

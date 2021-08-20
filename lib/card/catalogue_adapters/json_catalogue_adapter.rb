@@ -9,7 +9,7 @@ module Card
         @catalogue_path = catalogue_path
       end
 
-      def printable_cards
+      def card_specifications
         raise "Could not find catalogue at #{@catalogue_path}" unless File.exists?(@catalogue_path)
 
         parsed_catalogue = parse_catalogue!(@catalogue_path)

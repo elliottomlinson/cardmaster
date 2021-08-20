@@ -43,9 +43,9 @@ Cards with the `"draft"` flag set will be ignored when generating and importing.
 
 To generate the images, run a ruby script: `ruby src/card/generate_card_assets.rb`
 
-This'll write the images into the [printed folder](../../assets/cards/).
+This'll write the images into the [generated folder](../../assets/cards/).
 
-You can review the images now to ensure that they printed as expected. If they look good, you can proceed to the next step.
+You can review the images now to ensure that they generated as expected. If they look good, you can proceed to the next step.
 
 You can change the dimensions of the template components by changing the constants in [the vips generator file](src/card/generators/vips_basic.rb). The backdrop images are stored in the [template folder](src/card/generators/vips_basic.rb). The sizes of those templates must match the constants in the vips generator file.
 
