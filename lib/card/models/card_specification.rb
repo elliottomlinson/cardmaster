@@ -31,6 +31,30 @@ module Card
           tags == other.tags
       end
 
+      def to_h
+        {
+          "title" => @title,
+          "rules" => @rules.to_h,
+          "upgrade" => @upgrade,
+          "tier" => @tier.to_s,
+          "flavour" => @flavour,
+          "art_path" => @art_path,
+          "tags" => @tags
+        }
+      end
+
+      def self.from_h(hash)
+        CardSpecification.new(
+          hash["title"],
+          Rules.from_h(hash["rules"]),
+          hash["upgrade"],
+          hash["tier"].to_sym,
+          hash["flavour"],
+          hash["art_path"],
+          hash["tags"]
+        )
+      end
+
       private
 
       def to_s

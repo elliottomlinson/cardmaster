@@ -4,13 +4,6 @@ require_relative "./catalogue_adapters.rb"
 require_relative "./storage_adapters.rb"
 require "tmpdir"
 
-card_backs = {
-  grey: "assets/core/card/back/grey.png",
-  blue: "assets/core/card/back/blue.png",
-  green: "assets/core/card/back/green.png",
-  red: "assets/core/card/back/red.png",
-  gold: "assets/core/card/back/gold.png"
-}.freeze
 
 diff = ARGV.include?("--diff")
 cards_to_print = nil

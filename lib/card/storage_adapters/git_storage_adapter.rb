@@ -6,7 +6,7 @@ module Card
     # Saves the images in the local git repository
     class GitStorageAdapter < Abstract
       # todo move to config
-      ASSET_BASE = "assets/core/card"
+      ASSET_BASE = "res/card"
       FRONT_PATH = File.join(ASSET_BASE, "printed")
       BACK_PATH = File.join(ASSET_BASE, "back")
       GH_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg"
@@ -14,16 +14,11 @@ module Card
 
       def initialize(print_manifest_path)
         @print_manifest_path = print_manifest_path
-        if File.exists?(@print_manifest_path)
-          @stored_cards = Marshal.load(File.read(@print_manifest_path))
-          raise "Print Manifest Invalid, #{HELP_SUGGESTION}" unless @stored_cards.is_a?(Hash) && @stored_cards.all? do |title, stored_card|
-            stored_card.is_a?(Card::Models::StoredCard)
-            title.is_a?(String)
-          end
-        else
-          puts "Warning: No Print Manifest found at #{@print_manifest_path}"
-          @stored_cards = {}
-        end
+        @stored_cards = {}
+
+        manifest = load_manifest
+
+        parse_manifest(manifest)
       end
 
       def save(printed_cards)
@@ -69,8 +64,24 @@ module Card
         end
       end
 
+      def load_manifest
+        if File.exists?(@print_manifest_path)
+          raw_manifest = File.read(@print_manifest_path)
+          JSON.parse(raw_manifest)
+        else
+          puts "Warning: No Print Manifest found at #{@print_manifest_path}"
+          {}
+        end
+      end
+
+      def parse_manifest(manifest)
+        manifest.each do |title, hash|
+          @stored_cards[title] = Card::Models::StoredCard.from_h(hash)
+        end
+      end
+
       def update_manifest
-        File.write(@print_manifest_path, Marshal.dump(@stored_cards))
+        File.write(@print_manifest_path, JSON.pretty_generate(@stored_cards.transform_values(&:to_h)))
       end
 
       def front_path(card_spec)
