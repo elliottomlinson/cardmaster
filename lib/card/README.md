@@ -34,7 +34,7 @@ Each individual file in the directory must have a `.json` file extension, and be
   { ... Card Specification ... },
   { ... Card Specification ... },
   ...
-}
+]
 ```
 
 Within an individual file, folders can be specified to further organize the card specifications:
@@ -55,7 +55,7 @@ Folder and file names are both included as tags on the individual cards when the
 
 ### Generators
 
-Generators receive card specifications and generate images for the front an back of the cards.
+Generators receive card specifications and generate images for the front and back of the cards.
 
 The only card generator currently support is the IMGKit Generator.
 
