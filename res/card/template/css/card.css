@@ -1,19 +1,22 @@
 @font-face {
   font-family: 'Karmatic Arcade', monospace;
   src: url(font/ka1.tff) format('ttf'),
-  font-display: optional;
 }
 
 @font-face {
   font-family: 'Segoe UI Semibold', normal;
   src: url(font/seguisb.tff) format('ttf'),
-  font-display: optional;
 }
 
-.title-box-text {
+@font-face {
+  font-family: 'EB Garamond', normal;
+  src: url(font/EBGaramond-VariableFont_wght.ttf) format('ttf'),
+}
+
+.title {
   font-family: 'Karmatic Arcade';
   font-size: 36pt;
-  z-index: 4;
+  z-index: 6;
 }
 
 .type-text {
@@ -26,7 +29,7 @@
   font-size: 20pt;
 }
 
-.tier-img {
+.tier {
   background-image: url("../../../../res/art/tier/blue.png");
   width: 736px;
   height: 1041px;
@@ -36,19 +39,19 @@
   top:40px;
 }
 
-.frame-internal-img {
+.borders {
   background-image: url("../../../../res/art/border/interior.png");
   z-index: 2;
   position: absolute;
   left: 40px;
   top: 40px;
-  height: 1154px;
-  width: 816px;
+  height: 1041px;
+  width: 736px;
 }
 
-.frame-external-img {
+.frame {
   background-image: url("../../../../res/art/border/exterior.png");
-  z-index: 2;
+  z-index: 1;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -56,9 +59,10 @@
   width: 816px;
 }
 
-.title-box-img {
+.title {
+  text-align: center;
   background-image: url("../../../../res/art/title/blue.png");
-  z-index: 1;
+  z-index: 2;
   position: absolute;
   left: 74px;
   top: 74px;
@@ -66,35 +70,60 @@
   width: 668px;
 }
 
-.illustration-img {
+.illustration {
+  background-image: url("../../../../res/art/illustration/Jump.png");
   z-index: 1;
   position: absolute;
   left: 74px;
   top: 178px;
+  width: 668px;
+  height: 477px;
 }
 
-.type-box-img {
+.type {
+  background-image: url("../../../../res/art/type/blue.png");
   z-index: 1;
   position: absolute;
   left: 74px;
   top: 683px;
+  width: 668px;
+  height: 44px;
 }
 
-.rules-box-img {
+.rules {
+  background-image: url("../../../../res/art/rules/blue.png");
   position: absolute;
   left: 74px;
   top: 755px;
+  width: 668px;
+  height: 292px;
 }
-.attributions-box-img {
+
+.meta {
+  display:flex;
+  flex-flow:row wrap;
   z-index: 3;
   position: absolute;
   left: 55px;
-  top: 1091px;
+  top: 1084px;
+  width: 702px;
+  height: 32px;
 }
 
-.title-box-text {
-  z-index: 4;
+.author {
+  color: #666666;
+  width:33.33333%;
+  text-align: left;
 }
 
-.title-box-text {
+.copyright {
+  color: white;
+  width:33.33333%;
+  text-align: center;
+}
+
+.serial {
+  color: #666666;
+  width:33.33333%;
+  text-align:right;
 }
