@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'Karmatic Arcade', monospace;
+  src: url(font/ka1.tff) format('ttf'),
+  font-display: optional;
+}
+
+@font-face {
+  font-family: 'Segoe UI Semibold', normal;
+  src: url(font/seguisb.tff) format('ttf'),
+  font-display: optional;
+}
+
+.title-box-text {
+  font-family: 'Karmatic Arcade';
+  font-size: 36pt;
+  z-index: 4;
+}
+
+.type-text {
+  font-family: 'Karmatic Arcade';
+  font-size: 18pt;
+}
+
+.rules-text {
+  font-family: 'Segoe UI Semibold';
+  font-size: 20pt;
+}
+
+.tier-img {
+  background-image: url("../../../../res/art/tier/blue.png");
+  width: 736px;
+  height: 1041px;
+  z-index: 0;
+  position: absolute;
+  left:40px;
+  top:40px;
+}
+
+.frame-internal-img {
+  background-image: url("../../../../res/art/border/interior.png");
+  z-index: 2;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+  height: 1154px;
+  width: 816px;
+}
+
+.frame-external-img {
+  background-image: url("../../../../res/art/border/exterior.png");
+  z-index: 2;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 1154px;
+  width: 816px;
+}
+
+.title-box-img {
+  background-image: url("../../../../res/art/title/blue.png");
+  z-index: 1;
+  position: absolute;
+  left: 74px;
+  top: 74px;
+  height: 76px;
+  width: 668px;
+}
+
+.illustration-img {
+  z-index: 1;
+  position: absolute;
+  left: 74px;
+  top: 178px;
+}
+
+.type-box-img {
+  z-index: 1;
+  position: absolute;
+  left: 74px;
+  top: 683px;
+}
+
+.rules-box-img {
+  position: absolute;
+  left: 74px;
+  top: 755px;
+}
+.attributions-box-img {
+  z-index: 3;
+  position: absolute;
+  left: 55px;
+  top: 1091px;
+}
+
+.title-box-text {
+  z-index: 4;
+}
+
+.title-box-text {
+}
