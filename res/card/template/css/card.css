@@ -126,8 +126,12 @@
   text-align: center;
 }
 
-.serial {
+.code {
   color: #666666;
   width:33.33333%;
   text-align:right;
+}
+
+.serial {
+  color: #999999;
 }
