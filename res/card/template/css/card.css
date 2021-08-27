@@ -13,20 +13,9 @@
   src: url(font/EBGaramond-VariableFont_wght.ttf) format('ttf'),
 }
 
-.title {
-  font-family: 'Karmatic Arcade';
-  font-size: 36pt;
-  z-index: 6;
-}
-
-.type-text {
-  font-family: 'Karmatic Arcade';
-  font-size: 18pt;
-}
-
-.rules-text {
-  font-family: 'Segoe UI Semibold';
-  font-size: 20pt;
+.card {
+  width: 816px;
+  height: 1154px;
 }
 
 .tier {
@@ -37,37 +26,42 @@
   position: absolute;
   left:40px;
   top:40px;
-}
-
-.borders {
-  background-image: url("../../../../res/art/border/interior.png");
-  z-index: 2;
-  position: absolute;
-  left: 40px;
-  top: 40px;
-  height: 1041px;
   width: 736px;
+  height: 1041px;
 }
 
-.frame {
-  background-image: url("../../../../res/art/border/exterior.png");
+.border {
+  background-image: url("../../../../res/art/border/border.png");
   z-index: 1;
   position: absolute;
   left: 0px;
   top: 0px;
-  height: 1154px;
   width: 816px;
+  height: 1154px;
+}
+
+.frame {
+  background-image: url("../../../../res/art/frame/blue.png");
+  z-index: 2;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+  width: 736px;
+  height: 1041px;
 }
 
 .title {
+  font-family: 'Karmatic Arcade';
+  font-size: 36pt;
+  z-index: 6;
   text-align: center;
   background-image: url("../../../../res/art/title/blue.png");
   z-index: 2;
   position: absolute;
   left: 74px;
   top: 74px;
-  height: 76px;
   width: 668px;
+  height: 76px;
 }
 
 .illustration {
@@ -76,11 +70,13 @@
   position: absolute;
   left: 74px;
   top: 178px;
-  width: 668px;
   height: 477px;
+  width: 668px;
 }
 
 .type {
+  font-family: 'Karmatic Arcade';
+  font-size: 18pt;
   background-image: url("../../../../res/art/type/blue.png");
   z-index: 1;
   position: absolute;
@@ -91,6 +87,8 @@
 }
 
 .rules {
+  font-family: 'Segoe UI Semibold';
+  font-size: 20pt;
   background-image: url("../../../../res/art/rules/blue.png");
   position: absolute;
   left: 74px;
@@ -99,7 +97,13 @@
   height: 292px;
 }
 
+.flavour {
+
+}
+
 .meta {
+  font-family: 'EB Garamond';
+  font-size: 13pt;
   display:flex;
   flex-flow:row wrap;
   z-index: 3;
