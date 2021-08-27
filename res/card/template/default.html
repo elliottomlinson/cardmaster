@@ -4,51 +4,90 @@
 <head>
   <meta charset="utf-8">
   <title>card creator</title>
-  <link rel="stylesheet" href="css/card.css">
 </head>
+
+<!-- Hack to get emojis to render -->
+<style>
+  img.emoji {
+     height: 1em;
+     width: 1em;
+     margin: 0 .05em 0 .1em;
+     vertical-align: -0.1em;
+  }
+</style>
+
+<!-- https://stackoverflow.com/questions/687998/auto-size-dynamic-text-to-fill-fixed-size-container -->
+<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
+<script type="text/javascript">
+  window.onload=function shrink()
+  {
+    twemoji.parse(document.body);
+    textSpan = document.getElementById("title-text")
+    textDiv = document.getElementById("title")
+    
+    textSpan.style.fontSize = "36pt"
+
+    while(textSpan.offsetHeight > textDiv.offsetHeight)
+    {
+        updated_font_size = parseInt(textSpan.style.fontSize) - 1
+        textSpan.style.fontSize = updated_font_size + "pt";
+    }
+  }
+</script>
+
 
 <body>
   <div class="card">
       <div class="tier"></div>
       <div class="border"></div>
       <div class="frame"></div>
-      <div class="title">
-        <div class="title-text">
-          TITLE
-        </div>
+      <div class="title" id="title">
+        <span class="title-text vertical-center" id="title-text">{{title}}</div>
       </div>
       <div class="illustration"></div>
       <div class="type">
         <div class="type-text">
-          UPGRADE: TITLE II
+          {{upgrade}}
         </div>
       </div>
       <div class="rules">
-        <p class="active">
-          ⚡ ACTIVE
-        </p>
-        <p class="passive">
-          ✋ PASSIVE
-        </p>
-        <em class="flavour">
-          Flavour text
-        </em>
+        <div class="rules-text">
+          <div class="active">
+            {{active_rules}}
+          </div>
+          <div class="passive">
+            {{passive_rules}}
+          </div>
+          <em class="flavour">
+            {{flavour}}
+          </em>
+        </div>
       </div>
       <div class="meta">
-        <p class="author">
-          Illus. Elliot Tomlinson
-        </p>
-        <p class="copyright">
-          © 2021 Cardmaster
-        </p>
-        <p class="code">
-          <span class="series">
-            test
-          </span>
-          <span class="serial">
-            000/000
-          </span>
-        </p>
+        <table>
+          <tr>
+            <td>
+              <p class="author">
+                Illus. Elliot Tomlinson
+              </p>
+            </td>
+            <td>
+              <p class="copyright">
+                © 2021 Cardmaster
+              </p>
+            </td>
+            <td>
+              <p class="code">
+                <span class="series">
+                  test
+                </span>
+                <span class="serial">
+                  000/000
+                </span>
+              </p>
+            </td>
+          </tr>
+        </table>
       </div>
     </div>
   </body>
