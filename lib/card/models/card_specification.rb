@@ -3,7 +3,7 @@ require_relative "./rules.rb"
 module Card
   module Models
     class CardSpecification
-      VALID_TIERS = [:grey, :blue, :green, :red, :gold].freeze
+      TIER_HIERARCHY = [:grey, :blue, :green, :red, :gold].freeze
 
       attr_accessor :title, :rules, :upgrade, :tier, :flavour, :art_path, :tags
 
@@ -19,6 +19,12 @@ module Card
 
       def typeline
         @upgrade == '' ? "Unique" : "Upgrade - #{@upgrade}"
+      end
+
+      def next_tier
+        return nil if TIER_HIERARCHY[-1] == tier
+
+        TIER_HIERARCHY[TIER_HIERARCHY.index(tier) + 1]
       end
 
       def ==(other)
@@ -62,7 +68,7 @@ module Card
       end
 
       def validate_tier!(tier)
-        raise "Received invalid tier #{tier}" unless VALID_TIERS.include?(tier)
+        raise "Received invalid tier #{tier}" unless TIER_HIERARCHY.include?(tier)
 
         tier
       end

@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "Go ahead, toss your hat in the ring.",
-      "image": "res/card/art/illustration/Toss.png"
+      "image": "res/art/illustration/Toss.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": "Advantage when catching."
       },
       "flavour": "If you're going to throw in the towel, at least do it properly.",
-      "image": "res/card/art/illustration/Throw.png"
+      "image": "res/art/illustration/Throw.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": "Advantage when catching."
       },
       "flavour": "I want this thing gone, understand? I want to never see it again.",
-      "image": "res/card/art/illustration/Pitch.png"
+      "image": "res/art/illustration/Pitch.png"
     }
   },
   {
@@ -48,7 +48,7 @@
         "passive": null
       },
       "flavour": "I guess in a way, we're all still chasing it.",
-      "image": "res/card/art/illustration/Launch.png"
+      "image": "res/art/illustration/Launch.png"
     }
   },
   {
@@ -61,7 +61,7 @@
         "passive": null
       },
       "flavour": "A smile costs less than electricity, but gives much light",
-      "image": "res/card/art/illustration/Spark.png"
+      "image": "res/art/illustration/Spark.png"
     }
   },
   {
@@ -74,7 +74,7 @@
         "passive": null
       },
       "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
-      "image": "res/card/art/illustration/Lightning Bolt.png"
+      "image": "res/art/illustration/Lightning Bolt.png"
     }
   },
   {
@@ -87,7 +87,7 @@
         "passive": null
       },
       "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants.",
-      "image": "res/card/art/illustration/Fork Lightning.png"
+      "image": "res/art/illustration/Fork Lightning.png"
     }
   },
   {
@@ -100,7 +100,7 @@
         "passive": null
       },
       "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
-      "image": "res/card/art/illustration/Elektra's Siphon.png"
+      "image": "res/art/illustration/Elektra's Siphon.png"
     }
   },
   {
@@ -113,7 +113,7 @@
         "passive": null
       },
       "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
-      "image": "res/card/art/illustration/Ignite.png"
+      "image": "res/art/illustration/Ignite.png"
     }
   },
   {
@@ -126,7 +126,7 @@
         "passive": null
       },
       "flavour": "Time for a game of hot potato!",
-      "image": "res/card/art/illustration/Fireball.png"
+      "image": "res/art/illustration/Fireball.png"
     }
   },
   {
@@ -139,7 +139,7 @@
         "passive": null
       },
       "flavour": "The best part is that nice campfire smell.",
-      "image": "res/card/art/illustration/Immolate.png"
+      "image": "res/art/illustration/Immolate.png"
     }
   },
   {
@@ -152,7 +152,7 @@
         "passive": null
       },
       "flavour": "The fire in our hearts will never burn out",
-      "image": "res/card/art/illustration/Terrestrial Sun.png"
+      "image": "res/art/illustration/Terrestrial Sun.png"
     }
   },
   {
@@ -165,7 +165,7 @@
         "passive": null
       },
       "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, Concerned Father",
-      "image": "res/card/art/illustration/Jump.png"
+      "image": "res/art/illustration/Jump.png"
     }
   },
   {
@@ -178,7 +178,7 @@
         "passive": null
       },
       "flavour": "\"Good lord, look at him go..\" - Warner Higgins, Concerned Father",
-      "image": "res/card/art/illustration/Leap.png"
+      "image": "res/art/illustration/Leap.png"
     }
   },
   {
@@ -191,7 +191,7 @@
         "passive": null
       },
       "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, Concerned Father",
-      "image": "res/card/art/illustration/Levitate.png"
+      "image": "res/art/illustration/Levitate.png"
     }
   },
   {
@@ -204,7 +204,7 @@
         "passive": null
       },
       "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
-      "image": "res/card/art/illustration/Ascend.png"
+      "image": "res/art/illustration/Ascend.png"
     }
   },
   {
@@ -217,7 +217,7 @@
         "passive": null
       },
       "flavour": "I think I'm going to need a change of clothes.",
-      "image": "res/card/art/illustration/Moisten.png"
+      "image": "res/art/illustration/Moisten.png"
     }
   },
   {
@@ -230,7 +230,7 @@
         "passive": null
       },
       "flavour": "My plan: complete. Their day: ruined.",
-      "image": "res/card/art/illustration/Soak.png"
+      "image": "res/art/illustration/Soak.png"
     }
   },
   {
@@ -243,7 +243,7 @@
         "passive": null
       },
       "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" - Quomo the Quivering",
-      "image": "res/card/art/illustration/Drench.png"
+      "image": "res/art/illustration/Drench.png"
     }
   },
   {
@@ -256,7 +256,7 @@
         "passive": null
       },
       "flavour": "Nature has a myriad of weapons to combat human arrogance.",
-      "image": "res/card/art/illustration/Flood.png"
+      "image": "res/art/illustration/Flood.png"
     }
   },
   {
@@ -269,7 +269,7 @@
         "passive": null
       },
       "flavour": "I can't see him, but I know he's there.",
-      "image": "res/card/art/illustration/Hope.png"
+      "image": "res/art/illustration/Hope.png"
     }
   },
   {
@@ -282,7 +282,7 @@
         "passive": null
       },
       "flavour": "He will save us from our mortal errors.",
-      "image": "res/card/art/illustration/Pray.png"
+      "image": "res/art/illustration/Pray.png"
     }
   },
   {
@@ -295,7 +295,7 @@
         "passive": null
       },
       "flavour": "He lives deep in the hearts of all men.",
-      "image": "res/card/art/illustration/Preach.png"
+      "image": "res/art/illustration/Preach.png"
     }
   },
   {
@@ -308,7 +308,7 @@
         "passive": null
       },
       "flavour": "The light will shine bright upon the chosen.",
-      "image": "res/card/art/illustration/Wish.png"
+      "image": "res/art/illustration/Wish.png"
     }
   },
   {
@@ -321,7 +321,7 @@
         "passive": null
       },
       "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
-      "image": "res/card/art/illustration/Cure.png"
+      "image": "res/art/illustration/Cure.png"
     }
   },
   {
@@ -334,7 +334,7 @@
         "passive": "Run twice as fast while carrying friendly characters."
       },
       "flavour": "The best medicine is running far away from things which hurt you.",
-      "image": "res/card/art/illustration/Field Medicine.png"
+      "image": "res/art/illustration/Field Medicine.png"
     }
   },
   {
@@ -347,7 +347,7 @@
         "passive": "You are 3 feet taller."
       },
       "flavour": "\"I hope you don't mind if I make some improvements while I'm in here\" - Dr. Reichthardt, Orthopedic Surgeon",
-      "image": "res/card/art/illustration/Renew.png"
+      "image": "res/art/illustration/Renew.png"
     }
   },
   {
@@ -360,7 +360,7 @@
         "passive": "The dead fear you."
       },
       "flavour": "If man is to play god, he ought to be a kind one.",
-      "image": "res/card/art/illustration/Reincarnate.png"
+      "image": "res/art/illustration/Reincarnate.png"
     }
   },
   {
@@ -373,7 +373,7 @@
         "passive": null
       },
       "flavour": "I barely felt that! Who taught you how to punch?",
-      "image": "res/card/art/illustration/Brace.png"
+      "image": "res/art/illustration/Brace.png"
     }
   },
   {
@@ -386,7 +386,7 @@
         "passive": "Thrown objects bounce off of you with equal force."
       },
       "flavour": "Let's see how you like it!.",
-      "image": "res/card/art/illustration/Reflect.png"
+      "image": "res/art/illustration/Reflect.png"
     }
   },
   {
@@ -399,7 +399,7 @@
         "passive": null
       },
       "flavour": "I am rubber, and you are glue.",
-      "image": "res/card/art/illustration/Deflect.png"
+      "image": "res/art/illustration/Deflect.png"
     }
   },
   {
@@ -412,7 +412,7 @@
         "passive": null
       },
       "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5-Year-Old Jacob, Yellow Belt",
-      "image": "res/card/art/illustration/Golan's Idol.png"
+      "image": "res/art/illustration/Golan's Idol.png"
     }
   },
   {
@@ -425,7 +425,7 @@
         "passive": null
       },
       "flavour": "Before they even realized what happened, another punch sent them flying.",
-      "image": "res/card/art/illustration/Double Strike.png"
+      "image": "res/art/illustration/Double Strike.png"
     }
   },
   {
@@ -438,7 +438,7 @@
         "passive": null
       },
       "flavour": "Their defense won't last forever. Strike, and strike again.",
-      "image": "res/card/art/illustration/Quad Strike.png"
+      "image": "res/art/illustration/Quad Strike.png"
     }
   },
   {
@@ -451,7 +451,7 @@
         "passive": null
       },
       "flavour": "Every fighter has gaps between attacks which can be exploited. Just make sure to take them after your opponent is dead.",
-      "image": "res/card/art/illustration/Strike Storm.png"
+      "image": "res/art/illustration/Strike Storm.png"
     }
   },
   {
@@ -464,7 +464,7 @@
         "passive": null
       },
       "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs.",
-      "image": "res/card/art/illustration/Endless Blows.png"
+      "image": "res/art/illustration/Endless Blows.png"
     }
   },
   {
@@ -477,7 +477,7 @@
         "passive": null
       },
       "flavour": "He should've worn a windbreaker.",
-      "image": "res/card/art/illustration/Gust of Wind.png"
+      "image": "res/art/illustration/Gust of Wind.png"
     }
   },
   {
@@ -490,7 +490,7 @@
         "passive": "Whenever you throw a character in the air, you can also throw them 8 metres in any direction"
       },
       "flavour": "You look like a birthday candle.",
-      "image": "res/card/art/illustration/Gale.png"
+      "image": "res/art/illustration/Gale.png"
     }
   },
   {
@@ -503,7 +503,7 @@
         "passive": null
       },
       "flavour": "Rise, rise towards the heavens.",
-      "image": "res/card/art/illustration/Wind Storm.png"
+      "image": "res/art/illustration/Wind Storm.png"
     }
   },
   {
@@ -516,7 +516,7 @@
         "passive": null
       },
       "flavour": "It is rare for an area to know such devastation.",
-      "image": "res/card/art/illustration/Hurricane.png"
+      "image": "res/art/illustration/Hurricane.png"
     }
   },
   {
@@ -529,7 +529,7 @@
         "passive": null
       },
       "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
-      "image": "res/card/art/illustration/Barrier.png"
+      "image": "res/art/illustration/Barrier.png"
     }
   },
   {
@@ -542,7 +542,7 @@
         "passive": null
       },
       "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Cardmaster",
-      "image": "res/card/art/illustration/Mirror Image.png"
+      "image": "res/art/illustration/Mirror Image.png"
     }
   }
 ]

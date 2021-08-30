@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "If you were words on a card, you'd be some fine print.",
-      "image": "res/card/art/illustration/Flirt.png"
+      "image": "res/art/illustration/Flirt.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
-      "image": "res/card/art/illustration/Charm.png"
+      "image": "res/art/illustration/Charm.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": null
       },
       "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
-      "image": "res/card/art/illustration/Arouse.png"
+      "image": "res/art/illustration/Arouse.png"
     }
   },
   {
@@ -48,7 +48,7 @@
         "passive": null
       },
       "flavour": "Here I am - Your other two wishes?",
-      "image": "res/card/art/illustration/Seduce.png"
+      "image": "res/art/illustration/Seduce.png"
     }
   },
   {
@@ -61,7 +61,7 @@
         "passive": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
-      "image": "res/card/art/illustration/Commune.png"
+      "image": "res/art/illustration/Commune.png"
     }
   },
   {
@@ -74,7 +74,7 @@
         "passive": null
       },
       "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
-      "image": "res/card/art/illustration/Seance.png"
+      "image": "res/art/illustration/Seance.png"
     }
   },
   {
@@ -87,7 +87,7 @@
         "passive": null
       },
       "flavour": "Vewy Sowwy.",
-      "image": "res/card/art/illustration/Apologize.png"
+      "image": "res/art/illustration/Apologize.png"
     }
   },
   {
@@ -100,7 +100,7 @@
         "passive": null
       },
       "flavour": "He wanted to pursue the thief, but he couldn't stand leaving the candy wrappers on his spotless kitchen floor.",
-      "image": "res/card/art/illustration/Distract.png"
+      "image": "res/art/illustration/Distract.png"
     }
   },
   {
@@ -113,7 +113,7 @@
         "passive": null
       },
       "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
-      "image": "res/card/art/illustration/Lie.png"
+      "image": "res/art/illustration/Lie.png"
     }
   },
   {
@@ -126,7 +126,7 @@
         "passive": null
       },
       "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
-      "image": "res/card/art/illustration/Disguise.png"
+      "image": "res/art/illustration/Disguise.png"
     }
   },
   {
@@ -139,7 +139,7 @@
         "passive": null
       },
       "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
-      "image": "res/card/art/illustration/Revise.png"
+      "image": "res/art/illustration/Revise.png"
     }
   },
   {
@@ -152,7 +152,7 @@
         "passive": null
       },
       "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
-      "image": "res/card/art/illustration/Word Warp.png"
+      "image": "res/art/illustration/Word Warp.png"
     }
   },
   {
@@ -165,7 +165,7 @@
         "passive": null
       },
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
-      "image": "res/card/art/illustration/Magic Trick.png"
+      "image": "res/art/illustration/Magic Trick.png"
     }
   },
   {
@@ -178,7 +178,7 @@
         "passive": "NPCs hate you."
       },
       "flavour": "Nobody knew what he saw in her.",
-      "image": "res/card/art/illustration/Polarize.png"
+      "image": "res/art/illustration/Polarize.png"
     }
   }
 ]

@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "These are great for the glutes.",
-      "image": "res/card/art/illustration/Lunge.png"
+      "image": "res/art/illustration/Lunge.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": "Gain advantage when running through obstacles."
       },
       "flavour": "What are you running from?",
-      "image": "res/card/art/illustration/Charge.png"
+      "image": "res/art/illustration/Charge.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": null
       },
       "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
-      "image": "res/card/art/illustration/Teleport.png"
+      "image": "res/art/illustration/Teleport.png"
     }
   },
   {
@@ -48,7 +48,7 @@
         "passive": null
       },
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
-      "image": "res/card/art/illustration/Leopold's Door.png"
+      "image": "res/art/illustration/Leopold's Door.png"
     }
   },
   {
@@ -61,7 +61,7 @@
         "passive": null
       },
       "flavour": "Checkmate",
-      "image": "res/card/art/illustration/Queen's Gambit.png"
+      "image": "res/art/illustration/Queen's Gambit.png"
     }
   },
   {
@@ -74,7 +74,7 @@
         "passive": null
       },
       "flavour": "C'mere.",
-      "image": "res/card/art/illustration/Grapple.png"
+      "image": "res/art/illustration/Grapple.png"
     }
   },
   {
@@ -87,7 +87,7 @@
         "passive": null
       },
       "flavour": "Travelling is always a pain.",
-      "image": "res/card/art/illustration/Platzfalt Step.png"
+      "image": "res/art/illustration/Platzfalt Step.png"
     }
   }
 ]

@@ -9,7 +9,7 @@
         "passive": null
       },
       "flavour": "See you next fall!",
-      "image": "res/card/art/illustration/I've Had Enough.png"
+      "image": "res/art/illustration/I've Had Enough.png"
     }
   },
   {
@@ -22,7 +22,7 @@
         "passive": null
       },
       "flavour": "You've got nice moves, but you won't be able to keep up for long.",
-      "image": "res/card/art/illustration/Attrition.png"
+      "image": "res/art/illustration/Attrition.png"
     }
   },
   {
@@ -35,7 +35,7 @@
         "passive": null
       },
       "flavour": "Let's make some space- this is about to get rowdy.",
-      "image": "res/card/art/illustration/Take it Outside.png"
+      "image": "res/art/illustration/Take it Outside.png"
     }
   }
 ]

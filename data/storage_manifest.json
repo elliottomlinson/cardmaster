@@ -9,7 +9,7 @@
       "upgrade": "Bar",
       "tier": "blue",
       "flavour": "Darn",
-      "art_path": "res/card/art/illustration/Inner Sun.png",
+      "art_path": "res/art/illustration/Inner Sun.png",
       "tags": [
         "demo",
         "hatred-series"
@@ -27,7 +27,7 @@
       "upgrade": null,
       "tier": "green",
       "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
-      "art_path": "res/card/art/illustration/Inner Sun.png",
+      "art_path": "res/art/illustration/Inner Sun.png",
       "tags": [
         "demo",
         "hatred-series"
@@ -45,9 +45,2555 @@
       "upgrade": null,
       "tier": "gold",
       "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",
-      "art_path": "res/card/art/illustration/Untimely Death.png",
+      "art_path": "res/art/illustration/Untimely Death.png",
       "tags": [
         "story-changing-golds"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Field Medicine": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Field Medicine.png",
+    "spec": {
+      "title": "Field Medicine",
+      "rules": {
+        "passive": "Run twice as fast while carrying friendly characters.",
+        "active": "Heal a visible character 15. They can move twice as fast for the remainder of the session."
+      },
+      "upgrade": "Renew",
+      "tier": "green",
+      "flavour": "The best medicine is running far away from things which hurt you.",
+      "art_path": "res/art/illustration/Field Medicine.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Rodent Whisperer": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rodent Whisperer.png",
+    "spec": {
+      "title": "Rodent Whisperer",
+      "rules": {
+        "passive": "You hold influence over members of Order Rodentia.",
+        "active": "Turn into a rodent for as long as you want."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Sometimes the smallest things take up the most room in your heart",
+      "art_path": "res/art/illustration/Rodent Whisperer.png",
+      "tags": [
+        "druid"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Avian Spirit": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Avian Spirit.png",
+    "spec": {
+      "title": "Avian Spirit",
+      "rules": {
+        "passive": "You can speak to birds.",
+        "active": "Become a small hummingbird for as long as you want."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Birds never fail to see the forest from the trees",
+      "art_path": "res/art/illustration/Avian Spirit.png",
+      "tags": [
+        "druid"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Swarm": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Swarm.png",
+    "spec": {
+      "title": "Swarm",
+      "rules": {
+        "passive": "You are constantly covered in an insect of your choice",
+        "active": "Pick a small animal or insect for your target to be swarmed by."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "The sky went dark, and all sound was drowned out by the hum of their arrival.",
+      "art_path": "res/art/illustration/Swarm.png",
+      "tags": [
+        "druid"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Ouphe's Aura": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ouphe's Aura.png",
+    "spec": {
+      "title": "Ouphe's Aura",
+      "rules": {
+        "passive": "Machines fear you.",
+        "active": "Disable a visible machine until it is repaired."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Yeah I'm into tech, into smashing it up that is",
+      "art_path": "res/art/illustration/Ouphe's Aura.png",
+      "tags": [
+        "druid"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Equestrian": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Equestrian.png",
+    "spec": {
+      "title": "Equestrian",
+      "rules": {
+        "passive": "You can tame anything you can ride.",
+        "active": "Summon a trusty steed."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Man was destined to tame the world.",
+      "art_path": "res/art/illustration/Equestrian.png",
+      "tags": [
+        "druid"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Bow Hex": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bow Hex.png",
+    "spec": {
+      "title": "Bow Hex",
+      "rules": {
+        "passive": "Roll an additional d4 when performing a ranged attack.",
+        "active": "Deal 10 damage to a visible target."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light",
+      "art_path": "res/art/illustration/Bow Hex.png",
+      "tags": [
+        "weapons"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Sword Hex": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Sword Hex.png",
+    "spec": {
+      "title": "Sword Hex",
+      "rules": {
+        "passive": "Roll an additional d6 when you perform a melee attack.",
+        "active": "Deal 10 damage to a visible target."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "It didn't slash or pierce, but rather burned. The fallen glowed as though their souls were leaving their bodies.",
+      "art_path": "res/art/illustration/Sword Hex.png",
+      "tags": [
+        "weapons"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Slingshot": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Slingshot.png",
+    "spec": {
+      "title": "Slingshot",
+      "rules": {
+        "passive": "Gain advantage when throwing objects.",
+        "active": "Launch a baseball sized rock at a visible target."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "You want it? Here.",
+      "art_path": "res/art/illustration/Slingshot.png",
+      "tags": [
+        "weapons"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Zop": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Zop.png",
+    "spec": {
+      "title": "Zop",
+      "rules": {
+        "text": "Stun an NPC for two turns"
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Human beings are basically just big potato batteries.",
+      "art_path": "res/art/illustration/Inner Sun.png",
+      "tags": [
+        "demo"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Paz": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Paz.png",
+    "spec": {
+      "title": "Paz",
+      "rules": {
+        "passive": "Everybody hates you",
+        "active": "Target NPC will love you from now on"
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Nobody knew what he saw in her",
+      "art_path": "res/art/illustration/Bean Blast.png",
+      "tags": [
+        "demo"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Lover Fatale": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Lover Fatale.png",
+    "spec": {
+      "title": "Lover Fatale",
+      "rules": {
+        "passive": "Attacks against characters who love you deal 25 bonus damage.",
+        "active": "A visible NPC develops feelings for you."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "\"I trust her completely\" - Simon the Simple",
+      "art_path": "res/art/illustration/Lover Fatale.png",
+      "tags": [
+        "triggers"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Infamous": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Infamous.png",
+    "spec": {
+      "title": "Infamous",
+      "rules": {
+        "passive": "Deal 3 bonus damage when attacking characters who know your name.",
+        "active": "Tell a story about yourself. Any number of visible NPCs will believe this story is true."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "His reputation preceded him.",
+      "art_path": "res/art/illustration/Infamous.png",
+      "tags": [
+        "triggers"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Flirt": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Flirt.png",
+    "spec": {
+      "title": "Flirt",
+      "rules": {
+        "text": "Increases your rapport with a visible NPC"
+      },
+      "upgrade": "Charm",
+      "tier": "blue",
+      "flavour": "If you were words on a card, you'd be some fine print.",
+      "art_path": "res/art/illustration/Flirt.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Charm": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Charm.png",
+    "spec": {
+      "title": "Charm",
+      "rules": {
+        "text": "Causes a visible NPC to like you."
+      },
+      "upgrade": "Arouse",
+      "tier": "green",
+      "flavour": "Do you like raisins? How do you feel about a date?",
+      "art_path": "res/art/illustration/Charm.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Arouse": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Arouse.png",
+    "spec": {
+      "title": "Arouse",
+      "rules": {
+        "text": "Causes a visible NPC to become attracted to you."
+      },
+      "upgrade": "Seduce",
+      "tier": "red",
+      "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
+      "art_path": "res/art/illustration/Arouse.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Seduce": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Seduce.png",
+    "spec": {
+      "title": "Seduce",
+      "rules": {
+        "text": "Force any NPC you can name to act on their desire for you."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "Here I am - Your other two wishes?",
+      "art_path": "res/art/illustration/Seduce.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Commune": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Commune.png",
+    "spec": {
+      "title": "Commune",
+      "rules": {
+        "text": "Speak with any living NPC, then draw another blue."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "How'd you get this number? I don't even own a phone!",
+      "art_path": "res/art/illustration/Commune.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Seance": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Seance.png",
+    "spec": {
+      "title": "Seance",
+      "rules": {
+        "text": "Speak with any dead NPC, then draw another blue."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
+      "art_path": "res/art/illustration/Seance.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Apologize": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Apologize.png",
+    "spec": {
+      "title": "Apologize",
+      "rules": {
+        "text": "Target visible NPC can no longer feel negative emotions towards target visible character."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Vewy Sowwy.",
+      "art_path": "res/art/illustration/Apologize.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Distract": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Distract.png",
+    "spec": {
+      "title": "Distract",
+      "rules": {
+        "text": "Force an NPC to act on their compulsion."
+      },
+      "upgrade": "Lie",
+      "tier": "blue",
+      "flavour": "He wanted to pursue the thief, but he couldn't stand leaving the candy wrappers on his spotless kitchen floor.",
+      "art_path": "res/art/illustration/Distract.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Lie": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Lie.png",
+    "spec": {
+      "title": "Lie",
+      "rules": {
+        "text": "Target NPC will believe your next statement."
+      },
+      "upgrade": "Disguise",
+      "tier": "green",
+      "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
+      "art_path": "res/art/illustration/Lie.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Disguise": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Disguise.png",
+    "spec": {
+      "title": "Disguise",
+      "rules": {
+        "text": "Change your appearance to match that of another exactly for as long as you'd like."
+      },
+      "upgrade": "Revise",
+      "tier": "red",
+      "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
+      "art_path": "res/art/illustration/Disguise.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Revise": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Revise.png",
+    "spec": {
+      "title": "Revise",
+      "rules": {
+        "text": "Rewrite the contents of an NPC's memory."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
+      "art_path": "res/art/illustration/Revise.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Word Warp": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Word Warp.png",
+    "spec": {
+      "title": "Word Warp",
+      "rules": {
+        "text": "Swap two words in an NPC's vocabulary. They will not be aware of the effect, which lasts for a day."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
+      "art_path": "res/art/illustration/Word Warp.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Magic Trick": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Magic Trick.png",
+    "spec": {
+      "title": "Magic Trick",
+      "rules": {
+        "text": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
+      "art_path": "res/art/illustration/Magic Trick.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Polarize": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Polarize.png",
+    "spec": {
+      "title": "Polarize",
+      "rules": {
+        "passive": "NPCs hate you.",
+        "active": "Target visible NPC will love you from now on."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Nobody knew what he saw in her.",
+      "art_path": "res/art/illustration/Polarize.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "I've Had Enough": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/I've Had Enough.png",
+    "spec": {
+      "title": "I've Had Enough",
+      "rules": {
+        "text": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot."
+      },
+      "upgrade": "none",
+      "tier": "gold",
+      "flavour": "See you next fall!",
+      "art_path": "res/art/illustration/I've Had Enough.png",
+      "tags": [
+        "boss",
+        "boss-generic"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Attrition": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Attrition.png",
+    "spec": {
+      "title": "Attrition",
+      "rules": {
+        "text": "At the start of your turn during combat, return all blues you've cast this session to your hand."
+      },
+      "upgrade": "none",
+      "tier": "green",
+      "flavour": "You've got nice moves, but you won't be able to keep up for long.",
+      "art_path": "res/art/illustration/Attrition.png",
+      "tags": [
+        "boss",
+        "boss-generic"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Take it Outside": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Take it Outside.png",
+    "spec": {
+      "title": "Take it Outside",
+      "rules": {
+        "text": "Move any number of allied NPCs out of combat."
+      },
+      "upgrade": "none",
+      "tier": "gold",
+      "flavour": "Let's make some space- this is about to get rowdy.",
+      "art_path": "res/art/illustration/Take it Outside.png",
+      "tags": [
+        "boss",
+        "boss-generic"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Lunge": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Lunge.png",
+    "spec": {
+      "title": "Lunge",
+      "rules": {
+        "text": "Move up to 5 metres in any direction."
+      },
+      "upgrade": "Charge",
+      "tier": "blue",
+      "flavour": "These are great for the glutes.",
+      "art_path": "res/art/illustration/Lunge.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Charge": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Charge.png",
+    "spec": {
+      "title": "Charge",
+      "rules": {
+        "passive": "Gain advantage when running through obstacles.",
+        "active": "Move up to 15 metres in any direction."
+      },
+      "upgrade": "Teleport",
+      "tier": "green",
+      "flavour": "What are you running from?",
+      "art_path": "res/art/illustration/Charge.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Teleport": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Teleport.png",
+    "spec": {
+      "title": "Teleport",
+      "rules": {
+        "text": "Teleport to any visible location."
+      },
+      "upgrade": "Leopold's Door",
+      "tier": "red",
+      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
+      "art_path": "res/art/illustration/Teleport.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Leopold's Door": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Leopold's Door.png",
+    "spec": {
+      "title": "Leopold's Door",
+      "rules": {
+        "text": "Teleport the entire party anywhere."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "Endless folds in spacetime reveal themselves to the worthy",
+      "art_path": "res/art/illustration/Leopold's Door.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Queen's Gambit": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Queen's Gambit.png",
+    "spec": {
+      "title": "Queen's Gambit",
+      "rules": {
+        "text": "Move as far as you want in an unobstructed horizontal line."
+      },
+      "upgrade": null,
+      "tier": "red",
+      "flavour": "Checkmate",
+      "art_path": "res/art/illustration/Queen's Gambit.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Grapple": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Grapple.png",
+    "spec": {
+      "title": "Grapple",
+      "rules": {
+        "text": "Pick a visible character to be flung towards. Both take 6 damage on impact."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "C'mere.",
+      "art_path": "res/art/illustration/Grapple.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Platzfalt Step": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Platzfalt Step.png",
+    "spec": {
+      "title": "Platzfalt Step",
+      "rules": {
+        "text": "Teleport to any visible space. Take damage equal to the number of squares moved."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Travelling is always a pain.",
+      "art_path": "res/art/illustration/Platzfalt Step.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Spice Rack": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spice Rack.png",
+    "spec": {
+      "title": "Spice Rack",
+      "rules": {
+        "text": "Swap the flavours of two objects within your reach."
+      },
+      "upgrade": "Ambrosia",
+      "tier": "blue",
+      "flavour": "Mmm, Crayons",
+      "art_path": "res/art/illustration/Spice Rack.png",
+      "tags": [
+        "food"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Ambrosia": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ambrosia.png",
+    "spec": {
+      "title": "Ambrosia",
+      "rules": {
+        "text": "Summon a brick of Ambrosia. Any NPC who has tasted or smelt it before will find it irresistible."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
+      "art_path": "res/art/illustration/Ambrosia.png",
+      "tags": [
+        "food"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Positivity": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Positivity.png",
+    "spec": {
+      "title": "Positivity",
+      "rules": {
+        "text": "A visible NPC is forced to think positive thoughts."
+      },
+      "upgrade": "Talk it Out",
+      "tier": "blue",
+      "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
+      "art_path": "res/art/illustration/Positivity.png",
+      "tags": [
+        "anger"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Talk it Out": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Talk it Out.png",
+    "spec": {
+      "title": "Talk it Out",
+      "rules": {
+        "passive": "Whenever you make an attack, you can choose whether or not it will deal damage.",
+        "active": "A visible character is forced to stop what they're doing and discuss their feelings with you."
+      },
+      "upgrade": "Timeout",
+      "tier": "green",
+      "flavour": "\"I guess, in a way, I've just been trying to impress my old man this whole time\" - Brutus the Bloody Impaler",
+      "art_path": "res/art/illustration/Talk it Out.png",
+      "tags": [
+        "anger"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Timeout": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Timeout.png",
+    "spec": {
+      "title": "Timeout",
+      "rules": {
+        "text": "For one minute, NPCs will not become hostile unless they take damage."
+      },
+      "upgrade": "Change of Heart",
+      "tier": "red",
+      "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
+      "art_path": "res/art/illustration/Timeout.png",
+      "tags": [
+        "anger"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Change of Heart": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Change of Heart.png",
+    "spec": {
+      "title": "Change of Heart",
+      "rules": {
+        "text": "Name an NPC. They will dedicate their lives to promoting peace."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "All life is precious, even the lives of your enemies",
+      "art_path": "res/art/illustration/Change of Heart.png",
+      "tags": [
+        "anger"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Rue the Day": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rue the Day.png",
+    "spec": {
+      "title": "Rue the Day",
+      "rules": {
+        "text": "Name a character who has wronged you. They feel remorse for what they have done."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
+      "art_path": "res/art/illustration/Rue the Day.png",
+      "tags": [
+        "anger"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Shadow Strike": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Shadow Strike.png",
+    "spec": {
+      "title": "Shadow Strike",
+      "rules": {
+        "passive": "Deal double damage while out of combat.",
+        "active": "Disappear for as long as you remain perfectly still."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Most battles are over before they've even begun",
+      "art_path": "res/art/illustration/Shadow Strike.png",
+      "tags": [
+        "anger"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Survival Instincts": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Survival Instincts.png",
+    "spec": {
+      "title": "Survival Instincts",
+      "rules": {
+        "passive": "Triple advantage on all d20 rolls when below 5 health.",
+        "active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "The key to survival is flexibility and urgency",
+      "art_path": "res/art/illustration/Survival Instincts.png",
+      "tags": [
+        "anger"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Boost": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Boost.png",
+    "spec": {
+      "title": "Boost",
+      "rules": {
+        "text": "Increase the result of a roll by 1."
+      },
+      "upgrade": null,
+      "tier": "grey",
+      "flavour": "The collective will of the people made manifest.",
+      "art_path": "res/art/illustration/Boost.png",
+      "tags": [
+        "greys"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/grey.png"
+  },
+  "Shift": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Shift.png",
+    "spec": {
+      "title": "Shift",
+      "rules": {
+        "text": "Move a metre."
+      },
+      "upgrade": null,
+      "tier": "grey",
+      "flavour": "When speed gets in the blood, one must move to live.",
+      "art_path": "res/art/illustration/Shift.png",
+      "tags": [
+        "greys"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/grey.png"
+  },
+  "Fluster": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Fluster.png",
+    "spec": {
+      "title": "Fluster",
+      "rules": {
+        "text": "Decrease the result of a roll by 1."
+      },
+      "upgrade": null,
+      "tier": "grey",
+      "flavour": "The collective will of the people made manifest.",
+      "art_path": "res/art/illustration/Fluster.png",
+      "tags": [
+        "greys"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/grey.png"
+  },
+  "Force": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Force.png",
+    "spec": {
+      "title": "Force",
+      "rules": {
+        "text": "Push or pull a visible object slightly."
+      },
+      "upgrade": null,
+      "tier": "grey",
+      "flavour": "Human force extends far past the limits of an earthly body.",
+      "art_path": "res/art/illustration/Force.png",
+      "tags": [
+        "greys"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/grey.png"
+  },
+  "Bean Blast": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bean Blast.png",
+    "spec": {
+      "title": "Bean Blast",
+      "rules": {
+        "text": "Blind everyone within 3 metres with bean juice."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Industrial Grade",
+      "art_path": "res/art/illustration/Bean Blast.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Anvil Drop": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Anvil Drop.png",
+    "spec": {
+      "title": "Anvil Drop",
+      "rules": {
+        "text": "Summon a cast-steel anvil into existence above target character's head."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "meep meep",
+      "art_path": "res/art/illustration/Anvil Drop.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Sheriff's Roundup": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Sheriff's Roundup.png",
+    "spec": {
+      "title": "Sheriff's Roundup",
+      "rules": {
+        "text": "Choose a visible article of clothing. A snake appears inside of it."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "\"Always drink upstream from the herd\" - The Sheriff",
+      "art_path": "res/art/illustration/Sheriff's Roundup.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Ancient Throwing Bola": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ancient Throwing Bola.png",
+    "spec": {
+      "title": "Ancient Throwing Bola",
+      "rules": {
+        "text": "Throw a pair of bola around a visible target"
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "\"Bolas are excellent for capturing large mammals, like my portly friend Steve\"",
+      "art_path": "res/art/illustration/Ancient Throwing Bola.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Rolling Cart": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rolling Cart.png",
+    "spec": {
+      "title": "Rolling Cart",
+      "rules": {
+        "text": "Put a large object or willing NPC in your hand."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
+      "art_path": "res/art/illustration/Rolling Cart.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Empouched Earth": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Empouched Earth.png",
+    "spec": {
+      "title": "Empouched Earth",
+      "rules": {
+        "text": "Cast a handful of sand and pocket lint into the air before you."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Good for blinding a close range target.",
+      "art_path": "res/art/illustration/Empouched Earth.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Card Printer": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Card Printer.png",
+    "spec": {
+      "title": "Card Printer",
+      "rules": {
+        "text": "Choose a Blue or green in your hand. All cards in your hand become copies of that card."
+      },
+      "upgrade": null,
+      "tier": "red",
+      "flavour": "Fax is short for facsimile, meaning \"make similar\".",
+      "art_path": "res/art/illustration/Card Printer.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Somnomalum": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Somnomalum.png",
+    "spec": {
+      "title": "Somnomalum",
+      "rules": {
+        "text": "Target visible character will take 25 damage the next time they rest."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Sweet dreams.",
+      "art_path": "res/art/illustration/Somnomalum.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Disappear": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Disappear.png",
+    "spec": {
+      "title": "Disappear",
+      "rules": {
+        "text": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
+      "art_path": "res/art/illustration/Disappear.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Exhaust": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Exhaust.png",
+    "spec": {
+      "title": "Exhaust",
+      "rules": {
+        "text": "Target NPC becomes tired."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Gregor the Delegator",
+      "art_path": "res/art/illustration/Exhaust.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Prison": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Prison.png",
+    "spec": {
+      "title": "Prison",
+      "rules": {
+        "text": "Choose X up to 5. A boundary, impenetrable from within, is placed X metres away from you in all directions as long as you'd like"
+      },
+      "upgrade": null,
+      "tier": "red",
+      "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
+      "art_path": "res/art/illustration/Prison.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Porticostatic Hex": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Porticostatic Hex.png",
+    "spec": {
+      "title": "Porticostatic Hex",
+      "rules": {
+        "text": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
+      "art_path": "res/art/illustration/Porticostatic Hex.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Object Eject": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Object Eject.png",
+    "spec": {
+      "title": "Object Eject",
+      "rules": {
+        "text": "Stand atop an object. You and the object are flung in the direction of your choice until obstructed."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
+      "art_path": "res/art/illustration/Object Eject.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "The Ultimatum": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/The Ultimatum.png",
+    "spec": {
+      "title": "The Ultimatum",
+      "rules": {
+        "text": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "\"I will never abide by absolutes\" - Leopold the Oppugnant",
+      "art_path": "res/art/illustration/The Ultimatum.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Where-Ware Charm": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Where-Ware Charm.png",
+    "spec": {
+      "title": "Where-Ware Charm",
+      "rules": {
+        "text": "Learn the current location of an item you've touched in the past."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "At last, the location of the missing socks.",
+      "art_path": "res/art/illustration/Where-Ware Charm.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Groundburst": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Groundburst.png",
+    "spec": {
+      "title": "Groundburst",
+      "rules": {
+        "text": "The ground shakes beneath you. All characters within 4 metres are knocked airborne."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Not suitable for tectonic fault zones.",
+      "art_path": "res/art/illustration/Groundburst.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Bashbolster": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bashbolster.png",
+    "spec": {
+      "title": "Bashbolster",
+      "rules": {
+        "text": "Attacks deal double damage until you play your next card."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "I'm not unarmed, I've got two of them.",
+      "art_path": "res/art/illustration/Bashbolster.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Musty Musket": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Musty Musket.png",
+    "spec": {
+      "title": "Musty Musket",
+      "rules": {
+        "text": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
+      "art_path": "res/art/illustration/Musty Musket.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Smoke Bomb": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Smoke Bomb.png",
+    "spec": {
+      "title": "Smoke Bomb",
+      "rules": {
+        "text": "Choose a 4 square metre area to fill temporarily with an opaque smoke"
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Mildly anoxic.",
+      "art_path": "res/art/illustration/Smoke Bomb.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Banana Peel": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Banana Peel.png",
+    "spec": {
+      "title": "Banana Peel",
+      "rules": {
+        "text": "Pick a point on the floor up to 2 metres away. The next NPC to walk there will fall over."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Nothing like a little prop humour.",
+      "art_path": "res/art/illustration/Banana Peel.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Poltergeist": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Poltergeist.png",
+    "spec": {
+      "title": "Poltergeist",
+      "rules": {
+        "text": "Possess a non-magic object within 5 tiles of your body until you lose concentration."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
+      "art_path": "res/art/illustration/Poltergeist.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Eidolimb": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Eidolimb.png",
+    "spec": {
+      "title": "Eidolimb",
+      "rules": {
+        "text": "Evoke a disembodied hand to perform a simple action within 4 metres of you."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Give me five!",
+      "art_path": "res/art/illustration/Eidolimb.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Espial Thread": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Espial Thread.png",
+    "spec": {
+      "title": "Espial Thread",
+      "rules": {
+        "text": "Choose two visible points. You will be alerted the next time an NPC walks between them."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Mob hideouts are often mysteriously empty when the Cops arrive to perform arrests",
+      "art_path": "res/art/illustration/Tripwire Charm.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Spectreblast": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spectreblast.png",
+    "spec": {
+      "title": "Spectreblast",
+      "rules": {
+        "text": "Fire a cannonball at a target of your choice."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
+      "art_path": "res/art/illustration/Spectreblast.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "PBJT": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/PBJT.png",
+    "spec": {
+      "title": "PBJT",
+      "rules": {
+        "text": "Apply a sandwich to the face of a visible character."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "After taking a sandwich to the face from one of his men, Colonel Kudzo was forced to retire, effective immediately",
+      "art_path": "res/art/illustration/PBJT.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Locomotor Hex": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Locomotor Hex.png",
+    "spec": {
+      "title": "Locomotor Hex",
+      "rules": {
+        "text": "Choose an NPC. They are stuck in place for ten seconds."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Have my legs always been this heavy?",
+      "art_path": "res/art/illustration/Locomotor Hex.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Rime": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rime.png",
+    "spec": {
+      "title": "Rime",
+      "rules": {
+        "text": "Cover an object in a thin layer of ice."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "Whoa, chill.",
+      "art_path": "res/art/illustration/Rime.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Akindle": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Akindle.png",
+    "spec": {
+      "title": "Akindle",
+      "rules": {
+        "text": "Burst into flames along with anyone you're touching. 3d6 damage to each of you."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "I'm taking you straight to hell.",
+      "art_path": "res/art/illustration/Akindle.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Glacial Hand": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Glacial Hand.png",
+    "spec": {
+      "title": "Glacial Hand",
+      "rules": {
+        "text": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions"
+      },
+      "upgrade": null,
+      "tier": "red",
+      "flavour": "Let's savour this moment forever.",
+      "art_path": "res/art/illustration/Glacial Hand.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Pigeon Partner": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Pigeon Partner.png",
+    "spec": {
+      "title": "Pigeon Partner",
+      "rules": {
+        "text": "Summon a pigeon to perform a simple task"
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "He will try his best not to be distracted by breadcrumbs.",
+      "art_path": "res/art/illustration/Pigeon Partner.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Gloven Mitt": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Gloven Mitt.png",
+    "spec": {
+      "title": "Gloven Mitt",
+      "rules": {
+        "text": "Deal d6 bonus melee damage, igniting the target."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
+      "art_path": "res/art/illustration/Gloven Mitt.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Blank Deed": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Blank Deed.png",
+    "spec": {
+      "title": "Blank Deed",
+      "rules": {
+        "text": "Become the legal owner of a building of your choice. Existing tenants will be evicted immediately."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "The gang battle of 2485 concluded after the mafioso purchased their fortress and had the police escort them to jail.",
+      "art_path": "res/art/illustration/Blank Deed.png",
+      "tags": [
+        "story-changing-golds"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Heroic Inspiration": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Heroic Inspiration.png",
+    "spec": {
+      "title": "Heroic Inspiration",
+      "rules": {
+        "text": "Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "There was a light within us that few can see. One day it will shine through.",
+      "art_path": "res/art/illustration/Heroic Inspiration.png",
+      "tags": [
+        "story-changing-golds"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Wing It": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Wing It.png",
+    "spec": {
+      "title": "Wing It",
+      "rules": {
+        "text": "Draw 2 blues. Cast both."
+      },
+      "upgrade": "Brainstorm",
+      "tier": "blue",
+      "flavour": "Live by the luck of the draw.",
+      "art_path": "res/art/illustration/Wing It.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Brainstorm": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Brainstorm.png",
+    "spec": {
+      "title": "Brainstorm",
+      "rules": {
+        "text": "Draw 2 greens. Cast both."
+      },
+      "upgrade": "Spark of Inspiration",
+      "tier": "green",
+      "flavour": "You never know what he'll pull out of thin air.",
+      "art_path": "res/art/illustration/Brainstorm.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Spark of Inspiration": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spark of Inspiration.png",
+    "spec": {
+      "title": "Spark of Inspiration",
+      "rules": {
+        "text": "Draw 2 reds. Cast both."
+      },
+      "upgrade": "Randomize",
+      "tier": "red",
+      "flavour": "I've got an idea...",
+      "art_path": "res/art/illustration/Spark of Inspiration.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Randomize": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Randomize.png",
+    "spec": {
+      "title": "Randomize",
+      "rules": {
+        "text": "Draw 2 golds. Cast both."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "I don't know what I want, but I do want a lot of it.",
+      "art_path": "res/art/illustration/Randomize.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Grobble": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Grobble.png",
+    "spec": {
+      "title": "Grobble",
+      "rules": {
+        "text": "Draw 6 greys."
+      },
+      "upgrade": "Slipshod Sorcery",
+      "tier": "green",
+      "flavour": "Oh man, I've really Grobbled this one.",
+      "art_path": "res/art/illustration/Grobble.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Slipshod Sorcery": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Slipshod Sorcery.png",
+    "spec": {
+      "title": "Slipshod Sorcery",
+      "rules": {
+        "text": "Draw 10 blues, face-up. Cast up to 8 and discard the rest."
+      },
+      "upgrade": "Spectrum Dance",
+      "tier": "red",
+      "flavour": "What we lack in quality we've made up with quantity.",
+      "art_path": "res/art/illustration/Slipshod Sorcery.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Spectrum Dance": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spectrum Dance.png",
+    "spec": {
+      "title": "Spectrum Dance",
+      "rules": {
+        "text": "Draw 5 cards of each rarity, face-up. Cast one of each rarity and discard the rest."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "The greatest plans begin with simple tactics.",
+      "art_path": "res/art/illustration/Spectrum Dance.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Imitate": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Imitate.png",
+    "spec": {
+      "title": "Imitate",
+      "rules": {
+        "text": "Copy the effect of the last blue cast by any character."
+      },
+      "upgrade": "Copy",
+      "tier": "blue",
+      "flavour": "This is how stupid you look, watch this.",
+      "art_path": "res/art/illustration/Imitate.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Copy": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Copy.png",
+    "spec": {
+      "title": "Copy",
+      "rules": {
+        "text": "Copy the effect of the last green cast by any character."
+      },
+      "upgrade": "Master Mimic",
+      "tier": "green",
+      "flavour": "Stop copying me. Stop copying me.",
+      "art_path": "res/art/illustration/Copy.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Master Mimic": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Master Mimic.png",
+    "spec": {
+      "title": "Master Mimic",
+      "rules": {
+        "text": "Copy the effect of the last red cast by any character."
+      },
+      "upgrade": null,
+      "tier": "red",
+      "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, Revered Pirate and Thief",
+      "art_path": "res/art/illustration/Master Mimic.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Reload": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Reload.png",
+    "spec": {
+      "title": "Reload",
+      "rules": {
+        "text": "Return a blue you've cast to your hand."
+      },
+      "upgrade": "Tactical Reload",
+      "tier": "blue",
+      "flavour": "Don't retreat, reload.",
+      "art_path": "res/art/illustration/Reload.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Tactical Reload": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Tactical Reload.png",
+    "spec": {
+      "title": "Tactical Reload",
+      "rules": {
+        "text": "Return a green you've cast to your hand."
+      },
+      "upgrade": "Cowboy Reload",
+      "tier": "green",
+      "flavour": "Wanna see me do it again?",
+      "art_path": "res/art/illustration/Tactical Reload.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Cowboy Reload": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Cowboy Reload.png",
+    "spec": {
+      "title": "Cowboy Reload",
+      "rules": {
+        "text": "Return a red you've cast to your hand."
+      },
+      "upgrade": "Expert Reload",
+      "tier": "red",
+      "flavour": "Cowboys only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
+      "art_path": "res/art/illustration/Cowboy Reload.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Adlib": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Adlib.png",
+    "spec": {
+      "title": "Adlib",
+      "rules": {
+        "text": "Draw 3 greys."
+      },
+      "upgrade": "Improvise",
+      "tier": "blue",
+      "flavour": "Now, what do we have here...",
+      "art_path": "res/art/illustration/Adlib.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Improvise": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Improvise.png",
+    "spec": {
+      "title": "Improvise",
+      "rules": {
+        "text": "Draw 5 blues, face-up. Cast up to 3 and discard the rest."
+      },
+      "upgrade": "Extemporize",
+      "tier": "green",
+      "flavour": "You criticize, I improvise",
+      "art_path": "res/art/illustration/Improvise.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Extemporize": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Extemporize.png",
+    "spec": {
+      "title": "Extemporize",
+      "rules": {
+        "text": "Draw 5 greens, face-up. Cast up to 3 and discard the rest."
+      },
+      "upgrade": "Helter-Skelter",
+      "tier": "red",
+      "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
+      "art_path": "res/art/illustration/Extemporize.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Helter-Skelter": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Helter-Skelter.png",
+    "spec": {
+      "title": "Helter-Skelter",
+      "rules": {
+        "text": "Draw 5 reds, face-up. Cast up to 3 and discard the rest."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
+      "art_path": "res/art/illustration/Helter-Skelter.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Four-Leaf Clover": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Four-Leaf Clover.png",
+    "spec": {
+      "title": "Four-Leaf Clover",
+      "rules": {
+        "text": "Draw 3 greens, face-up. Cast up to 3 and discard the rest."
+      },
+      "upgrade": "Rabbit's Foot",
+      "tier": "blue",
+      "flavour": "No more of this bush-league nonsense. We need some real power.",
+      "art_path": "res/art/illustration/Four-Leaf Clover.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Rabbit's Foot": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rabbit's Foot.png",
+    "spec": {
+      "title": "Rabbit's Foot",
+      "rules": {
+        "text": "Draw 3 reds, face-up. Cast up to 3 and discard the rest."
+      },
+      "upgrade": "Jackpot",
+      "tier": "green",
+      "flavour": "I might be able to pull it off - but just this once.",
+      "art_path": "res/art/illustration/Rabbit's Foot.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Jackpot": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Jackpot.png",
+    "spec": {
+      "title": "Jackpot",
+      "rules": {
+        "text": "Draw 3 greens, face-up. Cast 1 and discard the rest."
+      },
+      "upgrade": null,
+      "tier": "red",
+      "flavour": "Do you believe in miracles?",
+      "art_path": "res/art/illustration/Jackpot.png",
+      "tags": [
+        "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Quick Shot": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Quick Shot.png",
+    "spec": {
+      "title": "Quick Shot",
+      "rules": {
+        "text": "You can use an additional ranged attack."
+      },
+      "upgrade": "Empty the Clip",
+      "tier": "blue",
+      "flavour": "Rebel assault rifles are equipped with manual and fully automatic firing modes.",
+      "art_path": "res/art/illustration/Quick Shot.png",
+      "tags": [
+        "npc",
+        "npc-generic"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Empty the Clip": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Empty the Clip.png",
+    "spec": {
+      "title": "Empty the Clip",
+      "rules": {
+        "text": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand."
+      },
+      "upgrade": "Suppression Maneuver",
+      "tier": "green",
+      "flavour": "Rebel soldiers employ distraction devices to buy time to reload.",
+      "art_path": "res/art/illustration/Empty the Clip.png",
+      "tags": [
+        "npc",
+        "npc-generic"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Suppression Maneuver": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Suppression Maneuver.png",
+    "spec": {
+      "title": "Suppression Maneuver",
+      "rules": {
+        "text": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand."
+      },
+      "upgrade": "Bullet Rain",
+      "tier": "red",
+      "flavour": "Rebel armies spare no expense when supplying their troops with ammunition.",
+      "art_path": "res/art/illustration/Suppression Maneuver.png",
+      "tags": [
+        "npc",
+        "npc-generic"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Bullet Rain": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bullet Rain.png",
+    "spec": {
+      "title": "Bullet Rain",
+      "rules": {
+        "text": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",
+      "art_path": "res/art/illustration/Bullet Rain.png",
+      "tags": [
+        "npc",
+        "npc-generic"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Toss": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Toss.png",
+    "spec": {
+      "title": "Toss",
+      "rules": {
+        "text": "Throw an object accurately at a target up to 5 metres away."
+      },
+      "upgrade": "Throw",
+      "tier": "blue",
+      "flavour": "Go ahead, toss your hat in the ring.",
+      "art_path": "res/art/illustration/Toss.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Throw": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Throw.png",
+    "spec": {
+      "title": "Throw",
+      "rules": {
+        "passive": "Advantage when catching.",
+        "active": "Throw an object accurately at a target up to 12 metres away."
+      },
+      "upgrade": "Pitch",
+      "tier": "green",
+      "flavour": "If you're going to throw in the towel, at least do it properly.",
+      "art_path": "res/art/illustration/Throw.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Pitch": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Pitch.png",
+    "spec": {
+      "title": "Pitch",
+      "rules": {
+        "passive": "Advantage when catching.",
+        "active": "Throw an object accurately as far as you want."
+      },
+      "upgrade": "Launch",
+      "tier": "red",
+      "flavour": "I want this thing gone, understand? I want to never see it again.",
+      "art_path": "res/art/illustration/Pitch.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Launch": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Launch.png",
+    "spec": {
+      "title": "Launch",
+      "rules": {
+        "text": "Throw an object as far as you want. It cannot be stopped."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "I guess in a way, we're all still chasing it.",
+      "art_path": "res/art/illustration/Launch.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Spark": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spark.png",
+    "spec": {
+      "title": "Spark",
+      "rules": {
+        "text": "Deal 3 damage to a visible character with a painful bolt of electricity"
+      },
+      "upgrade": "Lightning Bolt",
+      "tier": "blue",
+      "flavour": "A smile costs less than electricity, but gives much light",
+      "art_path": "res/art/illustration/Spark.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Lightning Bolt": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Lightning Bolt.png",
+    "spec": {
+      "title": "Lightning Bolt",
+      "rules": {
+        "text": "Deal 4 damage and stun up to 2 visible characters."
+      },
+      "upgrade": "Fork Lightning",
+      "tier": "green",
+      "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
+      "art_path": "res/art/illustration/Lightning Bolt.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Fork Lightning": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Fork Lightning.png",
+    "spec": {
+      "title": "Fork Lightning",
+      "rules": {
+        "text": "Deal 6 damage and stun to up to 6 visible characters."
+      },
+      "upgrade": "Electric Vortex",
+      "tier": "red",
+      "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants.",
+      "art_path": "res/art/illustration/Fork Lightning.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Elektra's Siphon": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Elektra's Siphon.png",
+    "spec": {
+      "title": "Elektra's Siphon",
+      "rules": {
+        "text": "Cause a complete blackout in a 100 kilometre radius. Draw 3 copies of Fork Lightning"
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
+      "art_path": "res/art/illustration/Elektra's Siphon.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Ignite": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ignite.png",
+    "spec": {
+      "title": "Ignite",
+      "rules": {
+        "text": "Ignite a small object within 3 metres."
+      },
+      "upgrade": "Fireball",
+      "tier": "blue",
+      "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
+      "art_path": "res/art/illustration/Ignite.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Fireball": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Fireball.png",
+    "spec": {
+      "title": "Fireball",
+      "rules": {
+        "text": "Hurl a flaming ball of hot embers at a visible object."
+      },
+      "upgrade": "Immolate",
+      "tier": "green",
+      "flavour": "Time for a game of hot potato!",
+      "art_path": "res/art/illustration/Fireball.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Immolate": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Immolate.png",
+    "spec": {
+      "title": "Immolate",
+      "rules": {
+        "text": "Deal 15 damage and set fire to all flammable objects within 6 metres."
+      },
+      "upgrade": "Terrestrial Sun",
+      "tier": "red",
+      "flavour": "The best part is that nice campfire smell.",
+      "art_path": "res/art/illustration/Immolate.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Terrestrial Sun": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Terrestrial Sun.png",
+    "spec": {
+      "title": "Terrestrial Sun",
+      "rules": {
+        "text": "Summon a brick of material which burns violently forever when set on fire."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "The fire in our hearts will never burn out",
+      "art_path": "res/art/illustration/Terrestrial Sun.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Jump": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Jump.png",
+    "spec": {
+      "title": "Jump",
+      "rules": {
+        "text": "Jump up 3 metres."
+      },
+      "upgrade": "Leap",
+      "tier": "blue",
+      "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, Concerned Father",
+      "art_path": "res/art/illustration/Jump.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Leap": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Leap.png",
+    "spec": {
+      "title": "Leap",
+      "rules": {
+        "text": "Jump 25 metres into the air."
+      },
+      "upgrade": "Levitate",
+      "tier": "green",
+      "flavour": "\"Good lord, look at him go..\" - Warner Higgins, Concerned Father",
+      "art_path": "res/art/illustration/Leap.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Levitate": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Levitate.png",
+    "spec": {
+      "title": "Levitate",
+      "rules": {
+        "text": "Hover up to 2 metres off the ground until you lose concentration."
+      },
+      "upgrade": "Ascend",
+      "tier": "red",
+      "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, Concerned Father",
+      "art_path": "res/art/illustration/Levitate.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Ascend": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ascend.png",
+    "spec": {
+      "title": "Ascend",
+      "rules": {
+        "text": "Jump as high as you want."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
+      "art_path": "res/art/illustration/Ascend.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Moisten": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Moisten.png",
+    "spec": {
+      "title": "Moisten",
+      "rules": {
+        "text": "Pick a visible object. It becomes moist."
+      },
+      "upgrade": "Soak",
+      "tier": "blue",
+      "flavour": "I think I'm going to need a change of clothes.",
+      "art_path": "res/art/illustration/Moisten.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Soak": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Soak.png",
+    "spec": {
+      "title": "Soak",
+      "rules": {
+        "text": "Cause everything within 2 metres of a visible object to become saturated with water."
+      },
+      "upgrade": "Drench",
+      "tier": "green",
+      "flavour": "My plan: complete. Their day: ruined.",
+      "art_path": "res/art/illustration/Soak.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Drench": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Drench.png",
+    "spec": {
+      "title": "Drench",
+      "rules": {
+        "text": "Summon 50 thousand litres of water to a visible location."
+      },
+      "upgrade": "Flood",
+      "tier": "red",
+      "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" - Quomo the Quivering",
+      "art_path": "res/art/illustration/Drench.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Flood": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Flood.png",
+    "spec": {
+      "title": "Flood",
+      "rules": {
+        "text": "A Tsunami breaks over the play area from a cardinal direction of your choice."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "Nature has a myriad of weapons to combat human arrogance.",
+      "art_path": "res/art/illustration/Flood.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Hope": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Hope.png",
+    "spec": {
+      "title": "Hope",
+      "rules": {
+        "text": "Change the result of a roll by 2."
+      },
+      "upgrade": "Pray",
+      "tier": "blue",
+      "flavour": "I can't see him, but I know he's there.",
+      "art_path": "res/art/illustration/Hope.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Pray": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Pray.png",
+    "spec": {
+      "title": "Pray",
+      "rules": {
+        "text": "Re-roll a d20."
+      },
+      "upgrade": "Preach",
+      "tier": "green",
+      "flavour": "He will save us from our mortal errors.",
+      "art_path": "res/art/illustration/Pray.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Preach": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Preach.png",
+    "spec": {
+      "title": "Preach",
+      "rules": {
+        "text": "Describe a religious vision. Pick a visible NPC to experience it."
+      },
+      "upgrade": "Wish",
+      "tier": "red",
+      "flavour": "He lives deep in the hearts of all men.",
+      "art_path": "res/art/illustration/Preach.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Wish": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Wish.png",
+    "spec": {
+      "title": "Wish",
+      "rules": {
+        "text": "Cause all players to critically succeed on their next d20 roll."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "The light will shine bright upon the chosen.",
+      "art_path": "res/art/illustration/Wish.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Cure": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Cure.png",
+    "spec": {
+      "title": "Cure",
+      "rules": {
+        "text": "Cure the ailment of a visible character, or heal them 8."
+      },
+      "upgrade": "Field Medicine",
+      "tier": "blue",
+      "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
+      "art_path": "res/art/illustration/Cure.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Renew": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Renew.png",
+    "spec": {
+      "title": "Renew",
+      "rules": {
+        "passive": "You are 3 feet taller.",
+        "active": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller."
+      },
+      "upgrade": "Reincarnate",
+      "tier": "red",
+      "flavour": "\"I hope you don't mind if I make some improvements while I'm in here\" - Dr. Reichthardt, Orthopedic Surgeon",
+      "art_path": "res/art/illustration/Renew.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Reincarnate": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Reincarnate.png",
+    "spec": {
+      "title": "Reincarnate",
+      "rules": {
+        "passive": "The dead fear you.",
+        "active": "Revive a dead character."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "If man is to play god, he ought to be a kind one.",
+      "art_path": "res/art/illustration/Reincarnate.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Brace": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Brace.png",
+    "spec": {
+      "title": "Brace",
+      "rules": {
+        "text": "Take no damage from the next attack targeting you."
+      },
+      "upgrade": "Reflect",
+      "tier": "blue",
+      "flavour": "I barely felt that! Who taught you how to punch?",
+      "art_path": "res/art/illustration/Brace.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Reflect": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Reflect.png",
+    "spec": {
+      "title": "Reflect",
+      "rules": {
+        "passive": "Thrown objects bounce off of you with equal force.",
+        "active": "The next amount of damage dealt to you is also dealt to your attacker."
+      },
+      "upgrade": "Deflect",
+      "tier": "green",
+      "flavour": "Let's see how you like it!.",
+      "art_path": "res/art/illustration/Reflect.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Deflect": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Deflect.png",
+    "spec": {
+      "title": "Deflect",
+      "rules": {
+        "text": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker"
+      },
+      "upgrade": "Golan's Idol",
+      "tier": "red",
+      "flavour": "I am rubber, and you are glue.",
+      "art_path": "res/art/illustration/Deflect.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Golan's Idol": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Golan's Idol.png",
+    "spec": {
+      "title": "Golan's Idol",
+      "rules": {
+        "text": "Name a character. They can no longer deal damage to you."
+      },
+      "upgrade": "Reflect",
+      "tier": "gold",
+      "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5-Year-Old Jacob, Yellow Belt",
+      "art_path": "res/art/illustration/Golan's Idol.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Double Strike": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Double Strike.png",
+    "spec": {
+      "title": "Double Strike",
+      "rules": {
+        "text": "You can attack two additional times on your turn."
+      },
+      "upgrade": "Quad Strike",
+      "tier": "blue",
+      "flavour": "Before they even realized what happened, another punch sent them flying.",
+      "art_path": "res/art/illustration/Double Strike.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Quad Strike": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Quad Strike.png",
+    "spec": {
+      "title": "Quad Strike",
+      "rules": {
+        "text": "You can attack four additional times on your turn."
+      },
+      "upgrade": "Strike Storm",
+      "tier": "green",
+      "flavour": "Their defense won't last forever. Strike, and strike again.",
+      "art_path": "res/art/illustration/Quad Strike.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Strike Storm": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Strike Storm.png",
+    "spec": {
+      "title": "Strike Storm",
+      "rules": {
+        "text": "You can make twice times as many attacks as you otherwise would on your turn."
+      },
+      "upgrade": "Endless blows",
+      "tier": "red",
+      "flavour": "Every fighter has gaps between attacks which can be exploited. Just make sure to take them after your opponent is dead.",
+      "art_path": "res/art/illustration/Strike Storm.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Endless Blows": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Endless Blows.png",
+    "spec": {
+      "title": "Endless Blows",
+      "rules": {
+        "text": "Take X damage. You can attack X times on your turn."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs.",
+      "art_path": "res/art/illustration/Endless Blows.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Gust of Wind": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Gust of Wind.png",
+    "spec": {
+      "title": "Gust of Wind",
+      "rules": {
+        "text": "Throw a visible character up into the air."
+      },
+      "upgrade": "Gale",
+      "tier": "blue",
+      "flavour": "He should've worn a windbreaker.",
+      "art_path": "res/art/illustration/Gust of Wind.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Gale": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Gale.png",
+    "spec": {
+      "title": "Gale",
+      "rules": {
+        "passive": "Whenever you throw a character in the air, you can also throw them 8 metres in any direction",
+        "active": "Throw any number of characters in a 3 metre radius into the air."
+      },
+      "upgrade": "Wind Storm",
+      "tier": "green",
+      "flavour": "You look like a birthday candle.",
+      "art_path": "res/art/illustration/Gale.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+  },
+  "Wind Storm": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Wind Storm.png",
+    "spec": {
+      "title": "Wind Storm",
+      "rules": {
+        "text": "Throw any number of visible characters up into the air."
+      },
+      "upgrade": "Hurricane",
+      "tier": "red",
+      "flavour": "Rise, rise towards the heavens.",
+      "art_path": "res/art/illustration/Wind Storm.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+  },
+  "Hurricane": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Hurricane.png",
+    "spec": {
+      "title": "Hurricane",
+      "rules": {
+        "text": "A powerful hurricane is summoned over the play area for as long as you want."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "It is rare for an area to know such devastation.",
+      "art_path": "res/art/illustration/Hurricane.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+  },
+  "Barrier": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Barrier.png",
+    "spec": {
+      "title": "Barrier",
+      "rules": {
+        "text": "Summon an impenetrable column of light in adjacent square metre for 5 minutes."
+      },
+      "upgrade": null,
+      "tier": "blue",
+      "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
+      "art_path": "res/art/illustration/Barrier.png",
+      "tags": [
+        "upgradeable-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+  },
+  "Mirror Image": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Mirror Image.png",
+    "spec": {
+      "title": "Mirror Image",
+      "rules": {
+        "text": "Summon a copy of any NPC."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Cardmaster",
+      "art_path": "res/art/illustration/Mirror Image.png",
+      "tags": [
+        "upgradeable-1"
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"

@@ -103,7 +103,7 @@ module Card
       def validate_tier!(card, name_hierarchy)
         tier = validate_field!(card, "tier", name_hierarchy, "Card")
 
-        allowable_tiers = Card::Models::CardSpecification::VALID_TIERS.map(&:to_s)
+        allowable_tiers = Card::Models::CardSpecification::TIER_HIERARCHY.map(&:to_s)
         unless allowable_tiers.include?(tier)
           raise_format_error!("Card at #{name_hierarchy} must have one of the following under the 'tier' key: #{allowable_tiers}. Received '#{tier}'")
         end
