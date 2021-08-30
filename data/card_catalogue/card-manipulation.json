@@ -117,19 +117,6 @@
     }
   },
   {
-    "title": "Master Mimic",
-    "upgrade": null,
-    "tier": "red",
-    "details": {
-      "rules": {
-        "active": "Copy the effect of the last red cast by any character.",
-        "passive": null
-      },
-      "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, Revered Pirate and Thief",
-      "image": "res/art/illustration/Master Mimic.png"
-    }
-  },
-  {
     "title": "Reload",
     "upgrade": "Tactical Reload",
     "tier": "blue",
@@ -144,7 +131,7 @@
   },
   {
     "title": "Tactical Reload",
-    "upgrade": "Cowboy Reload",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
@@ -153,19 +140,6 @@
       },
       "flavour": "Wanna see me do it again?",
       "image": "res/art/illustration/Tactical Reload.png"
-    }
-  },
-  {
-    "title": "Cowboy Reload",
-    "upgrade": "Expert Reload",
-    "tier": "red",
-    "details": {
-      "rules": {
-        "active": "Return a red you've cast to your hand.",
-        "passive": null
-      },
-      "flavour": "Cowboys only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
-      "image": "res/art/illustration/Cowboy Reload.png"
     }
   },
   {
@@ -226,7 +200,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Draw 3 greens, face-up. Cast up to 3 and discard the rest.",
+        "active": "Draw 3 greens, face-up. Cast 1 and discard the rest.",
         "passive": null
       },
       "flavour": "No more of this bush-league nonsense. We need some real power.",
@@ -239,7 +213,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 3 reds, face-up. Cast up to 3 and discard the rest.",
+        "active": "Draw 3 reds, face-up. Cast 1 and discard the rest.",
         "passive": null
       },
       "flavour": "I might be able to pull it off - but just this once.",

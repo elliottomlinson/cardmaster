@@ -21,7 +21,7 @@
         "active": "Summon a cast-steel anvil into existence above target character's head.",
         "passive": null
       },
-      "flavour": "meep meep",
+      "flavour": "Meep-Meep.",
       "image": "res/art/illustration/Anvil Drop.png"
     }
   },
@@ -47,7 +47,7 @@
         "active": "Throw a pair of bola around a visible target",
         "passive": null
       },
-      "flavour": "\"Bolas are excellent for capturing large mammals, like my portly friend Steve\"",
+      "flavour": "Bolas are excellent for capturing large mammals, like my portly friend Steve",
       "image": "res/art/illustration/Ancient Throwing Bola.png"
     }
   },
@@ -112,7 +112,7 @@
         "active": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
         "passive": null
       },
-      "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
+      "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while.",
       "image": "res/art/illustration/Disappear.png"
     }
   },
@@ -125,7 +125,7 @@
         "active": "Target NPC becomes tired.",
         "passive": null
       },
-      "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Gregor the Delegator",
+      "flavour": "Man is born tired, and he lives to rest.",
       "image": "res/art/illustration/Exhaust.png"
     }
   },
@@ -356,7 +356,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Burst into flames along with anyone you're touching. 3d6 damage to each of you.",
+        "active": "Burst into flames along with anyone you're touching.",
         "passive": null
       },
       "flavour": "I'm taking you straight to hell.",

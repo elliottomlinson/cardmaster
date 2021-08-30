@@ -27,27 +27,27 @@
   },
   {
     "title": "Arouse",
-    "upgrade": "Seduce",
+    "upgrade": "Bond",
     "tier": "red",
     "details": {
       "rules": {
         "active": "Causes a visible NPC to become attracted to you.",
         "passive": null
       },
-      "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
+      "flavour": "Here I am - Your other two wishes?",
       "image": "res/art/illustration/Arouse.png"
     }
   },
   {
-    "title": "Seduce",
+    "title": "Bond",
     "upgrade": null,
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Force any NPC you can name to act on their desire for you.",
+        "active": "Cause a visible NPC to bond to you for life.",
         "passive": null
       },
-      "flavour": "Here I am - Your other two wishes?",
+      "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
       "image": "res/art/illustration/Seduce.png"
     }
   },
@@ -57,7 +57,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Speak with any living NPC, then draw another blue.",
+        "active": "Speak with any living NPC. They will be unaware of who they're speaking to.",
         "passive": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
@@ -70,10 +70,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Speak with any dead NPC, then draw another blue.",
+        "active": "Speak with any dead NPC. Their voice can be heard by all nearby NPCs.",
         "passive": null
       },
-      "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
+      "flavour": "\"Eventually, I tired of speaking with the dead. They never have anything new to talk about.\" - Dante, Necromancer",
       "image": "res/art/illustration/Seance.png"
     }
   },
@@ -86,7 +86,7 @@
         "active": "Target visible NPC can no longer feel negative emotions towards target visible character.",
         "passive": null
       },
-      "flavour": "Vewy Sowwy.",
+      "flavour": "There is no love without forgiveness, and no forgiveness without love.",
       "image": "res/art/illustration/Apologize.png"
     }
   },
@@ -99,7 +99,7 @@
         "active": "Force an NPC to act on their compulsion.",
         "passive": null
       },
-      "flavour": "He wanted to pursue the thief, but he couldn't stand leaving the candy wrappers on his spotless kitchen floor.",
+      "flavour": "It was a lovely moment, but it'd be just as lovely after checking my messages once more.",
       "image": "res/art/illustration/Distract.png"
     }
   },
@@ -125,7 +125,7 @@
         "active": "Change your appearance to match that of another exactly for as long as you'd like.",
         "passive": null
       },
-      "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
+      "flavour": "With just a little bit of complete facial re-construction surgery, you can fool even the closest observers.",
       "image": "res/art/illustration/Disguise.png"
     }
   },

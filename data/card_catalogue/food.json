@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon a brick of Ambrosia. Any NPC who has tasted or smelt it before will find it irresistible.",
+        "active": "Summon an irresistable brick of Ambrosia, food of the Gods.",
         "passive": null
       },
       "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",

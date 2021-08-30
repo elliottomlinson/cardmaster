@@ -8,7 +8,7 @@
         "active": "You can use an additional ranged attack.",
         "passive": null
       },
-      "flavour": "Rebel assault rifles are equipped with manual and fully automatic firing modes.",
+      "flavour": "Even if they're already dead, a second shot doesn't hurt.",
       "image": "res/art/illustration/Quick Shot.png"
     }
   },
@@ -21,7 +21,7 @@
         "active": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
         "passive": null
       },
-      "flavour": "Rebel soldiers employ distraction devices to buy time to reload.",
+      "flavour": "Keep yourself entertained with this for a little while, I've got to reload.",
       "image": "res/art/illustration/Empty the Clip.png"
     }
   },
@@ -34,7 +34,7 @@
         "active": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
         "passive": null
       },
-      "flavour": "Rebel armies spare no expense when supplying their troops with ammunition.",
+      "flavour": "Though outnumbered, their opponents could never match Quasimodo's devastating aresnal.",
       "image": "res/art/illustration/Suppression Maneuver.png"
     }
   },
@@ -47,7 +47,7 @@
         "active": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
         "passive": null
       },
-      "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",
+      "flavour": "Hallways of long forgotten armories sprawl out before you, each weapon chanting out your name.",
       "image": "res/art/illustration/Bullet Rain.png"
     }
   }
