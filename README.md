@@ -30,7 +30,7 @@ During an ally's turn, *Field Medicine* and *Pigeon Partner* could be cast to he
   <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Seance.png" width="20%" title="Seance">
 </p>
 
-Enabled by our mapping system, players have the freedom to manpulate the environment to varying degrees with cards like *Eidolimb*, *Soak*, and *Poltergeist*.
+Players have the freedom to manipulate the environment to varying degrees with cards like *Eidolimb*, *Soak*, and *Poltergeist*.
 
 <br>
 <p align="center">
