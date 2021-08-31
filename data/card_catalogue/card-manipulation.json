@@ -96,7 +96,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last blue cast by any character.",
+        "active": "Copy the effect of the last blue cast by another player.",
         "passive": null
       },
       "flavour": "This is how stupid you look, watch this.",
@@ -109,7 +109,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last green cast by any character.",
+        "active": "Copy the effect of the last green cast by another player.",
         "passive": null
       },
       "flavour": "Stop copying me. Stop copying me.",
@@ -127,19 +127,6 @@
       },
       "flavour": "Don't retreat, reload.",
       "image": "res/art/illustration/Reload.png"
-    }
-  },
-  {
-    "title": "Tactical Reload",
-    "upgrade": null,
-    "tier": "green",
-    "details": {
-      "rules": {
-        "active": "Return a green you've cast to your hand.",
-        "passive": null
-      },
-      "flavour": "Wanna see me do it again?",
-      "image": "res/art/illustration/Tactical Reload.png"
     }
   },
   {
