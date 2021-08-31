@@ -201,7 +201,7 @@
     "details": {
       "rules": {
         "active": "Jump as high as you want.",
-        "passive": null
+        "passive": "Immune to damage from falling."
       },
       "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
       "image": "res/art/illustration/Ascend.png"

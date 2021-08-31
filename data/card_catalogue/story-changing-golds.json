@@ -8,7 +8,7 @@
         "active": "Become the legal owner of a building of your choice. Existing tenants will be evicted immediately.",
         "passive": null
       },
-      "flavour": "The gang battle of 2485 concluded after the mafioso purchased their fortress and had the police escort them to jail.",
+      "flavour": "Property is not the natural, obvious, and inevitable concept that most people think it is.",
       "image": "res/art/illustration/Blank Deed.png"
     }
   },
@@ -31,7 +31,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Name a character not on the current map. They take 100 damage.",
+        "active": "Name a character not on the current map. They die instantly.",
         "passive": null
       },
       "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",

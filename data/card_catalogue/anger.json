@@ -47,7 +47,7 @@
         "active": "Name an NPC. They will dedicate their lives to promoting peace.",
         "passive": null
       },
-      "flavour": "All life is precious, even the lives of your enemies",
+      "flavour": "All life is precious, even the lives of your enemies.",
       "image": "res/art/illustration/Change of Heart.png"
     }
   },
