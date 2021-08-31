@@ -19,8 +19,8 @@ The JSON Catalogue Adapter expects cards to be specified in this format:
   "tier": "blue",
   "details": {
     "rules": {
-      "active": "Oh no",
-      "passive": null
+      "cast": "Oh no",
+      "hand": null
     },
     "flavour": "Darn",
     "image": "res/card/art/illustration/Inner Sun.png"

@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "You can use an additional ranged attack.",
-        "passive": null
+        "cast": "You can use an additional ranged attack.",
+        "hand": null
       },
       "flavour": "Even if they're already dead, a second shot doesn't hurt.",
       "image": "res/art/illustration/Quick Shot.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
-        "passive": null
+        "cast": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
+        "hand": null
       },
       "flavour": "Keep yourself entertained with this for a little while, I've got to reload.",
       "image": "res/art/illustration/Empty the Clip.png"
@@ -31,8 +31,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
-        "passive": null
+        "cast": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
+        "hand": null
       },
       "flavour": "Though outnumbered, their opponents could never match Quasimodo's devastating aresnal.",
       "image": "res/art/illustration/Suppression Maneuver.png"
@@ -44,8 +44,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
-        "passive": null
+        "cast": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
+        "hand": null
       },
       "flavour": "Hallways of long forgotten armories sprawl out before you, each weapon chanting out your name.",
       "image": "res/art/illustration/Bullet Rain.png"

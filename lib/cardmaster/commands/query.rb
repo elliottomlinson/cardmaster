@@ -59,9 +59,9 @@ module Cardmaster
           case card_spec.rules
           when Card::Models::SimpleRules
             puts "Rules: #{card_spec.rules.text}"
-          when Card::Models::PassiveActiveRules
-            puts "Passive: #{card_spec.rules.passive}"
-            puts "Active: #{card_spec.rules.active}"
+          when Card::Models::HandCastRules
+            puts "Hand: #{card_spec.rules.hand}"
+            puts "Cast: #{card_spec.rules.cast}"
           else
             raise "Invalid Rule type #{card_spec.rules.class}"
           end
