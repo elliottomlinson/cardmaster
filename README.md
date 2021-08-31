@@ -1,45 +1,80 @@
 # Cardmaster
 
-[![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
+A simplified tabletop role-playing game with an emphasis on casual play.
 
-Cardmaster is a simplified tabletop roleplaying card game which emphasizes casual play.
+## The Card System
 
-Players play as "Cardmasters", who have a hand of single-use cards which allow them to use magical abilities at **any** time, even if it isn't their turn.
+As a *Cardmaster*, the player has a hand of single-use cards which allow them to use magical abilities instantly *at any time* during play.
+<p align="center">
+  <img src="https://git.io/JEQYa" width="30%" title="Boost">
+</p>
 
-Consider the card "Shift":
+Since the **⚡ Cast Effect** applies instantly, the seemingly lackluster _Shift_ could be used to dodge a bullet, if played on an opponent's turn. 
 
-<img src="https://user-images.githubusercontent.com/8680290/127941236-751beb93-ac1f-4605-91eb-8e6364d08cfb.png"  width="33%" title="⚡ Move a metre">
+In the same situation, cards such as *Fluster*, *Gust of Wind*, and *Anvil Drop* could be used to interfere.
 
-At first glance, this ability is underwhelming. However, when cast just as an enemy makes an attack, it acts as a reliable escape. The effect of a card applies instantaneously, so "Shift" can even be used to dodge bullets.
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fluster.png" width="25%" title="Fluster">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Gust%20of%20Wind.png" width="25%" title="Gust of Wind">
+    <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Anvil%20Drop.png" width="25%" title="Anvil Drop">
+</p>
 
-### Cards Have Many Uses:
+During an ally's turn, *Field Medicine* and *Pigeon Partner* could be cast to help them. Cards like *Lie* and *Seance* can affect social interactions and may be most useful outside of combat.
 
-During an opponent's turn, players can look for ways to interrupt their plans with cards like "Distract":
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Field%20Medicine.png" width="20%" title="Field Medicine">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Pigeon%20Partner.png" width="20%" title="Pigeon Partner">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lie.png" width="20%" title="Lie">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Seance.png" width="20%" title="Seance">
+</p>
 
-<img src="https://user-images.githubusercontent.com/8670351/131440331-e310e151-9064-4413-b135-86574c2fafd0.png"  width="33%">
+Enabled by our mapping system, players have the freedom to manpulate the environment to varying degrees with cards like *Eidolimb*, *Soak*, and *Poltergeist*.
 
-During an ally's turn, the player can look for an opportunity to help with cards like "Boost":
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Barrier.png" width="25%" title="Barrier">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Soak.png" width="25%" title="Soak">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Poltergeist.png" width="25%" title="Poltergeist">
+</p>
 
-<img src="https://user-images.githubusercontent.com/8670351/131440157-cdd8da3a-9e6e-4be5-ad46-89379c9fbba4.png"  width="33%">
+Cards can also have an effect while in a player's hand, as denoted by the **✋ Hand Effect** symbol. Cards with these effects, such as *Rodent Whisperer*, *Slingshot*, and *Lover Fatale*, can help define a character's identity.
 
-Cards such as "Lie" can be useful outside of combat to help in social interactions:
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rodent%20Whisperer.png" width="20%" title="Rodent Whisperer">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Slingshot.png" width="20%" title="Slingshot">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lover%20Fatale.png" width="20%" title="Lover Fatale">
+</p>
 
-<img src="https://user-images.githubusercontent.com/8670351/131441521-7f5c63cf-403b-45bf-bf0c-718588611e3c.png" width="33%">
+Cardmaster's tier/rarity order is: ⚫ Grey, 🔵 Blue, 🟢 Green, 🔴 Red, 🟡 Gold. The player can upgrade a card of a certain tier in exchange for three cards of the same tier. Some cards belong to series - guaranteeing a particular result when upgrading them, as shown below with *Spark*, *Lightning Bolt*, *Fork Lightning*, and finally *Elektra's Siphon*.
 
-Cards can also have an effect while in a player's hand, as denoted by the ✋ symbol. Cards with these effects like "Rodent Whisperer" help define a character's identity:
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spark.png" width="20%" title="Spark">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lightning%20Bolt.png" width="20%" title="Lightning Bolt">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fork%20Lightning.png" width="20%" title="Fork Lightning">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Elektra's%20Siphon.png" width="20%" title="Elektra's Siphon">
+</p>
 
-<img src="https://user-images.githubusercontent.com/8670351/131442006-507bb2f5-30fb-42f1-b535-3b1209facf37.png" width="33%">
+Certain cards like *Untimely Death* and *Heroic Inspiration* can even be used to influence the story itself.
 
-Cards like "Untimely Death" can even be used to influence the story itself:
-
-<img src="https://user-images.githubusercontent.com/8670351/131439378-14bec547-dfa0-47de-830c-d68af92b41c7.png" width="33%">
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Untimely%20Death.png" width="30%" title="Untimely Death">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Heroic%20Inspiration.png" width="30%" title="Heroic Inspiration">
+</p>
 
 ## In This Repository
 
-- The base set of Cardmaster cards which can be used in any campaign
+- The base set of *Cardmaster* cards which can be used in any campaign
 - A CLI tool to edit and create your own cards
 - A CLI tool to assist in importing these cards into *[Tabletop Simulator](https://tabletopsimulator.com/)*
+- *Cardmaster*'s website, located at https://cardmaster.io/
+
+---
+
+Created by [Duncan Uszkay](https://github.com/DuncanUszkay1) and [Elliot Tomlinson](https://github.com/elliottomlinson)
 
 © 2021 Cardmaster
-
-*Created by [Duncan Uszkay](https://github.com/DuncanUszkay1) and [Elliot Tomlinson](https://github.com/elliottomlinson)*
