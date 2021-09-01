@@ -48,7 +48,7 @@ Cards can also have an effect while in a player's hand, as denoted by the **✋ 
   <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lover%20Fatale.png" width="20%" title="Lover Fatale">
 </p>
 
-Cardmaster's tier/rarity order is: ⚫ Grey, 🔵 Blue, 🟢 Green, 🔴 Red, 🟡 Gold. The player can upgrade a card of a certain tier in exchange for three cards of the same tier. Some cards belong to series - guaranteeing a particular result when upgrading them, as shown below with *Spark*, *Lightning Bolt*, *Fork Lightning*, and finally *Elektra's Siphon*.
+Cardmaster's tier/rarity order is: ⚫ Grey, 🔵 Blue, 🟢 Green, 🔴 Red, 🟡 Gold. The player can upgrade a card of a certain tier in exchange for three cards of the same tier. Some cards belong to a series - guaranteeing a particular result when upgrading them, as shown below with *Spark*, *Lightning Bolt*, *Fork Lightning*, and finally *Elektra's Siphon*.
 
 <br>
 <p align="center">
@@ -58,7 +58,7 @@ Cardmaster's tier/rarity order is: ⚫ Grey, 🔵 Blue, 🟢 Green, 🔴 Red, �
   <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Elektra's%20Siphon.png" width="20%" title="Elektra's Siphon">
 </p>
 
-Certain cards like *Untimely Death* and *Heroic Inspiration* can even be used to influence the story itself.
+Certain cards like *Untimely Death* and *Heroic Inspiration* can even be used to influence the campaign/story itself.
 
 <br>
 <p align="center">
