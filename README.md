@@ -5,11 +5,14 @@ A simplified tabletop role-playing game with an emphasis on casual play.
 ## The Card System
 
 As a *Cardmaster*, the player has a hand of single-use cards which allow them to use magical abilities instantly *at any time* during play.
-<p align="center">
-  <img src="https://git.io/JEQYa" width="30%" title="⚡ Move a metre">
-</p>
 
-Since the **⚡ Cast Effect** applies instantly, the seemingly lackluster _Shift_ could be used to dodge a bullet, if played on an opponent's turn. 
+The **⚡ Cast Effect** applies instantly, so the seemingly lackluster
+<i><a href="#Shift" title="⚡ Move a metre">Shift</a></i>
+could be used to dodge a bullet, if played on an opponent's turn.
+
+<p align="center">
+  <img src="https://git.io/JEQYa" width="30%" id="Shift" title="⚡ Move a metre">
+</p>
 
 In the same situation, cards such as 
   <i><a href="#Fluster" title="⚡ Decrease the result of a roll by 1">Fluster</a></i>, 
