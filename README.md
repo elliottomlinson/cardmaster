@@ -120,8 +120,9 @@ can even be used to influence the campaign at-large.
 - A CLI tool to assist in importing these cards into *[Tabletop Simulator](https://tabletopsimulator.com/)*
 - *Cardmaster*'s website, located at https://cardmaster.io/
 
----
 
-Created by [Duncan Uszkay](https://github.com/DuncanUszkay1) and [Elliot Tomlinson](https://github.com/elliottomlinson)
+## Authors
+
+[Duncan Uszkay](https://github.com/DuncanUszkay1) and [Elliot Tomlinson](https://github.com/elliottomlinson)
 
 © 2021 Cardmaster
