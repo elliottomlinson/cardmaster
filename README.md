@@ -11,10 +11,10 @@ The player can cast a card from their hand at any time. Each card has an instant
 </p>
 
 On an opponent's turn, the player could
-<i><a href="Shift" title="⚡ Move a metre">Shift</a></i> to dodge,
-  <i><a href="#Fluster" title="⚡ Decrease the result of a roll by 1">Fluster</a></i> them, use a
-  <i><a href="#Gust of Wind" title="⚡ Throw a visible character up into the air">Gust of Wind</a></i>, do an
-  <i><a href="#Anvil Drop" title="⚡ Summon a cast-steel anvil into existence above target character's head">Anvil Drop</a></i> - or all of the above.
+<i><a href="Shift" title="⚡ Move a metre">Shift</a></i> to dodge, or interfere with
+  <i><a href="#Fluster" title="⚡ Decrease the result of a roll by 1">Fluster</a></i>,
+  <i><a href="#Gust of Wind" title="⚡ Throw a visible character up into the air">Gust of Wind</a></i>, or
+  <i><a href="#Anvil Drop" title="⚡ Summon a cast-steel anvil into existence above target character's head">Anvil Drop</a></i>.
 
 <br>
 <p align="center">
@@ -48,12 +48,12 @@ may be best outside of combat.
 </p>
 
   
-Like
+Cards like
   <i><a href="#Barrier" title="⚡ Summon an impenetrable column of light in adjacent square metre for 5 minutes">Barrier</a></i>,
   <i><a href="#Soak" title="⚡ Cause everything within 2 metres of a visible object to become saturated with water">Soak</a></i>, and
-  <i><a href="#Poltergeist" title="⚡ Possess a non-magic object within 5 tiles of your body until you lose concentration.">Poltergeist</a></i>, some alter the world. Like
+  <i><a href="#Poltergeist" title="⚡ Possess a non-magic object within 5 tiles of your body until you lose concentration.">Poltergeist</a></i>, alter the world - like
  <i><a href="#Untimely Death" title="⚡ Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.">Untimely Death</a></i>, and 
- <i><a href="#Heroic Inspiration" title="⚡ Name a character not on the current map. They die.">Heroic Inspiration</a></i>, some can change the story.
+ <i><a href="#Heroic Inspiration" title="⚡ Name a character not on the current map. They die.">Heroic Inspiration</a></i>, the story.
  
 <br>
 <p align="center">
@@ -69,11 +69,11 @@ Like
        id="Heroic Inspiration" title="⚡ Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.">
 </p>
 
-While held, cards can have a **✋ Hand Effect**. As with
+Some have a **✋ Hand Effect** when held. Like
   <i><a href="#Swarm" title="⚡ Pick a small animal or insect for your target to be swarmed by. &#013;✋ You are constantly covered in an insect of your choice">Swarm</a></i>, 
   <i><a href="#Slingshot" title="⚡ Launch a baseball sized rock at a visible target. &#013;✋ Gain advantage when throwing objects.">Slingshot</a></i>, and
   <i><a href="#Lover Fatale" title="⚡ A visible NPC develops feelings for you. &#013;✋ Attacks against characters who love you deal 25 bonus damage.">Lover Fatale</a></i>,
-these can help build a character's identity.
+they may shape a character's identity.
 
 <br>
 <p align="center">
@@ -85,7 +85,7 @@ these can help build a character's identity.
        id="Lover Fatale" title="⚡ A visible NPC develops feelings for you. &#013;✋ Attacks against characters who love you deal 25 bonus damage.">
 </p>
 
-The tiers are ⚫Grey, 🔵Blue, 🟢Green, 🔴Red, and 🟡Gold. The player can upgrade a card in exchange for three of the same tier.
+Three of the same tier can be exchanged for an upgrade. The tiers are ⚫Grey, 🔵Blue, 🟢Green, 🔴Red, and 🟡Gold.
 
 <br>
 <p align="center">
