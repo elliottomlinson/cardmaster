@@ -1,5 +1,10 @@
 # Cardmaster
 
+![chat](https://img.shields.io/discord/320657485126041601)
+[![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
+![version](https://img.shields.io/badge/version-unreleased-red)
+![issues](https://img.shields.io/github/issues/elliottomlinson/cardmaster)
+
 *Cardmaster* is a simplified tabletop role-playing game emphasizing casual play.
 
 ## Introduction
