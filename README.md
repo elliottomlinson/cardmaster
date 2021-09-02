@@ -4,11 +4,16 @@
 
 ## Introduction
 
-The player can cast a card from their hand at any time. Each card has an instant single-use **⚡ Cast Effect**. 
+Players can cast a card from their hand at any time. Each card has an instant single-use **⚡ Cast Effect**. 
+
 
 <p align="center">
   <img src="https://git.io/JEQYa" width="50%" id="#Shift" title="⚡ Move a metre">
 </p>
+
+
+
+*Hover over a card's name to see its effect*
 
 On an opponent's turn, the player could
 <i><a href="Shift" title="⚡ Move a metre">Shift</a></i> to dodge, or interfere with
