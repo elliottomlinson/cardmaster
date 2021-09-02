@@ -106,7 +106,7 @@ Three of the same tier can be exchanged for an upgrade. The tiers are âš«Grey, ð
 
 ## In This Repository
 
-- [Tabletop 101](/docs/TABLETOP_101.md), an introduction for those unfamiliar with the format
+- [Tabletop 101](/docs/TABLETOP_101.md), an introduction for those unfamiliar with the *tabletop role-playing game* format
 - The base set of *Cardmaster* cards which can be used in any campaign
 - A CLI tool to edit and create your own cards
 - A CLI tool to assist in importing these cards into *[Tabletop Simulator](https://tabletopsimulator.com/)*
