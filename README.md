@@ -2,11 +2,11 @@
 
 > A simplified tabletop role-playing game emphasizing casual play
 
-![chat](https://img.shields.io/discord/320657485126041601)
-[![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
+
 [![version](https://img.shields.io/badge/version-unreleased-red)](https://github.com/elliottomlinson/cardmaster/releases)
 [![issues](https://img.shields.io/github/issues/elliottomlinson/cardmaster)](https://github.com/elliottomlinson/cardmaster/issues)
-
+[![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
+![chat](https://img.shields.io/discord/320657485126041601)
 
 
 ## Introduction
