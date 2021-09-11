@@ -23,7 +23,7 @@
 }
 
 .tier {
-  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/rpcg/lib/cardmaster/commands/../../../res/art/tier/green.png");
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/art/tier/blue.png");
   width: 736px;
   height: 1041px;
   z-index: 0;
@@ -35,7 +35,7 @@
 }
 
 .border {
-  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/rpcg/lib/cardmaster/commands/../../../res/art/border/border.png");
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/art/border/border.png");
   z-index: 1;
   position: absolute;
   left: 0px;
@@ -45,7 +45,7 @@
 }
 
 .frame {
-  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/rpcg/lib/cardmaster/commands/../../../res/art/frame/green.png");
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/art/frame/blue.png");
   z-index: 2;
   position: absolute;
   left: 40px;
@@ -55,7 +55,7 @@
 }
 
 .title {
-  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/rpcg/lib/cardmaster/commands/../../../res/art/title/green.png");
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/art/title/blue.png");
   z-index: 2;
   position: absolute;
   left: 74px;
@@ -79,7 +79,7 @@
 }
 
 .illustration {
-  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/rpcg/lib/cardmaster/commands/../../../res/../res/art/illustration/Disappear.png");
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/../res/art/illustration/Inner Sun.png");
   z-index: 1;
   position: absolute;
   left: 74px;
@@ -91,7 +91,7 @@
 .type {
   font-family: 'Karmatic Arcade';
   font-size: 18pt;
-  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/rpcg/lib/cardmaster/commands/../../../res/art/type/green.png");
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/art/type/blue.png");
   z-index: 1;
   position: absolute;
   left: 74px;
@@ -108,9 +108,9 @@
 }
 
 .rules {
-  font-family: 'Segoe UI Semibold';
+  font-family: 'Segoe UI';
   font-size: 22pt;
-  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/rpcg/lib/cardmaster/commands/../../../res/art/rules/green.png");
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/art/rules/blue.png");
   position: absolute;
   left: 74px;
   top: 755px;
@@ -132,6 +132,21 @@
 
 .passive {
   margin-bottom: 10px;
+}
+
+.glyph {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  background-size: contain;
+}
+
+.cast {
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/art/glyph/cast.png")
+}
+
+.hand {
+  background-image: url("/Users/duncanuszkay/src/github.com/Shopify/cardmaster/lib/cardmaster/commands/../../../res/art/glyph/hand.png")
 }
 
 .flavour {

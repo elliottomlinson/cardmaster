@@ -17,9 +17,14 @@
 </style>
 
 <!-- https://stackoverflow.com/questions/687998/auto-size-dynamic-text-to-fill-fixed-size-container -->
+<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
 <script type="text/javascript">
   window.onload=function shrink()
   {
+    const rules_text = document.getElementByClassName('active')[0] 
+    rules_text.innerHTML = ":^)"
+
+    twemoji.parse(document.body);
     textSpan = document.getElementById("title-text")
     textDiv = document.getElementById("title")
     
@@ -52,6 +57,9 @@
         <div class="rules-text">
           <div class="active">
             <div class="cast glyph"></div> {{active_rules}}
+          </div>
+          <div class="passive">
+            <div class="hand glyph"></div> {{passive_rules}}
           </div>
           <em class="flavour">
             {{flavour}}
