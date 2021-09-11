@@ -41,7 +41,9 @@ module Card
           title_image_path: File.join(@resource_path, "/art/title/#{card_specification.tier.to_s}.png"),
           illustration_image_path: File.join(@resource_path, "..", card_specification.art_path),
           type_image_path: File.join(@resource_path, "/art/type/#{card_specification.tier.to_s}.png"),
-          rules_image_path: File.join(@resource_path, "/art/rules/#{card_specification.tier.to_s}.png")
+          rules_image_path: File.join(@resource_path, "/art/rules/#{card_specification.tier.to_s}.png"),
+          hand_glyph_image_path: File.join(@resource_path, "/art/glyph/hand.png"),
+          cast_glyph_image_path: File.join(@resource_path, "/art/glyph/cast.png")
         )
       end
 
@@ -65,9 +67,9 @@ module Card
       def generate_rules_content(rules)
         case rules
         when Card::Models::SimpleRules
-          ["⚡: #{rules.text}", nil]
+          [rules.text, nil]
         when Card::Models::PassiveActiveRules
-          ["⚡: #{rules.active}", "✋: #{rules.passive}"]
+          [rules.active, rules.passive]
         else
           raise "Unsupported rule type #{rules.class}"
         end
@@ -78,7 +80,7 @@ module Card
       end
 
       class CardStyleTemplate < Mustache
-        attr_accessor :tier_image_path, :border_image_path, :frame_image_path, :title_image_path, :illustration_image_path, :type_image_path, :rules_image_path
+        attr_accessor :tier_image_path, :border_image_path, :frame_image_path, :title_image_path, :illustration_image_path, :type_image_path, :rules_image_path, :hand_glyph_image_path, :cast_glyph_image_path
       end
     end
   end

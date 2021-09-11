@@ -108,7 +108,7 @@
 }
 
 .rules {
-  font-family: 'Segoe UI Semibold';
+  font-family: 'Segoe UI';
   font-size: 22pt;
   background-image: url("{{rules_image_path}}");
   position: absolute;
@@ -132,6 +132,21 @@
 
 .passive {
   margin-bottom: 10px;
+}
+
+.glyph {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  background-size: contain;
+}
+
+.cast {
+  background-image: url("{{cast_glyph_image_path}}")
+}
+
+.hand {
+  background-image: url("{{hand_glyph_image_path}}")
 }
 
 .flavour {

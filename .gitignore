@@ -6,3 +6,4 @@ Gemfile.lock
 desktop.ini
 archive/
 *.pdn
+generated_stylesheet.css
