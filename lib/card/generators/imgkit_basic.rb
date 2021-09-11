@@ -24,7 +24,7 @@ module Card
 
         File.write("generated_stylesheet.css", css)
 
-        kit = IMGKit.new(html, "crop-w" => 816, "crop-h" => 1154, transparent: true, debug_javascript: true)
+        kit = IMGKit.new(html, "crop-w" => 816, "crop-h" => 1154, transparent: true)
         kit.stylesheets = ["./generated_stylesheet.css"]
         kit.javascripts = @scripts 
 
