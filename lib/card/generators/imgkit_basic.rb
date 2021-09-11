@@ -67,16 +67,12 @@ module Card
       def generate_rules_content(rules)
         case rules
         when Card::Models::SimpleRules
-          ["#{rules.text}", nil]
+          [rules.text, nil]
         when Card::Models::PassiveActiveRules
-          ["#{rules.active}", "#{rules.passive}"]
+          [rules.active, rules.passive]
         else
           raise "Unsupported rule type #{rules.class}"
         end
-      end
-
-      def glyph(name)
-        "<div class=\"#{name}-glyph\"></div>"
       end
 
       class CardTemplate < Mustache
