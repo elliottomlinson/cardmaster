@@ -90,7 +90,7 @@ they may shape a character's identity.
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Swarm.png" width="30%" 
-       id="Swarm" title="⚡ Pick a small animal or insect for your target to be swarmed by. &#013;✋ YYou are constantly covered in an insect of your choice">
+       id="Swarm" title="⚡ Pick a small animal or insect for your target to be swarmed by. &#013;✋ You are constantly covered in an insect of your choice">
   <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Slingshot.png" width="30%" 
        id="Slingshot" title="⚡ Launch a baseball sized rock at a visible target. &#013;✋ Gain advantage when throwing objects.">
   <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lover%20Fatale.png" width="30%" 
