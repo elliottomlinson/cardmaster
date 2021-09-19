@@ -23,7 +23,7 @@ Players can cast a card from their hand at any time. Each card has an instant si
 *Hover over a card's name to see its effect*
 
 On an opponent's turn, the player could
-<i><a href="Shift" title="⚡ Move a metre">Shift</a></i> to dodge, or interfere with
+<i><a href="#Shift" title="⚡ Move a metre">Shift</a></i> to dodge, or interfere with
   <i><a href="#Fluster" title="⚡ Decrease the result of a roll by 1">Fluster</a></i>,
   <i><a href="#Gust of Wind" title="⚡ Throw a visible character up into the air">Gust of Wind</a></i>, or
   <i><a href="#Anvil Drop" title="⚡ Summon a cast-steel anvil into existence above target character's head">Anvil Drop</a></i>.
