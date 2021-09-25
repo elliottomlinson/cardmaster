@@ -4,7 +4,7 @@
 
 
 [![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
-[![chat](https://discord.com/channels/320657485126041601/883083993824759818)
+[![chat](https://img.shields.io/discord/320657485126041601)](https://discord.com/channels/320657485126041601/883083993824759818)
 [![issues](https://img.shields.io/github/issues/elliottomlinson/cardmaster)](https://github.com/elliottomlinson/cardmaster/issues)
 [![version](https://img.shields.io/badge/version-unreleased-red)](https://github.com/elliottomlinson/cardmaster/releases)
 
