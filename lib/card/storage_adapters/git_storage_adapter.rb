@@ -9,7 +9,7 @@ module Card
       ASSET_BASE = "res/card"
       FRONT_PATH = File.join(ASSET_BASE, "generated")
       BACK_PATH = File.join(ASSET_BASE, "back")
-      GH_URL = "https://raw.githubusercontent.com/elliottomlinson/rpcg"
+      GH_URL = "https://raw.githubusercontent.com/elliottomlinson/cardmaster"
       HELP_SUGGESTION = "try printing again or reverting changes to #{@storage_manifest_path}"
 
       def initialize(storage_manifest_path)

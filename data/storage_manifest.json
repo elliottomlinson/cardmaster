@@ -1,6 +1,6 @@
 {
   "Foo": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Foo.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Foo.png",
     "spec": {
       "title": "Foo",
       "rules": {
@@ -15,10 +15,10 @@
         "hatred-series"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Bar": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bar.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bar.png",
     "spec": {
       "title": "Bar",
       "rules": {
@@ -33,14 +33,14 @@
         "hatred-series"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Untimely Death": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Untimely Death.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Untimely Death.png",
     "spec": {
       "title": "Untimely Death",
       "rules": {
-        "text": "Name a character not on the current map. They take 100 damage."
+        "text": "Name a character not on the current map. They die instantly."
       },
       "upgrade": null,
       "tier": "gold",
@@ -50,10 +50,10 @@
         "story-changing-golds"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Field Medicine": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Field Medicine.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Field Medicine.png",
     "spec": {
       "title": "Field Medicine",
       "rules": {
@@ -68,10 +68,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Rodent Whisperer": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rodent Whisperer.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rodent Whisperer.png",
     "spec": {
       "title": "Rodent Whisperer",
       "rules": {
@@ -86,10 +86,10 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Avian Spirit": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Avian Spirit.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Avian Spirit.png",
     "spec": {
       "title": "Avian Spirit",
       "rules": {
@@ -104,10 +104,10 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Swarm": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Swarm.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Swarm.png",
     "spec": {
       "title": "Swarm",
       "rules": {
@@ -122,10 +122,10 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Ouphe's Aura": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ouphe's Aura.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ouphe's Aura.png",
     "spec": {
       "title": "Ouphe's Aura",
       "rules": {
@@ -140,10 +140,10 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Equestrian": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Equestrian.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Equestrian.png",
     "spec": {
       "title": "Equestrian",
       "rules": {
@@ -158,10 +158,10 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Bow Hex": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bow Hex.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bow Hex.png",
     "spec": {
       "title": "Bow Hex",
       "rules": {
@@ -176,10 +176,10 @@
         "weapons"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Sword Hex": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Sword Hex.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Sword Hex.png",
     "spec": {
       "title": "Sword Hex",
       "rules": {
@@ -194,10 +194,10 @@
         "weapons"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Slingshot": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Slingshot.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Slingshot.png",
     "spec": {
       "title": "Slingshot",
       "rules": {
@@ -212,10 +212,10 @@
         "weapons"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Zop": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Zop.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Zop.png",
     "spec": {
       "title": "Zop",
       "rules": {
@@ -229,10 +229,10 @@
         "demo"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Paz": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Paz.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Paz.png",
     "spec": {
       "title": "Paz",
       "rules": {
@@ -247,10 +247,10 @@
         "demo"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Lover Fatale": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Lover Fatale.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lover Fatale.png",
     "spec": {
       "title": "Lover Fatale",
       "rules": {
@@ -265,10 +265,10 @@
         "triggers"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Infamous": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Infamous.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Infamous.png",
     "spec": {
       "title": "Infamous",
       "rules": {
@@ -283,10 +283,10 @@
         "triggers"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Flirt": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Flirt.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Flirt.png",
     "spec": {
       "title": "Flirt",
       "rules": {
@@ -300,10 +300,10 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Charm": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Charm.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Charm.png",
     "spec": {
       "title": "Charm",
       "rules": {
@@ -317,24 +317,24 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Arouse": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Arouse.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Arouse.png",
     "spec": {
       "title": "Arouse",
       "rules": {
         "text": "Causes a visible NPC to become attracted to you."
       },
-      "upgrade": "Seduce",
+      "upgrade": "Bond",
       "tier": "red",
-      "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
+      "flavour": "Here I am - Your other two wishes?",
       "art_path": "res/art/illustration/Arouse.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Seduce": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Seduce.png",
@@ -354,11 +354,11 @@
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
   },
   "Commune": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Commune.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Commune.png",
     "spec": {
       "title": "Commune",
       "rules": {
-        "text": "Speak with any living NPC, then draw another blue."
+        "text": "Speak with any living NPC. They will be unaware of who they're speaking to."
       },
       "upgrade": null,
       "tier": "blue",
@@ -368,27 +368,27 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Seance": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Seance.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Seance.png",
     "spec": {
       "title": "Seance",
       "rules": {
-        "text": "Speak with any dead NPC, then draw another blue."
+        "text": "Speak with any dead NPC. Their voice can be heard by all nearby NPCs."
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "How'd you get this number? I didn't even own a phone when I was alive!",
+      "flavour": "\"Eventually, I tired of speaking with the dead. They never have anything new to talk about.\" - Dante, Necromancer",
       "art_path": "res/art/illustration/Seance.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Apologize": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Apologize.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Apologize.png",
     "spec": {
       "title": "Apologize",
       "rules": {
@@ -396,16 +396,16 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Vewy Sowwy.",
+      "flavour": "There is no love without forgiveness, and no forgiveness without love.",
       "art_path": "res/art/illustration/Apologize.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Distract": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Distract.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Distract.png",
     "spec": {
       "title": "Distract",
       "rules": {
@@ -413,16 +413,16 @@
       },
       "upgrade": "Lie",
       "tier": "blue",
-      "flavour": "He wanted to pursue the thief, but he couldn't stand leaving the candy wrappers on his spotless kitchen floor.",
+      "flavour": "It was a lovely moment, but it'd be just as lovely after checking my messages once more.",
       "art_path": "res/art/illustration/Distract.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Lie": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Lie.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lie.png",
     "spec": {
       "title": "Lie",
       "rules": {
@@ -436,10 +436,10 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Disguise": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Disguise.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Disguise.png",
     "spec": {
       "title": "Disguise",
       "rules": {
@@ -447,16 +447,16 @@
       },
       "upgrade": "Revise",
       "tier": "red",
-      "flavour": "\"I'm Revins, Sniver went into the other room to get his homework.\" - Little Sniver",
+      "flavour": "With just a little bit of complete facial re-construction surgery, you can fool even the closest observers.",
       "art_path": "res/art/illustration/Disguise.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Revise": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Revise.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Revise.png",
     "spec": {
       "title": "Revise",
       "rules": {
@@ -470,10 +470,10 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Word Warp": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Word Warp.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Word Warp.png",
     "spec": {
       "title": "Word Warp",
       "rules": {
@@ -487,10 +487,10 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Magic Trick": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Magic Trick.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Magic Trick.png",
     "spec": {
       "title": "Magic Trick",
       "rules": {
@@ -504,10 +504,10 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Polarize": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Polarize.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Polarize.png",
     "spec": {
       "title": "Polarize",
       "rules": {
@@ -522,10 +522,10 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "I've Had Enough": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/I've Had Enough.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/I've Had Enough.png",
     "spec": {
       "title": "I've Had Enough",
       "rules": {
@@ -540,10 +540,10 @@
         "boss-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Attrition": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Attrition.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Attrition.png",
     "spec": {
       "title": "Attrition",
       "rules": {
@@ -558,10 +558,10 @@
         "boss-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Take it Outside": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Take it Outside.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Take it Outside.png",
     "spec": {
       "title": "Take it Outside",
       "rules": {
@@ -576,10 +576,10 @@
         "boss-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Lunge": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Lunge.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lunge.png",
     "spec": {
       "title": "Lunge",
       "rules": {
@@ -593,10 +593,10 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Charge": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Charge.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Charge.png",
     "spec": {
       "title": "Charge",
       "rules": {
@@ -611,10 +611,10 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Teleport": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Teleport.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Teleport.png",
     "spec": {
       "title": "Teleport",
       "rules": {
@@ -628,10 +628,10 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Leopold's Door": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Leopold's Door.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Leopold's Door.png",
     "spec": {
       "title": "Leopold's Door",
       "rules": {
@@ -645,10 +645,10 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Queen's Gambit": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Queen's Gambit.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Queen's Gambit.png",
     "spec": {
       "title": "Queen's Gambit",
       "rules": {
@@ -662,10 +662,10 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Grapple": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Grapple.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Grapple.png",
     "spec": {
       "title": "Grapple",
       "rules": {
@@ -679,10 +679,10 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Platzfalt Step": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Platzfalt Step.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Platzfalt Step.png",
     "spec": {
       "title": "Platzfalt Step",
       "rules": {
@@ -696,10 +696,10 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Spice Rack": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spice Rack.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spice Rack.png",
     "spec": {
       "title": "Spice Rack",
       "rules": {
@@ -713,14 +713,14 @@
         "food"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Ambrosia": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ambrosia.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ambrosia.png",
     "spec": {
       "title": "Ambrosia",
       "rules": {
-        "text": "Summon a brick of Ambrosia. Any NPC who has tasted or smelt it before will find it irresistible."
+        "text": "Summon an irresistable brick of Ambrosia, food of the Gods."
       },
       "upgrade": null,
       "tier": "green",
@@ -730,10 +730,10 @@
         "food"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Positivity": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Positivity.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Positivity.png",
     "spec": {
       "title": "Positivity",
       "rules": {
@@ -747,10 +747,10 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Talk it Out": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Talk it Out.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Talk it Out.png",
     "spec": {
       "title": "Talk it Out",
       "rules": {
@@ -765,10 +765,10 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Timeout": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Timeout.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Timeout.png",
     "spec": {
       "title": "Timeout",
       "rules": {
@@ -782,10 +782,10 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Change of Heart": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Change of Heart.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Change of Heart.png",
     "spec": {
       "title": "Change of Heart",
       "rules": {
@@ -793,16 +793,16 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "All life is precious, even the lives of your enemies",
+      "flavour": "All life is precious, even the lives of your enemies.",
       "art_path": "res/art/illustration/Change of Heart.png",
       "tags": [
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Rue the Day": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rue the Day.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rue the Day.png",
     "spec": {
       "title": "Rue the Day",
       "rules": {
@@ -816,10 +816,10 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Shadow Strike": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Shadow Strike.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Shadow Strike.png",
     "spec": {
       "title": "Shadow Strike",
       "rules": {
@@ -834,10 +834,10 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Survival Instincts": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Survival Instincts.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Survival Instincts.png",
     "spec": {
       "title": "Survival Instincts",
       "rules": {
@@ -852,10 +852,10 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Boost": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Boost.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Boost.png",
     "spec": {
       "title": "Boost",
       "rules": {
@@ -869,10 +869,10 @@
         "greys"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/grey.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/grey.png"
   },
   "Shift": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Shift.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Shift.png",
     "spec": {
       "title": "Shift",
       "rules": {
@@ -886,10 +886,10 @@
         "greys"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/grey.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/grey.png"
   },
   "Fluster": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Fluster.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fluster.png",
     "spec": {
       "title": "Fluster",
       "rules": {
@@ -903,10 +903,10 @@
         "greys"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/grey.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/grey.png"
   },
   "Force": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Force.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Force.png",
     "spec": {
       "title": "Force",
       "rules": {
@@ -920,10 +920,10 @@
         "greys"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/grey.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/grey.png"
   },
   "Bean Blast": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bean Blast.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bean Blast.png",
     "spec": {
       "title": "Bean Blast",
       "rules": {
@@ -937,10 +937,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Anvil Drop": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Anvil Drop.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Anvil Drop.png",
     "spec": {
       "title": "Anvil Drop",
       "rules": {
@@ -948,16 +948,16 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "meep meep",
+      "flavour": "Meep-Meep.",
       "art_path": "res/art/illustration/Anvil Drop.png",
       "tags": [
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Sheriff's Roundup": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Sheriff's Roundup.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Sheriff's Roundup.png",
     "spec": {
       "title": "Sheriff's Roundup",
       "rules": {
@@ -971,10 +971,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Ancient Throwing Bola": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ancient Throwing Bola.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ancient Throwing Bola.png",
     "spec": {
       "title": "Ancient Throwing Bola",
       "rules": {
@@ -982,16 +982,16 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "\"Bolas are excellent for capturing large mammals, like my portly friend Steve\"",
+      "flavour": "Bolas are excellent for capturing large mammals, like my portly friend Steve",
       "art_path": "res/art/illustration/Ancient Throwing Bola.png",
       "tags": [
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Rolling Cart": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rolling Cart.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rolling Cart.png",
     "spec": {
       "title": "Rolling Cart",
       "rules": {
@@ -1005,10 +1005,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Empouched Earth": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Empouched Earth.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Empouched Earth.png",
     "spec": {
       "title": "Empouched Earth",
       "rules": {
@@ -1022,10 +1022,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Card Printer": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Card Printer.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Card Printer.png",
     "spec": {
       "title": "Card Printer",
       "rules": {
@@ -1039,10 +1039,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Somnomalum": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Somnomalum.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Somnomalum.png",
     "spec": {
       "title": "Somnomalum",
       "rules": {
@@ -1056,10 +1056,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Disappear": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Disappear.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Disappear.png",
     "spec": {
       "title": "Disappear",
       "rules": {
@@ -1067,16 +1067,16 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
+      "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while.",
       "art_path": "res/art/illustration/Disappear.png",
       "tags": [
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Exhaust": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Exhaust.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Exhaust.png",
     "spec": {
       "title": "Exhaust",
       "rules": {
@@ -1084,16 +1084,16 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Gregor the Delegator",
+      "flavour": "Man is born tired, and he lives to rest.",
       "art_path": "res/art/illustration/Exhaust.png",
       "tags": [
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Prison": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Prison.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Prison.png",
     "spec": {
       "title": "Prison",
       "rules": {
@@ -1107,10 +1107,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Porticostatic Hex": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Porticostatic Hex.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Porticostatic Hex.png",
     "spec": {
       "title": "Porticostatic Hex",
       "rules": {
@@ -1124,10 +1124,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Object Eject": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Object Eject.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Object Eject.png",
     "spec": {
       "title": "Object Eject",
       "rules": {
@@ -1141,10 +1141,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "The Ultimatum": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/The Ultimatum.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/The Ultimatum.png",
     "spec": {
       "title": "The Ultimatum",
       "rules": {
@@ -1158,10 +1158,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Where-Ware Charm": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Where-Ware Charm.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Where-Ware Charm.png",
     "spec": {
       "title": "Where-Ware Charm",
       "rules": {
@@ -1175,10 +1175,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Groundburst": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Groundburst.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Groundburst.png",
     "spec": {
       "title": "Groundburst",
       "rules": {
@@ -1192,10 +1192,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Bashbolster": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bashbolster.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bashbolster.png",
     "spec": {
       "title": "Bashbolster",
       "rules": {
@@ -1209,10 +1209,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Musty Musket": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Musty Musket.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Musty Musket.png",
     "spec": {
       "title": "Musty Musket",
       "rules": {
@@ -1226,10 +1226,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Smoke Bomb": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Smoke Bomb.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Smoke Bomb.png",
     "spec": {
       "title": "Smoke Bomb",
       "rules": {
@@ -1243,10 +1243,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Banana Peel": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Banana Peel.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Banana Peel.png",
     "spec": {
       "title": "Banana Peel",
       "rules": {
@@ -1260,10 +1260,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Poltergeist": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Poltergeist.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Poltergeist.png",
     "spec": {
       "title": "Poltergeist",
       "rules": {
@@ -1277,10 +1277,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Eidolimb": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Eidolimb.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Eidolimb.png",
     "spec": {
       "title": "Eidolimb",
       "rules": {
@@ -1294,10 +1294,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Espial Thread": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Espial Thread.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Espial Thread.png",
     "spec": {
       "title": "Espial Thread",
       "rules": {
@@ -1311,10 +1311,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Spectreblast": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spectreblast.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spectreblast.png",
     "spec": {
       "title": "Spectreblast",
       "rules": {
@@ -1328,10 +1328,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "PBJT": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/PBJT.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/PBJT.png",
     "spec": {
       "title": "PBJT",
       "rules": {
@@ -1345,10 +1345,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Locomotor Hex": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Locomotor Hex.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Locomotor Hex.png",
     "spec": {
       "title": "Locomotor Hex",
       "rules": {
@@ -1362,10 +1362,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Rime": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rime.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rime.png",
     "spec": {
       "title": "Rime",
       "rules": {
@@ -1379,14 +1379,14 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Akindle": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Akindle.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Akindle.png",
     "spec": {
       "title": "Akindle",
       "rules": {
-        "text": "Burst into flames along with anyone you're touching. 3d6 damage to each of you."
+        "text": "Burst into flames along with anyone you're touching."
       },
       "upgrade": null,
       "tier": "green",
@@ -1396,10 +1396,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Glacial Hand": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Glacial Hand.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Glacial Hand.png",
     "spec": {
       "title": "Glacial Hand",
       "rules": {
@@ -1413,10 +1413,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Pigeon Partner": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Pigeon Partner.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Pigeon Partner.png",
     "spec": {
       "title": "Pigeon Partner",
       "rules": {
@@ -1430,10 +1430,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Gloven Mitt": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Gloven Mitt.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Gloven Mitt.png",
     "spec": {
       "title": "Gloven Mitt",
       "rules": {
@@ -1447,10 +1447,10 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Blank Deed": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Blank Deed.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Blank Deed.png",
     "spec": {
       "title": "Blank Deed",
       "rules": {
@@ -1458,16 +1458,16 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "The gang battle of 2485 concluded after the mafioso purchased their fortress and had the police escort them to jail.",
+      "flavour": "Property is not the natural, obvious, and inevitable concept that most people think it is.",
       "art_path": "res/art/illustration/Blank Deed.png",
       "tags": [
         "story-changing-golds"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Heroic Inspiration": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Heroic Inspiration.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Heroic Inspiration.png",
     "spec": {
       "title": "Heroic Inspiration",
       "rules": {
@@ -1481,10 +1481,10 @@
         "story-changing-golds"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Wing It": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Wing It.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Wing It.png",
     "spec": {
       "title": "Wing It",
       "rules": {
@@ -1498,10 +1498,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Brainstorm": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Brainstorm.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Brainstorm.png",
     "spec": {
       "title": "Brainstorm",
       "rules": {
@@ -1515,10 +1515,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Spark of Inspiration": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spark of Inspiration.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spark of Inspiration.png",
     "spec": {
       "title": "Spark of Inspiration",
       "rules": {
@@ -1532,10 +1532,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Randomize": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Randomize.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Randomize.png",
     "spec": {
       "title": "Randomize",
       "rules": {
@@ -1549,10 +1549,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Grobble": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Grobble.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Grobble.png",
     "spec": {
       "title": "Grobble",
       "rules": {
@@ -1566,10 +1566,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Slipshod Sorcery": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Slipshod Sorcery.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Slipshod Sorcery.png",
     "spec": {
       "title": "Slipshod Sorcery",
       "rules": {
@@ -1583,10 +1583,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Spectrum Dance": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spectrum Dance.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spectrum Dance.png",
     "spec": {
       "title": "Spectrum Dance",
       "rules": {
@@ -1600,14 +1600,14 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Imitate": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Imitate.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Imitate.png",
     "spec": {
       "title": "Imitate",
       "rules": {
-        "text": "Copy the effect of the last blue cast by any character."
+        "text": "Copy the effect of the last blue cast by another player."
       },
       "upgrade": "Copy",
       "tier": "blue",
@@ -1617,14 +1617,14 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Copy": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Copy.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Copy.png",
     "spec": {
       "title": "Copy",
       "rules": {
-        "text": "Copy the effect of the last green cast by any character."
+        "text": "Copy the effect of the last green cast by another player."
       },
       "upgrade": "Master Mimic",
       "tier": "green",
@@ -1634,7 +1634,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Master Mimic": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Master Mimic.png",
@@ -1654,7 +1654,7 @@
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
   },
   "Reload": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Reload.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Reload.png",
     "spec": {
       "title": "Reload",
       "rules": {
@@ -1668,7 +1668,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Tactical Reload": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Tactical Reload.png",
@@ -1705,11 +1705,11 @@
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
   },
   "Adlib": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Adlib.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Adlib.png",
     "spec": {
       "title": "Adlib",
       "rules": {
-        "text": "Draw 3 greys."
+        "text": "Draw 3 greys"
       },
       "upgrade": "Improvise",
       "tier": "blue",
@@ -1719,10 +1719,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Improvise": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Improvise.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Improvise.png",
     "spec": {
       "title": "Improvise",
       "rules": {
@@ -1736,10 +1736,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Extemporize": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Extemporize.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Extemporize.png",
     "spec": {
       "title": "Extemporize",
       "rules": {
@@ -1753,10 +1753,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Helter-Skelter": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Helter-Skelter.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Helter-Skelter.png",
     "spec": {
       "title": "Helter-Skelter",
       "rules": {
@@ -1770,14 +1770,14 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Four-Leaf Clover": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Four-Leaf Clover.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Four-Leaf Clover.png",
     "spec": {
       "title": "Four-Leaf Clover",
       "rules": {
-        "text": "Draw 3 greens, face-up. Cast up to 3 and discard the rest."
+        "text": "Draw 3 greens, face-up. Cast 1 and discard the rest."
       },
       "upgrade": "Rabbit's Foot",
       "tier": "blue",
@@ -1787,14 +1787,14 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Rabbit's Foot": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Rabbit's Foot.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rabbit's Foot.png",
     "spec": {
       "title": "Rabbit's Foot",
       "rules": {
-        "text": "Draw 3 reds, face-up. Cast up to 3 and discard the rest."
+        "text": "Draw 3 reds, face-up. Cast 1 and discard the rest."
       },
       "upgrade": "Jackpot",
       "tier": "green",
@@ -1804,10 +1804,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Jackpot": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Jackpot.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Jackpot.png",
     "spec": {
       "title": "Jackpot",
       "rules": {
@@ -1821,10 +1821,10 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Quick Shot": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Quick Shot.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Quick Shot.png",
     "spec": {
       "title": "Quick Shot",
       "rules": {
@@ -1832,17 +1832,17 @@
       },
       "upgrade": "Empty the Clip",
       "tier": "blue",
-      "flavour": "Rebel assault rifles are equipped with manual and fully automatic firing modes.",
+      "flavour": "Even if they're already dead, a second shot doesn't hurt.",
       "art_path": "res/art/illustration/Quick Shot.png",
       "tags": [
         "npc",
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Empty the Clip": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Empty the Clip.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Empty the Clip.png",
     "spec": {
       "title": "Empty the Clip",
       "rules": {
@@ -1850,17 +1850,17 @@
       },
       "upgrade": "Suppression Maneuver",
       "tier": "green",
-      "flavour": "Rebel soldiers employ distraction devices to buy time to reload.",
+      "flavour": "Keep yourself entertained with this for a little while, I've got to reload.",
       "art_path": "res/art/illustration/Empty the Clip.png",
       "tags": [
         "npc",
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Suppression Maneuver": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Suppression Maneuver.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Suppression Maneuver.png",
     "spec": {
       "title": "Suppression Maneuver",
       "rules": {
@@ -1868,17 +1868,17 @@
       },
       "upgrade": "Bullet Rain",
       "tier": "red",
-      "flavour": "Rebel armies spare no expense when supplying their troops with ammunition.",
+      "flavour": "Though outnumbered, their opponents could never match Quasimodo's devastating aresnal.",
       "art_path": "res/art/illustration/Suppression Maneuver.png",
       "tags": [
         "npc",
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Bullet Rain": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Bullet Rain.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bullet Rain.png",
     "spec": {
       "title": "Bullet Rain",
       "rules": {
@@ -1886,17 +1886,17 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "Rebel squadrons are often mistaken for entire battalions due to the sheer amount of firepower.",
+      "flavour": "Hallways of long forgotten armories sprawl out before you, each weapon chanting out your name.",
       "art_path": "res/art/illustration/Bullet Rain.png",
       "tags": [
         "npc",
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Toss": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Toss.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Toss.png",
     "spec": {
       "title": "Toss",
       "rules": {
@@ -1910,10 +1910,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Throw": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Throw.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Throw.png",
     "spec": {
       "title": "Throw",
       "rules": {
@@ -1928,10 +1928,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Pitch": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Pitch.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Pitch.png",
     "spec": {
       "title": "Pitch",
       "rules": {
@@ -1946,10 +1946,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Launch": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Launch.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Launch.png",
     "spec": {
       "title": "Launch",
       "rules": {
@@ -1963,10 +1963,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Spark": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Spark.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spark.png",
     "spec": {
       "title": "Spark",
       "rules": {
@@ -1980,10 +1980,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Lightning Bolt": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Lightning Bolt.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lightning Bolt.png",
     "spec": {
       "title": "Lightning Bolt",
       "rules": {
@@ -1997,10 +1997,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Fork Lightning": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Fork Lightning.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fork Lightning.png",
     "spec": {
       "title": "Fork Lightning",
       "rules": {
@@ -2014,10 +2014,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Elektra's Siphon": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Elektra's Siphon.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Elektra's Siphon.png",
     "spec": {
       "title": "Elektra's Siphon",
       "rules": {
@@ -2031,10 +2031,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Ignite": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ignite.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ignite.png",
     "spec": {
       "title": "Ignite",
       "rules": {
@@ -2048,10 +2048,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Fireball": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Fireball.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fireball.png",
     "spec": {
       "title": "Fireball",
       "rules": {
@@ -2065,10 +2065,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Immolate": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Immolate.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Immolate.png",
     "spec": {
       "title": "Immolate",
       "rules": {
@@ -2082,10 +2082,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Terrestrial Sun": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Terrestrial Sun.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Terrestrial Sun.png",
     "spec": {
       "title": "Terrestrial Sun",
       "rules": {
@@ -2099,10 +2099,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Jump": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Jump.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Jump.png",
     "spec": {
       "title": "Jump",
       "rules": {
@@ -2116,10 +2116,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Leap": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Leap.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Leap.png",
     "spec": {
       "title": "Leap",
       "rules": {
@@ -2133,10 +2133,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Levitate": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Levitate.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Levitate.png",
     "spec": {
       "title": "Levitate",
       "rules": {
@@ -2150,14 +2150,15 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Ascend": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Ascend.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ascend.png",
     "spec": {
       "title": "Ascend",
       "rules": {
-        "text": "Jump as high as you want."
+        "passive": "Immune to damage from falling.",
+        "active": "Jump as high as you want."
       },
       "upgrade": null,
       "tier": "gold",
@@ -2167,10 +2168,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Moisten": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Moisten.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Moisten.png",
     "spec": {
       "title": "Moisten",
       "rules": {
@@ -2184,10 +2185,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Soak": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Soak.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Soak.png",
     "spec": {
       "title": "Soak",
       "rules": {
@@ -2201,10 +2202,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Drench": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Drench.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Drench.png",
     "spec": {
       "title": "Drench",
       "rules": {
@@ -2218,10 +2219,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Flood": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Flood.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Flood.png",
     "spec": {
       "title": "Flood",
       "rules": {
@@ -2235,10 +2236,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Hope": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Hope.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Hope.png",
     "spec": {
       "title": "Hope",
       "rules": {
@@ -2252,10 +2253,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Pray": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Pray.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Pray.png",
     "spec": {
       "title": "Pray",
       "rules": {
@@ -2269,10 +2270,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Preach": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Preach.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Preach.png",
     "spec": {
       "title": "Preach",
       "rules": {
@@ -2286,10 +2287,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Wish": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Wish.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Wish.png",
     "spec": {
       "title": "Wish",
       "rules": {
@@ -2303,10 +2304,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Cure": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Cure.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Cure.png",
     "spec": {
       "title": "Cure",
       "rules": {
@@ -2320,10 +2321,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Renew": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Renew.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Renew.png",
     "spec": {
       "title": "Renew",
       "rules": {
@@ -2338,10 +2339,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Reincarnate": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Reincarnate.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Reincarnate.png",
     "spec": {
       "title": "Reincarnate",
       "rules": {
@@ -2356,10 +2357,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Brace": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Brace.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Brace.png",
     "spec": {
       "title": "Brace",
       "rules": {
@@ -2373,10 +2374,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Reflect": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Reflect.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Reflect.png",
     "spec": {
       "title": "Reflect",
       "rules": {
@@ -2391,10 +2392,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Deflect": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Deflect.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Deflect.png",
     "spec": {
       "title": "Deflect",
       "rules": {
@@ -2408,10 +2409,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Golan's Idol": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Golan's Idol.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Golan's Idol.png",
     "spec": {
       "title": "Golan's Idol",
       "rules": {
@@ -2425,10 +2426,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Double Strike": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Double Strike.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Double Strike.png",
     "spec": {
       "title": "Double Strike",
       "rules": {
@@ -2442,10 +2443,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Quad Strike": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Quad Strike.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Quad Strike.png",
     "spec": {
       "title": "Quad Strike",
       "rules": {
@@ -2459,10 +2460,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Strike Storm": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Strike Storm.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Strike Storm.png",
     "spec": {
       "title": "Strike Storm",
       "rules": {
@@ -2476,10 +2477,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Endless Blows": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Endless Blows.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Endless Blows.png",
     "spec": {
       "title": "Endless Blows",
       "rules": {
@@ -2493,10 +2494,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Gust of Wind": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Gust of Wind.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Gust of Wind.png",
     "spec": {
       "title": "Gust of Wind",
       "rules": {
@@ -2510,10 +2511,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Gale": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Gale.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Gale.png",
     "spec": {
       "title": "Gale",
       "rules": {
@@ -2528,10 +2529,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
   "Wind Storm": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Wind Storm.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Wind Storm.png",
     "spec": {
       "title": "Wind Storm",
       "rules": {
@@ -2545,10 +2546,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
   "Hurricane": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Hurricane.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Hurricane.png",
     "spec": {
       "title": "Hurricane",
       "rules": {
@@ -2562,10 +2563,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   },
   "Barrier": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Barrier.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Barrier.png",
     "spec": {
       "title": "Barrier",
       "rules": {
@@ -2579,10 +2580,10 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
   },
   "Mirror Image": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Mirror Image.png",
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Mirror Image.png",
     "spec": {
       "title": "Mirror Image",
       "rules": {
@@ -2596,6 +2597,23 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+  },
+  "Bond": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bond.png",
+    "spec": {
+      "title": "Bond",
+      "rules": {
+        "text": "Cause a visible NPC to bond to you for life."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
+      "art_path": "res/art/illustration/Seduce.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
   }
 }

@@ -12,6 +12,7 @@ module Cardmaster
       Registry.add(->() { const_get(const) }, cmd)
     end
 
+    register :TabletopImport, 'tabletopImport', 'cardmaster/commands/tabletop_import'
     register :Query, 'query', 'cardmaster/commands/query'
     register :Generate, 'generate', 'cardmaster/commands/generate'
     register :Help,    'help',    'cardmaster/commands/help'
