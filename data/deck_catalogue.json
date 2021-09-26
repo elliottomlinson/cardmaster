@@ -28,5 +28,10 @@
     "tags": ["unique-1", "upgradeable-1", "druid", "movement", "social", "triggers", "weapons", "food"],
     "tiers": ["gold"],
     "min-count": 200
+  },
+  {
+    "name": "character-prompts",
+    "tags": ["unique-1", "upgradeable-1", "druid", "movement", "social", "triggers", "weapons", "food"],
+    "tiers": ["green"]
   }
 ]

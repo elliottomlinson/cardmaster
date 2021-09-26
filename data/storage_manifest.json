@@ -336,23 +336,6 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
   },
-  "Seduce": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Seduce.png",
-    "spec": {
-      "title": "Seduce",
-      "rules": {
-        "text": "Force any NPC you can name to act on their desire for you."
-      },
-      "upgrade": null,
-      "tier": "gold",
-      "flavour": "Here I am - Your other two wishes?",
-      "art_path": "res/art/illustration/Seduce.png",
-      "tags": [
-        "social"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/gold.png"
-  },
   "Commune": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Commune.png",
     "spec": {
@@ -1636,23 +1619,6 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
   },
-  "Master Mimic": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Master Mimic.png",
-    "spec": {
-      "title": "Master Mimic",
-      "rules": {
-        "text": "Copy the effect of the last red cast by any character."
-      },
-      "upgrade": null,
-      "tier": "red",
-      "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, Revered Pirate and Thief",
-      "art_path": "res/art/illustration/Master Mimic.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
-  },
   "Reload": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Reload.png",
     "spec": {
@@ -1669,40 +1635,6 @@
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
-  },
-  "Tactical Reload": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Tactical Reload.png",
-    "spec": {
-      "title": "Tactical Reload",
-      "rules": {
-        "text": "Return a green you've cast to your hand."
-      },
-      "upgrade": "Cowboy Reload",
-      "tier": "green",
-      "flavour": "Wanna see me do it again?",
-      "art_path": "res/art/illustration/Tactical Reload.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/green.png"
-  },
-  "Cowboy Reload": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/generated/Cowboy Reload.png",
-    "spec": {
-      "title": "Cowboy Reload",
-      "rules": {
-        "text": "Return a red you've cast to your hand."
-      },
-      "upgrade": "Expert Reload",
-      "tier": "red",
-      "flavour": "Cowboys only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
-      "art_path": "res/art/illustration/Cowboy Reload.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/rpcg/master/res/card/back/red.png"
   },
   "Adlib": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Adlib.png",

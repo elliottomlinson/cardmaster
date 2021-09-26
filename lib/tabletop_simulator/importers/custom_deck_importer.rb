@@ -35,7 +35,9 @@ module TabletopSimulator
           end
 
           # Copy the deck until we hit the minimum length requirement
-          applicable_cards *= min_count/applicable_cards.length + 1
+          unless min_count.nil?
+            applicable_cards *= min_count/applicable_cards.length + 1
+          end
 
           save_deck(
             TabletopSimulator::Models::Object.new(
