@@ -143,19 +143,6 @@
     }
   },
   {
-    "title": "Word Warp",
-    "upgrade": null,
-    "tier": "blue",
-    "details": {
-      "rules": {
-        "active": "Swap two words in an NPC's vocabulary. They will not be aware of the effect, which lasts for a day.",
-        "passive": null
-      },
-      "flavour": "",
-      "image": "res/art/illustration/Word Warp.png"
-    }
-  },
-  {
     "title": "Magic Trick",
     "upgrade": null,
     "tier": "red",
