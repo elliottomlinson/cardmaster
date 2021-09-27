@@ -408,7 +408,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Make up to two instant attacks.",
+        "active": "Make two instant attacks.",
         "passive": null
       },
       "flavour": "The first blow shatters their defenses, the next their spirit.",
@@ -421,7 +421,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Make up to four instant attacks",
+        "active": "Make four instant attacks",
         "passive": null
       },
       "flavour": "Their defense won't last forever. Strike, and strike again.",
