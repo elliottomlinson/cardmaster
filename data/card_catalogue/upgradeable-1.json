@@ -60,7 +60,7 @@
         "active": "Deal 3 damage to a visible character with a painful bolt of electricity",
         "passive": null
       },
-      "flavour": "A smile costs less than electricity, but gives much light",
+      "flavour": "A spark is a little thing, yet it may kindle the world.",
       "image": "res/art/illustration/Spark.png"
     }
   },
@@ -408,20 +408,20 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "You can attack two additional times on your turn.",
+        "active": "Make two instant attacks.",
         "passive": null
       },
-      "flavour": "Before they even realized what happened, another punch sent them flying.",
+      "flavour": "The first blow shatters their defenses, the next their spirit.",
       "image": "res/art/illustration/Double Strike.png"
     }
   },
   {
     "title": "Quad Strike",
-    "upgrade": "Strike Storm",
+    "upgrade": "Endless Blows",
     "tier": "green",
     "details": {
       "rules": {
-        "active": "You can attack four additional times on your turn.",
+        "active": "Make four instant attacks",
         "passive": null
       },
       "flavour": "Their defense won't last forever. Strike, and strike again.",
@@ -429,28 +429,15 @@
     }
   },
   {
-    "title": "Strike Storm",
-    "upgrade": "Endless blows",
+    "title": "Endless Blows",
+    "upgrade": "",
     "tier": "red",
     "details": {
       "rules": {
-        "active": "You can make twice times as many attacks as you otherwise would on your turn.",
+        "active": "Take X damage. Make X instant attacks",
         "passive": null
       },
-      "flavour": "Every fighter has gaps between attacks which can be exploited. Just make sure to take them after your opponent is dead.",
-      "image": "res/art/illustration/Strike Storm.png"
-    }
-  },
-  {
-    "title": "Endless Blows",
-    "upgrade": null,
-    "tier": "gold",
-    "details": {
-      "rules": {
-        "active": "Take X damage. You can attack X times on your turn.",
-        "passive": null
-      },
-      "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs.",
+      "flavour": "An endless fractal of striking limbs",
       "image": "res/art/illustration/Endless Blows.png"
     }
   },
