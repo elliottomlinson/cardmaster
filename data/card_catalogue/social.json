@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Causes a visible NPC to like you.",
+        "active": "Cause a visible NPC to like you.",
         "passive": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
@@ -112,7 +112,7 @@
         "active": "Target NPC will believe your next statement.",
         "passive": null
       },
-      "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
+      "flavour": "A lie travels half way around the world before the truth is putting on its shoes.",
       "image": "res/art/illustration/Lie.png"
     }
   },
@@ -138,7 +138,7 @@
         "active": "Rewrite the contents of an NPC's memory.",
         "passive": null
       },
-      "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
+      "flavour": "Nothing is ever lost to us as long as we remember it.",
       "image": "res/art/illustration/Revise.png"
     }
   },
@@ -151,17 +151,17 @@
         "active": "Swap two words in an NPC's vocabulary. They will not be aware of the effect, which lasts for a day.",
         "passive": null
       },
-      "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
+      "flavour": "",
       "image": "res/art/illustration/Word Warp.png"
     }
   },
   {
     "title": "Magic Trick",
     "upgrade": null,
-    "tier": "green",
+    "tier": "red",
     "details": {
       "rules": {
-        "active": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice.",
+        "active": "An aura surrounds you. NPCs believe this spell had the effect of your choice.",
         "passive": null
       },
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",

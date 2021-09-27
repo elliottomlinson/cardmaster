@@ -9,11 +9,11 @@ module Cardmaster
 
       MANIFEST_PATH = "data/storage_manifest.json"
       CARD_BACKS = {
-        grey: "res/card/back/grey.png",
-        blue: "res/card/back/blue.png",
-        green: "res/card/back/green.png",
-        red: "res/card/back/red.png",
-        gold: "res/card/back/gold.png"
+        grey: "res/art/back/grey.png",
+        blue: "res/art/back/blue.png",
+        green: "res/art/back/green.png",
+        red: "res/art/back/red.png",
+        gold: "res/art/back/gold.png"
       }.freeze
       DEFAULT_TEMPLATE = "res/card/template/default.html"
       PASSIVE_TEMPLATE = "res/card/template/passive.html"

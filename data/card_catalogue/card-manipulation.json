@@ -78,25 +78,12 @@
     }
   },
   {
-    "title": "Spectrum Dance",
-    "upgrade": null,
-    "tier": "gold",
-    "details": {
-      "rules": {
-        "active":"Draw 5 cards of each rarity, face-up. Cast one of each rarity and discard the rest.",
-        "passive": null
-      },
-      "flavour": "The greatest plans begin with simple tactics.",
-      "image": "res/art/illustration/Spectrum Dance.png"
-    }
-  },
-  {
     "title": "Imitate",
     "upgrade": "Copy",
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last blue cast by another player.",
+        "active": "Choose a blue card in another player's hand. This card has the same effect as that card.",
         "passive": null
       },
       "flavour": "This is how stupid you look, watch this.",
@@ -105,28 +92,15 @@
   },
   {
     "title": "Copy",
-    "upgrade": "Master Mimic",
+    "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last green cast by another player.",
+        "active": "Choose a green card in another player's hand. This card has the same effect as that card.",
         "passive": null
       },
       "flavour": "Stop copying me. Stop copying me.",
       "image": "res/art/illustration/Copy.png"
-    }
-  },
-  {
-    "title": "Reload",
-    "upgrade": "Tactical Reload",
-    "tier": "blue",
-    "details": {
-      "rules": {
-        "active": "Return a blue you've cast to your hand.",
-        "passive": null
-      },
-      "flavour": "Don't retreat, reload.",
-      "image": "res/art/illustration/Reload.png"
     }
   },
   {

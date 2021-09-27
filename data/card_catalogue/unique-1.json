@@ -305,7 +305,7 @@
     "details": {
       "rules": {
         "active": "Fire a cannonball at a target of your choice.",
-        "passive": null
+        "passive": "You're surrounded by a ghostly aura."
       },
       "flavour": "Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
       "image": "res/art/illustration/Spectreblast.png"
