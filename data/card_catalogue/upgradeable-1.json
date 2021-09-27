@@ -331,9 +331,9 @@
     "details": {
       "rules": {
         "active": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
-        "passive": "You are 3 feet taller."
+        "passive": null 
       },
-      "flavour": "\"I hope you don't mind if I make some improvements while I'm in here\" - Dr. Reichthardt, Orthopedic Surgeon",
+      "flavour": "I hope you don't mind if I make some improvements while I'm in here",
       "image": "res/art/illustration/Renew.png"
     }
   },
@@ -382,7 +382,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker",
+        "active": "The next amount of damage dealt to you is also dealt to your attacker instead.",
         "passive": null
       },
       "flavour": "I am rubber, and you are glue.",
