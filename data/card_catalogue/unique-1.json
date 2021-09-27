@@ -177,7 +177,7 @@
         "active": "Summon a rigged pair of dice which you can control with your mind.",
         "passive": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure." 
       },
-      "flavour": "",
+      "flavour": "Whomever lives, gambles with life.",
       "image": "res/art/illustration/The Ultimatum.png"
     }
   },
