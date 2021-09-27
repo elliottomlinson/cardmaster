@@ -73,7 +73,7 @@
         "active": "Cast a handful of sand and pocket lint into the air before you.",
         "passive": null
       },
-      "flavour": "Good for blinding a close range target.",
+      "flavour": "In total war, all tactics are acceptable.",
       "image": "res/art/illustration/Empouched Earth.png"
     }
   },
@@ -169,15 +169,15 @@
     }
   },
   {
-    "title": "The Ultimatum",
+    "title": "The Gambler",
     "upgrade": null,
-    "tier": "blue",
+    "tier": "green",
     "details": {
       "rules": {
-        "active": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
-        "passive": null
+        "active": "Summon a rigged pair of dice.",
+        "passive": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure." 
       },
-      "flavour": "\"I will never abide by absolutes\" - Leopold the Oppugnant",
+      "flavour": "",
       "image": "res/art/illustration/The Ultimatum.png"
     }
   },
@@ -320,7 +320,7 @@
         "active": "Apply a sandwich to the face of a visible character.",
         "passive": null
       },
-      "flavour": "After taking a sandwich to the face from one of his men, Colonel Kudzo was forced to retire, effective immediately",
+      "flavour": "Indignity defeats the spirit, and the body is soon to follow",
       "image": "res/art/illustration/PBJT.png"
     }
   },
