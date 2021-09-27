@@ -73,7 +73,7 @@
         "active": "Cast a handful of sand and pocket lint into the air before you.",
         "passive": null
       },
-      "flavour": "Good for blinding a close range target.",
+      "flavour": "In total war, all tactics are acceptable.",
       "image": "res/art/illustration/Empouched Earth.png"
     }
   },
@@ -138,7 +138,7 @@
         "active": "Choose X up to 5. A boundary, impenetrable from within, is placed X metres away from you in all directions as long as you'd like",
         "passive": null
       },
-      "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
+      "flavour": "After years of living in a cage, a lion no longer believes it is a lion.",
       "image": "res/art/illustration/Prison.png"
     }
   },
@@ -169,15 +169,15 @@
     }
   },
   {
-    "title": "The Ultimatum",
+    "title": "The Gambler",
     "upgrade": null,
-    "tier": "blue",
+    "tier": "green",
     "details": {
       "rules": {
-        "active": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
-        "passive": null
+        "active": "Summon a rigged pair of dice which you can control with your mind.",
+        "passive": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure." 
       },
-      "flavour": "\"I will never abide by absolutes\" - Leopold the Oppugnant",
+      "flavour": "Whomever lives, gambles with life.",
       "image": "res/art/illustration/The Ultimatum.png"
     }
   },
@@ -320,7 +320,7 @@
         "active": "Apply a sandwich to the face of a visible character.",
         "passive": null
       },
-      "flavour": "After taking a sandwich to the face from one of his men, Colonel Kudzo was forced to retire, effective immediately",
+      "flavour": "Indignity defeats the spirit, and the body is soon to follow",
       "image": "res/art/illustration/PBJT.png"
     }
   },
