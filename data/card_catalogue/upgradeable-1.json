@@ -175,7 +175,7 @@
     "details": {
       "rules": {
         "active": "Jump 25 metres into the air.",
-        "passive": null
+        "passive": "Take no damage from falling."
       },
       "flavour": "Sometimes all you need is a big leap of faith.",
       "image": "res/art/illustration/Leap.png"
