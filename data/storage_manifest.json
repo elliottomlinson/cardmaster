@@ -134,8 +134,8 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Yeah I'm into tech, into smashing it up that is",
-      "art_path": "res/art/illustration/Ouphe's Aura.png",
+      "flavour": "Yeah, I'm into tech, into smashing it up that is.",
+      "art_path": "res/art/illustration/Ouphe_s Aura.png",
       "tags": [
         "druid"
       ]
@@ -455,23 +455,6 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
-  "Word Warp": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Word Warp.png",
-    "spec": {
-      "title": "Word Warp",
-      "rules": {
-        "text": "Swap two words in an NPC's vocabulary. They will not be aware of the effect, which lasts for a day."
-      },
-      "upgrade": null,
-      "tier": "blue",
-      "flavour": "",
-      "art_path": "res/art/illustration/Word Warp.png",
-      "tags": [
-        "social"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
-  },
   "Magic Trick": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Magic Trick.png",
     "spec": {
@@ -517,7 +500,7 @@
       "upgrade": "none",
       "tier": "gold",
       "flavour": "See you next fall!",
-      "art_path": "res/art/illustration/I've Had Enough.png",
+      "art_path": "res/art/illustration/I_ve Had Enough.png",
       "tags": [
         "boss",
         "boss-generic"
@@ -623,7 +606,7 @@
       "upgrade": null,
       "tier": "gold",
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
-      "art_path": "res/art/illustration/Leopold's Door.png",
+      "art_path": "res/art/illustration/Leopold_s Door.png",
       "tags": [
         "movement"
       ]
@@ -640,7 +623,7 @@
       "upgrade": null,
       "tier": "red",
       "flavour": "Checkmate",
-      "art_path": "res/art/illustration/Queen's Gambit.png",
+      "art_path": "res/art/illustration/Queen_s Gambit.png",
       "tags": [
         "movement"
       ]
@@ -948,8 +931,8 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "\"Always drink upstream from the herd\" - The Sheriff",
-      "art_path": "res/art/illustration/Sheriff's Roundup.png",
+      "flavour": "Always drink upstream from the herd",
+      "art_path": "res/art/illustration/Sheriff_s Roundup.png",
       "tags": [
         "unique-1"
       ]
@@ -1271,8 +1254,8 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "Mob hideouts are often mysteriously empty when the Cops arrive to perform arrests",
-      "art_path": "res/art/illustration/Tripwire Charm.png",
+      "flavour": "Even if the bird flies high in the sky, the hunter places his trap on the ground.",
+      "art_path": "res/art/illustration/Espial Thread.png",
       "tags": [
         "unique-1"
       ]
@@ -1681,7 +1664,7 @@
       "upgrade": "Jackpot",
       "tier": "green",
       "flavour": "I might be able to pull it off - but just this once.",
-      "art_path": "res/art/illustration/Rabbit's Foot.png",
+      "art_path": "res/art/illustration/Rabbit_s Foot.png",
       "tags": [
         "card-manipulation"
       ]
@@ -1823,7 +1806,7 @@
       "upgrade": "Launch",
       "tier": "red",
       "flavour": "I want this thing gone, understand? I want to never see it again.",
-      "art_path": "res/art/illustration/Pitch.png",
+      "art_path": "res/art/illustration/Launch.png",
       "tags": [
         "upgradeable-1"
       ]
@@ -1908,7 +1891,7 @@
       "upgrade": null,
       "tier": "gold",
       "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
-      "art_path": "res/art/illustration/Elektra's Siphon.png",
+      "art_path": "res/art/illustration/Elektra_s Siphon.png",
       "tags": [
         "upgradeable-1"
       ]
@@ -2286,7 +2269,7 @@
       "upgrade": "Reflect",
       "tier": "gold",
       "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5-Year-Old Jacob, Yellow Belt",
-      "art_path": "res/art/illustration/Golan's Idol.png",
+      "art_path": "res/art/illustration/Golan_s Idol.png",
       "tags": [
         "upgradeable-1"
       ]
@@ -2326,23 +2309,6 @@
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
-  "Strike Storm": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Strike Storm.png",
-    "spec": {
-      "title": "Strike Storm",
-      "rules": {
-        "text": "You can make twice times as many attacks as you otherwise would on your turn."
-      },
-      "upgrade": "Endless blows",
-      "tier": "red",
-      "flavour": "Every fighter has gaps between attacks which can be exploited. Just make sure to take them after your opponent is dead.",
-      "art_path": "res/art/illustration/Strike Storm.png",
-      "tags": [
-        "upgradeable-1"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Endless Blows": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Endless Blows.png",

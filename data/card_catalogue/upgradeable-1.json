@@ -35,7 +35,7 @@
         "passive": "Advantage when catching."
       },
       "flavour": "I want this thing gone, understand? I want to never see it again.",
-      "image": "res/art/illustration/Pitch.png"
+      "image": "res/art/illustration/Launch.png"
     }
   },
   {
@@ -100,7 +100,7 @@
         "passive": null
       },
       "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
-      "image": "res/art/illustration/Elektra's Siphon.png"
+      "image": "res/art/illustration/Elektra_s Siphon.png"
     }
   },
   {
@@ -399,7 +399,7 @@
         "passive": null
       },
       "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5-Year-Old Jacob, Yellow Belt",
-      "image": "res/art/illustration/Golan's Idol.png"
+      "image": "res/art/illustration/Golan_s Idol.png"
     }
   },
   {

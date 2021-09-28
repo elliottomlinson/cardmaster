@@ -34,8 +34,8 @@
         "active": "Choose a visible article of clothing. A snake appears inside of it.",
         "passive": null
       },
-      "flavour": "\"Always drink upstream from the herd\" - The Sheriff",
-      "image": "res/art/illustration/Sheriff's Roundup.png"
+      "flavour": "Always drink upstream from the herd",
+      "image": "res/art/illustration/Sheriff_s Roundup.png"
     }
   },
   {
@@ -294,8 +294,8 @@
         "active": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
         "passive": null
       },
-      "flavour": "Mob hideouts are often mysteriously empty when the Cops arrive to perform arrests",
-      "image": "res/art/illustration/Tripwire Charm.png"
+      "flavour": "Even if the bird flies high in the sky, the hunter places his trap on the ground.",
+      "image": "res/art/illustration/Espial Thread.png"
     }
   },
   {
