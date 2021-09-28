@@ -15,7 +15,7 @@
         "hatred-series"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Bar": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bar.png",
@@ -33,7 +33,7 @@
         "hatred-series"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Untimely Death": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Untimely Death.png",
@@ -50,7 +50,7 @@
         "story-changing-golds"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Field Medicine": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Field Medicine.png",
@@ -68,7 +68,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Rodent Whisperer": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rodent Whisperer.png",
@@ -86,7 +86,7 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Avian Spirit": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Avian Spirit.png",
@@ -104,7 +104,7 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Swarm": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Swarm.png",
@@ -122,7 +122,7 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Ouphe's Aura": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ouphe's Aura.png",
@@ -140,7 +140,7 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Equestrian": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Equestrian.png",
@@ -158,7 +158,7 @@
         "druid"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Bow Hex": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bow Hex.png",
@@ -176,7 +176,7 @@
         "weapons"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Sword Hex": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Sword Hex.png",
@@ -194,7 +194,7 @@
         "weapons"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Slingshot": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Slingshot.png",
@@ -212,7 +212,7 @@
         "weapons"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Zop": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Zop.png",
@@ -229,7 +229,7 @@
         "demo"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Paz": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Paz.png",
@@ -247,7 +247,7 @@
         "demo"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Lover Fatale": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lover Fatale.png",
@@ -265,7 +265,7 @@
         "triggers"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Infamous": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Infamous.png",
@@ -283,7 +283,7 @@
         "triggers"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Flirt": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Flirt.png",
@@ -300,14 +300,14 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Charm": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Charm.png",
     "spec": {
       "title": "Charm",
       "rules": {
-        "text": "Causes a visible NPC to like you."
+        "text": "Cause a visible NPC to like you."
       },
       "upgrade": "Arouse",
       "tier": "green",
@@ -317,7 +317,7 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Arouse": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Arouse.png",
@@ -334,7 +334,7 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Commune": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Commune.png",
@@ -351,7 +351,7 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Seance": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Seance.png",
@@ -368,7 +368,7 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Apologize": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Apologize.png",
@@ -385,7 +385,7 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Distract": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Distract.png",
@@ -402,7 +402,7 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Lie": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lie.png",
@@ -413,13 +413,13 @@
       },
       "upgrade": "Disguise",
       "tier": "green",
-      "flavour": "\"Yeah of course I did my homework\" - Little Sniver",
+      "flavour": "A lie travels half way around the world before the truth is putting on its shoes.",
       "art_path": "res/art/illustration/Lie.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Disguise": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Disguise.png",
@@ -436,7 +436,7 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Revise": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Revise.png",
@@ -447,13 +447,13 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "\"I'm at the end of my rope. I am done with homework. I will simply erase homework from the memory of the people\" - Little Sniver",
+      "flavour": "Nothing is ever lost to us as long as we remember it.",
       "art_path": "res/art/illustration/Revise.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Word Warp": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Word Warp.png",
@@ -464,30 +464,30 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "\"You cannot escape the responsibility of tomorrow by evading it today.\" - Edward the Lax",
+      "flavour": "",
       "art_path": "res/art/illustration/Word Warp.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Magic Trick": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Magic Trick.png",
     "spec": {
       "title": "Magic Trick",
       "rules": {
-        "text": "An aura surrounds you. NPCs who fail a perception check believe this spell had the effect of your choice."
+        "text": "An aura surrounds you. NPCs believe this spell had the effect of your choice."
       },
       "upgrade": null,
-      "tier": "green",
+      "tier": "red",
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
       "art_path": "res/art/illustration/Magic Trick.png",
       "tags": [
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Polarize": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Polarize.png",
@@ -505,7 +505,7 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "I've Had Enough": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/I've Had Enough.png",
@@ -523,7 +523,7 @@
         "boss-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Attrition": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Attrition.png",
@@ -541,7 +541,7 @@
         "boss-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Take it Outside": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Take it Outside.png",
@@ -559,7 +559,7 @@
         "boss-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Lunge": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lunge.png",
@@ -576,7 +576,7 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Charge": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Charge.png",
@@ -594,7 +594,7 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Teleport": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Teleport.png",
@@ -611,7 +611,7 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Leopold's Door": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Leopold's Door.png",
@@ -628,7 +628,7 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Queen's Gambit": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Queen's Gambit.png",
@@ -645,7 +645,7 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Grapple": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Grapple.png",
@@ -662,7 +662,7 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Platzfalt Step": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Platzfalt Step.png",
@@ -679,7 +679,7 @@
         "movement"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Spice Rack": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spice Rack.png",
@@ -696,7 +696,7 @@
         "food"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Ambrosia": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ambrosia.png",
@@ -713,7 +713,7 @@
         "food"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Positivity": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Positivity.png",
@@ -730,7 +730,7 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Talk it Out": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Talk it Out.png",
@@ -742,13 +742,13 @@
       },
       "upgrade": "Timeout",
       "tier": "green",
-      "flavour": "\"I guess, in a way, I've just been trying to impress my old man this whole time\" - Brutus the Bloody Impaler",
+      "flavour": "",
       "art_path": "res/art/illustration/Talk it Out.png",
       "tags": [
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Timeout": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Timeout.png",
@@ -765,7 +765,7 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Change of Heart": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Change of Heart.png",
@@ -782,7 +782,7 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Rue the Day": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rue the Day.png",
@@ -799,7 +799,7 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Shadow Strike": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Shadow Strike.png",
@@ -817,7 +817,7 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Survival Instincts": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Survival Instincts.png",
@@ -835,7 +835,7 @@
         "anger"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Boost": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Boost.png",
@@ -852,7 +852,7 @@
         "greys"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/grey.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/grey.png"
   },
   "Shift": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Shift.png",
@@ -869,7 +869,7 @@
         "greys"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/grey.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/grey.png"
   },
   "Fluster": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fluster.png",
@@ -886,7 +886,7 @@
         "greys"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/grey.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/grey.png"
   },
   "Force": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Force.png",
@@ -903,7 +903,7 @@
         "greys"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/grey.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/grey.png"
   },
   "Bean Blast": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bean Blast.png",
@@ -920,7 +920,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Anvil Drop": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Anvil Drop.png",
@@ -937,7 +937,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Sheriff's Roundup": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Sheriff's Roundup.png",
@@ -954,7 +954,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Ancient Throwing Bola": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ancient Throwing Bola.png",
@@ -971,7 +971,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Rolling Cart": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rolling Cart.png",
@@ -988,7 +988,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Empouched Earth": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Empouched Earth.png",
@@ -999,13 +999,13 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "Good for blinding a close range target.",
+      "flavour": "In total war, all tactics are acceptable.",
       "art_path": "res/art/illustration/Empouched Earth.png",
       "tags": [
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Card Printer": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Card Printer.png",
@@ -1022,7 +1022,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Somnomalum": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Somnomalum.png",
@@ -1039,7 +1039,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Disappear": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Disappear.png",
@@ -1056,7 +1056,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Exhaust": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Exhaust.png",
@@ -1073,7 +1073,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Prison": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Prison.png",
@@ -1084,13 +1084,13 @@
       },
       "upgrade": null,
       "tier": "red",
-      "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
+      "flavour": "After years of living in a cage, a lion no longer believes it is a lion.",
       "art_path": "res/art/illustration/Prison.png",
       "tags": [
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Porticostatic Hex": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Porticostatic Hex.png",
@@ -1107,7 +1107,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Object Eject": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Object Eject.png",
@@ -1124,24 +1124,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
-  },
-  "The Ultimatum": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/The Ultimatum.png",
-    "spec": {
-      "title": "The Ultimatum",
-      "rules": {
-        "text": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure."
-      },
-      "upgrade": null,
-      "tier": "blue",
-      "flavour": "\"I will never abide by absolutes\" - Leopold the Oppugnant",
-      "art_path": "res/art/illustration/The Ultimatum.png",
-      "tags": [
-        "unique-1"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Where-Ware Charm": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Where-Ware Charm.png",
@@ -1158,7 +1141,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Groundburst": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Groundburst.png",
@@ -1175,7 +1158,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Bashbolster": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bashbolster.png",
@@ -1192,7 +1175,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Musty Musket": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Musty Musket.png",
@@ -1209,7 +1192,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Smoke Bomb": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Smoke Bomb.png",
@@ -1226,7 +1209,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Banana Peel": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Banana Peel.png",
@@ -1243,7 +1226,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Poltergeist": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Poltergeist.png",
@@ -1260,7 +1243,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Eidolimb": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Eidolimb.png",
@@ -1277,7 +1260,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Espial Thread": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Espial Thread.png",
@@ -1294,14 +1277,15 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Spectreblast": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spectreblast.png",
     "spec": {
       "title": "Spectreblast",
       "rules": {
-        "text": "Fire a cannonball at a target of your choice."
+        "passive": "You're surrounded by a ghostly aura.",
+        "active": "Fire a cannonball at a target of your choice."
       },
       "upgrade": null,
       "tier": "green",
@@ -1311,7 +1295,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "PBJT": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/PBJT.png",
@@ -1322,13 +1306,13 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "After taking a sandwich to the face from one of his men, Colonel Kudzo was forced to retire, effective immediately",
+      "flavour": "Indignity defeats the spirit, and the body is soon to follow",
       "art_path": "res/art/illustration/PBJT.png",
       "tags": [
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Locomotor Hex": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Locomotor Hex.png",
@@ -1345,7 +1329,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Rime": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rime.png",
@@ -1362,7 +1346,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Akindle": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Akindle.png",
@@ -1379,7 +1363,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Glacial Hand": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Glacial Hand.png",
@@ -1396,7 +1380,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Pigeon Partner": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Pigeon Partner.png",
@@ -1413,7 +1397,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Gloven Mitt": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Gloven Mitt.png",
@@ -1430,7 +1414,7 @@
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Blank Deed": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Blank Deed.png",
@@ -1447,7 +1431,7 @@
         "story-changing-golds"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Heroic Inspiration": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Heroic Inspiration.png",
@@ -1464,7 +1448,7 @@
         "story-changing-golds"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Wing It": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Wing It.png",
@@ -1481,7 +1465,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Brainstorm": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Brainstorm.png",
@@ -1498,7 +1482,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Spark of Inspiration": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spark of Inspiration.png",
@@ -1515,7 +1499,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Randomize": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Randomize.png",
@@ -1532,7 +1516,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Grobble": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Grobble.png",
@@ -1549,7 +1533,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Slipshod Sorcery": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Slipshod Sorcery.png",
@@ -1566,31 +1550,14 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
-  },
-  "Spectrum Dance": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spectrum Dance.png",
-    "spec": {
-      "title": "Spectrum Dance",
-      "rules": {
-        "text": "Draw 5 cards of each rarity, face-up. Cast one of each rarity and discard the rest."
-      },
-      "upgrade": null,
-      "tier": "gold",
-      "flavour": "The greatest plans begin with simple tactics.",
-      "art_path": "res/art/illustration/Spectrum Dance.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Imitate": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Imitate.png",
     "spec": {
       "title": "Imitate",
       "rules": {
-        "text": "Copy the effect of the last blue cast by another player."
+        "text": "Choose a blue card in another player's hand. This card has the same effect as that card."
       },
       "upgrade": "Copy",
       "tier": "blue",
@@ -1600,16 +1567,16 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Copy": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Copy.png",
     "spec": {
       "title": "Copy",
       "rules": {
-        "text": "Copy the effect of the last green cast by another player."
+        "text": "Choose a green card in another player's hand. This card has the same effect as that card."
       },
-      "upgrade": "Master Mimic",
+      "upgrade": null,
       "tier": "green",
       "flavour": "Stop copying me. Stop copying me.",
       "art_path": "res/art/illustration/Copy.png",
@@ -1617,24 +1584,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
-  },
-  "Reload": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Reload.png",
-    "spec": {
-      "title": "Reload",
-      "rules": {
-        "text": "Return a blue you've cast to your hand."
-      },
-      "upgrade": "Tactical Reload",
-      "tier": "blue",
-      "flavour": "Don't retreat, reload.",
-      "art_path": "res/art/illustration/Reload.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Adlib": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Adlib.png",
@@ -1651,7 +1601,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Improvise": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Improvise.png",
@@ -1668,7 +1618,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Extemporize": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Extemporize.png",
@@ -1685,7 +1635,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Helter-Skelter": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Helter-Skelter.png",
@@ -1702,7 +1652,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Four-Leaf Clover": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Four-Leaf Clover.png",
@@ -1719,7 +1669,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Rabbit's Foot": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Rabbit's Foot.png",
@@ -1736,14 +1686,14 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Jackpot": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Jackpot.png",
     "spec": {
       "title": "Jackpot",
       "rules": {
-        "text": "Draw 3 greens, face-up. Cast 1 and discard the rest."
+        "text": "Draw 3 golds, face-up. Cast 1 and discard the rest."
       },
       "upgrade": null,
       "tier": "red",
@@ -1753,7 +1703,7 @@
         "card-manipulation"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Quick Shot": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Quick Shot.png",
@@ -1771,7 +1721,7 @@
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Empty the Clip": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Empty the Clip.png",
@@ -1789,7 +1739,7 @@
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Suppression Maneuver": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Suppression Maneuver.png",
@@ -1807,7 +1757,7 @@
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Bullet Rain": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bullet Rain.png",
@@ -1825,7 +1775,7 @@
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Toss": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Toss.png",
@@ -1842,7 +1792,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Throw": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Throw.png",
@@ -1860,7 +1810,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Pitch": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Pitch.png",
@@ -1878,7 +1828,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Launch": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Launch.png",
@@ -1895,7 +1845,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Spark": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spark.png",
@@ -1906,13 +1856,13 @@
       },
       "upgrade": "Lightning Bolt",
       "tier": "blue",
-      "flavour": "A smile costs less than electricity, but gives much light",
+      "flavour": "A spark is a little thing, yet it may kindle the world.",
       "art_path": "res/art/illustration/Spark.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Lightning Bolt": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lightning Bolt.png",
@@ -1929,7 +1879,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Fork Lightning": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fork Lightning.png",
@@ -1946,7 +1896,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Elektra's Siphon": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Elektra's Siphon.png",
@@ -1963,7 +1913,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Ignite": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ignite.png",
@@ -1980,7 +1930,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Fireball": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fireball.png",
@@ -1997,7 +1947,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Immolate": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Immolate.png",
@@ -2014,7 +1964,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Terrestrial Sun": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Terrestrial Sun.png",
@@ -2031,7 +1981,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Jump": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Jump.png",
@@ -2042,30 +1992,31 @@
       },
       "upgrade": "Leap",
       "tier": "blue",
-      "flavour": "\"Alright buddy, let's calm down ok?\" - Warner Higgins, Concerned Father",
+      "flavour": "Jump, and you will find out how to unfold your wings as you fall.",
       "art_path": "res/art/illustration/Jump.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Leap": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Leap.png",
     "spec": {
       "title": "Leap",
       "rules": {
-        "text": "Jump 25 metres into the air."
+        "passive": "Take no damage from falling.",
+        "active": "Jump 25 metres into the air."
       },
       "upgrade": "Levitate",
       "tier": "green",
-      "flavour": "\"Good lord, look at him go..\" - Warner Higgins, Concerned Father",
+      "flavour": "Sometimes all you need is a big leap of faith.",
       "art_path": "res/art/illustration/Leap.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Levitate": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Levitate.png",
@@ -2076,31 +2027,13 @@
       },
       "upgrade": "Ascend",
       "tier": "red",
-      "flavour": "\"I see. He is now a boy of the air, not of the ground.\" - Warner Higgins, Concerned Father",
+      "flavour": "Rise above earthly ambition.",
       "art_path": "res/art/illustration/Levitate.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
-  },
-  "Ascend": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ascend.png",
-    "spec": {
-      "title": "Ascend",
-      "rules": {
-        "passive": "Immune to damage from falling.",
-        "active": "Jump as high as you want."
-      },
-      "upgrade": null,
-      "tier": "gold",
-      "flavour": "\"I miss him everyday\" - Warner Higgins, Concerned Father",
-      "art_path": "res/art/illustration/Ascend.png",
-      "tags": [
-        "upgradeable-1"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Moisten": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Moisten.png",
@@ -2117,14 +2050,15 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Soak": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Soak.png",
     "spec": {
       "title": "Soak",
       "rules": {
-        "text": "Cause everything within 2 metres of a visible object to become saturated with water."
+        "passive": "Deal double damage when attacking wet enemies",
+        "active": "Cause everything within 2 metres of a visible object to become saturated with water."
       },
       "upgrade": "Drench",
       "tier": "green",
@@ -2134,7 +2068,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Drench": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Drench.png",
@@ -2145,13 +2079,13 @@
       },
       "upgrade": "Flood",
       "tier": "red",
-      "flavour": "\"Listen pal, I'm not afraid of getting a little wet. Go ahead and cast it\" - Quomo the Quivering",
+      "flavour": "'Wet' would be an understatement",
       "art_path": "res/art/illustration/Drench.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Flood": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Flood.png",
@@ -2168,7 +2102,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Hope": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Hope.png",
@@ -2185,7 +2119,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Pray": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Pray.png",
@@ -2202,7 +2136,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Preach": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Preach.png",
@@ -2219,7 +2153,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Wish": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Wish.png",
@@ -2236,7 +2170,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Cure": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Cure.png",
@@ -2253,25 +2187,24 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Renew": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Renew.png",
     "spec": {
       "title": "Renew",
       "rules": {
-        "passive": "You are 3 feet taller.",
-        "active": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller."
+        "text": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller."
       },
       "upgrade": "Reincarnate",
       "tier": "red",
-      "flavour": "\"I hope you don't mind if I make some improvements while I'm in here\" - Dr. Reichthardt, Orthopedic Surgeon",
+      "flavour": "I hope you don't mind if I make some improvements while I'm in here",
       "art_path": "res/art/illustration/Renew.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Reincarnate": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Reincarnate.png",
@@ -2289,7 +2222,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Brace": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Brace.png",
@@ -2306,7 +2239,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Reflect": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Reflect.png",
@@ -2324,14 +2257,14 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Deflect": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Deflect.png",
     "spec": {
       "title": "Deflect",
       "rules": {
-        "text": "Any damage dealt to you from the next attack targeting you is instead dealt to your attacker"
+        "text": "The next amount of damage dealt to you is also dealt to your attacker instead."
       },
       "upgrade": "Golan's Idol",
       "tier": "red",
@@ -2341,7 +2274,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Golan's Idol": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Golan's Idol.png",
@@ -2358,33 +2291,33 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Double Strike": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Double Strike.png",
     "spec": {
       "title": "Double Strike",
       "rules": {
-        "text": "You can attack two additional times on your turn."
+        "text": "Make two instant attacks."
       },
       "upgrade": "Quad Strike",
       "tier": "blue",
-      "flavour": "Before they even realized what happened, another punch sent them flying.",
+      "flavour": "The first blow shatters their defenses, the next their spirit.",
       "art_path": "res/art/illustration/Double Strike.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Quad Strike": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Quad Strike.png",
     "spec": {
       "title": "Quad Strike",
       "rules": {
-        "text": "You can attack four additional times on your turn."
+        "text": "Make four instant attacks"
       },
-      "upgrade": "Strike Storm",
+      "upgrade": "Endless Blows",
       "tier": "green",
       "flavour": "Their defense won't last forever. Strike, and strike again.",
       "art_path": "res/art/illustration/Quad Strike.png",
@@ -2392,7 +2325,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Strike Storm": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Strike Storm.png",
@@ -2409,24 +2342,24 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Endless Blows": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Endless Blows.png",
     "spec": {
       "title": "Endless Blows",
       "rules": {
-        "text": "Take X damage. You can attack X times on your turn."
+        "text": "Take X damage. Make X instant attacks"
       },
-      "upgrade": null,
-      "tier": "gold",
-      "flavour": "Punches, kicks, and jabs stretch out before me into endless infinity, a fractal of iron striking limbs.",
+      "upgrade": "",
+      "tier": "red",
+      "flavour": "An endless fractal of striking limbs",
       "art_path": "res/art/illustration/Endless Blows.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Gust of Wind": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Gust of Wind.png",
@@ -2443,7 +2376,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Gale": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Gale.png",
@@ -2461,7 +2394,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Wind Storm": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Wind Storm.png",
@@ -2478,7 +2411,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/red.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Hurricane": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Hurricane.png",
@@ -2495,7 +2428,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Barrier": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Barrier.png",
@@ -2512,7 +2445,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
   "Mirror Image": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Mirror Image.png",
@@ -2529,7 +2462,7 @@
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
   "Bond": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bond.png",
@@ -2546,6 +2479,24 @@
         "social"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
+  },
+  "The Gambler": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/The Gambler.png",
+    "spec": {
+      "title": "The Gambler",
+      "rules": {
+        "passive": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure.",
+        "active": "Summon a rigged pair of dice which you can control with your mind."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Whomever lives, gambles with life.",
+      "art_path": "res/art/illustration/The Ultimatum.png",
+      "tags": [
+        "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   }
 }
