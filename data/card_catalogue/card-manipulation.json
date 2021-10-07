@@ -21,7 +21,7 @@
         "active":"Draw 2 greens. Cast both.",
         "passive": null
       },
-      "flavour": "You never know what he'll pull out of thin air.",
+      "flavour": "You never know what she'll pull out of thin air.",
       "image": "res/art/illustration/Brainstorm.png"
     }
   },
@@ -47,12 +47,12 @@
         "active": "Draw 2 golds. Cast both.",
         "passive": null
       },
-      "flavour": "I don't know what I want, but I do want a lot of it.",
+      "flavour": "History rarely goes according to plan.",
       "image": "res/art/illustration/Randomize.png"
     }
   },
   {
-    "title": "Grobble",
+    "title": "Empower",
     "upgrade": "Slipshod Sorcery",
     "tier": "green",
     "details": {
@@ -60,8 +60,8 @@
         "active": "Draw 6 greys.",
         "passive": null
       },
-      "flavour": "Oh man, I've really Grobbled this one.",
-      "image": "res/art/illustration/Grobble.png"
+      "flavour": "Great power lies not on the surface, but within.",
+      "image": "res/art/illustration/Empower.png"
     }
   },
   {
@@ -131,24 +131,11 @@
   },
   {
     "title": "Extemporize",
-    "upgrade": "Helter-Skelter",
+    "upgrade": null,
     "tier": "red",
     "details": {
       "rules": {
         "active": "Draw 5 greens, face-up. Cast up to 3 and discard the rest.",
-        "passive": null
-      },
-      "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
-      "image": "res/art/illustration/Extemporize.png"
-    }
-  },
-  {
-    "title": "Helter-Skelter",
-    "upgrade": null,
-    "tier": "gold",
-    "details": {
-      "rules": {
-        "active": "Draw 5 reds, face-up. Cast up to 3 and discard the rest.",
         "passive": null
       },
       "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",

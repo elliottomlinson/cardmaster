@@ -73,7 +73,7 @@
         "active": "Speak with any dead NPC. Their voice can be heard by all nearby NPCs.",
         "passive": null
       },
-      "flavour": "\"Eventually, I tired of speaking with the dead. They never have anything new to talk about.\" - Dante, Necromancer",
+      "flavour": "Eventually, one grows tired of speaking with the dead. They never have anything new to talk about.",
       "image": "res/art/illustration/Seance.png"
     }
   },
@@ -112,7 +112,7 @@
         "active": "Target NPC will believe your next statement.",
         "passive": null
       },
-      "flavour": "A lie travels half way around the world before the truth is putting on its shoes.",
+      "flavour": "A lie travels half way around the world before the truth puts on its shoes.",
       "image": "res/art/illustration/Lie.png"
     }
   },
@@ -125,7 +125,7 @@
         "active": "Change your appearance to match that of another exactly for as long as you'd like.",
         "passive": null
       },
-      "flavour": "With just a little bit of complete facial re-construction surgery, you can fool even the closest observers.",
+      "flavour": "Most people are other people.",
       "image": "res/art/illustration/Disguise.png"
     }
   },

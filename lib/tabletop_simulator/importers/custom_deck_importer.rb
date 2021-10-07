@@ -18,15 +18,20 @@ module TabletopSimulator
 
       def import(stored_cards)
         @deck_catalogue.each do |deck_catalogue|
+          all = deck_catalogue["all"]
           name = deck_catalogue["name"]
           tags = deck_catalogue["tags"]
           tiers = deck_catalogue["tiers"]
           min_count = deck_catalogue["min-count"]
 
           applicable_cards = stored_cards.select do |stored_card|
-            intersecting_tags = stored_card.spec.tags & tags
+            if all
+              true
+            else
+              intersecting_tags = stored_card.spec.tags & tags
 
-            !intersecting_tags.empty? && tiers.include?(stored_card.spec.tier.to_s)
+              !intersecting_tags.empty? && tiers.include?(stored_card.spec.tier.to_s)
+            end
           end
 
           if applicable_cards.empty?

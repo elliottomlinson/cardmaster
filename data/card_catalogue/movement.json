@@ -21,7 +21,7 @@
         "active": "Move up to 15 metres in any direction.",
         "passive": "Gain advantage when running through obstacles."
       },
-      "flavour": "What are you running from?",
+      "flavour": "Obstacles do not block the path, they are the path.",
       "image": "res/art/illustration/Charge.png"
     }
   },

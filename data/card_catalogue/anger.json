@@ -8,7 +8,7 @@
         "active": "A visible NPC is forced to think positive thoughts.",
         "passive": null
       },
-      "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
+      "flavour": "You see a distant obstacle, I see an upcoming opportunity.",
       "image": "res/art/illustration/Positivity.png"
     }
   },
@@ -34,7 +34,7 @@
         "active": "For one minute, NPCs will not become hostile unless they take damage.",
         "passive": null
       },
-      "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
+      "flavour": "There goes that thief with our jewlerly, what a great guy.",
       "image": "res/art/illustration/Timeout.png"
     }
   },
@@ -47,7 +47,7 @@
         "active": "Name an NPC. They will dedicate their lives to promoting peace.",
         "passive": null
       },
-      "flavour": "All life is precious, even the lives of your enemies.",
+      "flavour": "When the power of love overcomes the love of power, the world will know peace.",
       "image": "res/art/illustration/Change of Heart.png"
     }
   },
@@ -60,7 +60,7 @@
         "active": "Name a character who has wronged you. They feel remorse for what they have done.",
         "passive": null
       },
-      "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
+      "flavour": "And that was the second time Randy forgot about my birthday",
       "image": "res/art/illustration/Rue the Day.png"
     }
   },

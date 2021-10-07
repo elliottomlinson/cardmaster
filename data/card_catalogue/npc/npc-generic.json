@@ -5,49 +5,36 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "You can use an additional ranged attack.",
+        "active": "Make an instant attack that cannot miss.",
         "passive": null
       },
-      "flavour": "Even if they're already dead, a second shot doesn't hurt.",
+      "flavour": "A single, well timed strike can have greater impact than any barrage of blows.",
       "image": "res/art/illustration/Quick Shot.png"
     }
   },
   {
     "title": "Empty the Clip",
-    "upgrade": "Suppression Maneuver",
+    "upgrade": "Bullet Rain",
     "tier": "green",
     "details": {
       "rules": {
-        "active": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand.",
+        "active": "Make two instant attacks. Return a Card with Blue Rarity to your hand.",
         "passive": null
       },
-      "flavour": "Keep yourself entertained with this for a little while, I've got to reload.",
+      "flavour": "Always have a plan B.",
       "image": "res/art/illustration/Empty the Clip.png"
-    }
-  },
-  {
-    "title": "Suppression Maneuver",
-    "upgrade": "Bullet Rain",
-    "tier": "red",
-    "details": {
-      "rules": {
-        "active": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand.",
-        "passive": null
-      },
-      "flavour": "Though outnumbered, their opponents could never match Quasimodo's devastating aresnal.",
-      "image": "res/art/illustration/Suppression Maneuver.png"
     }
   },
   {
     "title": "Bullet Rain",
     "upgrade": null,
-    "tier": "gold",
+    "tier": "red",
     "details": {
       "rules": {
         "active": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
         "passive": null
       },
-      "flavour": "Hallways of long forgotten armories sprawl out before you, each weapon chanting out your name.",
+      "flavour": "Long forgotten armories sprawl out before you, weapons chanting out your name.",
       "image": "res/art/illustration/Bullet Rain.png"
     }
   }

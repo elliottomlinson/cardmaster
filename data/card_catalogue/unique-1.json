@@ -86,7 +86,7 @@
         "active": "Choose a Blue or green in your hand. All cards in your hand become copies of that card.",
         "passive": null
       },
-      "flavour": "Fax is short for facsimile, meaning \"make similar\".",
+      "flavour": "Diversification is overrated.",
       "image": "res/art/illustration/Card Printer.png"
     }
   },
@@ -135,7 +135,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Choose X up to 5. A boundary, impenetrable from within, is placed X metres away from you in all directions as long as you'd like",
+        "active": "A boundary, impenetrable from within, is placed 5 metres away from you in all directions as long as you'd like",
         "passive": null
       },
       "flavour": "After years of living in a cage, a lion no longer believes it is a lion.",
@@ -148,10 +148,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
+        "active": "Target an entranceway. The next living creature to pass through it remains stuck until they take damage.",
         "passive": null
       },
-      "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
+      "flavour": "Well don't just stand there, come on in!",
       "image": "res/art/illustration/Porticostatic Hex.png"
     }
   },
@@ -164,7 +164,7 @@
         "active": "Stand atop an object. You and the object are flung in the direction of your choice until obstructed.",
         "passive": null
       },
-      "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
+      "flavour": "How clumsy of me.",
       "image": "res/art/illustration/Object Eject.png"
     }
   },
@@ -177,20 +177,20 @@
         "active": "Summon a rigged pair of dice which you can control with your mind.",
         "passive": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure." 
       },
-      "flavour": "Whomever lives, gambles with life.",
+      "flavour": "",
       "image": "res/art/illustration/The Ultimatum.png"
     }
   },
   {
     "title": "Where-Ware Charm",
     "upgrade": null,
-    "tier": "blue",
+    "tier": "green",
     "details": {
       "rules": {
-        "active": "Learn the current location of an item you've touched in the past.",
-        "passive": null
+        "active": "Teleport to a visible object you've touched",
+        "passive": "You know the location of every object you've ever touched"
       },
-      "flavour": "At last, the location of the missing socks.",
+      "flavour": "I don't know who stole my socks from the dryer, but I do know their days are numbered.",
       "image": "res/art/illustration/Where-Ware Charm.png"
     }
   },
@@ -268,7 +268,7 @@
         "active": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
         "passive": null
       },
-      "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
+      "flavour": "There's something rather... lively, about this chair.",
       "image": "res/art/illustration/Poltergeist.png"
     }
   },
@@ -320,7 +320,7 @@
         "active": "Apply a sandwich to the face of a visible character.",
         "passive": null
       },
-      "flavour": "Indignity defeats the spirit, and the body is soon to follow",
+      "flavour": "Indignity defeats the spirit, and the body is soon to follow.",
       "image": "res/art/illustration/PBJT.png"
     }
   },
@@ -395,10 +395,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Deal d6 bonus melee damage, igniting the target.",
-        "passive": null
+        "active": "Your next melee attack sets your opponent on fire.",
+        "passive": "Your hands are invulnerable to damage."
       },
-      "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
+      "flavour": "I'm about to turn your Kitchen Dream into a Kitchen Nightmare",
       "image": "res/art/illustration/Gloven Mitt.png"
     }
   }
