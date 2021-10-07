@@ -1080,7 +1080,7 @@
     "spec": {
       "title": "Porticostatic Hex",
       "rules": {
-        "text": "Target an entranceway. The next living creature to pass through the door remains stuck until they take damage."
+        "text": "Target an entranceway. The next living creature to pass through it remains stuck until they take damage."
       },
       "upgrade": null,
       "tier": "green",

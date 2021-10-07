@@ -148,7 +148,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target an entranceway. The next living creature to pass through the door remains stuck until they take damage.",
+        "active": "Target an entranceway. The next living creature to pass through it remains stuck until they take damage.",
         "passive": null
       },
       "flavour": "Well don't just stand there, come on in!",
