@@ -34,7 +34,7 @@
         "active": "Name a character not on the current map. They die instantly.",
         "passive": null
       },
-      "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",
+      "flavour": "I wish this guy would just die before we even showed up, that'd save us a lot of time.",
       "image": "res/art/illustration/Untimely Death.png"
     }
   }

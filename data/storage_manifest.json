@@ -44,7 +44,7 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "\"I wish this guy would just die before we even showed up, that'd save us a lot of time\" - General Zardon",
+      "flavour": "I wish this guy would just die before we even showed up, that'd save us a lot of time.",
       "art_path": "res/art/illustration/Untimely Death.png",
       "tags": [
         "story-changing-golds"
@@ -62,7 +62,7 @@
       },
       "upgrade": "Renew",
       "tier": "green",
-      "flavour": "The best medicine is running far away from things which hurt you.",
+      "flavour": "Wee woo, wee woo.",
       "art_path": "res/art/illustration/Field Medicine.png",
       "tags": [
         "upgradeable-1"
@@ -116,7 +116,7 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "The sky went dark, and all sound was drowned out by the hum of their arrival.",
+      "flavour": "Surprisingly, it never bugs me.",
       "art_path": "res/art/illustration/Swarm.png",
       "tags": [
         "druid"
@@ -170,7 +170,7 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "They stood on the hill for a moment, mesmerized by the dazzling light",
+      "flavour": "The new moon returns in heaven a bent, beautiful bow.",
       "art_path": "res/art/illustration/Bow Hex.png",
       "tags": [
         "weapons"
@@ -184,11 +184,11 @@
       "title": "Sword Hex",
       "rules": {
         "passive": "Roll an additional d6 when you perform a melee attack.",
-        "active": "Deal 10 damage to a visible target."
+        "active": "Cut a 1 meter gash onto a visible surface"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "It didn't slash or pierce, but rather burned. The fallen glowed as though their souls were leaving their bodies.",
+      "flavour": "Master swordsmen can resheath their blade before their opponent knows they've been cut.",
       "art_path": "res/art/illustration/Sword Hex.png",
       "tags": [
         "weapons"
@@ -259,7 +259,7 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "\"I trust her completely\" - Simon the Simple",
+      "flavour": "I trust him completely",
       "art_path": "res/art/illustration/Lover Fatale.png",
       "tags": [
         "triggers"
@@ -362,7 +362,7 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "\"Eventually, I tired of speaking with the dead. They never have anything new to talk about.\" - Dante, Necromancer",
+      "flavour": "Eventually, one grows tired of speaking with the dead. They never have anything new to talk about.",
       "art_path": "res/art/illustration/Seance.png",
       "tags": [
         "social"
@@ -413,7 +413,7 @@
       },
       "upgrade": "Disguise",
       "tier": "green",
-      "flavour": "A lie travels half way around the world before the truth is putting on its shoes.",
+      "flavour": "A lie travels half way around the world before the truth puts on its shoes.",
       "art_path": "res/art/illustration/Lie.png",
       "tags": [
         "social"
@@ -430,7 +430,7 @@
       },
       "upgrade": "Revise",
       "tier": "red",
-      "flavour": "With just a little bit of complete facial re-construction surgery, you can fool even the closest observers.",
+      "flavour": "Most people are other people.",
       "art_path": "res/art/illustration/Disguise.png",
       "tags": [
         "social"
@@ -571,7 +571,7 @@
       },
       "upgrade": "Teleport",
       "tier": "green",
-      "flavour": "What are you running from?",
+      "flavour": "Obstacles do not block the path, they are the path.",
       "art_path": "res/art/illustration/Charge.png",
       "tags": [
         "movement"
@@ -673,7 +673,7 @@
       },
       "upgrade": "Ambrosia",
       "tier": "blue",
-      "flavour": "Mmm, Crayons",
+      "flavour": "Mmm, Crayons.",
       "art_path": "res/art/illustration/Spice Rack.png",
       "tags": [
         "food"
@@ -707,7 +707,7 @@
       },
       "upgrade": "Talk it Out",
       "tier": "blue",
-      "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
+      "flavour": "You see a distant obstacle, I see an upcoming opportunity.",
       "art_path": "res/art/illustration/Positivity.png",
       "tags": [
         "anger"
@@ -742,7 +742,7 @@
       },
       "upgrade": "Change of Heart",
       "tier": "red",
-      "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
+      "flavour": "There goes that thief with our jewlerly, what a great guy.",
       "art_path": "res/art/illustration/Timeout.png",
       "tags": [
         "anger"
@@ -759,7 +759,7 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "All life is precious, even the lives of your enemies.",
+      "flavour": "When the power of love overcomes the love of power, the world will know peace.",
       "art_path": "res/art/illustration/Change of Heart.png",
       "tags": [
         "anger"
@@ -776,7 +776,7 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
+      "flavour": "And that was the second time Randy forgot about my birthday",
       "art_path": "res/art/illustration/Rue the Day.png",
       "tags": [
         "anger"
@@ -999,7 +999,7 @@
       },
       "upgrade": null,
       "tier": "red",
-      "flavour": "Fax is short for facsimile, meaning \"make similar\".",
+      "flavour": "Diversification is overrated.",
       "art_path": "res/art/illustration/Card Printer.png",
       "tags": [
         "unique-1"
@@ -1063,7 +1063,7 @@
     "spec": {
       "title": "Prison",
       "rules": {
-        "text": "Choose X up to 5. A boundary, impenetrable from within, is placed X metres away from you in all directions as long as you'd like"
+        "text": "A boundary, impenetrable from within, is placed 5 metres away from you in all directions as long as you'd like"
       },
       "upgrade": null,
       "tier": "red",
@@ -1080,11 +1080,11 @@
     "spec": {
       "title": "Porticostatic Hex",
       "rules": {
-        "text": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage."
+        "text": "Target an entranceway. The next living creature to pass through the door remains stuck until they take damage."
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
+      "flavour": "Well don't just stand there, come on in!",
       "art_path": "res/art/illustration/Porticostatic Hex.png",
       "tags": [
         "unique-1"
@@ -1101,7 +1101,7 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
+      "flavour": "How clumsy of me.",
       "art_path": "res/art/illustration/Object Eject.png",
       "tags": [
         "unique-1"
@@ -1114,17 +1114,18 @@
     "spec": {
       "title": "Where-Ware Charm",
       "rules": {
-        "text": "Learn the current location of an item you've touched in the past."
+        "passive": "You know the location of every object you've ever touched",
+        "active": "Teleport to a visible object you've touched"
       },
       "upgrade": null,
-      "tier": "blue",
-      "flavour": "At last, the location of the missing socks.",
+      "tier": "green",
+      "flavour": "I don't know who stole my socks from the dryer, but I do know their days are numbered.",
       "art_path": "res/art/illustration/Where-Ware Charm.png",
       "tags": [
         "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Groundburst": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Groundburst.png",
@@ -1220,7 +1221,7 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
+      "flavour": "There's something rather... lively, about this chair.",
       "art_path": "res/art/illustration/Poltergeist.png",
       "tags": [
         "unique-1"
@@ -1289,7 +1290,7 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "Indignity defeats the spirit, and the body is soon to follow",
+      "flavour": "Indignity defeats the spirit, and the body is soon to follow.",
       "art_path": "res/art/illustration/PBJT.png",
       "tags": [
         "unique-1"
@@ -1387,11 +1388,12 @@
     "spec": {
       "title": "Gloven Mitt",
       "rules": {
-        "text": "Deal d6 bonus melee damage, igniting the target."
+        "passive": "Your hands are invulnerable to damage.",
+        "active": "Your next melee attack sets your opponent on fire."
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
+      "flavour": "I'm about to turn your Kitchen Dream into a Kitchen Nightmare",
       "art_path": "res/art/illustration/Gloven Mitt.png",
       "tags": [
         "unique-1"
@@ -1459,7 +1461,7 @@
       },
       "upgrade": "Spark of Inspiration",
       "tier": "green",
-      "flavour": "You never know what he'll pull out of thin air.",
+      "flavour": "You never know what she'll pull out of thin air.",
       "art_path": "res/art/illustration/Brainstorm.png",
       "tags": [
         "card-manipulation"
@@ -1493,7 +1495,7 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "I don't know what I want, but I do want a lot of it.",
+      "flavour": "History rarely goes according to plan.",
       "art_path": "res/art/illustration/Randomize.png",
       "tags": [
         "card-manipulation"
@@ -1501,17 +1503,17 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
-  "Grobble": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Grobble.png",
+  "": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/.png",
     "spec": {
-      "title": "Grobble",
+      "title": "",
       "rules": {
         "text": "Draw 6 greys."
       },
       "upgrade": "Slipshod Sorcery",
       "tier": "green",
-      "flavour": "Oh man, I've really Grobbled this one.",
-      "art_path": "res/art/illustration/Grobble.png",
+      "flavour": "Oh man, I've really d this one.",
+      "art_path": "res/art/illustration/.png",
       "tags": [
         "card-manipulation"
       ]
@@ -1610,10 +1612,10 @@
       "rules": {
         "text": "Draw 5 greens, face-up. Cast up to 3 and discard the rest."
       },
-      "upgrade": "Helter-Skelter",
+      "upgrade": null,
       "tier": "red",
-      "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
-      "art_path": "res/art/illustration/Extemporize.png",
+      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
+      "art_path": "res/art/illustration/Helter-Skelter.png",
       "tags": [
         "card-manipulation"
       ]
@@ -1693,11 +1695,11 @@
     "spec": {
       "title": "Quick Shot",
       "rules": {
-        "text": "You can use an additional ranged attack."
+        "text": "Make an instant attack that cannot miss."
       },
       "upgrade": "Empty the Clip",
       "tier": "blue",
-      "flavour": "Even if they're already dead, a second shot doesn't hurt.",
+      "flavour": "A single, well timed strike can have greater impact than any barrage of blows.",
       "art_path": "res/art/illustration/Quick Shot.png",
       "tags": [
         "npc",
@@ -1711,11 +1713,11 @@
     "spec": {
       "title": "Empty the Clip",
       "rules": {
-        "text": "You can use two additional ranged attacks. Return a Card with Blue Rarity to your hand."
+        "text": "Make two instant attacks. Return a Card with Blue Rarity to your hand."
       },
-      "upgrade": "Suppression Maneuver",
+      "upgrade": "Bullet Rain",
       "tier": "green",
-      "flavour": "Keep yourself entertained with this for a little while, I've got to reload.",
+      "flavour": "Always have a plan B.",
       "art_path": "res/art/illustration/Empty the Clip.png",
       "tags": [
         "npc",
@@ -1750,15 +1752,15 @@
         "text": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand."
       },
       "upgrade": null,
-      "tier": "gold",
-      "flavour": "Hallways of long forgotten armories sprawl out before you, each weapon chanting out your name.",
+      "tier": "red",
+      "flavour": "Long forgotten armories sprawl out before you, weapons chanting out your name.",
       "art_path": "res/art/illustration/Bullet Rain.png",
       "tags": [
         "npc",
         "npc-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Toss": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Toss.png",
@@ -1805,7 +1807,7 @@
       },
       "upgrade": "Launch",
       "tier": "red",
-      "flavour": "I want this thing gone, understand? I want to never see it again.",
+      "flavour": "I want this thing gone, understand?",
       "art_path": "res/art/illustration/Launch.png",
       "tags": [
         "upgradeable-1"
@@ -1818,7 +1820,7 @@
     "spec": {
       "title": "Launch",
       "rules": {
-        "text": "Throw an object as far as you want. It cannot be stopped."
+        "text": "Throw an object with perfect accuracy as far as you want. It cannot be stopped."
       },
       "upgrade": null,
       "tier": "gold",
@@ -1886,17 +1888,17 @@
     "spec": {
       "title": "Elektra's Siphon",
       "rules": {
-        "text": "Cause a complete blackout in a 100 kilometre radius. Draw 3 copies of Fork Lightning"
+        "text": "Extract all electricity in a 10 meter radius. Deal 6 damage and stun to up to 6 visible characters."
       },
       "upgrade": null,
-      "tier": "gold",
-      "flavour": "If your hate could be turned into electricity, it would light up the whole world.",
+      "tier": "red",
+      "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants",
       "art_path": "res/art/illustration/Elektra_s Siphon.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Ignite": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ignite.png",
@@ -1954,7 +1956,8 @@
     "spec": {
       "title": "Terrestrial Sun",
       "rules": {
-        "text": "Summon a brick of material which burns violently forever when set on fire."
+        "passive": "Fires you set cannot be put out.",
+        "active": "Summon a brick of material which burns violently when set out fire."
       },
       "upgrade": null,
       "tier": "gold",
@@ -2006,7 +2009,7 @@
     "spec": {
       "title": "Levitate",
       "rules": {
-        "text": "Hover up to 2 metres off the ground until you lose concentration."
+        "text": "Hover up to 20 metres off the ground until you lose concentration."
       },
       "upgrade": "Ascend",
       "tier": "red",
@@ -2023,7 +2026,7 @@
     "spec": {
       "title": "Moisten",
       "rules": {
-        "text": "Pick a visible object. It becomes moist."
+        "text": "Target visible object becomes moist."
       },
       "upgrade": "Soak",
       "tier": "blue",
@@ -2092,11 +2095,11 @@
     "spec": {
       "title": "Hope",
       "rules": {
-        "text": "Change the result of a roll by 2."
+        "text": "Something unlucky befalls target NPC"
       },
       "upgrade": "Pray",
       "tier": "blue",
-      "flavour": "I can't see him, but I know he's there.",
+      "flavour": "He works in strange ways.",
       "art_path": "res/art/illustration/Hope.png",
       "tags": [
         "upgradeable-1"
@@ -2109,7 +2112,7 @@
     "spec": {
       "title": "Pray",
       "rules": {
-        "text": "Re-roll a d20."
+        "text": "Give a character advantage on their next roll."
       },
       "upgrade": "Preach",
       "tier": "green",
@@ -2247,7 +2250,7 @@
     "spec": {
       "title": "Deflect",
       "rules": {
-        "text": "The next amount of damage dealt to you is also dealt to your attacker instead."
+        "text": "The next amount of damage dealt to you is dealt to your attacker instead."
       },
       "upgrade": "Golan's Idol",
       "tier": "red",
@@ -2268,7 +2271,7 @@
       },
       "upgrade": "Reflect",
       "tier": "gold",
-      "flavour": "\"It's futile. I've already analyzed all of your moves.\" - 5-Year-Old Jacob, Yellow Belt",
+      "flavour": "It's futile. I've already analyzed all of your moves.",
       "art_path": "res/art/illustration/Golan_s Idol.png",
       "tags": [
         "upgradeable-1"
@@ -2317,7 +2320,7 @@
       "rules": {
         "text": "Take X damage. Make X instant attacks"
       },
-      "upgrade": "",
+      "upgrade": null,
       "tier": "red",
       "flavour": "An endless fractal of striking limbs",
       "art_path": "res/art/illustration/Endless Blows.png",
@@ -2349,7 +2352,7 @@
     "spec": {
       "title": "Gale",
       "rules": {
-        "passive": "Whenever you throw a character in the air, you can also throw them 8 metres in any direction",
+        "passive": "Whenever you throw a character in the air, throw them 8 metres in any direction",
         "active": "Throw any number of characters in a 3 metre radius into the air."
       },
       "upgrade": "Wind Storm",
@@ -2422,7 +2425,7 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "\"I hated the man so much I made a point of killing him twice\" - R.J. Alabaster, Deranged Cardmaster",
+      "flavour": "I hated the man so much I made a point of killing him twice",
       "art_path": "res/art/illustration/Mirror Image.png",
       "tags": [
         "upgradeable-1"
@@ -2457,10 +2460,27 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Whomever lives, gambles with life.",
+      "flavour": "",
       "art_path": "res/art/illustration/The Ultimatum.png",
       "tags": [
         "unique-1"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
+  },
+  "Empower": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Empower.png",
+    "spec": {
+      "title": "Empower",
+      "rules": {
+        "text": "Draw 6 greys."
+      },
+      "upgrade": "Slipshod Sorcery",
+      "tier": "green",
+      "flavour": "Great power lies not on the surface, but within.",
+      "art_path": "res/art/illustration/Empower.png",
+      "tags": [
+        "card-manipulation"
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"

@@ -1,5 +1,9 @@
 [
   {
+    "name": "all",
+    "all": true
+  },
+  {
     "name": "grey-loot",
     "tags": ["greys"],
     "tiers": ["grey"],
