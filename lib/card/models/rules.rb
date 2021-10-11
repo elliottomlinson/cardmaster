@@ -5,7 +5,7 @@ module Card
         if hash.has_key?("text")
           SimpleRules.new(hash["text"])
         elsif hash.has_key?("hand") && hash.has_key?("cast")
-          HandCastRules.new(hashhandve"], hash["cast"])
+          HandCastRules.new(hash["passive"], hash["cast"])
         end
       end
     end

@@ -124,13 +124,13 @@ module Card
       end
 
       def extract_simple_rule(rules)
-        return Card::Models::SimpleRules.new(rules["cast"]) if ruleshandve"].nil?
+        return Card::Models::SimpleRules.new(rules["cast"]) if rules["passive"].nil?
       end
 
-      def extract_activhandve_rule(rules)
+      def extract_active_rule(rules)
         return unless rules.is_a?(Hash) && rules["hand"] && rules["cast"]
 
-        Card::Models::HandCastRules.new(ruleshandve"], rules["cast"])
+        Card::Models::HandCastRules.new(rules["passive"], rules["cast"])
       end
 
       def validate_field!(node, field_name, hierarchy, node_type_name)
