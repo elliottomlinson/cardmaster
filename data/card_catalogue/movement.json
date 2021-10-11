@@ -89,5 +89,47 @@
       "flavour": "Travelling is always a pain.",
       "image": "res/art/illustration/Platzfalt Step.png"
     }
+  },
+  {
+    "draft": true,
+    "title": "Swap",
+    "upgrade": null,
+    "tier": "green",
+    "details": {
+      "rules": {
+        "active": "Switch positions with a visible NPC",
+        "passive": null
+      },
+      "flavour": "Prison guard inside of a jail cell",
+      "image": "res/art/illustration/Platzfalt Step.png"
+    }
+  },
+  {
+    "draft": true,
+    "title": "Glacial Festival",
+    "upgrade": null,
+    "tier": "red",
+    "details": {
+      "rules": {
+        "active": "Freeze the ground in a 10 meter radius",
+        "passive": null
+      },
+      "flavour": "A bunch of people slipping on Ice",
+      "image": "res/art/illustration/Platzfalt Step.png"
+    }
+  },
+  {
+    "draft": true,
+    "title": "Marathon",
+    "upgrade": null,
+    "tier": "green",
+    "details": {
+      "rules": {
+        "active": "Move twice as fast until you play another card",
+        "passive": null
+      },
+      "flavour": "Never look back.",
+      "image": "res/art/illustration/Platzfalt Step.png"
+    }
   }
 ]
