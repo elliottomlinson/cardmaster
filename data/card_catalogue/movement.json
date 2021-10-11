@@ -111,7 +111,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Freeze the ground in a 10 meter radius",
+        "active": "Cover the entire map with a thin layer of slippery ice",
         "passive": null
       },
       "flavour": "A bunch of people slipping on Ice",
