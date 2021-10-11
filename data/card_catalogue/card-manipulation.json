@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active":"Draw 2 blues. Cast both.",
-        "passive": null
+        "cast":"Draw 2 blues. Cast both.",
+        "hand": null
       },
       "flavour": "Live by the luck of the draw.",
       "image": "res/art/illustration/Wing It.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active":"Draw 2 greens. Cast both.",
-        "passive": null
+        "cast":"Draw 2 greens. Cast both.",
+        "hand": null
       },
       "flavour": "You never know what she'll pull out of thin air.",
       "image": "res/art/illustration/Brainstorm.png"
@@ -31,8 +31,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active":"Draw 2 reds. Cast both.",
-        "passive": null
+        "cast":"Draw 2 reds. Cast both.",
+        "hand": null
       },
       "flavour": "I've got an idea...",
       "image": "res/art/illustration/Spark of Inspiration.png"
@@ -44,8 +44,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Draw 2 golds. Cast both.",
-        "passive": null
+        "cast": "Draw 2 golds. Cast both.",
+        "hand": null
       },
       "flavour": "History rarely goes according to plan.",
       "image": "res/art/illustration/Randomize.png"
@@ -57,8 +57,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 6 greys.",
-        "passive": null
+        "cast": "Draw 6 greys.",
+        "hand": null
       },
       "flavour": "Great power lies not on the surface, but within.",
       "image": "res/art/illustration/Empower.png"
@@ -70,8 +70,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 10 blues, face-up. Cast up to 8 and discard the rest.",
-        "passive": null
+        "cast": "Draw 10 blues, face-up. Cast up to 8 and discard the rest.",
+        "hand": null
       },
       "flavour": "What we lack in quality we've made up with quantity.",
       "image": "res/art/illustration/Slipshod Sorcery.png"
@@ -83,8 +83,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Choose a blue card in another player's hand. This card has the same effect as that card.",
-        "passive": null
+        "cast": "Choose a blue card in another player's hand. This card has the same effect as that card.",
+        "hand": null
       },
       "flavour": "This is how stupid you look, watch this.",
       "image": "res/art/illustration/Imitate.png"
@@ -96,8 +96,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Choose a green card in another player's hand. This card has the same effect as that card.",
-        "passive": null
+        "cast": "Choose a green card in another player's hand. This card has the same effect as that card.",
+        "hand": null
       },
       "flavour": "Stop copying me. Stop copying me.",
       "image": "res/art/illustration/Copy.png"
@@ -109,8 +109,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Draw 3 greys",
-        "passive": null
+        "cast": "Draw 3 greys",
+        "hand": null
       },
       "flavour": "Now, what do we have here...",
       "image": "res/art/illustration/Adlib.png"
@@ -122,8 +122,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 5 blues, face-up. Cast up to 3 and discard the rest.",
-        "passive": null
+        "cast": "Draw 5 blues, face-up. Cast up to 3 and discard the rest.",
+        "hand": null
       },
       "flavour": "You criticize, I improvise",
       "image": "res/art/illustration/Improvise.png"
@@ -135,8 +135,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 5 greens, face-up. Cast up to 3 and discard the rest.",
-        "passive": null
+        "cast": "Draw 5 greens, face-up. Cast up to 3 and discard the rest.",
+        "hand": null
       },
       "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
       "image": "res/art/illustration/Helter-Skelter.png"
@@ -148,8 +148,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Draw 3 greens, face-up. Cast 1 and discard the rest.",
-        "passive": null
+        "cast": "Draw 3 greens, face-up. Cast 1 and discard the rest.",
+        "hand": null
       },
       "flavour": "No more of this bush-league nonsense. We need some real power.",
       "image": "res/art/illustration/Four-Leaf Clover.png"
@@ -161,8 +161,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 3 reds, face-up. Cast 1 and discard the rest.",
-        "passive": null
+        "cast": "Draw 3 reds, face-up. Cast 1 and discard the rest.",
+        "hand": null
       },
       "flavour": "I might be able to pull it off - but just this once.",
       "image": "res/art/illustration/Rabbit_s Foot.png"
@@ -174,8 +174,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 3 golds, face-up. Cast 1 and discard the rest.",
-        "passive": null
+        "cast": "Draw 3 golds, face-up. Cast 1 and discard the rest.",
+        "hand": null
       },
       "flavour": "Do you believe in miracles?",
       "image": "res/art/illustration/Jackpot.png"

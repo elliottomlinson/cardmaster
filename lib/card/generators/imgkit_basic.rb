@@ -48,12 +48,12 @@ module Card
       end
 
       def render_html_mustache(card_specification)
-        active, passive = generate_rules_content(card_specification.rules)
+        cast, hand = generate_rules_content(card_specification.rules)
 
         CardTemplate.render(
           title: card_specification.title,
-          active_rules: active,
-          passive_rules: passive,
+          cast_rules: cast,
+          hand_rules: hand,
           upgrade: generate_upgrade_content(card_specification),
           flavour: card_specification.flavour,
           art_path: card_specification.art_path
@@ -69,8 +69,8 @@ module Card
         case rules
         when Card::Models::SimpleRules
           [rules.text, nil]
-        when Card::Models::PassiveActiveRules
-          [rules.active, rules.passive]
+        when Card::Models::HandCastRules
+          [rules.cast, rules.hand]
         else
           raise "Unsupported rule type #{rules.class}"
         end

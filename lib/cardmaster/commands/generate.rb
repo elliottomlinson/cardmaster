@@ -16,7 +16,7 @@ module Cardmaster
         gold: "res/art/back/gold.png"
       }.freeze
       DEFAULT_TEMPLATE = "res/card/template/default.html"
-      PASSIVE_TEMPLATE = "res/card/template/passive.html"
+      HAND_TEMPLATE = "res/card/template/hand.html"
       DEFAULT_STYLESHEET = "res/card/template/css/card.css"
       TITLE_SIZER_SCRIPT = "res/card/template/title-size.js"
       RES_PATH = File.join(__dir__, "../../../res")
@@ -168,8 +168,8 @@ module Cardmaster
           case card_spec.rules
           when Card::Models::SimpleRules
             DEFAULT_TEMPLATE
-          when Card::Models::PassiveActiveRules
-            PASSIVE_TEMPLATE
+          when Card::Models::HandCastRules
+            HAND_TEMPLATE
           end
         end
         @generator ||= Card::Generators::IMGKitBasic.new(card_templates, DEFAULT_STYLESHEET, [TITLE_SIZER_SCRIPT], RES_PATH)
