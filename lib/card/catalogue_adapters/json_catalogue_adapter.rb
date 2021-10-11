@@ -83,10 +83,9 @@ module Card
       end
 
       def build_card(card, parent_names)
-        return if card["draft"]
-
         name_hierarchy = parent_names + [card["title"]]
 
+        draft = card["draft"] || false
         title = validate_field!(card, "title", name_hierarchy, "Card")
         details = validate_field!(card, "details", name_hierarchy, "Card")
         flavour = validate_field!(details, "flavour", name_hierarchy, "Card")
@@ -97,7 +96,7 @@ module Card
 
         upgrade = card["upgrade"]
 
-        Card::Models::CardSpecification.new(title, rules, upgrade, tier, flavour, image_path, parent_names)
+        Card::Models::CardSpecification.new(title, rules, upgrade, tier, flavour, image_path, draft, parent_names)
       end
 
       def validate_tier!(card, name_hierarchy)

@@ -71,7 +71,7 @@ module Cardmaster
       def catalogue_info
         CLI::UI::Frame.open("Retrieving Catalogue Info", color: :blue) do
           stored_card_specs = storage_adapter.stored_cards.map(&:spec)
-          card_specs = catalogue_adapter.card_specifications
+          card_specs = catalogue_adapter.card_specifications.select { |card| !card.draft }
 
           puts CLI::UI.fmt "{{*}} Cards recorded in storage manifest: #{stored_card_specs.length}"
           puts CLI::UI.fmt "{{*}} Cards specified in catalogue: #{card_specs.length}"

@@ -5,7 +5,7 @@ module Cardmaster
     class Query < Cardmaster::Command
       include Arguments
 
-      SUPPORTED_PARAMETERS = ["title"].freeze
+      SUPPORTED_PARAMETERS = ["title", "draft"].freeze
 
       def call(args, _name)
         query_parameters = validate_parameters(named_arguments(args))
@@ -16,7 +16,7 @@ module Cardmaster
         end
 
         results = Card::CatalogueAdapters::JsonCatalogueAdapter.new("data/card_catalogue")
-          .printable_cards
+          .card_specifications
           .select { |card_spec| matches_query(card_spec, query_parameters) }
 
         CLI::UI::Frame.open('Search Results') do
@@ -48,6 +48,7 @@ module Cardmaster
 
       def matches_query(card_spec, query_parameters)
         match_if_present(query_parameters, "name", card_spec.title)
+        match_if_present(query_parameters, "draft", card_spec.draft.to_s)
       end
 
       def match_if_present(parameters, parameter_name, value)
