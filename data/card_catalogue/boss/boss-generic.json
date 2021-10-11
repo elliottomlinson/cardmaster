@@ -18,10 +18,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "At the start of your turn during combat, return all blues you've cast this session to your hand.",
+        "cast": "At the start of your turn during combat, return all blues you've cast this session to your hand",
         "hand": null
       },
-      "flavour": "You've got nice moves, but you won't be able to keep up for long.",
+      "flavour": "You've got nice moves, but you won't be able to keep up for long",
       "image": "res/art/illustration/Attrition.png"
     }
   },
@@ -31,10 +31,10 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Move any number of allied NPCs out of combat.",
+        "cast": "Move any number of allied NPCs out of combat",
         "hand": null
       },
-      "flavour": "Let's make some space- this is about to get rowdy.",
+      "flavour": "Let's make some space- this is about to get rowdy",
       "image": "res/art/illustration/Take it Outside.png"
     }
   }

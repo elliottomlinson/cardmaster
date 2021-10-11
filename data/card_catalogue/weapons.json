@@ -5,10 +5,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Deal 10 damage to a visible target.",
-        "hand": "Roll an additional d4 when performing a ranged attack."
+        "cast": "Deal 10 damage to a visible target",
+        "hand": "Roll an additional d4 when performing a ranged attack"
       },
-      "flavour": "The new moon returns in heaven a bent, beautiful bow.",
+      "flavour": "The new moon returns in heaven a bent, beautiful bow",
       "image": "res/art/illustration/Bow Hex.png"
     }
   },
@@ -19,9 +19,9 @@
     "details": {
       "rules": {
         "cast": "Cut a 1 meter gash onto a visible surface",
-        "hand": "Roll an additional d6 when you perform a melee attack."
+        "hand": "Roll an additional d6 when you perform a melee attack"
       },
-      "flavour": "Master swordsmen can resheath their blade before their opponent knows they've been cut.",
+      "flavour": "Master swordsmen can resheath their blade before their opponent knows they've been cut",
       "image": "res/art/illustration/Sword Hex.png"
     }
   },
@@ -31,8 +31,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Launch a baseball sized rock at a visible target.",
-        "hand": "Gain advantage when throwing objects."
+        "cast": "Launch a baseball sized rock at a visible target",
+        "hand": "Gain advantage when throwing objects"
       },
       "flavour": "You want it? Here.",
       "image": "res/art/illustration/Slingshot.png"

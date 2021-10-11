@@ -5,7 +5,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Blind everyone within 3 metres with bean juice.",
+        "cast": "Blind everyone within 3 metres with bean juice",
         "hand": null
       },
       "flavour": "Industrial Grade",
@@ -18,10 +18,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Summon a cast-steel anvil into existence above target character's head.",
+        "cast": "Summon a cast-steel anvil into existence above target character's head",
         "hand": null
       },
-      "flavour": "Meep-Meep.",
+      "flavour": "Meep-Meep",
       "image": "res/art/illustration/Anvil Drop.png"
     }
   },
@@ -57,10 +57,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Put a large object or willing NPC in your hand.",
+        "cast": "Put a large object or willing NPC in your hand",
         "hand": null
       },
-      "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
+      "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming",
       "image": "res/art/illustration/Rolling Cart.png"
     }
   },
@@ -70,10 +70,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Cast a handful of sand and pocket lint into the air before you.",
+        "cast": "Cast a handful of sand and pocket lint into the air before you",
         "hand": null
       },
-      "flavour": "In total war, all tactics are acceptable.",
+      "flavour": "In total war, all tactics are acceptable",
       "image": "res/art/illustration/Empouched Earth.png"
     }
   },
@@ -86,7 +86,7 @@
         "cast": "Choose a Blue or green in your hand. All cards in your hand become copies of that card.",
         "hand": null
       },
-      "flavour": "Diversification is overrated.",
+      "flavour": "Diversification is overrated",
       "image": "res/art/illustration/Card Printer.png"
     }
   },
@@ -96,10 +96,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Target visible character will take 25 damage the next time they rest.",
+        "cast": "Target visible character will take 25 damage the next time they rest",
         "hand": null
       },
-      "flavour": "Sweet dreams.",
+      "flavour": "Sweet dreams",
       "image": "res/art/illustration/Somnomalum.png"
     }
   },
@@ -112,7 +112,7 @@
         "cast": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
         "hand": null
       },
-      "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while.",
+      "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while",
       "image": "res/art/illustration/Disappear.png"
     }
   },
@@ -122,10 +122,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Target NPC becomes tired.",
+        "cast": "Target NPC becomes tired",
         "hand": null
       },
-      "flavour": "Man is born tired, and he lives to rest.",
+      "flavour": "Man is born tired, and he lives to rest",
       "image": "res/art/illustration/Exhaust.png"
     }
   },
@@ -138,7 +138,7 @@
         "cast": "A boundary, impenetrable from within, is placed 5 metres away from you in all directions as long as you'd like",
         "hand": null
       },
-      "flavour": "After years of living in a cage, a lion no longer believes it is a lion.",
+      "flavour": "After years of living in a cage, a lion no longer believes it is a lion",
       "image": "res/art/illustration/Prison.png"
     }
   },

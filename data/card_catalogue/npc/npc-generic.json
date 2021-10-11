@@ -8,7 +8,7 @@
         "cast": "Make an instant attack that cannot miss.",
         "hand": null
       },
-      "flavour": "A single, well timed strike can have greater impact than any barrage of blows.",
+      "flavour": "A single, well timed strike can have greater impact than any barrage of blows",
       "image": "res/art/illustration/Quick Shot.png"
     }
   },
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Make two instant attacks. Return a Card with Blue Rarity to your hand.",
+        "cast": "Make two instant attacks. Return a Card with Blue Rarity to your hand",
         "hand": null
       },
       "flavour": "Always have a plan B.",
@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand.",
+        "cast": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand",
         "hand": null
       },
       "flavour": "Long forgotten armories sprawl out before you, weapons chanting out your name.",

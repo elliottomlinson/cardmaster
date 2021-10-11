@@ -5,10 +5,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Move up to 5 metres in any direction.",
+        "cast": "Move up to 5 metres in any direction",
         "hand": null
       },
-      "flavour": "These are great for the glutes.",
+      "flavour": "These are great for the glutes",
       "image": "res/art/illustration/Lunge.png"
     }
   },
@@ -18,10 +18,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Move up to 15 metres in any direction.",
-        "hand": "Gain advantage when running through obstacles."
+        "cast": "Move up to 15 metres in any direction",
+        "hand": "Gain advantage when running through obstacles"
       },
-      "flavour": "Obstacles do not block the path, they are the path.",
+      "flavour": "Obstacles do not block the path, they are the path",
       "image": "res/art/illustration/Charge.png"
     }
   },
@@ -31,10 +31,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Teleport to any visible location.",
+        "cast": "Teleport to any visible location",
         "hand": null
       },
-      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
+      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy",
       "image": "res/art/illustration/Teleport.png"
     }
   },
@@ -44,7 +44,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Teleport the entire party anywhere.",
+        "cast": "Teleport the entire party anywhere",
         "hand": null
       },
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
@@ -57,7 +57,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Move as far as you want in an unobstructed horizontal line.",
+        "cast": "Move as far as you want in an unobstructed horizontal line",
         "hand": null
       },
       "flavour": "Checkmate",
@@ -73,7 +73,7 @@
         "cast": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
         "hand": null
       },
-      "flavour": "C'mere.",
+      "flavour": "C'mere",
       "image": "res/art/illustration/Grapple.png"
     }
   },
@@ -86,7 +86,7 @@
         "cast": "Teleport to any visible space. Take damage equal to the number of squares moved.",
         "hand": null
       },
-      "flavour": "Travelling is always a pain.",
+      "flavour": "Travelling is always a pain",
       "image": "res/art/illustration/Platzfalt Step.png"
     }
   },
@@ -128,7 +128,7 @@
         "active": "Move twice as fast until you play another card",
         "passive": null
       },
-      "flavour": "Never look back.",
+      "flavour": "Never look back",
       "image": "res/art/illustration/Platzfalt Step.png"
     }
   }
