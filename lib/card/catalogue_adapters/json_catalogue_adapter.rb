@@ -93,7 +93,6 @@ module Card
         rules = validate_rules!(details, name_hierarchy)
         tier = validate_tier!(card, name_hierarchy)
 
-
         upgrade = card["upgrade"]
 
         Card::Models::CardSpecification.new(title, rules, upgrade, tier, flavour, image_path, draft, parent_names)
