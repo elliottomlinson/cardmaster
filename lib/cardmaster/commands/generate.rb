@@ -22,6 +22,8 @@ module Cardmaster
       RES_PATH = File.join(__dir__, "../../../res")
 
       def call(args, _name)
+        CLI::UI::StdoutRouter.enable
+
         flags = flag_arguments(args)
 
         flags.each do |flag|

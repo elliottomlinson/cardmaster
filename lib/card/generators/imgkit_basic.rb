@@ -22,6 +22,8 @@ module Card
         html = render_html_mustache(card_specification)
         css = render_css_mustache(card_specification)
 
+        # raise "#{html} #{css}"
+
         File.write("generated_stylesheet.css", css)
 
         kit = IMGKit.new(html, "crop-w" => 816, "crop-h" => 1154, transparent: true)

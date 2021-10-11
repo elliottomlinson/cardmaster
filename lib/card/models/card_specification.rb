@@ -29,6 +29,8 @@ module Card
       end
 
       def ==(other)
+        puts self.inspect
+        puts other.inspect
         title == other.title &&
           rules === other.rules &&
           upgrade == other.upgrade &&

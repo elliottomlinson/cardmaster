@@ -141,15 +141,16 @@
   background-size: contain;
 }
 
-.cast {
+.castglyph {
   background-image: url("{{cast_glyph_image_path}}")
 }
 
-.hand {
+.handglyph {
   background-image: url("{{hand_glyph_image_path}}")
 }
 
 .flavour {
+  font-family: 'EB Garamond';
   position: absolute;
   bottom: 0px;
 }

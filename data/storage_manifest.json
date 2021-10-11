@@ -11,7 +11,7 @@
       "flavour": "I wish this guy would just die before we even showed up, that'd save us a lot of time.",
       "art_path": "res/art/illustration/Untimely Death.png",
       "tags": [
-        "story-changing-golds"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -21,14 +21,15 @@
     "spec": {
       "title": "Field Medicine",
       "rules": {
-        "text": "Heal a visible character 15. They can move twice as fast for the remainder of the session."
+        "hand": "Run twice as fast while carrying friendly characters.",
+        "cast": "Heal a visible character 15. They can move twice as fast for the remainder of the session."
       },
       "upgrade": "Renew",
       "tier": "green",
       "flavour": "Wee woo, wee woo.",
       "art_path": "res/art/illustration/Field Medicine.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -38,14 +39,15 @@
     "spec": {
       "title": "Rodent Whisperer",
       "rules": {
-        "text": "Turn into a rodent for as long as you want."
+        "hand": "You hold influence over members of Order Rodentia.",
+        "cast": "Turn into a rodent for as long as you want."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Sometimes the smallest things take up the most room in your heart",
       "art_path": "res/art/illustration/Rodent Whisperer.png",
       "tags": [
-        "druid"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -55,14 +57,15 @@
     "spec": {
       "title": "Avian Spirit",
       "rules": {
-        "text": "Become a small hummingbird for as long as you want."
+        "hand": "You can speak to birds.",
+        "cast": "Become a small hummingbird for as long as you want."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Birds never fail to see the forest from the trees",
       "art_path": "res/art/illustration/Avian Spirit.png",
       "tags": [
-        "druid"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -72,14 +75,15 @@
     "spec": {
       "title": "Swarm",
       "rules": {
-        "text": "Pick a small animal or insect for your target to be swarmed by."
+        "hand": "You are constantly covered in an insect of your choice",
+        "cast": "Pick a small animal or insect for your target to be swarmed by."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Surprisingly, it never bugs me.",
       "art_path": "res/art/illustration/Swarm.png",
       "tags": [
-        "druid"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -89,14 +93,15 @@
     "spec": {
       "title": "Ouphe's Aura",
       "rules": {
-        "text": "Disable a visible machine until it is repaired."
+        "hand": "Machines fear you.",
+        "cast": "Disable a visible machine until it is repaired."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Yeah, I'm into tech, into smashing it up that is.",
       "art_path": "res/art/illustration/Ouphe_s Aura.png",
       "tags": [
-        "druid"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -106,14 +111,15 @@
     "spec": {
       "title": "Equestrian",
       "rules": {
-        "text": "Summon a trusty steed."
+        "hand": "You can tame anything you can ride.",
+        "cast": "Summon a trusty steed."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Man was destined to tame the world.",
       "art_path": "res/art/illustration/Equestrian.png",
       "tags": [
-        "druid"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -123,14 +129,15 @@
     "spec": {
       "title": "Bow Hex",
       "rules": {
-        "text": "Deal 10 damage to a visible target."
+        "hand": "Roll an additional d4 when performing a ranged attack.",
+        "cast": "Deal 10 damage to a visible target."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "The new moon returns in heaven a bent, beautiful bow.",
       "art_path": "res/art/illustration/Bow Hex.png",
       "tags": [
-        "weapons"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -140,14 +147,15 @@
     "spec": {
       "title": "Sword Hex",
       "rules": {
-        "text": "Cut a 1 meter gash onto a visible surface"
+        "hand": "Roll an additional d6 when you perform a melee attack.",
+        "cast": "Cut a 1 meter gash onto a visible surface"
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Master swordsmen can resheath their blade before their opponent knows they've been cut.",
       "art_path": "res/art/illustration/Sword Hex.png",
       "tags": [
-        "weapons"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -157,14 +165,15 @@
     "spec": {
       "title": "Slingshot",
       "rules": {
-        "text": "Launch a baseball sized rock at a visible target."
+        "hand": "Gain advantage when throwing objects.",
+        "cast": "Launch a baseball sized rock at a visible target."
       },
       "upgrade": null,
       "tier": "blue",
       "flavour": "You want it? Here.",
       "art_path": "res/art/illustration/Slingshot.png",
       "tags": [
-        "weapons"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -174,14 +183,15 @@
     "spec": {
       "title": "Lover Fatale",
       "rules": {
-        "text": "A visible NPC develops feelings for you."
+        "hand": "Attacks against characters who love you deal 25 bonus damage.",
+        "cast": "A visible NPC develops feelings for you."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "I trust him completely",
       "art_path": "res/art/illustration/Lover Fatale.png",
       "tags": [
-        "triggers"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -191,14 +201,15 @@
     "spec": {
       "title": "Infamous",
       "rules": {
-        "text": "Tell a story about yourself. Any number of visible NPCs will believe this story is true."
+        "hand": "Deal 3 bonus damage when attacking characters who know your name.",
+        "cast": "Tell a story about yourself. Any number of visible NPCs will believe this story is true."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "His reputation preceded him.",
       "art_path": "res/art/illustration/Infamous.png",
       "tags": [
-        "triggers"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -215,7 +226,7 @@
       "flavour": "If you were words on a card, you'd be some fine print.",
       "art_path": "res/art/illustration/Flirt.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -232,7 +243,7 @@
       "flavour": "Do you like raisins? How do you feel about a date?",
       "art_path": "res/art/illustration/Charm.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -249,7 +260,7 @@
       "flavour": "Here I am - Your other two wishes?",
       "art_path": "res/art/illustration/Arouse.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -266,7 +277,7 @@
       "flavour": "How'd you get this number? I don't even own a phone!",
       "art_path": "res/art/illustration/Commune.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -283,7 +294,7 @@
       "flavour": "Eventually, one grows tired of speaking with the dead. They never have anything new to talk about.",
       "art_path": "res/art/illustration/Seance.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -300,7 +311,7 @@
       "flavour": "There is no love without forgiveness, and no forgiveness without love.",
       "art_path": "res/art/illustration/Apologize.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -317,7 +328,7 @@
       "flavour": "It was a lovely moment, but it'd be just as lovely after checking my messages once more.",
       "art_path": "res/art/illustration/Distract.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -334,7 +345,7 @@
       "flavour": "A lie travels half way around the world before the truth puts on its shoes.",
       "art_path": "res/art/illustration/Lie.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -351,7 +362,7 @@
       "flavour": "Most people are other people.",
       "art_path": "res/art/illustration/Disguise.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -368,7 +379,7 @@
       "flavour": "Nothing is ever lost to us as long as we remember it.",
       "art_path": "res/art/illustration/Revise.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -385,7 +396,7 @@
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
       "art_path": "res/art/illustration/Magic Trick.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -395,14 +406,15 @@
     "spec": {
       "title": "Polarize",
       "rules": {
-        "text": "Target visible NPC will love you from now on."
+        "hand": "NPCs hate you.",
+        "cast": "Target visible NPC will love you from now on."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Nobody knew what he saw in her.",
       "art_path": "res/art/illustration/Polarize.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -419,8 +431,7 @@
       "flavour": "See you next fall!",
       "art_path": "res/art/illustration/I_ve Had Enough.png",
       "tags": [
-        "boss",
-        "boss-generic"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -437,8 +448,7 @@
       "flavour": "You've got nice moves, but you won't be able to keep up for long.",
       "art_path": "res/art/illustration/Attrition.png",
       "tags": [
-        "boss",
-        "boss-generic"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -455,8 +465,7 @@
       "flavour": "Let's make some space- this is about to get rowdy.",
       "art_path": "res/art/illustration/Take it Outside.png",
       "tags": [
-        "boss",
-        "boss-generic"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -473,7 +482,7 @@
       "flavour": "These are great for the glutes.",
       "art_path": "res/art/illustration/Lunge.png",
       "tags": [
-        "movement"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -483,14 +492,15 @@
     "spec": {
       "title": "Charge",
       "rules": {
-        "text": "Move up to 15 metres in any direction."
+        "hand": "Gain advantage when running through obstacles.",
+        "cast": "Move up to 15 metres in any direction."
       },
       "upgrade": "Teleport",
       "tier": "green",
       "flavour": "Obstacles do not block the path, they are the path.",
       "art_path": "res/art/illustration/Charge.png",
       "tags": [
-        "movement"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -507,7 +517,7 @@
       "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
       "art_path": "res/art/illustration/Teleport.png",
       "tags": [
-        "movement"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -524,7 +534,7 @@
       "flavour": "Endless folds in spacetime reveal themselves to the worthy",
       "art_path": "res/art/illustration/Leopold_s Door.png",
       "tags": [
-        "movement"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -541,7 +551,7 @@
       "flavour": "Checkmate",
       "art_path": "res/art/illustration/Queen_s Gambit.png",
       "tags": [
-        "movement"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -558,7 +568,7 @@
       "flavour": "C'mere.",
       "art_path": "res/art/illustration/Grapple.png",
       "tags": [
-        "movement"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -575,7 +585,7 @@
       "flavour": "Travelling is always a pain.",
       "art_path": "res/art/illustration/Platzfalt Step.png",
       "tags": [
-        "movement"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -592,7 +602,7 @@
       "flavour": "Mmm, Crayons.",
       "art_path": "res/art/illustration/Spice Rack.png",
       "tags": [
-        "food"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -609,7 +619,7 @@
       "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
       "art_path": "res/art/illustration/Ambrosia.png",
       "tags": [
-        "food"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -626,7 +636,7 @@
       "flavour": "You see a distant obstacle, I see an upcoming opportunity.",
       "art_path": "res/art/illustration/Positivity.png",
       "tags": [
-        "anger"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -636,14 +646,15 @@
     "spec": {
       "title": "Talk it Out",
       "rules": {
-        "text": "A visible character is forced to stop what they're doing and discuss their feelings with you."
+        "hand": "Whenever you make an attack, you can choose whether or not it will deal damage.",
+        "cast": "A visible character is forced to stop what they're doing and discuss their feelings with you."
       },
       "upgrade": "Timeout",
       "tier": "green",
       "flavour": "",
       "art_path": "res/art/illustration/Talk it Out.png",
       "tags": [
-        "anger"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -660,7 +671,7 @@
       "flavour": "There goes that thief with our jewlerly, what a great guy.",
       "art_path": "res/art/illustration/Timeout.png",
       "tags": [
-        "anger"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -677,7 +688,7 @@
       "flavour": "When the power of love overcomes the love of power, the world will know peace.",
       "art_path": "res/art/illustration/Change of Heart.png",
       "tags": [
-        "anger"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -694,7 +705,7 @@
       "flavour": "And that was the second time Randy forgot about my birthday",
       "art_path": "res/art/illustration/Rue the Day.png",
       "tags": [
-        "anger"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -704,14 +715,15 @@
     "spec": {
       "title": "Shadow Strike",
       "rules": {
-        "text": "Disappear for as long as you remain perfectly still."
+        "hand": "Deal double damage while out of combat.",
+        "cast": "Disappear for as long as you remain perfectly still."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Most battles are over before they've even begun",
       "art_path": "res/art/illustration/Shadow Strike.png",
       "tags": [
-        "anger"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -721,14 +733,15 @@
     "spec": {
       "title": "Survival Instincts",
       "rules": {
-        "text": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water."
+        "hand": "Triple advantage on all d20 rolls when below 5 health.",
+        "cast": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "The key to survival is flexibility and urgency",
       "art_path": "res/art/illustration/Survival Instincts.png",
       "tags": [
-        "anger"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -745,7 +758,7 @@
       "flavour": "The collective will of the people made manifest.",
       "art_path": "res/art/illustration/Boost.png",
       "tags": [
-        "greys"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/grey.png"
@@ -762,7 +775,7 @@
       "flavour": "When speed gets in the blood, one must move to live.",
       "art_path": "res/art/illustration/Shift.png",
       "tags": [
-        "greys"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/grey.png"
@@ -779,7 +792,7 @@
       "flavour": "The collective will of the people made manifest.",
       "art_path": "res/art/illustration/Fluster.png",
       "tags": [
-        "greys"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/grey.png"
@@ -796,7 +809,7 @@
       "flavour": "Human force extends far past the limits of an earthly body.",
       "art_path": "res/art/illustration/Force.png",
       "tags": [
-        "greys"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/grey.png"
@@ -813,7 +826,7 @@
       "flavour": "Industrial Grade",
       "art_path": "res/art/illustration/Bean Blast.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -830,7 +843,7 @@
       "flavour": "Meep-Meep.",
       "art_path": "res/art/illustration/Anvil Drop.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -847,7 +860,7 @@
       "flavour": "Always drink upstream from the herd",
       "art_path": "res/art/illustration/Sheriff_s Roundup.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -864,7 +877,7 @@
       "flavour": "Bolas are excellent for capturing large mammals, like my portly friend Steve",
       "art_path": "res/art/illustration/Ancient Throwing Bola.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -881,7 +894,7 @@
       "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
       "art_path": "res/art/illustration/Rolling Cart.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -898,7 +911,7 @@
       "flavour": "In total war, all tactics are acceptable.",
       "art_path": "res/art/illustration/Empouched Earth.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -915,7 +928,7 @@
       "flavour": "Diversification is overrated.",
       "art_path": "res/art/illustration/Card Printer.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -932,7 +945,7 @@
       "flavour": "Sweet dreams.",
       "art_path": "res/art/illustration/Somnomalum.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -949,7 +962,7 @@
       "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while.",
       "art_path": "res/art/illustration/Disappear.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -966,7 +979,7 @@
       "flavour": "Man is born tired, and he lives to rest.",
       "art_path": "res/art/illustration/Exhaust.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -983,7 +996,7 @@
       "flavour": "After years of living in a cage, a lion no longer believes it is a lion.",
       "art_path": "res/art/illustration/Prison.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1000,7 +1013,7 @@
       "flavour": "Well don't just stand there, come on in!",
       "art_path": "res/art/illustration/Porticostatic Hex.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1017,7 +1030,7 @@
       "flavour": "How clumsy of me.",
       "art_path": "res/art/illustration/Object Eject.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1027,14 +1040,15 @@
     "spec": {
       "title": "Where-Ware Charm",
       "rules": {
-        "text": "Teleport to a visible object you've touched"
+        "hand": "You know the location of every object you've ever touched",
+        "cast": "Teleport to a visible object you've touched"
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "I don't know who stole my socks from the dryer, but I do know their days are numbered.",
       "art_path": "res/art/illustration/Where-Ware Charm.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1051,7 +1065,7 @@
       "flavour": "Not suitable for tectonic fault zones.",
       "art_path": "res/art/illustration/Groundburst.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1068,7 +1082,7 @@
       "flavour": "I'm not unarmed, I've got two of them.",
       "art_path": "res/art/illustration/Bashbolster.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1085,7 +1099,7 @@
       "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
       "art_path": "res/art/illustration/Musty Musket.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1102,7 +1116,7 @@
       "flavour": "Mildly anoxic.",
       "art_path": "res/art/illustration/Smoke Bomb.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1119,7 +1133,7 @@
       "flavour": "Nothing like a little prop humour.",
       "art_path": "res/art/illustration/Banana Peel.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1136,7 +1150,7 @@
       "flavour": "There's something rather... lively, about this chair.",
       "art_path": "res/art/illustration/Poltergeist.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1153,7 +1167,7 @@
       "flavour": "Give me five!",
       "art_path": "res/art/illustration/Eidolimb.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1170,7 +1184,7 @@
       "flavour": "Even if the bird flies high in the sky, the hunter places his trap on the ground.",
       "art_path": "res/art/illustration/Espial Thread.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1180,14 +1194,15 @@
     "spec": {
       "title": "Spectreblast",
       "rules": {
-        "text": "Fire a cannonball at a target of your choice."
+        "hand": "You're surrounded by a ghostly aura.",
+        "cast": "Fire a cannonball at a target of your choice."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
       "art_path": "res/art/illustration/Spectreblast.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1204,7 +1219,7 @@
       "flavour": "Indignity defeats the spirit, and the body is soon to follow.",
       "art_path": "res/art/illustration/PBJT.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1221,7 +1236,7 @@
       "flavour": "Have my legs always been this heavy?",
       "art_path": "res/art/illustration/Locomotor Hex.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1238,7 +1253,7 @@
       "flavour": "Whoa, chill.",
       "art_path": "res/art/illustration/Rime.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1255,7 +1270,7 @@
       "flavour": "I'm taking you straight to hell.",
       "art_path": "res/art/illustration/Akindle.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1272,7 +1287,7 @@
       "flavour": "Let's savour this moment forever.",
       "art_path": "res/art/illustration/Glacial Hand.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1289,7 +1304,7 @@
       "flavour": "He will try his best not to be distracted by breadcrumbs.",
       "art_path": "res/art/illustration/Pigeon Partner.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1299,14 +1314,15 @@
     "spec": {
       "title": "Gloven Mitt",
       "rules": {
-        "text": "Your next melee attack sets your opponent on fire."
+        "hand": "Your hands are invulnerable to damage.",
+        "cast": "Your next melee attack sets your opponent on fire."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "I'm about to turn your Kitchen Dream into a Kitchen Nightmare",
       "art_path": "res/art/illustration/Gloven Mitt.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1323,7 +1339,7 @@
       "flavour": "Property is not the natural, obvious, and inevitable concept that most people think it is.",
       "art_path": "res/art/illustration/Blank Deed.png",
       "tags": [
-        "story-changing-golds"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -1340,7 +1356,7 @@
       "flavour": "There was a light within us that few can see. One day it will shine through.",
       "art_path": "res/art/illustration/Heroic Inspiration.png",
       "tags": [
-        "story-changing-golds"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -1357,7 +1373,7 @@
       "flavour": "Live by the luck of the draw.",
       "art_path": "res/art/illustration/Wing It.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1374,7 +1390,7 @@
       "flavour": "You never know what she'll pull out of thin air.",
       "art_path": "res/art/illustration/Brainstorm.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1391,7 +1407,7 @@
       "flavour": "I've got an idea...",
       "art_path": "res/art/illustration/Spark of Inspiration.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1408,7 +1424,7 @@
       "flavour": "History rarely goes according to plan.",
       "art_path": "res/art/illustration/Randomize.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -1425,7 +1441,7 @@
       "flavour": "What we lack in quality we've made up with quantity.",
       "art_path": "res/art/illustration/Slipshod Sorcery.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1442,7 +1458,7 @@
       "flavour": "This is how stupid you look, watch this.",
       "art_path": "res/art/illustration/Imitate.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1459,7 +1475,7 @@
       "flavour": "Stop copying me. Stop copying me.",
       "art_path": "res/art/illustration/Copy.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1476,7 +1492,7 @@
       "flavour": "Now, what do we have here...",
       "art_path": "res/art/illustration/Adlib.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1493,7 +1509,7 @@
       "flavour": "You criticize, I improvise",
       "art_path": "res/art/illustration/Improvise.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1510,7 +1526,7 @@
       "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
       "art_path": "res/art/illustration/Helter-Skelter.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1527,7 +1543,7 @@
       "flavour": "No more of this bush-league nonsense. We need some real power.",
       "art_path": "res/art/illustration/Four-Leaf Clover.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1544,7 +1560,7 @@
       "flavour": "I might be able to pull it off - but just this once.",
       "art_path": "res/art/illustration/Rabbit_s Foot.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1561,7 +1577,7 @@
       "flavour": "Do you believe in miracles?",
       "art_path": "res/art/illustration/Jackpot.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1578,8 +1594,7 @@
       "flavour": "A single, well timed strike can have greater impact than any barrage of blows.",
       "art_path": "res/art/illustration/Quick Shot.png",
       "tags": [
-        "npc",
-        "npc-generic"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1596,8 +1611,7 @@
       "flavour": "Always have a plan B.",
       "art_path": "res/art/illustration/Empty the Clip.png",
       "tags": [
-        "npc",
-        "npc-generic"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1614,8 +1628,7 @@
       "flavour": "Long forgotten armories sprawl out before you, weapons chanting out your name.",
       "art_path": "res/art/illustration/Bullet Rain.png",
       "tags": [
-        "npc",
-        "npc-generic"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1632,7 +1645,7 @@
       "flavour": "Go ahead, toss your hat in the ring.",
       "art_path": "res/art/illustration/Toss.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1642,14 +1655,15 @@
     "spec": {
       "title": "Throw",
       "rules": {
-        "text": "Throw an object accurately at a target up to 12 metres away."
+        "hand": "Advantage when catching.",
+        "cast": "Throw an object accurately at a target up to 12 metres away."
       },
       "upgrade": "Pitch",
       "tier": "green",
       "flavour": "If you're going to throw in the towel, at least do it properly.",
       "art_path": "res/art/illustration/Throw.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1659,14 +1673,15 @@
     "spec": {
       "title": "Pitch",
       "rules": {
-        "text": "Throw an object accurately as far as you want."
+        "hand": "Advantage when catching.",
+        "cast": "Throw an object accurately as far as you want."
       },
       "upgrade": "Launch",
       "tier": "red",
       "flavour": "I want this thing gone, understand?",
       "art_path": "res/art/illustration/Launch.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1683,7 +1698,7 @@
       "flavour": "I guess in a way, we're all still chasing it.",
       "art_path": "res/art/illustration/Launch.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -1700,7 +1715,7 @@
       "flavour": "A spark is a little thing, yet it may kindle the world.",
       "art_path": "res/art/illustration/Spark.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1717,7 +1732,7 @@
       "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
       "art_path": "res/art/illustration/Lightning Bolt.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1734,7 +1749,7 @@
       "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants",
       "art_path": "res/art/illustration/Elektra_s Siphon.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1751,7 +1766,7 @@
       "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
       "art_path": "res/art/illustration/Ignite.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1768,7 +1783,7 @@
       "flavour": "Time for a game of hot potato!",
       "art_path": "res/art/illustration/Fireball.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1785,7 +1800,7 @@
       "flavour": "The best part is that nice campfire smell.",
       "art_path": "res/art/illustration/Immolate.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1795,14 +1810,15 @@
     "spec": {
       "title": "Terrestrial Sun",
       "rules": {
-        "text": "Summon a brick of material which burns violently when set out fire."
+        "hand": "Fires you set cannot be put out.",
+        "cast": "Summon a brick of material which burns violently when set out fire."
       },
       "upgrade": null,
       "tier": "gold",
       "flavour": "The fire in our hearts will never burn out",
       "art_path": "res/art/illustration/Terrestrial Sun.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -1819,7 +1835,7 @@
       "flavour": "Jump, and you will find out how to unfold your wings as you fall.",
       "art_path": "res/art/illustration/Jump.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1829,14 +1845,15 @@
     "spec": {
       "title": "Leap",
       "rules": {
-        "text": "Jump 25 metres into the air."
+        "hand": "Take no damage from falling.",
+        "cast": "Jump 25 metres into the air."
       },
       "upgrade": "Levitate",
       "tier": "green",
       "flavour": "Sometimes all you need is a big leap of faith.",
       "art_path": "res/art/illustration/Leap.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1853,7 +1870,7 @@
       "flavour": "Rise above earthly ambition.",
       "art_path": "res/art/illustration/Levitate.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1870,7 +1887,7 @@
       "flavour": "I think I'm going to need a change of clothes.",
       "art_path": "res/art/illustration/Moisten.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1880,14 +1897,15 @@
     "spec": {
       "title": "Soak",
       "rules": {
-        "text": "Cause everything within 2 metres of a visible object to become saturated with water."
+        "hand": "Deal double damage when attacking wet enemies",
+        "cast": "Cause everything within 2 metres of a visible object to become saturated with water."
       },
       "upgrade": "Drench",
       "tier": "green",
       "flavour": "My plan: complete. Their day: ruined.",
       "art_path": "res/art/illustration/Soak.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1904,7 +1922,7 @@
       "flavour": "'Wet' would be an understatement",
       "art_path": "res/art/illustration/Drench.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1921,7 +1939,7 @@
       "flavour": "Nature has a myriad of weapons to combat human arrogance.",
       "art_path": "res/art/illustration/Flood.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -1938,7 +1956,7 @@
       "flavour": "He works in strange ways.",
       "art_path": "res/art/illustration/Hope.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -1955,7 +1973,7 @@
       "flavour": "He will save us from our mortal errors.",
       "art_path": "res/art/illustration/Pray.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -1972,7 +1990,7 @@
       "flavour": "He lives deep in the hearts of all men.",
       "art_path": "res/art/illustration/Preach.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -1989,7 +2007,7 @@
       "flavour": "The light will shine bright upon the chosen.",
       "art_path": "res/art/illustration/Wish.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -2006,7 +2024,7 @@
       "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
       "art_path": "res/art/illustration/Cure.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -2023,7 +2041,7 @@
       "flavour": "I hope you don't mind if I make some improvements while I'm in here",
       "art_path": "res/art/illustration/Renew.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -2033,11 +2051,12 @@
     "spec": {
       "title": "Reincarnate",
       "rules": {
-        "text": "Revive a dead character."
+        "hand": "The dead fear you.",
+        "cast": "Revive a dead character."
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "If man is to play god, he ought to be a kind one.",
+      "flavour": "If man is to play god, he ought to be a kind one",
       "art_path": "res/art/illustration/Reincarnate.png",
       "tags": [
         "upgradeable-1"
@@ -2057,7 +2076,7 @@
       "flavour": "I barely felt that! Who taught you how to punch?",
       "art_path": "res/art/illustration/Brace.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -2067,14 +2086,15 @@
     "spec": {
       "title": "Reflect",
       "rules": {
-        "text": "The next amount of damage dealt to you is also dealt to your attacker."
+        "hand": "Thrown objects bounce off of you with equal force.",
+        "cast": "The next amount of damage dealt to you is also dealt to your attacker."
       },
       "upgrade": "Deflect",
       "tier": "green",
       "flavour": "Let's see how you like it!.",
       "art_path": "res/art/illustration/Reflect.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -2091,7 +2111,7 @@
       "flavour": "I am rubber, and you are glue.",
       "art_path": "res/art/illustration/Deflect.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -2108,7 +2128,7 @@
       "flavour": "It's futile. I've already analyzed all of your moves.",
       "art_path": "res/art/illustration/Golan_s Idol.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -2125,7 +2145,7 @@
       "flavour": "The first blow shatters their defenses, the next their spirit.",
       "art_path": "res/art/illustration/Double Strike.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -2142,7 +2162,7 @@
       "flavour": "Their defense won't last forever. Strike, and strike again.",
       "art_path": "res/art/illustration/Quad Strike.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -2159,7 +2179,7 @@
       "flavour": "An endless fractal of striking limbs",
       "art_path": "res/art/illustration/Endless Blows.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -2176,7 +2196,7 @@
       "flavour": "He should've worn a windbreaker.",
       "art_path": "res/art/illustration/Gust of Wind.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -2186,14 +2206,15 @@
     "spec": {
       "title": "Gale",
       "rules": {
-        "text": "Throw any number of characters in a 3 metre radius into the air."
+        "hand": "Whenever you throw a character in the air, throw them 8 metres in any direction",
+        "cast": "Throw any number of characters in a 3 metre radius into the air."
       },
       "upgrade": "Wind Storm",
       "tier": "green",
       "flavour": "You look like a birthday candle.",
       "art_path": "res/art/illustration/Gale.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -2210,7 +2231,7 @@
       "flavour": "Rise, rise towards the heavens.",
       "art_path": "res/art/illustration/Wind Storm.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
@@ -2227,7 +2248,7 @@
       "flavour": "It is rare for an area to know such devastation.",
       "art_path": "res/art/illustration/Hurricane.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -2244,7 +2265,7 @@
       "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
       "art_path": "res/art/illustration/Barrier.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
@@ -2261,7 +2282,7 @@
       "flavour": "I hated the man so much I made a point of killing him twice",
       "art_path": "res/art/illustration/Mirror Image.png",
       "tags": [
-        "upgradeable-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -2278,7 +2299,7 @@
       "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
       "art_path": "res/art/illustration/Seduce.png",
       "tags": [
-        "social"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
@@ -2288,14 +2309,15 @@
     "spec": {
       "title": "The Gambler",
       "rules": {
-        "text": "Summon a rigged pair of dice which you can control with your mind."
+        "hand": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure.",
+        "cast": "Summon a rigged pair of dice which you can control with your mind."
       },
       "upgrade": null,
       "tier": "green",
       "flavour": "",
       "art_path": "res/art/illustration/The Ultimatum.png",
       "tags": [
-        "unique-1"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
@@ -2312,7 +2334,7 @@
       "flavour": "Great power lies not on the surface, but within.",
       "art_path": "res/art/illustration/Empower.png",
       "tags": [
-        "card-manipulation"
+
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
