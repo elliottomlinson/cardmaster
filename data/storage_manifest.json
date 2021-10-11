@@ -1,40 +1,4 @@
 {
-  "Foo": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Foo.png",
-    "spec": {
-      "title": "Foo",
-      "rules": {
-        "text": "Oh no"
-      },
-      "upgrade": "Bar",
-      "tier": "blue",
-      "flavour": "Darn",
-      "art_path": "res/art/illustration/Inner Sun.png",
-      "tags": [
-        "demo",
-        "hatred-series"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
-  },
-  "Bar": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bar.png",
-    "spec": {
-      "title": "Bar",
-      "rules": {
-        "text": "Sacrifice your life. Kill an NPC who you've met."
-      },
-      "upgrade": null,
-      "tier": "green",
-      "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
-      "art_path": "res/art/illustration/Inner Sun.png",
-      "tags": [
-        "demo",
-        "hatred-series"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
   "Untimely Death": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Untimely Death.png",
     "spec": {
@@ -57,8 +21,7 @@
     "spec": {
       "title": "Field Medicine",
       "rules": {
-        "hand": "Run twice as fast while carrying friendly characters.",
-        "cast": "Heal a visible character 15. They can move twice as fast for the remainder of the session."
+        "text": "Heal a visible character 15. They can move twice as fast for the remainder of the session."
       },
       "upgrade": "Renew",
       "tier": "green",
@@ -75,8 +38,7 @@
     "spec": {
       "title": "Rodent Whisperer",
       "rules": {
-        "hand": "You hold influence over members of Order Rodentia.",
-        "cast": "Turn into a rodent for as long as you want."
+        "text": "Turn into a rodent for as long as you want."
       },
       "upgrade": null,
       "tier": "green",
@@ -93,8 +55,7 @@
     "spec": {
       "title": "Avian Spirit",
       "rules": {
-        "hand": "You can speak to birds.",
-        "cast": "Become a small hummingbird for as long as you want."
+        "text": "Become a small hummingbird for as long as you want."
       },
       "upgrade": null,
       "tier": "green",
@@ -111,8 +72,7 @@
     "spec": {
       "title": "Swarm",
       "rules": {
-        "hand": "You are constantly covered in an insect of your choice",
-        "cast": "Pick a small animal or insect for your target to be swarmed by."
+        "text": "Pick a small animal or insect for your target to be swarmed by."
       },
       "upgrade": null,
       "tier": "green",
@@ -129,8 +89,7 @@
     "spec": {
       "title": "Ouphe's Aura",
       "rules": {
-        "hand": "Machines fear you.",
-        "cast": "Disable a visible machine until it is repaired."
+        "text": "Disable a visible machine until it is repaired."
       },
       "upgrade": null,
       "tier": "green",
@@ -147,8 +106,7 @@
     "spec": {
       "title": "Equestrian",
       "rules": {
-        "hand": "You can tame anything you can ride.",
-        "cast": "Summon a trusty steed."
+        "text": "Summon a trusty steed."
       },
       "upgrade": null,
       "tier": "green",
@@ -165,8 +123,7 @@
     "spec": {
       "title": "Bow Hex",
       "rules": {
-        "hand": "Roll an additional d4 when performing a ranged attack.",
-        "cast": "Deal 10 damage to a visible target."
+        "text": "Deal 10 damage to a visible target."
       },
       "upgrade": null,
       "tier": "green",
@@ -183,8 +140,7 @@
     "spec": {
       "title": "Sword Hex",
       "rules": {
-        "hand": "Roll an additional d6 when you perform a melee attack.",
-        "cast": "Cut a 1 meter gash onto a visible surface"
+        "text": "Cut a 1 meter gash onto a visible surface"
       },
       "upgrade": null,
       "tier": "green",
@@ -201,8 +157,7 @@
     "spec": {
       "title": "Slingshot",
       "rules": {
-        "hand": "Gain advantage when throwing objects.",
-        "cast": "Launch a baseball sized rock at a visible target."
+        "text": "Launch a baseball sized rock at a visible target."
       },
       "upgrade": null,
       "tier": "blue",
@@ -214,48 +169,12 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
-  "Zop": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Zop.png",
-    "spec": {
-      "title": "Zop",
-      "rules": {
-        "text": "Stun an NPC for two turns"
-      },
-      "upgrade": null,
-      "tier": "blue",
-      "flavour": "Human beings are basically just big potato batteries.",
-      "art_path": "res/art/illustration/Inner Sun.png",
-      "tags": [
-        "demo"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
-  },
-  "Paz": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Paz.png",
-    "spec": {
-      "title": "Paz",
-      "rules": {
-        "hand": "Everybody hates you",
-        "cast": "Target NPC will love you from now on"
-      },
-      "upgrade": null,
-      "tier": "green",
-      "flavour": "Nobody knew what he saw in her",
-      "art_path": "res/art/illustration/Bean Blast.png",
-      "tags": [
-        "demo"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
   "Lover Fatale": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lover Fatale.png",
     "spec": {
       "title": "Lover Fatale",
       "rules": {
-        "hand": "Attacks against characters who love you deal 25 bonus damage.",
-        "cast": "A visible NPC develops feelings for you."
+        "text": "A visible NPC develops feelings for you."
       },
       "upgrade": null,
       "tier": "green",
@@ -272,8 +191,7 @@
     "spec": {
       "title": "Infamous",
       "rules": {
-        "hand": "Deal 3 bonus damage when attacking characters who know your name.",
-        "cast": "Tell a story about yourself. Any number of visible NPCs will believe this story is true."
+        "text": "Tell a story about yourself. Any number of visible NPCs will believe this story is true."
       },
       "upgrade": null,
       "tier": "green",
@@ -477,8 +395,7 @@
     "spec": {
       "title": "Polarize",
       "rules": {
-        "hand": "NPCs hate you.",
-        "cast": "Target visible NPC will love you from now on."
+        "text": "Target visible NPC will love you from now on."
       },
       "upgrade": null,
       "tier": "green",
@@ -566,8 +483,7 @@
     "spec": {
       "title": "Charge",
       "rules": {
-        "hand": "Gain advantage when running through obstacles.",
-        "cast": "Move up to 15 metres in any direction."
+        "text": "Move up to 15 metres in any direction."
       },
       "upgrade": "Teleport",
       "tier": "green",
@@ -720,8 +636,7 @@
     "spec": {
       "title": "Talk it Out",
       "rules": {
-        "hand": "Whenever you make an attack, you can choose whether or not it will deal damage.",
-        "cast": "A visible character is forced to stop what they're doing and discuss their feelings with you."
+        "text": "A visible character is forced to stop what they're doing and discuss their feelings with you."
       },
       "upgrade": "Timeout",
       "tier": "green",
@@ -789,8 +704,7 @@
     "spec": {
       "title": "Shadow Strike",
       "rules": {
-        "hand": "Deal double damage while out of combat.",
-        "cast": "Disappear for as long as you remain perfectly still."
+        "text": "Disappear for as long as you remain perfectly still."
       },
       "upgrade": null,
       "tier": "green",
@@ -807,8 +721,7 @@
     "spec": {
       "title": "Survival Instincts",
       "rules": {
-        "hand": "Triple advantage on all d20 rolls when below 5 health.",
-        "cast": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water."
+        "text": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water."
       },
       "upgrade": null,
       "tier": "green",
@@ -1114,8 +1027,7 @@
     "spec": {
       "title": "Where-Ware Charm",
       "rules": {
-        "hand": "You know the location of every object you've ever touched",
-        "cast": "Teleport to a visible object you've touched"
+        "text": "Teleport to a visible object you've touched"
       },
       "upgrade": null,
       "tier": "green",
@@ -1268,8 +1180,7 @@
     "spec": {
       "title": "Spectreblast",
       "rules": {
-        "hand": "You're surrounded by a ghostly aura.",
-        "cast": "Fire a cannonball at a target of your choice."
+        "text": "Fire a cannonball at a target of your choice."
       },
       "upgrade": null,
       "tier": "green",
@@ -1388,8 +1299,7 @@
     "spec": {
       "title": "Gloven Mitt",
       "rules": {
-        "hand": "Your hands are invulnerable to damage.",
-        "cast": "Your next melee attack sets your opponent on fire."
+        "text": "Your next melee attack sets your opponent on fire."
       },
       "upgrade": null,
       "tier": "green",
@@ -1503,23 +1413,6 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
-  "": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/.png",
-    "spec": {
-      "title": "",
-      "rules": {
-        "text": "Draw 6 greys."
-      },
-      "upgrade": "Slipshod Sorcery",
-      "tier": "green",
-      "flavour": "Oh man, I've really d this one.",
-      "art_path": "res/art/illustration/.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
   "Slipshod Sorcery": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Slipshod Sorcery.png",
     "spec": {
@@ -1622,23 +1515,6 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
-  "Helter-Skelter": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Helter-Skelter.png",
-    "spec": {
-      "title": "Helter-Skelter",
-      "rules": {
-        "text": "Draw 5 reds, face-up. Cast up to 3 and discard the rest."
-      },
-      "upgrade": null,
-      "tier": "gold",
-      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
-      "art_path": "res/art/illustration/Helter-Skelter.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
-  },
   "Four-Leaf Clover": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Four-Leaf Clover.png",
     "spec": {
@@ -1726,24 +1602,6 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
-  "Suppression Maneuver": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Suppression Maneuver.png",
-    "spec": {
-      "title": "Suppression Maneuver",
-      "rules": {
-        "text": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand."
-      },
-      "upgrade": "Bullet Rain",
-      "tier": "red",
-      "flavour": "Though outnumbered, their opponents could never match Quasimodo's devastating aresnal.",
-      "art_path": "res/art/illustration/Suppression Maneuver.png",
-      "tags": [
-        "npc",
-        "npc-generic"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
-  },
   "Bullet Rain": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bullet Rain.png",
     "spec": {
@@ -1784,8 +1642,7 @@
     "spec": {
       "title": "Throw",
       "rules": {
-        "hand": "Advantage when catching.",
-        "cast": "Throw an object accurately at a target up to 12 metres away."
+        "text": "Throw an object accurately at a target up to 12 metres away."
       },
       "upgrade": "Pitch",
       "tier": "green",
@@ -1802,8 +1659,7 @@
     "spec": {
       "title": "Pitch",
       "rules": {
-        "hand": "Advantage when catching.",
-        "cast": "Throw an object accurately as far as you want."
+        "text": "Throw an object accurately as far as you want."
       },
       "upgrade": "Launch",
       "tier": "red",
@@ -1856,7 +1712,7 @@
       "rules": {
         "text": "Deal 4 damage and stun up to 2 visible characters."
       },
-      "upgrade": "Fork Lightning",
+      "upgrade": "Elektra's Siphon",
       "tier": "green",
       "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
       "art_path": "res/art/illustration/Lightning Bolt.png",
@@ -1865,23 +1721,6 @@
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
-  "Fork Lightning": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fork Lightning.png",
-    "spec": {
-      "title": "Fork Lightning",
-      "rules": {
-        "text": "Deal 6 damage and stun to up to 6 visible characters."
-      },
-      "upgrade": "Electric Vortex",
-      "tier": "red",
-      "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants.",
-      "art_path": "res/art/illustration/Fork Lightning.png",
-      "tags": [
-        "upgradeable-1"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Elektra's Siphon": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Elektra's Siphon.png",
@@ -1956,8 +1795,7 @@
     "spec": {
       "title": "Terrestrial Sun",
       "rules": {
-        "hand": "Fires you set cannot be put out.",
-        "cast": "Summon a brick of material which burns violently when set out fire."
+        "text": "Summon a brick of material which burns violently when set out fire."
       },
       "upgrade": null,
       "tier": "gold",
@@ -1991,8 +1829,7 @@
     "spec": {
       "title": "Leap",
       "rules": {
-        "hand": "Take no damage from falling.",
-        "cast": "Jump 25 metres into the air."
+        "text": "Jump 25 metres into the air."
       },
       "upgrade": "Levitate",
       "tier": "green",
@@ -2043,8 +1880,7 @@
     "spec": {
       "title": "Soak",
       "rules": {
-        "hand": "Deal double damage when attacking wet enemies",
-        "cast": "Cause everything within 2 metres of a visible object to become saturated with water."
+        "text": "Cause everything within 2 metres of a visible object to become saturated with water."
       },
       "upgrade": "Drench",
       "tier": "green",
@@ -2131,7 +1967,7 @@
       "rules": {
         "text": "Describe a religious vision. Pick a visible NPC to experience it."
       },
-      "upgrade": "Wish",
+      "upgrade": null,
       "tier": "red",
       "flavour": "He lives deep in the hearts of all men.",
       "art_path": "res/art/illustration/Preach.png",
@@ -2146,17 +1982,17 @@
     "spec": {
       "title": "Wish",
       "rules": {
-        "text": "Cause all players to critically succeed on their next d20 roll."
+        "text": "Cause target player to critically succeed on their next roll"
       },
       "upgrade": null,
-      "tier": "gold",
+      "tier": "red",
       "flavour": "The light will shine bright upon the chosen.",
       "art_path": "res/art/illustration/Wish.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Cure": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Cure.png",
@@ -2197,8 +2033,7 @@
     "spec": {
       "title": "Reincarnate",
       "rules": {
-        "hand": "The dead fear you.",
-        "cast": "Revive a dead character."
+        "text": "Revive a dead character."
       },
       "upgrade": null,
       "tier": "gold",
@@ -2232,8 +2067,7 @@
     "spec": {
       "title": "Reflect",
       "rules": {
-        "hand": "Thrown objects bounce off of you with equal force.",
-        "cast": "The next amount of damage dealt to you is also dealt to your attacker."
+        "text": "The next amount of damage dealt to you is also dealt to your attacker."
       },
       "upgrade": "Deflect",
       "tier": "green",
@@ -2352,8 +2186,7 @@
     "spec": {
       "title": "Gale",
       "rules": {
-        "hand": "Whenever you throw a character in the air, throw them 8 metres in any direction",
-        "cast": "Throw any number of characters in a 3 metre radius into the air."
+        "text": "Throw any number of characters in a 3 metre radius into the air."
       },
       "upgrade": "Wind Storm",
       "tier": "green",
@@ -2455,8 +2288,7 @@
     "spec": {
       "title": "The Gambler",
       "rules": {
-        "hand": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure.",
-        "cast": "Summon a rigged pair of dice which you can control with your mind."
+        "text": "Summon a rigged pair of dice which you can control with your mind."
       },
       "upgrade": null,
       "tier": "green",

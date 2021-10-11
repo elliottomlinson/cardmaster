@@ -261,7 +261,7 @@
   },
   {
     "title": "Preach",
-    "upgrade": "Wish",
+    "upgrade": null,
     "tier": "red",
     "details": {
       "rules": {
@@ -275,10 +275,10 @@
   {
     "title": "Wish",
     "upgrade": null,
-    "tier": "gold",
+    "tier": "red",
     "details": {
       "rules": {
-        "cast": "Cause all players to critically succeed on their next d20 roll.",
+        "cast": "Cause target player to critically succeed on their next roll",
         "hand": null
       },
       "flavour": "The light will shine bright upon the chosen.",

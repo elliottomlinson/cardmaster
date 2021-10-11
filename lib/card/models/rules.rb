@@ -36,9 +36,10 @@ module Card
         @cast = cast
       end
 
-      def ==(other)
-        other.hand == @hand &&
-        other.cast == @cast
+      def ===(other)
+        other.class == HandCastRules &&
+          other.hand == @hand &&
+          other.cast == @cast
       end
 
       def to_h

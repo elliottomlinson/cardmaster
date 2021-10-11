@@ -5,7 +5,7 @@ module Cardmaster
     class Query < Cardmaster::Command
       include Arguments
 
-      SUPPORTED_PARAMETERS = ["title", "draft"].freeze
+      SUPPORTED_PARAMETERS = ["title", "draft", "tier"].freeze
 
       def call(args, _name)
         query_parameters = validate_parameters(named_arguments(args))
@@ -49,6 +49,7 @@ module Cardmaster
       def matches_query(card_spec, query_parameters)
         match_if_present(query_parameters, "name", card_spec.title)
         match_if_present(query_parameters, "draft", card_spec.draft.to_s)
+        match_if_present(query_parameters, "tier", card_spec.tier.to_s)
       end
 
       def match_if_present(parameters, parameter_name, value)
