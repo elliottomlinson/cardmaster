@@ -8,7 +8,7 @@
         "cast":"Draw 2 blues. Cast both.",
         "hand": null
       },
-      "flavour": "Live by the luck of the draw.",
+      "flavour": "Live by the luck of the draw",
       "image": "res/art/illustration/Wing It.png"
     }
   },
@@ -21,7 +21,7 @@
         "cast":"Draw 2 greens. Cast both.",
         "hand": null
       },
-      "flavour": "You never know what she'll pull out of thin air.",
+      "flavour": "You never know what she'll pull out of thin air",
       "image": "res/art/illustration/Brainstorm.png"
     }
   },
@@ -47,7 +47,7 @@
         "cast": "Draw 2 golds. Cast both.",
         "hand": null
       },
-      "flavour": "History rarely goes according to plan.",
+      "flavour": "History rarely goes according to plan",
       "image": "res/art/illustration/Randomize.png"
     }
   },
@@ -57,10 +57,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Draw 6 greys.",
+        "cast": "Draw 6 greys",
         "hand": null
       },
-      "flavour": "Great power lies not on the surface, but within.",
+      "flavour": "Great power lies not on the surface, but within",
       "image": "res/art/illustration/Empower.png"
     }
   },
@@ -73,7 +73,7 @@
         "cast": "Draw 10 blues, face-up. Cast up to 8 and discard the rest.",
         "hand": null
       },
-      "flavour": "What we lack in quality we've made up with quantity.",
+      "flavour": "What we lack in quality we've made up with quantity",
       "image": "res/art/illustration/Slipshod Sorcery.png"
     }
   },
@@ -86,7 +86,7 @@
         "cast": "Choose a blue card in another player's hand. This card has the same effect as that card.",
         "hand": null
       },
-      "flavour": "This is how stupid you look, watch this.",
+      "flavour": "This is how stupid you look, watch this",
       "image": "res/art/illustration/Imitate.png"
     }
   },
@@ -138,7 +138,7 @@
         "cast": "Draw 5 greens, face-up. Cast up to 3 and discard the rest.",
         "hand": null
       },
-      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
+      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path",
       "image": "res/art/illustration/Helter-Skelter.png"
     }
   },
@@ -164,7 +164,7 @@
         "cast": "Draw 3 reds, face-up. Cast 1 and discard the rest.",
         "hand": null
       },
-      "flavour": "I might be able to pull it off - but just this once.",
+      "flavour": "I might be able to pull it off, but just this once",
       "image": "res/art/illustration/Rabbit_s Foot.png"
     }
   },

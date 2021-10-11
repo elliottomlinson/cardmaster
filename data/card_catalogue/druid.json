@@ -5,8 +5,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Turn into a rodent for as long as you want.",
-        "hand": "You hold influence over members of Order Rodentia."
+        "cast": "Turn into a rodent for as long as you want",
+        "hand": "You hold influence over members of Order Rodentia"
       },
       "flavour": "Sometimes the smallest things take up the most room in your heart",
       "image": "res/art/illustration/Rodent Whisperer.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Become a small hummingbird for as long as you want.",
-        "hand": "You can speak to birds."
+        "cast": "Become a small hummingbird for as long as you want",
+        "hand": "You can speak to birds"
       },
       "flavour": "Birds never fail to see the forest from the trees",
       "image": "res/art/illustration/Avian Spirit.png"
@@ -31,10 +31,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Pick a small animal or insect for your target to be swarmed by.",
+        "cast": "Pick a small animal or insect for your target to be swarmed by",
         "hand": "You are constantly covered in an insect of your choice"
       },
-      "flavour": "Surprisingly, it never bugs me.",
+      "flavour": "Surprisingly, it never bugs me",
       "image": "res/art/illustration/Swarm.png"
     }
   },
@@ -44,10 +44,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Disable a visible machine until it is repaired.",
-        "hand": "Machines fear you."
+        "cast": "Disable a visible machine until it is repaired",
+        "hand": "Machines fear you"
       },
-      "flavour": "Yeah, I'm into tech, into smashing it up that is.",
+      "flavour": "Yeah, I'm into tech, into smashing it up that is",
       "image": "res/art/illustration/Ouphe_s Aura.png"
     }
   },
@@ -57,10 +57,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Summon a trusty steed.",
-        "hand": "You can tame anything you can ride."
+        "cast": "Summon a trusty steed",
+        "hand": "You can tame anything you can ride"
       },
-      "flavour": "Man was destined to tame the world.",
+      "flavour": "Man was destined to tame the world",
       "image": "res/art/illustration/Equestrian.png"
     }
   }

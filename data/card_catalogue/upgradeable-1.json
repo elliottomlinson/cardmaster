@@ -5,10 +5,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Throw an object accurately at a target up to 5 metres away.",
+        "cast": "Throw an object accurately at a target up to 5 metres away",
         "hand": null
       },
-      "flavour": "Go ahead, toss your hat in the ring.",
+      "flavour": "Go ahead, toss your hat in the ring",
       "image": "res/art/illustration/Toss.png"
     }
   },
@@ -18,10 +18,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Throw an object accurately at a target up to 12 metres away.",
-        "hand": "Advantage when catching."
+        "cast": "Throw an object accurately at a target up to 12 metres away",
+        "hand": "Advantage when catching"
       },
-      "flavour": "If you're going to throw in the towel, at least do it properly.",
+      "flavour": "If you're going to throw in the towel, at least do it properly",
       "image": "res/art/illustration/Throw.png"
     }
   },
@@ -31,8 +31,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Throw an object accurately as far as you want.",
-        "hand": "Advantage when catching."
+        "cast": "Throw an object accurately as far as you want",
+        "hand": "Advantage when catching"
       },
       "flavour": "I want this thing gone, understand?",
       "image": "res/art/illustration/Launch.png"
@@ -47,7 +47,7 @@
         "cast": "Deal 3 damage to a visible character with a painful bolt of electricity",
         "hand": null
       },
-      "flavour": "A spark is a little thing, yet it may kindle the world.",
+      "flavour": "A spark is a little thing, yet it may kindle the world",
       "image": "res/art/illustration/Spark.png"
     }
   },
@@ -57,10 +57,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Deal 4 damage and stun up to 2 visible characters.",
+        "cast": "Deal 4 damage and stun up to 2 visible characters",
         "hand": null
       },
-      "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
+      "flavour": "They sicken of the calm, who knew the storm",
       "image": "res/art/illustration/Lightning Bolt.png"
     }
   },
@@ -73,7 +73,7 @@
         "cast": "Extract all electricity in a 10 meter radius. Deal 6 damage and stun to up to 6 visible characters.",
         "hand": null
       },
-      "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants",
+      "flavour": "A great storm is coming, but the tide has turned",
       "image": "res/art/illustration/Elektra_s Siphon.png"
     }
   },
@@ -83,10 +83,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Ignite a small object within 3 metres.",
+        "cast": "Ignite a small object within 3 metres",
         "hand": null
       },
-      "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
+      "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money",
       "image": "res/art/illustration/Ignite.png"
     }
   },
@@ -96,7 +96,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Hurl a flaming ball of hot embers at a visible object.",
+        "cast": "Hurl a flaming ball of hot embers at a visible object",
         "hand": null
       },
       "flavour": "Time for a game of hot potato!",
@@ -109,10 +109,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Deal 15 damage and set fire to all flammable objects within 6 metres.",
+        "cast": "Deal 15 damage and set fire to all flammable objects within 6 metres",
         "hand": null
       },
-      "flavour": "The best part is that nice campfire smell.",
+      "flavour": "The best part is that nice campfire smell",
       "image": "res/art/illustration/Immolate.png"
     }
   },
@@ -122,8 +122,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Summon a brick of material which burns violently when set out fire.",
-        "hand": "Fires you set cannot be put out."
+        "cast": "Summon a brick of material which burns violently when set out fire",
+        "hand": "Fires you set cannot be put out"
       },
       "flavour": "The fire in our hearts will never burn out",
       "image": "res/art/illustration/Terrestrial Sun.png"
@@ -135,10 +135,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Jump up 3 metres.",
+        "cast": "Jump up 3 metres",
         "hand": null
       },
-      "flavour": "Jump, and you will find out how to unfold your wings as you fall.",
+      "flavour": "Jump, and you will find out how to unfold your wings as you fall",
       "image": "res/art/illustration/Jump.png"
     }
   },
@@ -148,10 +148,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Jump 25 metres into the air.",
-        "hand": "Take no damage from falling."
+        "cast": "Jump 25 metres into the air",
+        "hand": "Take no damage from falling"
       },
-      "flavour": "Sometimes all you need is a big leap of faith.",
+      "flavour": "Sometimes all you need is a big leap of faith",
       "image": "res/art/illustration/Leap.png"
     }
   },
@@ -161,10 +161,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Hover up to 20 metres off the ground until you lose concentration.",
+        "cast": "Hover up to 20 metres off the ground until you lose concentration",
         "hand": null
       },
-      "flavour": "Rise above earthly ambition.",
+      "flavour": "Rise above earthly ambition",
       "image": "res/art/illustration/Levitate.png"
     }
   },
@@ -174,10 +174,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Target visible object becomes moist.",
+        "cast": "Target visible object becomes moist",
         "hand": null
       },
-      "flavour": "I think I'm going to need a change of clothes.",
+      "flavour": "I think I'm going to need a change of clothes",
       "image": "res/art/illustration/Moisten.png"
     }
   },
@@ -187,7 +187,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Cause everything within 2 metres of a visible object to become saturated with water.",
+        "cast": "Cause everything within 2 metres of a visible object to become saturated with water",
         "hand": "Deal double damage when attacking wet enemies" 
       },
       "flavour": "My plan: complete. Their day: ruined.",
@@ -200,10 +200,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Summon 50 thousand litres of water to a visible location.",
+        "cast": "Summon 50 thousand litres of water to a visible location",
         "hand": null
       },
-      "flavour": "'Wet' would be an understatement",
+      "flavour": "You have entered the splash zone",
       "image": "res/art/illustration/Drench.png"
     }
   },
@@ -213,10 +213,10 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
+        "cast": "A Tsunami breaks over the play area from a cardinal direction of your choice",
         "hand": null
       },
-      "flavour": "Nature has a myriad of weapons to combat human arrogance.",
+      "flavour": "Nature has a myriad of weapons to combat human arrogance",
       "image": "res/art/illustration/Flood.png"
     }
   },
@@ -229,7 +229,7 @@
         "cast": "Something unlucky befalls target NPC",
         "hand": null
       },
-      "flavour": "He works in strange ways.",
+      "flavour": "He works in strange ways",
       "image": "res/art/illustration/Hope.png"
     }
   },
@@ -239,10 +239,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Give a character advantage on their next roll.",
+        "cast": "Give a character advantage on their next roll",
         "hand": null
       },
-      "flavour": "He will save us from our mortal errors.",
+      "flavour": "He will save us from our mortal errors",
       "image": "res/art/illustration/Pray.png"
     }
   },
@@ -255,7 +255,7 @@
         "cast": "Describe a religious vision. Pick a visible NPC to experience it.",
         "hand": null
       },
-      "flavour": "He lives deep in the hearts of all men.",
+      "flavour": "He lives deep in the hearts of all men",
       "image": "res/art/illustration/Preach.png"
     }
   },
@@ -265,7 +265,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Cure the ailment of a visible character, or heal them 8.",
+        "cast": "Cure the ailment of a visible character, or heal them 8",
         "hand": null
       },
       "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
@@ -279,9 +279,9 @@
     "details": {
       "rules": {
         "cast": "Heal a visible character 15. They can move twice as fast for the remainder of the session.",
-        "hand": "Run twice as fast while carrying friendly characters."
+        "hand": "Run twice as fast while carrying friendly characters"
       },
-      "flavour": "Wee woo, wee woo.",
+      "flavour": "Wee woo, wee woo",
       "image": "res/art/illustration/Field Medicine.png"
     }
   },
@@ -304,8 +304,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Revive a dead character.",
-        "hand": "The dead fear you."
+        "cast": "Revive a dead character",
+        "hand": "The dead fear you"
       },
       "flavour": "If man is to play god, he ought to be a kind one",
       "image": "res/art/illustration/Reincarnate.png"
@@ -317,7 +317,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Take no damage from the next attack targeting you.",
+        "cast": "Take no damage from the next attack targeting you",
         "hand": null
       },
       "flavour": "I barely felt that! Who taught you how to punch?",
@@ -330,10 +330,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "The next amount of damage dealt to you is also dealt to your attacker.",
-        "hand": "Thrown objects bounce off of you with equal force."
+        "cast": "The next amount of damage dealt to you is also dealt to your attacker",
+        "hand": "Thrown objects bounce off of you with equal force"
       },
-      "flavour": "Let's see how you like it!.",
+      "flavour": "Let's see how you like it!",
       "image": "res/art/illustration/Reflect.png"
     }
   },
@@ -343,10 +343,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "The next amount of damage dealt to you is dealt to your attacker instead.",
+        "cast": "The next amount of damage dealt to you is dealt to your attacker instead",
         "hand": null
       },
-      "flavour": "I am rubber, and you are glue.",
+      "flavour": "I am rubber, and you are glue",
       "image": "res/art/illustration/Deflect.png"
     }
   },
@@ -369,10 +369,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Make two instant attacks.",
+        "cast": "Make two instant attacks",
         "hand": null
       },
-      "flavour": "The first blow shatters their defenses, the next their spirit.",
+      "flavour": "The first blow shatters their defenses, the next their spirit",
       "image": "res/art/illustration/Double Strike.png"
     }
   },
@@ -408,10 +408,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Throw a visible character up into the air.",
+        "cast": "Throw a visible character up into the air",
         "hand": null
       },
-      "flavour": "He should've worn a windbreaker.",
+      "flavour": "He should've worn a windbreaker",
       "image": "res/art/illustration/Gust of Wind.png"
     }
   },
@@ -421,10 +421,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Throw any number of characters in a 3 metre radius into the air.",
+        "cast": "Throw any number of characters in a 3 metre radius into the air",
         "hand": "Whenever you throw a character in the air, throw them 8 metres in any direction"
       },
-      "flavour": "You look like a birthday candle.",
+      "flavour": "You look like a birthday candle",
       "image": "res/art/illustration/Gale.png"
     }
   },
@@ -434,10 +434,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Throw any number of visible characters up into the air.",
+        "cast": "Throw any number of visible characters up into the air",
         "hand": null
       },
-      "flavour": "Rise, rise towards the heavens.",
+      "flavour": "Rise, rise towards the heavens",
       "image": "res/art/illustration/Wind Storm.png"
     }
   },
@@ -447,10 +447,10 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "A powerful hurricane is summoned over the play area for as long as you want.",
+        "cast": "A powerful hurricane is summoned over the play area for as long as you want",
         "hand": null
       },
-      "flavour": "It is rare for an area to know such devastation.",
+      "flavour": "It is rare for an area to know such devastation",
       "image": "res/art/illustration/Hurricane.png"
     }
   },
@@ -460,7 +460,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Summon an impenetrable column of light in adjacent square metre for 5 minutes.",
+        "cast": "Summon an impenetrable column of light in adjacent square metre for 5 minutes",
         "hand": null
       },
       "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
@@ -473,7 +473,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Summon a copy of any NPC.",
+        "cast": "Summon a copy of any NPC",
         "hand": null
       },
       "flavour": "I hated the man so much I made a point of killing him twice",

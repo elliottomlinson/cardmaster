@@ -5,10 +5,10 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "cast": "Increase the result of a roll by 1.",
+        "cast": "Increase the result of a roll by 1",
         "hand": null
       },
-      "flavour": "The collective will of the people made manifest.",
+      "flavour": "The collective will of the people made manifest",
       "image": "res/art/illustration/Boost.png"
     }
   },
@@ -18,10 +18,10 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "cast": "Move a metre.",
+        "cast": "Move a metre",
         "hand": null
       },
-      "flavour": "When speed gets in the blood, one must move to live.",
+      "flavour": "Move beyond physical limits",
       "image": "res/art/illustration/Shift.png"
     }
   },
@@ -31,10 +31,10 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "cast": "Decrease the result of a roll by 1.",
+        "cast": "Decrease the result of a roll by 1",
         "hand": null
       },
-      "flavour": "The collective will of the people made manifest.",
+      "flavour": "The collective will of the people made manifest",
       "image": "res/art/illustration/Fluster.png"
     }
   },
@@ -44,10 +44,10 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "cast": "Push or pull a visible object slightly.",
+        "cast": "Push or pull a visible object slightly",
         "hand": null
       },
-      "flavour": "Human force extends far past the limits of an earthly body.",
+      "flavour": "Human power extends past the limits of their bodies",
       "image": "res/art/illustration/Force.png"
     }
   }
