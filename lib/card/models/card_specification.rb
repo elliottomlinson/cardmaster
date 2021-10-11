@@ -5,15 +5,16 @@ module Card
     class CardSpecification
       TIER_HIERARCHY = [:grey, :blue, :green, :red, :gold].freeze
 
-      attr_accessor :title, :rules, :upgrade, :tier, :flavour, :art_path, :tags
+      attr_accessor :title, :rules, :upgrade, :tier, :flavour, :art_path, :tags, :draft
 
-      def initialize(title, rules, upgrade, tier, flavour, art_path, tags=[])
+      def initialize(title, rules, upgrade, tier, flavour, art_path, draft, tags=[])
         @title = title
         @rules = rules
         @upgrade = upgrade
         @tier = validate_tier!(tier)
         @flavour = flavour
         @art_path = art_path
+        @draft = draft
         @tags = tags
       end
 
