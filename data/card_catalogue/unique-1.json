@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Blind everyone within 3 metres with bean juice.",
-        "passive": null
+        "cast": "Blind everyone within 3 metres with bean juice.",
+        "hand": null
       },
       "flavour": "Industrial Grade",
       "image": "res/art/illustration/Bean Blast.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon a cast-steel anvil into existence above target character's head.",
-        "passive": null
+        "cast": "Summon a cast-steel anvil into existence above target character's head.",
+        "hand": null
       },
       "flavour": "Meep-Meep.",
       "image": "res/art/illustration/Anvil Drop.png"
@@ -31,8 +31,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Choose a visible article of clothing. A snake appears inside of it.",
-        "passive": null
+        "cast": "Choose a visible article of clothing. A snake appears inside of it.",
+        "hand": null
       },
       "flavour": "Always drink upstream from the herd",
       "image": "res/art/illustration/Sheriff_s Roundup.png"
@@ -44,8 +44,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Throw a pair of bola around a visible target",
-        "passive": null
+        "cast": "Throw a pair of bola around a visible target",
+        "hand": null
       },
       "flavour": "Bolas are excellent for capturing large mammals, like my portly friend Steve",
       "image": "res/art/illustration/Ancient Throwing Bola.png"
@@ -57,8 +57,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Put a large object or willing NPC in your hand.",
-        "passive": null
+        "cast": "Put a large object or willing NPC in your hand.",
+        "hand": null
       },
       "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
       "image": "res/art/illustration/Rolling Cart.png"
@@ -70,8 +70,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Cast a handful of sand and pocket lint into the air before you.",
-        "passive": null
+        "cast": "Cast a handful of sand and pocket lint into the air before you.",
+        "hand": null
       },
       "flavour": "In total war, all tactics are acceptable.",
       "image": "res/art/illustration/Empouched Earth.png"
@@ -83,8 +83,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Choose a Blue or green in your hand. All cards in your hand become copies of that card.",
-        "passive": null
+        "cast": "Choose a Blue or green in your hand. All cards in your hand become copies of that card.",
+        "hand": null
       },
       "flavour": "Diversification is overrated.",
       "image": "res/art/illustration/Card Printer.png"
@@ -96,8 +96,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target visible character will take 25 damage the next time they rest.",
-        "passive": null
+        "cast": "Target visible character will take 25 damage the next time they rest.",
+        "hand": null
       },
       "flavour": "Sweet dreams.",
       "image": "res/art/illustration/Somnomalum.png"
@@ -109,8 +109,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
-        "passive": null
+        "cast": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
+        "hand": null
       },
       "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while.",
       "image": "res/art/illustration/Disappear.png"
@@ -122,8 +122,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Target NPC becomes tired.",
-        "passive": null
+        "cast": "Target NPC becomes tired.",
+        "hand": null
       },
       "flavour": "Man is born tired, and he lives to rest.",
       "image": "res/art/illustration/Exhaust.png"
@@ -135,8 +135,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "A boundary, impenetrable from within, is placed 5 metres away from you in all directions as long as you'd like",
-        "passive": null
+        "cast": "A boundary, impenetrable from within, is placed 5 metres away from you in all directions as long as you'd like",
+        "hand": null
       },
       "flavour": "After years of living in a cage, a lion no longer believes it is a lion.",
       "image": "res/art/illustration/Prison.png"
@@ -148,8 +148,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target an entranceway. The next living creature to pass through it remains stuck until they take damage.",
-        "passive": null
+        "cast": "Target an entranceway. The next living creature to pass through it remains stuck until they take damage.",
+        "hand": null
       },
       "flavour": "Well don't just stand there, come on in!",
       "image": "res/art/illustration/Porticostatic Hex.png"
@@ -161,8 +161,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Stand atop an object. You and the object are flung in the direction of your choice until obstructed.",
-        "passive": null
+        "cast": "Stand atop an object. You and the object are flung in the direction of your choice until obstructed.",
+        "hand": null
       },
       "flavour": "How clumsy of me.",
       "image": "res/art/illustration/Object Eject.png"
@@ -174,8 +174,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon a rigged pair of dice which you can control with your mind.",
-        "passive": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure." 
+        "cast": "Summon a rigged pair of dice which you can control with your mind.",
+        "hand": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure." 
       },
       "flavour": "",
       "image": "res/art/illustration/The Ultimatum.png"
@@ -187,8 +187,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Teleport to a visible object you've touched",
-        "passive": "You know the location of every object you've ever touched"
+        "cast": "Teleport to a visible object you've touched",
+        "hand": "You know the location of every object you've ever touched"
       },
       "flavour": "I don't know who stole my socks from the dryer, but I do know their days are numbered.",
       "image": "res/art/illustration/Where-Ware Charm.png"
@@ -200,8 +200,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
-        "passive": null
+        "cast": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
+        "hand": null
       },
       "flavour": "Not suitable for tectonic fault zones.",
       "image": "res/art/illustration/Groundburst.png"
@@ -213,8 +213,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Attacks deal double damage until you play your next card.",
-        "passive": null
+        "cast": "Attacks deal double damage until you play your next card.",
+        "hand": null
       },
       "flavour": "I'm not unarmed, I've got two of them.",
       "image": "res/art/illustration/Bashbolster.png"
@@ -226,8 +226,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
-        "passive": null
+        "cast": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
+        "hand": null
       },
       "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
       "image": "res/art/illustration/Musty Musket.png"
@@ -239,8 +239,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Choose a 4 square metre area to fill temporarily with an opaque smoke",
-        "passive": null
+        "cast": "Choose a 4 square metre area to fill temporarily with an opaque smoke",
+        "hand": null
       },
       "flavour": "Mildly anoxic.",
       "image": "res/art/illustration/Smoke Bomb.png"
@@ -252,8 +252,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Pick a point on the floor up to 2 metres away. The next NPC to walk there will fall over.",
-        "passive": null
+        "cast": "Pick a point on the floor up to 2 metres away. The next NPC to walk there will fall over.",
+        "hand": null
       },
       "flavour": "Nothing like a little prop humour.",
       "image": "res/art/illustration/Banana Peel.png"
@@ -265,8 +265,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
-        "passive": null
+        "cast": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
+        "hand": null
       },
       "flavour": "There's something rather... lively, about this chair.",
       "image": "res/art/illustration/Poltergeist.png"
@@ -278,8 +278,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Evoke a disembodied hand to perform a simple action within 4 metres of you.",
-        "passive": null
+        "cast": "Evoke a disembodied hand to perform a simple action within 4 metres of you.",
+        "hand": null
       },
       "flavour": "Give me five!",
       "image": "res/art/illustration/Eidolimb.png"
@@ -291,8 +291,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
-        "passive": null
+        "cast": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
+        "hand": null
       },
       "flavour": "Even if the bird flies high in the sky, the hunter places his trap on the ground.",
       "image": "res/art/illustration/Espial Thread.png"
@@ -304,8 +304,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Fire a cannonball at a target of your choice.",
-        "passive": "You're surrounded by a ghostly aura."
+        "cast": "Fire a cannonball at a target of your choice.",
+        "hand": "You're surrounded by a ghostly aura."
       },
       "flavour": "Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
       "image": "res/art/illustration/Spectreblast.png"
@@ -317,8 +317,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Apply a sandwich to the face of a visible character.",
-        "passive": null
+        "cast": "Apply a sandwich to the face of a visible character.",
+        "hand": null
       },
       "flavour": "Indignity defeats the spirit, and the body is soon to follow.",
       "image": "res/art/illustration/PBJT.png"
@@ -330,8 +330,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Choose an NPC. They are stuck in place for ten seconds.",
-        "passive": null
+        "cast": "Choose an NPC. They are stuck in place for ten seconds.",
+        "hand": null
       },
       "flavour": "Have my legs always been this heavy?",
       "image": "res/art/illustration/Locomotor Hex.png"
@@ -343,8 +343,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Cover an object in a thin layer of ice.",
-        "passive": null
+        "cast": "Cover an object in a thin layer of ice.",
+        "hand": null
       },
       "flavour": "Whoa, chill.",
       "image": "res/art/illustration/Rime.png"
@@ -356,8 +356,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Burst into flames along with anyone you're touching.",
-        "passive": null
+        "cast": "Burst into flames along with anyone you're touching.",
+        "hand": null
       },
       "flavour": "I'm taking you straight to hell.",
       "image": "res/art/illustration/Akindle.png"
@@ -369,8 +369,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
-        "passive": null
+        "cast": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
+        "hand": null
       },
       "flavour": "Let's savour this moment forever.",
       "image": "res/art/illustration/Glacial Hand.png"
@@ -382,8 +382,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Summon a pigeon to perform a simple task",
-        "passive": null
+        "cast": "Summon a pigeon to perform a simple task",
+        "hand": null
       },
       "flavour": "He will try his best not to be distracted by breadcrumbs.",
       "image": "res/art/illustration/Pigeon Partner.png"
@@ -395,8 +395,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Your next melee attack sets your opponent on fire.",
-        "passive": "Your hands are invulnerable to damage."
+        "cast": "Your next melee attack sets your opponent on fire.",
+        "hand": "Your hands are invulnerable to damage."
       },
       "flavour": "I'm about to turn your Kitchen Dream into a Kitchen Nightmare",
       "image": "res/art/illustration/Gloven Mitt.png"

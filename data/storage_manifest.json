@@ -57,8 +57,8 @@
     "spec": {
       "title": "Field Medicine",
       "rules": {
-        "passive": "Run twice as fast while carrying friendly characters.",
-        "active": "Heal a visible character 15. They can move twice as fast for the remainder of the session."
+        "hand": "Run twice as fast while carrying friendly characters.",
+        "cast": "Heal a visible character 15. They can move twice as fast for the remainder of the session."
       },
       "upgrade": "Renew",
       "tier": "green",
@@ -75,8 +75,8 @@
     "spec": {
       "title": "Rodent Whisperer",
       "rules": {
-        "passive": "You hold influence over members of Order Rodentia.",
-        "active": "Turn into a rodent for as long as you want."
+        "hand": "You hold influence over members of Order Rodentia.",
+        "cast": "Turn into a rodent for as long as you want."
       },
       "upgrade": null,
       "tier": "green",
@@ -93,8 +93,8 @@
     "spec": {
       "title": "Avian Spirit",
       "rules": {
-        "passive": "You can speak to birds.",
-        "active": "Become a small hummingbird for as long as you want."
+        "hand": "You can speak to birds.",
+        "cast": "Become a small hummingbird for as long as you want."
       },
       "upgrade": null,
       "tier": "green",
@@ -111,8 +111,8 @@
     "spec": {
       "title": "Swarm",
       "rules": {
-        "passive": "You are constantly covered in an insect of your choice",
-        "active": "Pick a small animal or insect for your target to be swarmed by."
+        "hand": "You are constantly covered in an insect of your choice",
+        "cast": "Pick a small animal or insect for your target to be swarmed by."
       },
       "upgrade": null,
       "tier": "green",
@@ -129,8 +129,8 @@
     "spec": {
       "title": "Ouphe's Aura",
       "rules": {
-        "passive": "Machines fear you.",
-        "active": "Disable a visible machine until it is repaired."
+        "hand": "Machines fear you.",
+        "cast": "Disable a visible machine until it is repaired."
       },
       "upgrade": null,
       "tier": "green",
@@ -147,8 +147,8 @@
     "spec": {
       "title": "Equestrian",
       "rules": {
-        "passive": "You can tame anything you can ride.",
-        "active": "Summon a trusty steed."
+        "hand": "You can tame anything you can ride.",
+        "cast": "Summon a trusty steed."
       },
       "upgrade": null,
       "tier": "green",
@@ -165,8 +165,8 @@
     "spec": {
       "title": "Bow Hex",
       "rules": {
-        "passive": "Roll an additional d4 when performing a ranged attack.",
-        "active": "Deal 10 damage to a visible target."
+        "hand": "Roll an additional d4 when performing a ranged attack.",
+        "cast": "Deal 10 damage to a visible target."
       },
       "upgrade": null,
       "tier": "green",
@@ -183,8 +183,8 @@
     "spec": {
       "title": "Sword Hex",
       "rules": {
-        "passive": "Roll an additional d6 when you perform a melee attack.",
-        "active": "Cut a 1 meter gash onto a visible surface"
+        "hand": "Roll an additional d6 when you perform a melee attack.",
+        "cast": "Cut a 1 meter gash onto a visible surface"
       },
       "upgrade": null,
       "tier": "green",
@@ -201,8 +201,8 @@
     "spec": {
       "title": "Slingshot",
       "rules": {
-        "passive": "Gain advantage when throwing objects.",
-        "active": "Launch a baseball sized rock at a visible target."
+        "hand": "Gain advantage when throwing objects.",
+        "cast": "Launch a baseball sized rock at a visible target."
       },
       "upgrade": null,
       "tier": "blue",
@@ -236,8 +236,8 @@
     "spec": {
       "title": "Paz",
       "rules": {
-        "passive": "Everybody hates you",
-        "active": "Target NPC will love you from now on"
+        "hand": "Everybody hates you",
+        "cast": "Target NPC will love you from now on"
       },
       "upgrade": null,
       "tier": "green",
@@ -254,8 +254,8 @@
     "spec": {
       "title": "Lover Fatale",
       "rules": {
-        "passive": "Attacks against characters who love you deal 25 bonus damage.",
-        "active": "A visible NPC develops feelings for you."
+        "hand": "Attacks against characters who love you deal 25 bonus damage.",
+        "cast": "A visible NPC develops feelings for you."
       },
       "upgrade": null,
       "tier": "green",
@@ -272,8 +272,8 @@
     "spec": {
       "title": "Infamous",
       "rules": {
-        "passive": "Deal 3 bonus damage when attacking characters who know your name.",
-        "active": "Tell a story about yourself. Any number of visible NPCs will believe this story is true."
+        "hand": "Deal 3 bonus damage when attacking characters who know your name.",
+        "cast": "Tell a story about yourself. Any number of visible NPCs will believe this story is true."
       },
       "upgrade": null,
       "tier": "green",
@@ -477,8 +477,8 @@
     "spec": {
       "title": "Polarize",
       "rules": {
-        "passive": "NPCs hate you.",
-        "active": "Target visible NPC will love you from now on."
+        "hand": "NPCs hate you.",
+        "cast": "Target visible NPC will love you from now on."
       },
       "upgrade": null,
       "tier": "green",
@@ -566,8 +566,8 @@
     "spec": {
       "title": "Charge",
       "rules": {
-        "passive": "Gain advantage when running through obstacles.",
-        "active": "Move up to 15 metres in any direction."
+        "hand": "Gain advantage when running through obstacles.",
+        "cast": "Move up to 15 metres in any direction."
       },
       "upgrade": "Teleport",
       "tier": "green",
@@ -720,8 +720,8 @@
     "spec": {
       "title": "Talk it Out",
       "rules": {
-        "passive": "Whenever you make an attack, you can choose whether or not it will deal damage.",
-        "active": "A visible character is forced to stop what they're doing and discuss their feelings with you."
+        "hand": "Whenever you make an attack, you can choose whether or not it will deal damage.",
+        "cast": "A visible character is forced to stop what they're doing and discuss their feelings with you."
       },
       "upgrade": "Timeout",
       "tier": "green",
@@ -789,8 +789,8 @@
     "spec": {
       "title": "Shadow Strike",
       "rules": {
-        "passive": "Deal double damage while out of combat.",
-        "active": "Disappear for as long as you remain perfectly still."
+        "hand": "Deal double damage while out of combat.",
+        "cast": "Disappear for as long as you remain perfectly still."
       },
       "upgrade": null,
       "tier": "green",
@@ -807,8 +807,8 @@
     "spec": {
       "title": "Survival Instincts",
       "rules": {
-        "passive": "Triple advantage on all d20 rolls when below 5 health.",
-        "active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water."
+        "hand": "Triple advantage on all d20 rolls when below 5 health.",
+        "cast": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water."
       },
       "upgrade": null,
       "tier": "green",
@@ -1114,8 +1114,8 @@
     "spec": {
       "title": "Where-Ware Charm",
       "rules": {
-        "passive": "You know the location of every object you've ever touched",
-        "active": "Teleport to a visible object you've touched"
+        "hand": "You know the location of every object you've ever touched",
+        "cast": "Teleport to a visible object you've touched"
       },
       "upgrade": null,
       "tier": "green",
@@ -1268,8 +1268,8 @@
     "spec": {
       "title": "Spectreblast",
       "rules": {
-        "passive": "You're surrounded by a ghostly aura.",
-        "active": "Fire a cannonball at a target of your choice."
+        "hand": "You're surrounded by a ghostly aura.",
+        "cast": "Fire a cannonball at a target of your choice."
       },
       "upgrade": null,
       "tier": "green",
@@ -1388,8 +1388,8 @@
     "spec": {
       "title": "Gloven Mitt",
       "rules": {
-        "passive": "Your hands are invulnerable to damage.",
-        "active": "Your next melee attack sets your opponent on fire."
+        "hand": "Your hands are invulnerable to damage.",
+        "cast": "Your next melee attack sets your opponent on fire."
       },
       "upgrade": null,
       "tier": "green",
@@ -1784,8 +1784,8 @@
     "spec": {
       "title": "Throw",
       "rules": {
-        "passive": "Advantage when catching.",
-        "active": "Throw an object accurately at a target up to 12 metres away."
+        "hand": "Advantage when catching.",
+        "cast": "Throw an object accurately at a target up to 12 metres away."
       },
       "upgrade": "Pitch",
       "tier": "green",
@@ -1802,8 +1802,8 @@
     "spec": {
       "title": "Pitch",
       "rules": {
-        "passive": "Advantage when catching.",
-        "active": "Throw an object accurately as far as you want."
+        "hand": "Advantage when catching.",
+        "cast": "Throw an object accurately as far as you want."
       },
       "upgrade": "Launch",
       "tier": "red",
@@ -1956,8 +1956,8 @@
     "spec": {
       "title": "Terrestrial Sun",
       "rules": {
-        "passive": "Fires you set cannot be put out.",
-        "active": "Summon a brick of material which burns violently when set out fire."
+        "hand": "Fires you set cannot be put out.",
+        "cast": "Summon a brick of material which burns violently when set out fire."
       },
       "upgrade": null,
       "tier": "gold",
@@ -1991,8 +1991,8 @@
     "spec": {
       "title": "Leap",
       "rules": {
-        "passive": "Take no damage from falling.",
-        "active": "Jump 25 metres into the air."
+        "hand": "Take no damage from falling.",
+        "cast": "Jump 25 metres into the air."
       },
       "upgrade": "Levitate",
       "tier": "green",
@@ -2043,8 +2043,8 @@
     "spec": {
       "title": "Soak",
       "rules": {
-        "passive": "Deal double damage when attacking wet enemies",
-        "active": "Cause everything within 2 metres of a visible object to become saturated with water."
+        "hand": "Deal double damage when attacking wet enemies",
+        "cast": "Cause everything within 2 metres of a visible object to become saturated with water."
       },
       "upgrade": "Drench",
       "tier": "green",
@@ -2197,8 +2197,8 @@
     "spec": {
       "title": "Reincarnate",
       "rules": {
-        "passive": "The dead fear you.",
-        "active": "Revive a dead character."
+        "hand": "The dead fear you.",
+        "cast": "Revive a dead character."
       },
       "upgrade": null,
       "tier": "gold",
@@ -2232,8 +2232,8 @@
     "spec": {
       "title": "Reflect",
       "rules": {
-        "passive": "Thrown objects bounce off of you with equal force.",
-        "active": "The next amount of damage dealt to you is also dealt to your attacker."
+        "hand": "Thrown objects bounce off of you with equal force.",
+        "cast": "The next amount of damage dealt to you is also dealt to your attacker."
       },
       "upgrade": "Deflect",
       "tier": "green",
@@ -2352,8 +2352,8 @@
     "spec": {
       "title": "Gale",
       "rules": {
-        "passive": "Whenever you throw a character in the air, throw them 8 metres in any direction",
-        "active": "Throw any number of characters in a 3 metre radius into the air."
+        "hand": "Whenever you throw a character in the air, throw them 8 metres in any direction",
+        "cast": "Throw any number of characters in a 3 metre radius into the air."
       },
       "upgrade": "Wind Storm",
       "tier": "green",
@@ -2455,8 +2455,8 @@
     "spec": {
       "title": "The Gambler",
       "rules": {
-        "passive": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure.",
-        "active": "Summon a rigged pair of dice which you can control with your mind."
+        "hand": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure.",
+        "cast": "Summon a rigged pair of dice which you can control with your mind."
       },
       "upgrade": null,
       "tier": "green",

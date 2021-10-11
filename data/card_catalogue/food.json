@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Swap the flavours of two objects within your reach.",
-        "passive": null
+        "cast": "Swap the flavours of two objects within your reach.",
+        "hand": null
       },
       "flavour": "Mmm, Crayons.",
       "image": "res/art/illustration/Spice Rack.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon an irresistable brick of Ambrosia, food of the Gods.",
-        "passive": null
+        "cast": "Summon an irresistable brick of Ambrosia, food of the Gods.",
+        "hand": null
       },
       "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
       "image": "res/art/illustration/Ambrosia.png"

@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Throw an object accurately at a target up to 5 metres away.",
-        "passive": null
+        "cast": "Throw an object accurately at a target up to 5 metres away.",
+        "hand": null
       },
       "flavour": "Go ahead, toss your hat in the ring.",
       "image": "res/art/illustration/Toss.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Throw an object accurately at a target up to 12 metres away.",
-        "passive": "Advantage when catching."
+        "cast": "Throw an object accurately at a target up to 12 metres away.",
+        "hand": "Advantage when catching."
       },
       "flavour": "If you're going to throw in the towel, at least do it properly.",
       "image": "res/art/illustration/Throw.png"
@@ -31,8 +31,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Throw an object accurately as far as you want.",
-        "passive": "Advantage when catching."
+        "cast": "Throw an object accurately as far as you want.",
+        "hand": "Advantage when catching."
       },
       "flavour": "I want this thing gone, understand?",
       "image": "res/art/illustration/Launch.png"
@@ -44,8 +44,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Throw an object with perfect accuracy as far as you want. It cannot be stopped.",
-        "passive": null
+        "cast": "Throw an object with perfect accuracy as far as you want. It cannot be stopped.",
+        "hand": null
       },
       "flavour": "I guess in a way, we're all still chasing it.",
       "image": "res/art/illustration/Launch.png"
@@ -57,8 +57,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Deal 3 damage to a visible character with a painful bolt of electricity",
-        "passive": null
+        "cast": "Deal 3 damage to a visible character with a painful bolt of electricity",
+        "hand": null
       },
       "flavour": "A spark is a little thing, yet it may kindle the world.",
       "image": "res/art/illustration/Spark.png"
@@ -70,8 +70,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Deal 4 damage and stun up to 2 visible characters.",
-        "passive": null
+        "cast": "Deal 4 damage and stun up to 2 visible characters.",
+        "hand": null
       },
       "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
       "image": "res/art/illustration/Lightning Bolt.png"
@@ -83,8 +83,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Extract all electricity in a 10 meter radius. Deal 6 damage and stun to up to 6 visible characters.",
-        "passive": null
+        "cast": "Extract all electricity in a 10 meter radius. Deal 6 damage and stun to up to 6 visible characters.",
+        "hand": null
       },
       "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants",
       "image": "res/art/illustration/Elektra_s Siphon.png"
@@ -96,8 +96,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Ignite a small object within 3 metres.",
-        "passive": null
+        "cast": "Ignite a small object within 3 metres.",
+        "hand": null
       },
       "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
       "image": "res/art/illustration/Ignite.png"
@@ -109,8 +109,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Hurl a flaming ball of hot embers at a visible object.",
-        "passive": null
+        "cast": "Hurl a flaming ball of hot embers at a visible object.",
+        "hand": null
       },
       "flavour": "Time for a game of hot potato!",
       "image": "res/art/illustration/Fireball.png"
@@ -122,8 +122,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Deal 15 damage and set fire to all flammable objects within 6 metres.",
-        "passive": null
+        "cast": "Deal 15 damage and set fire to all flammable objects within 6 metres.",
+        "hand": null
       },
       "flavour": "The best part is that nice campfire smell.",
       "image": "res/art/illustration/Immolate.png"
@@ -135,8 +135,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Summon a brick of material which burns violently when set out fire.",
-        "passive": "Fires you set cannot be put out."
+        "cast": "Summon a brick of material which burns violently when set out fire.",
+        "hand": "Fires you set cannot be put out."
       },
       "flavour": "The fire in our hearts will never burn out",
       "image": "res/art/illustration/Terrestrial Sun.png"
@@ -148,8 +148,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Jump up 3 metres.",
-        "passive": null
+        "cast": "Jump up 3 metres.",
+        "hand": null
       },
       "flavour": "Jump, and you will find out how to unfold your wings as you fall.",
       "image": "res/art/illustration/Jump.png"
@@ -161,8 +161,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Jump 25 metres into the air.",
-        "passive": "Take no damage from falling."
+        "cast": "Jump 25 metres into the air.",
+        "hand": "Take no damage from falling."
       },
       "flavour": "Sometimes all you need is a big leap of faith.",
       "image": "res/art/illustration/Leap.png"
@@ -174,8 +174,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Hover up to 20 metres off the ground until you lose concentration.",
-        "passive": null
+        "cast": "Hover up to 20 metres off the ground until you lose concentration.",
+        "hand": null
       },
       "flavour": "Rise above earthly ambition.",
       "image": "res/art/illustration/Levitate.png"
@@ -187,8 +187,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Target visible object becomes moist.",
-        "passive": null
+        "cast": "Target visible object becomes moist.",
+        "hand": null
       },
       "flavour": "I think I'm going to need a change of clothes.",
       "image": "res/art/illustration/Moisten.png"
@@ -200,8 +200,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Cause everything within 2 metres of a visible object to become saturated with water.",
-        "passive": "Deal double damage when attacking wet enemies" 
+        "cast": "Cause everything within 2 metres of a visible object to become saturated with water.",
+        "hand": "Deal double damage when attacking wet enemies" 
       },
       "flavour": "My plan: complete. Their day: ruined.",
       "image": "res/art/illustration/Soak.png"
@@ -213,8 +213,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Summon 50 thousand litres of water to a visible location.",
-        "passive": null
+        "cast": "Summon 50 thousand litres of water to a visible location.",
+        "hand": null
       },
       "flavour": "'Wet' would be an understatement",
       "image": "res/art/illustration/Drench.png"
@@ -226,8 +226,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
-        "passive": null
+        "cast": "A Tsunami breaks over the play area from a cardinal direction of your choice.",
+        "hand": null
       },
       "flavour": "Nature has a myriad of weapons to combat human arrogance.",
       "image": "res/art/illustration/Flood.png"
@@ -239,8 +239,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Something unlucky befalls target NPC",
-        "passive": null
+        "cast": "Something unlucky befalls target NPC",
+        "hand": null
       },
       "flavour": "He works in strange ways.",
       "image": "res/art/illustration/Hope.png"
@@ -252,8 +252,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Give a character advantage on their next roll.",
-        "passive": null
+        "cast": "Give a character advantage on their next roll.",
+        "hand": null
       },
       "flavour": "He will save us from our mortal errors.",
       "image": "res/art/illustration/Pray.png"
@@ -265,8 +265,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Describe a religious vision. Pick a visible NPC to experience it.",
-        "passive": null
+        "cast": "Describe a religious vision. Pick a visible NPC to experience it.",
+        "hand": null
       },
       "flavour": "He lives deep in the hearts of all men.",
       "image": "res/art/illustration/Preach.png"
@@ -278,8 +278,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Cause all players to critically succeed on their next d20 roll.",
-        "passive": null
+        "cast": "Cause all players to critically succeed on their next d20 roll.",
+        "hand": null
       },
       "flavour": "The light will shine bright upon the chosen.",
       "image": "res/art/illustration/Wish.png"
@@ -291,8 +291,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Cure the ailment of a visible character, or heal them 8.",
-        "passive": null
+        "cast": "Cure the ailment of a visible character, or heal them 8.",
+        "hand": null
       },
       "flavour": "Treats an upset stomach, a broken heart, or a pierced lung",
       "image": "res/art/illustration/Cure.png"
@@ -304,8 +304,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Heal a visible character 15. They can move twice as fast for the remainder of the session.",
-        "passive": "Run twice as fast while carrying friendly characters."
+        "cast": "Heal a visible character 15. They can move twice as fast for the remainder of the session.",
+        "hand": "Run twice as fast while carrying friendly characters."
       },
       "flavour": "Wee woo, wee woo.",
       "image": "res/art/illustration/Field Medicine.png"
@@ -317,8 +317,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
-        "passive": null 
+        "cast": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
+        "hand": null 
       },
       "flavour": "I hope you don't mind if I make some improvements while I'm in here",
       "image": "res/art/illustration/Renew.png"
@@ -330,8 +330,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Revive a dead character.",
-        "passive": "The dead fear you."
+        "cast": "Revive a dead character.",
+        "hand": "The dead fear you."
       },
       "flavour": "If man is to play god, he ought to be a kind one.",
       "image": "res/art/illustration/Reincarnate.png"
@@ -343,8 +343,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Take no damage from the next attack targeting you.",
-        "passive": null
+        "cast": "Take no damage from the next attack targeting you.",
+        "hand": null
       },
       "flavour": "I barely felt that! Who taught you how to punch?",
       "image": "res/art/illustration/Brace.png"
@@ -356,8 +356,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "The next amount of damage dealt to you is also dealt to your attacker.",
-        "passive": "Thrown objects bounce off of you with equal force."
+        "cast": "The next amount of damage dealt to you is also dealt to your attacker.",
+        "hand": "Thrown objects bounce off of you with equal force."
       },
       "flavour": "Let's see how you like it!.",
       "image": "res/art/illustration/Reflect.png"
@@ -369,8 +369,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "The next amount of damage dealt to you is dealt to your attacker instead.",
-        "passive": null
+        "cast": "The next amount of damage dealt to you is dealt to your attacker instead.",
+        "hand": null
       },
       "flavour": "I am rubber, and you are glue.",
       "image": "res/art/illustration/Deflect.png"
@@ -382,8 +382,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Name a character. They can no longer deal damage to you.",
-        "passive": null
+        "cast": "Name a character. They can no longer deal damage to you.",
+        "hand": null
       },
       "flavour": "It's futile. I've already analyzed all of your moves.",
       "image": "res/art/illustration/Golan_s Idol.png"
@@ -395,8 +395,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Make two instant attacks.",
-        "passive": null
+        "cast": "Make two instant attacks.",
+        "hand": null
       },
       "flavour": "The first blow shatters their defenses, the next their spirit.",
       "image": "res/art/illustration/Double Strike.png"
@@ -408,8 +408,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Make four instant attacks",
-        "passive": null
+        "cast": "Make four instant attacks",
+        "hand": null
       },
       "flavour": "Their defense won't last forever. Strike, and strike again.",
       "image": "res/art/illustration/Quad Strike.png"
@@ -421,8 +421,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Take X damage. Make X instant attacks",
-        "passive": null
+        "cast": "Take X damage. Make X instant attacks",
+        "hand": null
       },
       "flavour": "An endless fractal of striking limbs",
       "image": "res/art/illustration/Endless Blows.png"
@@ -434,8 +434,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Throw a visible character up into the air.",
-        "passive": null
+        "cast": "Throw a visible character up into the air.",
+        "hand": null
       },
       "flavour": "He should've worn a windbreaker.",
       "image": "res/art/illustration/Gust of Wind.png"
@@ -447,8 +447,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Throw any number of characters in a 3 metre radius into the air.",
-        "passive": "Whenever you throw a character in the air, throw them 8 metres in any direction"
+        "cast": "Throw any number of characters in a 3 metre radius into the air.",
+        "hand": "Whenever you throw a character in the air, throw them 8 metres in any direction"
       },
       "flavour": "You look like a birthday candle.",
       "image": "res/art/illustration/Gale.png"
@@ -460,8 +460,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Throw any number of visible characters up into the air.",
-        "passive": null
+        "cast": "Throw any number of visible characters up into the air.",
+        "hand": null
       },
       "flavour": "Rise, rise towards the heavens.",
       "image": "res/art/illustration/Wind Storm.png"
@@ -473,8 +473,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "A powerful hurricane is summoned over the play area for as long as you want.",
-        "passive": null
+        "cast": "A powerful hurricane is summoned over the play area for as long as you want.",
+        "hand": null
       },
       "flavour": "It is rare for an area to know such devastation.",
       "image": "res/art/illustration/Hurricane.png"
@@ -486,8 +486,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Summon an impenetrable column of light in adjacent square metre for 5 minutes.",
-        "passive": null
+        "cast": "Summon an impenetrable column of light in adjacent square metre for 5 minutes.",
+        "hand": null
       },
       "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
       "image": "res/art/illustration/Barrier.png"
@@ -499,8 +499,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Summon a copy of any NPC.",
-        "passive": null
+        "cast": "Summon a copy of any NPC.",
+        "hand": null
       },
       "flavour": "I hated the man so much I made a point of killing him twice",
       "image": "res/art/illustration/Mirror Image.png"

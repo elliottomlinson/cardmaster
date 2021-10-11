@@ -4,8 +4,8 @@ module Card
       def self.from_h(hash)
         if hash.has_key?("text")
           SimpleRules.new(hash["text"])
-        elsif hash.has_key?("passive") && hash.has_key?("active")
-          PassiveActiveRules.new(hash["passive"], hash["active"])
+        elsif hash.has_key?("hand") && hash.has_key?("cast")
+          HandCastRules.new(hash["passive"], hash["cast"])
         end
       end
     end
@@ -28,23 +28,23 @@ module Card
       end
     end
 
-    class PassiveActiveRules
-      attr_reader :passive, :active
+    class HandCastRules
+      attr_reader :hand, :cast
 
-      def initialize(passive, active)
-        @passive = passive
-        @active = active
+      def initialize(hand, cast)
+        @hand = hand
+        @cast = cast
       end
 
       def ==(other)
-        other.passive == @passive &&
-        other.active == @active
+        other.hand == @hand &&
+        other.cast == @cast
       end
 
       def to_h
         {
-          "passive" => @passive,
-          "active" => @active
+          "hand" => @hand,
+          "cast" => @cast
         }
       end
     end
