@@ -8,7 +8,7 @@
         "cast": "Increases your rapport with a visible NPC",
         "hand": null
       },
-      "flavour": "If you were words on a card, you'd be some fine print.",
+      "flavour": "If you were words on a card, you'd be some fine print",
       "image": "res/art/illustration/Flirt.png"
     }
   },
@@ -18,7 +18,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Cause a visible NPC to like you.",
+        "cast": "Cause a visible NPC to like you",
         "hand": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
@@ -31,7 +31,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Causes a visible NPC to become attracted to you.",
+        "cast": "Causes a visible NPC to become attracted to you",
         "hand": null
       },
       "flavour": "Here I am - Your other two wishes?",
@@ -44,10 +44,10 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Cause a visible NPC to bond to you for life.",
+        "cast": "Cause a visible NPC to bond to you for life",
         "hand": null
       },
-      "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
+      "flavour": "There’s only one thing I want to change about you, and that’s your last name",
       "image": "res/art/illustration/Seduce.png"
     }
   },
@@ -57,7 +57,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Speak with any living NPC. They will be unaware of who they're speaking to.",
+        "cast": "Speak with any living NPC. They will be unaware of who they're speaking to",
         "hand": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
@@ -78,15 +78,29 @@
     }
   },
   {
+    "draft": true,
+    "title": "Puppeteer",
+    "upgrade": null,
+    "tier": "green",
+    "details": {
+      "rules": {
+        "cast": "A character you are touching goes into a trance. For as long as you continue touching them, you can make them say anything you'd like.",
+        "hand": null
+      },
+      "flavour": "We are all puppets, some just see the strings",
+      "image": "res/art/illustration/Seance.png"
+    }
+  },
+  {
     "title": "Apologize",
     "upgrade": null,
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Target visible NPC can no longer feel negative emotions towards target visible character.",
+        "cast": "Target visible NPC can no longer feel negative emotions towards target visible character",
         "hand": null
       },
-      "flavour": "There is no love without forgiveness, and no forgiveness without love.",
+      "flavour": "There is no love without forgiveness, and no forgiveness without love",
       "image": "res/art/illustration/Apologize.png"
     }
   },
@@ -96,10 +110,10 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Force an NPC to act on their compulsion.",
+        "cast": "Force an NPC to act on their compulsion",
         "hand": null
       },
-      "flavour": "It was a lovely moment, but it'd be just as lovely after checking my messages once more.",
+      "flavour": "It was a lovely moment, but it'd be just as lovely after checking my messages once more",
       "image": "res/art/illustration/Distract.png"
     }
   },
@@ -109,10 +123,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Target NPC will believe your next statement.",
+        "cast": "Target NPC will believe your next statement",
         "hand": null
       },
-      "flavour": "A lie travels half way around the world before the truth puts on its shoes.",
+      "flavour": "A lie travels half way around the world before the truth puts on its shoes",
       "image": "res/art/illustration/Lie.png"
     }
   },
@@ -122,10 +136,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Change your appearance to match that of another exactly for as long as you'd like.",
+        "cast": "Change your appearance to match that of another exactly for as long as you'd like",
         "hand": null
       },
-      "flavour": "Most people are other people.",
+      "flavour": "Most people are other people",
       "image": "res/art/illustration/Disguise.png"
     }
   },
@@ -135,10 +149,10 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Rewrite the contents of an NPC's memory.",
+        "cast": "Rewrite the contents of an NPC's memory",
         "hand": null
       },
-      "flavour": "Nothing is ever lost to us as long as we remember it.",
+      "flavour": "Nothing is ever lost to us as long as we remember it",
       "image": "res/art/illustration/Revise.png"
     }
   },
@@ -148,7 +162,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "An aura surrounds you. NPCs believe this spell had the effect of your choice.",
+        "cast": "An aura surrounds you. NPCs believe this spell had the effect of your choice",
         "hand": null
       },
       "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
@@ -161,10 +175,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Target visible NPC will love you from now on.",
-        "hand": "NPCs hate you."
+        "cast": "Target visible NPC will love you from now on",
+        "hand": "NPCs hate you"
       },
-      "flavour": "Nobody knew what he saw in her.",
+      "flavour": "Nobody knew what he saw in her",
       "image": "res/art/illustration/Polarize.png"
     }
   }
