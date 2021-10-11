@@ -156,6 +156,19 @@
     }
   },
   {
+    "title": "Wish",
+    "upgrade": null,
+    "tier": "red",
+    "details": {
+      "rules": {
+        "cast": "Cause target player to critically succeed on their next roll",
+        "hand": null
+      },
+      "flavour": "The light will shine bright upon the chosen.",
+      "image": "res/art/illustration/Wish.png"
+    }
+  },
+  {
     "title": "Object Eject",
     "upgrade": null,
     "tier": "green",

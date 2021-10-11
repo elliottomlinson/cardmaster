@@ -50,9 +50,8 @@ module Card
       private
 
       def delete_image(stored_card)
-        FileUtils.rm(
-          front_path(stored_card.spec)
-        )
+        image_path = front_path(stored_card.spec)
+        FileUtils.rm(image_path) if File.exists?(image_path) 
       end
 
       def save_images(generated_cards)

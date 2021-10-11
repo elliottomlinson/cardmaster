@@ -39,19 +39,6 @@
     }
   },
   {
-    "title": "Launch",
-    "upgrade": null,
-    "tier": "gold",
-    "details": {
-      "rules": {
-        "cast": "Throw an object with perfect accuracy as far as you want. It cannot be stopped.",
-        "hand": null
-      },
-      "flavour": "I guess in a way, we're all still chasing it.",
-      "image": "res/art/illustration/Launch.png"
-    }
-  },
-  {
     "title": "Spark",
     "upgrade": "Lightning Bolt",
     "tier": "blue",
@@ -261,7 +248,7 @@
   },
   {
     "title": "Preach",
-    "upgrade": "Wish",
+    "upgrade": null,
     "tier": "red",
     "details": {
       "rules": {
@@ -270,19 +257,6 @@
       },
       "flavour": "He lives deep in the hearts of all men.",
       "image": "res/art/illustration/Preach.png"
-    }
-  },
-  {
-    "title": "Wish",
-    "upgrade": null,
-    "tier": "gold",
-    "details": {
-      "rules": {
-        "cast": "Cause all players to critically succeed on their next d20 roll.",
-        "hand": null
-      },
-      "flavour": "The light will shine bright upon the chosen.",
-      "image": "res/art/illustration/Wish.png"
     }
   },
   {
@@ -333,7 +307,7 @@
         "cast": "Revive a dead character.",
         "hand": "The dead fear you."
       },
-      "flavour": "If man is to play god, he ought to be a kind one.",
+      "flavour": "If man is to play god, he ought to be a kind one",
       "image": "res/art/illustration/Reincarnate.png"
     }
   },

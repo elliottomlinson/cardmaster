@@ -30,7 +30,7 @@ module Card
 
       def ==(other)
         title == other.title &&
-          rules == other.rules &&
+          rules === other.rules &&
           upgrade == other.upgrade &&
           tier == other.tier &&
           flavour == other.flavour &&
