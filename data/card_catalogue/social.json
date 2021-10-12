@@ -169,17 +169,4 @@
       "image": "res/art/illustration/Magic Trick.png"
     }
   },
-  {
-    "title": "Polarize",
-    "upgrade": null,
-    "tier": "green",
-    "details": {
-      "rules": {
-        "cast": "Target visible NPC will love you from now on",
-        "hand": "NPCs hate you"
-      },
-      "flavour": "Nobody knew what he saw in her",
-      "image": "res/art/illustration/Polarize.png"
-    }
-  }
 ]
