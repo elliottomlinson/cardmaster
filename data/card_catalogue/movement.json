@@ -91,7 +91,6 @@
     }
   },
   {
-    "draft": true,
     "title": "Swap",
     "upgrade": null,
     "tier": "green",
@@ -105,7 +104,6 @@
     }
   },
   {
-    "draft": true,
     "title": "Glacial Festival",
     "upgrade": null,
     "tier": "red",
@@ -119,7 +117,6 @@
     }
   },
   {
-    "draft": true,
     "title": "Marathon",
     "upgrade": null,
     "tier": "green",

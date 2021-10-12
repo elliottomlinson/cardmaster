@@ -78,7 +78,6 @@
     }
   },
   {
-    "draft": true,
     "title": "Puppeteer",
     "upgrade": null,
     "tier": "green",
