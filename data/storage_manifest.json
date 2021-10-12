@@ -939,17 +939,17 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
-  "Ancient Throwing Bola": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Ancient Throwing Bola.png",
+  "Lasso": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lasso.png",
     "spec": {
-      "title": "Ancient Throwing Bola",
+      "title": "Lasso",
       "rules": {
         "text": "Throw a pair of bola around a visible target"
       },
       "upgrade": null,
       "tier": "blue",
       "flavour": "Bolas are excellent for capturing large mammals, like my portly friend Steve",
-      "art_path": "res/art/illustration/Ancient Throwing Bola.png",
+      "art_path": "res/art/illustration/Lasso.png",
       "tags": [
         "unique-1"
       ]

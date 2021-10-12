@@ -39,7 +39,7 @@
     }
   },
   {
-    "title": "Ancient Throwing Bola",
+    "title": "Lasso",
     "upgrade": null,
     "tier": "blue",
     "details": {
@@ -48,7 +48,7 @@
         "hand": null
       },
       "flavour": "Bolas are excellent for capturing large mammals, like my portly friend Steve",
-      "image": "res/art/illustration/Ancient Throwing Bola.png"
+      "image": "res/art/illustration/Lasso.png"
     }
   },
   {
