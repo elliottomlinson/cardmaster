@@ -74,23 +74,24 @@
 }
 
 .title-text {
+  color: black;
   font-family: 'Karmatic Arcade';
   margin-left: 20px;
   margin-right: 20px;
+  position: relative;
+  font-size: 36pt;
+  top: -72px;
+  left: -20px;
+  width: 668px;
 }
 
 .title-text-fill {
+  color: white;
   font-family: 'Karmatic Arcade Filled';
   margin-left: 20px;
   margin-right: 20px;
+  text-shadow: 2px 2px 4px grey;
 }
-
-.title-text-shadow {
-  font-family: 'Karmatic Arcade Filled';
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
 
 .illustration {
   background-image: url("{{illustration_image_path}}");
