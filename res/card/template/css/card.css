@@ -46,7 +46,7 @@
 }
 
 .frame {
-  background-image: url("{{frame_image_path}}");
+  background-image: url("https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/frame/rainbow.png");
   z-index: 2;
   position: absolute;
   left: 40px;
@@ -78,6 +78,19 @@
   margin-left: 20px;
   margin-right: 20px;
 }
+
+.title-text-fill {
+  font-family: 'Karmatic Arcade Filled';
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.title-text-shadow {
+  font-family: 'Karmatic Arcade Filled';
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 
 .illustration {
   background-image: url("{{illustration_image_path}}");
