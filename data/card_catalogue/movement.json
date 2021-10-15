@@ -34,7 +34,7 @@
         "cast": "Teleport to any visible location",
         "hand": null
       },
-      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy",
+      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
       "image": "res/art/illustration/Teleport.png"
     }
   },
