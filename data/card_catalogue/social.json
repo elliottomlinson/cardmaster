@@ -1,7 +1,7 @@
 [
   {
-    "title": "Flirt",
-    "upgrade": "Charm",
+    "title": "Charm",
+    "upgrade": "Flirt",
     "tier": "blue",
     "details": {
       "rules": {
@@ -9,11 +9,11 @@
         "hand": null
       },
       "flavour": "If you were words on a card, you'd be some fine print",
-      "image": "res/art/illustration/Flirt.png"
+      "image": "res/art/illustration/Charm.png"
     }
   },
   {
-    "title": "Charm",
+    "title": "Flirt",
     "upgrade": "Arouse",
     "tier": "green",
     "details": {
@@ -22,7 +22,7 @@
         "hand": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
-      "image": "res/art/illustration/Charm.png"
+      "image": "res/art/illustration/Flirt.png"
     }
   },
   {
@@ -34,7 +34,7 @@
         "cast": "Causes a visible NPC to become attracted to you",
         "hand": null
       },
-      "flavour": "Here I am - Your other two wishes?",
+      "flavour": ";)",
       "image": "res/art/illustration/Arouse.png"
     }
   },
@@ -57,7 +57,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Speak with any living NPC. They will be unaware of who they're speaking to",
+        "cast": "Speak with any living NPC. They will be unaware of who they're speaking to.",
         "hand": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
@@ -83,11 +83,11 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "A character you are touching goes into a trance. For as long as you continue touching them, you can make them say anything you'd like.",
+        "cast": "A character you are touching is stunned. For as long as you continue touching them, you can make them say anything you'd like.",
         "hand": null
       },
       "flavour": "We are all puppets, some just see the strings",
-      "image": "res/art/illustration/Seance.png"
+      "image": "res/art/illustration/Puppeteer.png"
     }
   },
   {
@@ -99,7 +99,7 @@
         "cast": "Target visible NPC can no longer feel negative emotions towards target visible character",
         "hand": null
       },
-      "flavour": "There is no love without forgiveness, and no forgiveness without love",
+      "flavour": "Changed behaviour is the best apology",
       "image": "res/art/illustration/Apologize.png"
     }
   },
@@ -125,7 +125,7 @@
         "cast": "Target NPC will believe your next statement",
         "hand": null
       },
-      "flavour": "A lie travels half way around the world before the truth puts on its shoes",
+      "flavour": "Wanna see me do it again?",
       "image": "res/art/illustration/Lie.png"
     }
   },
@@ -164,8 +164,21 @@
         "cast": "An aura surrounds you. NPCs believe this spell had the effect of your choice",
         "hand": null
       },
-      "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
+      "flavour": "Conjurors con jurors",
       "image": "res/art/illustration/Magic Trick.png"
+    }
+  },
+  {
+    "title": "Clone",
+    "upgrade": null,
+    "tier": "gold",
+    "details": {
+      "rules": {
+        "cast": "Name an NPC. An identical copy of them appears before you.",
+        "hand": null
+      },
+      "flavour": "Always have a backup plan",
+      "image": "res/art/illustration/Clone.png"
     }
   }
 ]

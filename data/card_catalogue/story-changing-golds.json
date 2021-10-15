@@ -31,7 +31,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Name a character not on the current map. They die instantly.",
+        "cast": "Name a character. They die.",
         "hand": null
       },
       "flavour": "I wish this guy would just die before we even showed up, that'd save us a lot of time.",

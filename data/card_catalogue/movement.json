@@ -34,7 +34,7 @@
         "cast": "Teleport to any visible location",
         "hand": null
       },
-      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy",
+      "flavour": "If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",
       "image": "res/art/illustration/Teleport.png"
     }
   },
@@ -70,7 +70,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
+        "cast": "Pick a visible character to be flung into. Both take 6 damage on impact.",
         "hand": null
       },
       "flavour": "C'mere",
@@ -96,11 +96,11 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Switch positions with a visible NPC",
-        "passive": null
+        "cast": "Switch positions with a visible NPC",
+        "hand": null
       },
-      "flavour": "Prison guard inside of a jail cell",
-      "image": "res/art/illustration/Platzfalt Step.png"
+      "flavour": "Coach says you're up!",
+      "image": "res/art/illustration/Swap.png"
     }
   },
   {
@@ -109,11 +109,11 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Cover the entire map with a thin layer of slippery ice",
-        "passive": null
+        "cast": "Cover the entire map with a thin layer of slippery ice",
+        "hand": null
       },
-      "flavour": "A bunch of people slipping on Ice",
-      "image": "res/art/illustration/Platzfalt Step.png"
+      "flavour": "'Tis the season",
+      "image": "res/art/illustration/Glacial Festival.png"
     }
   },
   {
@@ -122,11 +122,11 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Move twice as fast until you play another card",
-        "passive": null
+        "cast": "Move twice as fast until you play another card",
+        "hand": null
       },
       "flavour": "Never look back",
-      "image": "res/art/illustration/Platzfalt Step.png"
+      "image": "res/art/illustration/Marathon.png"
     }
   }
 ]

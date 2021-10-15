@@ -1,28 +1,15 @@
 [
   {
     "title": "Quick Shot",
-    "upgrade": "Empty the Clip",
+    "upgrade": null,
     "tier": "blue",
     "details": {
       "rules": {
         "cast": "Make an instant attack that cannot miss.",
         "hand": null
       },
-      "flavour": "A single, well timed strike can have greater impact than any barrage of blows",
+      "flavour": "From way downtown!",
       "image": "res/art/illustration/Quick Shot.png"
-    }
-  },
-  {
-    "title": "Empty the Clip",
-    "upgrade": "Bullet Rain",
-    "tier": "green",
-    "details": {
-      "rules": {
-        "cast": "Make two instant attacks. Return a Card with Blue Rarity to your hand",
-        "hand": null
-      },
-      "flavour": "Always have a plan B.",
-      "image": "res/art/illustration/Empty the Clip.png"
     }
   },
   {

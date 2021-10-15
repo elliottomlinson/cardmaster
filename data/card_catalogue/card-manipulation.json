@@ -112,7 +112,7 @@
         "cast": "Draw 3 greys",
         "hand": null
       },
-      "flavour": "Now, what do we have here...",
+      "flavour": "And just like that, he's gone!",
       "image": "res/art/illustration/Adlib.png"
     }
   },
@@ -138,7 +138,7 @@
         "cast": "Draw 5 greens, face-up. Cast up to 3 and discard the rest.",
         "hand": null
       },
-      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path",
+      "flavour": "Say goodbye to the rails, script, chain, and beaten path",
       "image": "res/art/illustration/Helter-Skelter.png"
     }
   },
@@ -148,7 +148,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Draw 3 greens, face-up. Cast 1 and discard the rest.",
+        "cast": "Draw 3 greens, face-up. Cast 1, discard the rest.",
         "hand": null
       },
       "flavour": "No more of this bush-league nonsense. We need some real power.",
@@ -161,7 +161,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Draw 3 reds, face-up. Cast 1 and discard the rest.",
+        "cast": "Draw 3 reds, face-up. Cast 1, discard the rest.",
         "hand": null
       },
       "flavour": "I might be able to pull it off, but just this once",

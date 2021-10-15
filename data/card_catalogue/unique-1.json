@@ -112,7 +112,7 @@
         "cast": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
         "hand": null
       },
-      "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while",
+      "flavour": "Existence is tiring, why not take a break?",
       "image": "res/art/illustration/Disappear.png"
     }
   },
@@ -138,7 +138,7 @@
         "cast": "A boundary, impenetrable from within, is placed 5 metres away from you in all directions as long as you'd like",
         "hand": null
       },
-      "flavour": "After years of living in a cage, a lion no longer believes it is a lion",
+      "flavour": "After years in captivity, a lion forgets it's a lion",
       "image": "res/art/illustration/Prison.png"
     }
   },
@@ -188,7 +188,7 @@
     "details": {
       "rules": {
         "cast": "Summon a rigged pair of dice which you can control with your mind.",
-        "hand": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure." 
+        "hand": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure."
       },
       "flavour": "",
       "image": "res/art/illustration/The Ultimatum.png"
@@ -213,7 +213,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
+        "cast": "The ground shakes beneath you. All characters within 4 metres are knocked airborne and drop whatever they're holding.",
         "hand": null
       },
       "flavour": "Not suitable for tectonic fault zones.",
@@ -242,7 +242,7 @@
         "cast": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
         "hand": null
       },
-      "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
+      "flavour": "To get you out of a tight spot, like a colonial insurrection.",
       "image": "res/art/illustration/Musty Musket.png"
     }
   },
@@ -343,7 +343,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Choose an NPC. They are stuck in place for ten seconds.",
+        "cast": "Choose an NPC. Their speed is halved until the end of the session.",
         "hand": null
       },
       "flavour": "Have my legs always been this heavy?",
@@ -403,7 +403,7 @@
     }
   },
   {
-    "title": "Gloven Mitt",
+    "title": "Oven Mitt",
     "upgrade": null,
     "tier": "green",
     "details": {
@@ -411,8 +411,8 @@
         "cast": "Your next melee attack sets your opponent on fire.",
         "hand": "Your hands are invulnerable to damage."
       },
-      "flavour": "I'm about to turn your Kitchen Dream into a Kitchen Nightmare",
-      "image": "res/art/illustration/Gloven Mitt.png"
+      "flavour": "I'll make your Kitchen Dream a Kitchen Nightmare",
+      "image": "res/art/illustration/Oven Mitt.png"
     }
   }
 ]

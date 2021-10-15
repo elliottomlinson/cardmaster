@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "cast": "Throw an object accurately as far as you want",
-        "hand": "Advantage when catching"
+        "hand": "Double advantage when catching"
       },
       "flavour": "I want this thing gone, understand?",
       "image": "res/art/illustration/Launch.png"
@@ -122,7 +122,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Summon a brick of material which burns violently when set out fire",
+        "cast": "Summon a brick of material which burns violently when set alight",
         "hand": "Fires you set cannot be put out"
       },
       "flavour": "The fire in our hearts will never burn out",
@@ -138,7 +138,7 @@
         "cast": "Jump up 3 metres",
         "hand": null
       },
-      "flavour": "Jump, and you will find out how to unfold your wings as you fall",
+      "flavour": "Gravity's just a theory",
       "image": "res/art/illustration/Jump.png"
     }
   },
@@ -188,7 +188,7 @@
     "details": {
       "rules": {
         "cast": "Cause everything within 2 metres of a visible object to become saturated with water",
-        "hand": "Deal double damage when attacking wet enemies" 
+        "hand": "Deal double damage when attacking wet enemies"
       },
       "flavour": "My plan: complete. Their day: ruined.",
       "image": "res/art/illustration/Soak.png"
@@ -216,7 +216,7 @@
         "cast": "A Tsunami breaks over the play area from a cardinal direction of your choice",
         "hand": null
       },
-      "flavour": "Nature has a myriad of weapons to combat human arrogance",
+      "flavour": "Surf's up",
       "image": "res/art/illustration/Flood.png"
     }
   },
@@ -240,7 +240,7 @@
     "details": {
       "rules": {
         "cast": "Give a character advantage on their next roll",
-        "hand": null
+        "hand": "+1 to all d20 rolls"
       },
       "flavour": "He will save us from our mortal errors",
       "image": "res/art/illustration/Pray.png"
@@ -292,9 +292,9 @@
     "details": {
       "rules": {
         "cast": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
-        "hand": null 
+        "hand": null
       },
-      "flavour": "I hope you don't mind if I make some improvements while I'm in here",
+      "flavour": "I hope you don't mind, but I took the liberty of making a few additional improvements",
       "image": "res/art/illustration/Renew.png"
     }
   },
@@ -320,7 +320,7 @@
         "cast": "Take no damage from the next attack targeting you",
         "hand": null
       },
-      "flavour": "I barely felt that! Who taught you how to punch?",
+      "flavour": "Who taught you how to punch?",
       "image": "res/art/illustration/Brace.png"
     }
   },
@@ -395,10 +395,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Take X damage. Make X instant attacks",
+        "cast": "Take X damage. Make X instant attacks.",
         "hand": null
       },
-      "flavour": "An endless fractal of striking limbs",
+      "flavour": "An endless flurry of striking limbs",
       "image": "res/art/illustration/Endless Blows.png"
     }
   },
@@ -463,20 +463,20 @@
         "cast": "Summon an impenetrable column of light in adjacent square metre for 5 minutes",
         "hand": null
       },
-      "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
+      "flavour": "Ethereal and impregnable",
       "image": "res/art/illustration/Barrier.png"
     }
   },
   {
     "title": "Mirror Image",
     "upgrade": null,
-    "tier": "gold",
+    "tier": "red",
     "details": {
       "rules": {
-        "cast": "Summon a copy of any NPC",
+        "cast": "A copy of you is created. Play as both until you take damage or cast another card."
         "hand": null
       },
-      "flavour": "I hated the man so much I made a point of killing him twice",
+      "flavour": "Just be yourselves",
       "image": "res/art/illustration/Mirror Image.png"
     }
   }
