@@ -227,7 +227,7 @@
     "details": {
       "rules": {
         "cast": "Something unlucky befalls target NPC",
-        "hand": "+1 to all d20 rolls"
+        "hand": null
       },
       "flavour": "He works in strange ways",
       "image": "res/art/illustration/Hope.png"
@@ -240,7 +240,7 @@
     "details": {
       "rules": {
         "cast": "Give a character advantage on their next roll",
-        "hand": null
+        "hand": "+1 to all d20 rolls"
       },
       "flavour": "He will save us from our mortal errors",
       "image": "res/art/illustration/Pray.png"
