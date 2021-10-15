@@ -148,7 +148,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Draw 3 greens, face-up. Cast 1 and discard the rest.",
+        "cast": "Draw 3 greens, face-up. Cast 1, discard the rest.",
         "hand": null
       },
       "flavour": "No more of this bush-league nonsense. We need some real power.",
