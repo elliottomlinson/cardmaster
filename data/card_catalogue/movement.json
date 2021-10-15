@@ -99,7 +99,7 @@
         "active": "Switch positions with a visible NPC",
         "passive": null
       },
-      "flavour": "Prison guard inside of a jail cell",
+      "flavour": "Coach says you're up!",
       "image": "res/art/illustration/Swap.png"
     }
   },
