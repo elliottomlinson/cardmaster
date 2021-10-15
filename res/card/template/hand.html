@@ -21,14 +21,17 @@
   window.onload=function shrink()
   {
     textSpan = document.getElementById("title-text")
+    textSpanFill = document.getElementById("title-text-fill")
     textDiv = document.getElementById("title")
     
     textSpan.style.fontSize = "36pt"
+    textSpanFill.style.fontSize = "36pt"
 
     while(textSpan.offsetHeight > textDiv.offsetHeight)
     {
         updated_font_size = parseInt(textSpan.style.fontSize) - 1
         textSpan.style.fontSize = updated_font_size + "pt";
+        textSpanFill.style.fontSize = updated_font_size + "pt";
     }
   }
 </script>
@@ -40,10 +43,14 @@
       <div class="border"></div>
       <div class="frame"></div>
       <div class="title" id="title">
-        <span class="title-text vertical-center" id="title-text">{{title}}</div>
+        <span class="title-text-fill vertical-center" id="title-text-fill">{{title}}</span>
+        <span class="title-text vertical-center" id="title-text">{{title}}</span>
       </div>
       <div class="illustration"></div>
       <div class="type">
+        <div class="type-text-fill">
+          {{upgrade}}
+        </div>
         <div class="type-text">
           {{upgrade}}
         </div>
@@ -77,10 +84,10 @@
             <td>
               <p class="code">
                 <span class="series">
-                  test
+                  pre-release
                 </span>
                 <span class="serial">
-                  000/000
+                  Base Set
                 </span>
               </p>
             </td>
