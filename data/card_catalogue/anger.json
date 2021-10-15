@@ -34,7 +34,7 @@
         "cast": "For one minute, NPCs will not become hostile unless they take damage",
         "hand": null
       },
-      "flavour": "I haven't seen you in the vault before. First day on the job?.",
+      "flavour": "I haven't seen you in the vault before. First day on the job?",
       "image": "res/art/illustration/Timeout.png"
     }
   },
