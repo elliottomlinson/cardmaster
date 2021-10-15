@@ -46,7 +46,7 @@
 }
 
 .frame {
-  background-image: url("https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/frame/rainbow.png");
+  background-image: url("{{frame_image_path}}");
   z-index: 2;
   position: absolute;
   left: 40px;
