@@ -101,14 +101,14 @@ Three of the same tier can be exchanged for an upgrade. The tiers are ⚫Grey, �
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spark.png" width="24%" 
-       id="Spark" title="⚡ Deal 3 damage to a visible character with a painful bolt of electricity">
-  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lightning%20Bolt.png" width="24%" 
-       id="Lightning Bolt" title="⚡ Deal 4 damage and stun up to 2 visible characters.">
-  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fork%20Lightning.png" width="24%" 
-       id="Fork Lightning" title="⚡ Deal 6 damage and stun to up to 6 visible characters.">
-  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Elektra's%20Siphon.png" width="24%" 
-       id="Elektra's Siphon" title="⚡Cause a complete blackout in a 100 kilometre radius. Draw 3 copies of Fork Lightning.">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Cure.png" width="24%" 
+       id="Cure" title="⚡ Cure the ailment of a visible character, or heal them 8">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Field%20Medicine.png" width="24%" 
+       id="Field Medicine" title="⚡ Heal a visible character 15. They can move twice as fast for the remainder of the session. &#013;✋ Run twice as fast while carrying friendly characters ">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Renew.png" width="24%" 
+       id="Renew" title="⚡ Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.">
+  <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Reincarnate.png" width="24%" 
+       id="Reincarnate" title="⚡ Revive a dead character &#013;✋ The dead fear you">
 </p>
 
 ## In This Repository
