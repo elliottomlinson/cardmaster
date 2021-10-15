@@ -213,7 +213,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
+        "cast": "The ground shakes beneath you. All characters within 4 metres are knocked airborne and drop whatever they're holding.",
         "hand": null
       },
       "flavour": "Not suitable for tectonic fault zones.",
