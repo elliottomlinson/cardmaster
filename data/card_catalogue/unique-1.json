@@ -403,7 +403,7 @@
     }
   },
   {
-    "title": "Gloven Mitt",
+    "title": "Oven Mitt",
     "upgrade": null,
     "tier": "green",
     "details": {
@@ -412,7 +412,7 @@
         "hand": "Your hands are invulnerable to damage."
       },
       "flavour": "I'm about to turn your Kitchen Dream into a Kitchen Nightmare",
-      "image": "res/art/illustration/Gloven Mitt.png"
+      "image": "res/art/illustration/Oven Mitt.png"
     }
   }
 ]
