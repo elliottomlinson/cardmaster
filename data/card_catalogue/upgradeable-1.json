@@ -470,13 +470,13 @@
   {
     "title": "Mirror Image",
     "upgrade": null,
-    "tier": "gold",
+    "tier": "red",
     "details": {
       "rules": {
-        "cast": "Summon a copy of any NPC",
+        "cast": "A copy of you is created. Play as both until you take damage or cast another card."
         "hand": null
       },
-      "flavour": "I hated the man so much I made a point of killing him twice",
+      "flavour": "Just be yourselves",
       "image": "res/art/illustration/Mirror Image.png"
     }
   }
