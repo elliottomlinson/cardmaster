@@ -294,7 +294,7 @@
         "cast": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
         "hand": null
       },
-      "flavour": "I hope you don't mind if I make some improvements while I'm in here",
+      "flavour": "I hope you don't mind, but I took the liberty of making a few additional improvements",
       "image": "res/art/illustration/Renew.png"
     }
   },
