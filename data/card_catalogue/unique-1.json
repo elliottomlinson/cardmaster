@@ -343,7 +343,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Choose an NPC. They are stuck in place for ten seconds.",
+        "cast": "Choose an NPC. Their speed is halved.",
         "hand": null
       },
       "flavour": "Have my legs always been this heavy?",
