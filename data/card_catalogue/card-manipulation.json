@@ -161,7 +161,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Draw 3 reds, face-up. Cast 1 and discard the rest.",
+        "cast": "Draw 3 reds, face-up. Cast 1, discard the rest.",
         "hand": null
       },
       "flavour": "I might be able to pull it off, but just this once",
