@@ -473,7 +473,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "A copy of you is created. Play as both until you take damage or cast another card."
+        "cast": "A copy of you is created. Play as both until you take damage or cast another card.",
         "hand": null
       },
       "flavour": "Just be yourselves",
