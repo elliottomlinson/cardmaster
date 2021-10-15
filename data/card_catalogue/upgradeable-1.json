@@ -188,7 +188,7 @@
     "details": {
       "rules": {
         "cast": "Cause everything within 2 metres of a visible object to become saturated with water",
-        "hand": "Deal double damage when attacking wet enemies" 
+        "hand": "Deal double damage when attacking wet enemies"
       },
       "flavour": "My plan: complete. Their day: ruined.",
       "image": "res/art/illustration/Soak.png"
@@ -292,7 +292,7 @@
     "details": {
       "rules": {
         "cast": "Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow 3 feet taller.",
-        "hand": null 
+        "hand": null
       },
       "flavour": "I hope you don't mind if I make some improvements while I'm in here",
       "image": "res/art/illustration/Renew.png"
@@ -463,7 +463,7 @@
         "cast": "Summon an impenetrable column of light in adjacent square metre for 5 minutes",
         "hand": null
       },
-      "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
+      "flavour": "Ethereal and impregnable",
       "image": "res/art/illustration/Barrier.png"
     }
   },
