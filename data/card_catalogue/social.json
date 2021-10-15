@@ -57,7 +57,7 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "cast": "Speak with any living NPC. They will be unaware of who they're speaking to",
+        "cast": "Speak with any living NPC. They will be unaware of who they're speaking to.",
         "hand": null
       },
       "flavour": "How'd you get this number? I don't even own a phone!",
