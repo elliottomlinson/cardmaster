@@ -395,7 +395,7 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Take X damage. Make X instant attacks",
+        "cast": "Take X damage. Make X instant attacks.",
         "hand": null
       },
       "flavour": "An endless fractal of striking limbs",
