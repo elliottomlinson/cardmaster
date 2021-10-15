@@ -1,7 +1,7 @@
 [
   {
-    "title": "Flirt",
-    "upgrade": "Charm",
+    "title": "Charm",
+    "upgrade": "Flirt",
     "tier": "blue",
     "details": {
       "rules": {
@@ -9,11 +9,11 @@
         "hand": null
       },
       "flavour": "If you were words on a card, you'd be some fine print",
-      "image": "res/art/illustration/Flirt.png"
+      "image": "res/art/illustration/Charm.png"
     }
   },
   {
-    "title": "Charm",
+    "title": "Flirt",
     "upgrade": "Arouse",
     "tier": "green",
     "details": {
@@ -22,7 +22,7 @@
         "hand": null
       },
       "flavour": "Do you like raisins? How do you feel about a date?",
-      "image": "res/art/illustration/Charm.png"
+      "image": "res/art/illustration/Flirt.png"
     }
   },
   {
