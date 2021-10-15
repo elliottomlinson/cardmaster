@@ -96,8 +96,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Switch positions with a visible NPC",
-        "passive": null
+        "cast": "Switch positions with a visible NPC",
+        "hand": null
       },
       "flavour": "Coach says you're up!",
       "image": "res/art/illustration/Swap.png"
@@ -109,8 +109,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Cover the entire map with a thin layer of slippery ice",
-        "passive": null
+        "cast": "Cover the entire map with a thin layer of slippery ice",
+        "hand": null
       },
       "flavour": "'Tis the season",
       "image": "res/art/illustration/Glacial Festival.png"
@@ -122,8 +122,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Move twice as fast until you play another card",
-        "passive": null
+        "cast": "Move twice as fast until you play another card",
+        "hand": null
       },
       "flavour": "Never look back",
       "image": "res/art/illustration/Marathon.png"
