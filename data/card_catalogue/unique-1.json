@@ -242,7 +242,7 @@
         "cast": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
         "hand": null
       },
-      "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
+      "flavour": "To get you out of a tight spot, like a colonial insurrection.",
       "image": "res/art/illustration/Musty Musket.png"
     }
   },
