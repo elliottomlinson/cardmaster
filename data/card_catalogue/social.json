@@ -168,4 +168,17 @@
       "image": "res/art/illustration/Magic Trick.png"
     }
   },
+  {
+    "title": "Clone",
+    "upgrade": null,
+    "tier": "gold",
+    "details": {
+      "rules": {
+        "cast": "Name an NPC. An identical copy of them appears before you.",
+        "hand": null
+      },
+      "flavour": "Always have a backup plan",
+      "image": "res/art/illustration/Clone.png"
+    }
+  }
 ]
