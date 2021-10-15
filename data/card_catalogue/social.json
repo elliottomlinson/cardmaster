@@ -99,7 +99,7 @@
         "cast": "Target visible NPC can no longer feel negative emotions towards target visible character",
         "hand": null
       },
-      "flavour": "There is no love without forgiveness, and no forgiveness without love",
+      "flavour": "Changed behaviour is the best apology",
       "image": "res/art/illustration/Apologize.png"
     }
   },
