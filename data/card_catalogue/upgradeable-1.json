@@ -122,7 +122,7 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "cast": "Summon a brick of material which burns violently when set out fire",
+        "cast": "Summon a brick of material which burns violently when set alight",
         "hand": "Fires you set cannot be put out"
       },
       "flavour": "The fire in our hearts will never burn out",
