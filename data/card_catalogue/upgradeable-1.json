@@ -32,7 +32,7 @@
     "details": {
       "rules": {
         "cast": "Throw an object accurately as far as you want",
-        "hand": "Advantage when catching"
+        "hand": "Double advantage when catching"
       },
       "flavour": "I want this thing gone, understand?",
       "image": "res/art/illustration/Launch.png"
