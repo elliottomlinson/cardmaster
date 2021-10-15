@@ -83,7 +83,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "A character you are touching goes into a trance. For as long as you continue touching them, you can make them say anything you'd like.",
+        "cast": "A character you are touching is stunned. For as long as you continue touching them, you can make them say anything you'd like.",
         "hand": null
       },
       "flavour": "We are all puppets, some just see the strings",
