@@ -57,10 +57,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Name a character who has wronged you. They feel remorse for what they have done",
+        "cast": "Name a character who has wronged you. They feel remorse for what they have done.",
         "hand": null
       },
-      "flavour": "I see that in hurting you, I was hurting myself.",
+      "flavour": "I see that in hurting you, I was hurting myself",
       "image": "res/art/illustration/Rue the Day.png"
     }
   },
