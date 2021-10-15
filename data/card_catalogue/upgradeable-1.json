@@ -227,7 +227,7 @@
     "details": {
       "rules": {
         "cast": "Something unlucky befalls target NPC",
-        "hand": null
+        "hand": "+1 to all d20 rolls"
       },
       "flavour": "He works in strange ways",
       "image": "res/art/illustration/Hope.png"
