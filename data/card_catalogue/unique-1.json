@@ -112,7 +112,7 @@
         "cast": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
         "hand": null
       },
-      "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while",
+      "flavour": "Existence is tiring, why not take a break?",
       "image": "res/art/illustration/Disappear.png"
     }
   },
@@ -188,7 +188,7 @@
     "details": {
       "rules": {
         "cast": "Summon a rigged pair of dice which you can control with your mind.",
-        "hand": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure." 
+        "hand": "Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure."
       },
       "flavour": "",
       "image": "res/art/illustration/The Ultimatum.png"
