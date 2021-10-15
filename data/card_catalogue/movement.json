@@ -70,7 +70,7 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Pick a visible character to be flung towards. Both take 6 damage on impact.",
+        "cast": "Pick a visible character to be flung into. Both take 6 damage on impact.",
         "hand": null
       },
       "flavour": "C'mere",
