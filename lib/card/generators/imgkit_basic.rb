@@ -61,7 +61,7 @@ module Card
       end
 
       def generate_upgrade_content(card_specification)
-        return '' if card_specification.tier == :gold
+        return '' if [:gold, :rainbow].include?(card_specification.tier) 
         card_specification.upgrade || "Random #{card_specification.next_tier} Card"
       end
 

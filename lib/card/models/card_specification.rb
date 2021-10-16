@@ -4,6 +4,7 @@ module Card
   module Models
     class CardSpecification
       TIER_HIERARCHY = [:grey, :blue, :green, :red, :gold].freeze
+      MISC_TIERS = [:rainbow]
 
       attr_accessor :title, :rules, :upgrade, :tier, :flavour, :art_path, :tags, :draft
 
@@ -22,8 +23,12 @@ module Card
         @upgrade == '' ? "Unique" : "Upgrade - #{@upgrade}"
       end
 
+      def self.allowable_tiers
+        TIER_HIERARCHY + MISC_TIERS
+      end
+
       def next_tier
-        return nil if TIER_HIERARCHY[-1] == tier
+        return nil if TIER_HIERARCHY[-1] == tier || MISC_TIERS.include?(tier)
 
         TIER_HIERARCHY[TIER_HIERARCHY.index(tier) + 1]
       end
@@ -69,7 +74,7 @@ module Card
       end
 
       def validate_tier!(tier)
-        raise "Received invalid tier #{tier}" unless TIER_HIERARCHY.include?(tier)
+        raise "Received invalid tier #{tier}" unless TIER_HIERARCHY.include?(tier) || MISC_TIERS.include?(tier)
 
         tier
       end

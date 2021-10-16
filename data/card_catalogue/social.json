@@ -31,10 +31,10 @@
     "tier": "red",
     "details": {
       "rules": {
-        "cast": "Causes a visible NPC to become attracted to you",
+        "cast": "Cause a visible NPC to become attracted to you",
         "hand": null
       },
-      "flavour": ";)",
+      "flavour": "Alice suddently realized that even though Bernard looked like a toadstool, he was an undeniably sexy toadstool",
       "image": "res/art/illustration/Arouse.png"
     }
   },
@@ -96,10 +96,10 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Target visible NPC can no longer feel negative emotions towards target visible character",
+        "cast": "Target visible NPC no longer feels negative emotions towards target visible character",
         "hand": null
       },
-      "flavour": "Changed behaviour is the best apology",
+      "flavour": "I'm sorry that you overreacted to my reasonable actions",
       "image": "res/art/illustration/Apologize.png"
     }
   },

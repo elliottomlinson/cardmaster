@@ -1,34 +1,34 @@
 [
   {
     "title": "I've Had Enough",
-    "upgrade": "none",
-    "tier": "gold",
+    "upgrade": null,
+    "tier": "rainbow",
     "details": {
       "rules": {
-        "cast": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
-        "hand": null
+        "cast": "At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
+        "hand": "This card can only be cast during your turn." 
       },
       "flavour": "See you next fall!",
       "image": "res/art/illustration/I_ve Had Enough.png"
     }
   },
   {
-    "title": "Attrition",
-    "upgrade": "none",
-    "tier": "green",
+    "title": "Immortal Will",
+    "upgrade": null,
+    "tier": "rainbow",
     "details": {
       "rules": {
-        "cast": "At the start of your turn during combat, return all blues you've cast this session to your hand",
-        "hand": null
+        "cast": "Revive at full health after dying in combat",
+        "hand": "At the start of your turn, return all cards not named 'Immortal Will' to your hand"
       },
-      "flavour": "You won't be able to keep up for long",
+      "flavour": "The determined will of the champion made manifest",
       "image": "res/art/illustration/Attrition.png"
     }
   },
   {
     "title": "Take it Outside",
-    "upgrade": "none",
-    "tier": "gold",
+    "upgrade": null,
+    "tier": "rainbow",
     "details": {
       "rules": {
         "cast": "Move any number of allied NPCs out of combat",
