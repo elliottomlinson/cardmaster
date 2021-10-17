@@ -167,18 +167,5 @@
       "flavour": "I might be able to pull it off, but just this once",
       "image": "res/art/illustration/Rabbit_s Foot.png"
     }
-  },
-  {
-    "title": "Jackpot",
-    "upgrade": null,
-    "tier": "red",
-    "details": {
-      "rules": {
-        "cast": "Draw 3 golds, face-up. Cast 1 and discard the rest.",
-        "hand": null
-      },
-      "flavour": "Do you believe in miracles?",
-      "image": "res/art/illustration/Jackpot.png"
-    }
   }
 ]
