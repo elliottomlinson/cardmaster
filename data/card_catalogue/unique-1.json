@@ -96,8 +96,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "cast": "Target visible character will take 25 damage the next time they rest",
-        "hand": null
+        "cast": "Target character falls asleep",
+        "hand": "Touching a character deepens their sleep. They will not wake up until they take damage."
       },
       "flavour": "Sweet dreams",
       "image": "res/art/illustration/Somnomalum.png"
@@ -118,7 +118,7 @@
   },
   {
     "title": "Exhaust",
-    "upgrade": null,
+    "upgrade": "Somnomalum",
     "tier": "blue",
     "details": {
       "rules": {

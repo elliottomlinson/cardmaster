@@ -1,46 +1,10 @@
 {
-  "Foo": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Foo.png",
-    "spec": {
-      "title": "Foo",
-      "rules": {
-        "text": "Oh no"
-      },
-      "upgrade": "Bar",
-      "tier": "blue",
-      "flavour": "Darn",
-      "art_path": "res/art/illustration/Inner Sun.png",
-      "tags": [
-        "demo",
-        "hatred-series"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
-  },
-  "Bar": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bar.png",
-    "spec": {
-      "title": "Bar",
-      "rules": {
-        "text": "Sacrifice your life. Kill an NPC who you've met."
-      },
-      "upgrade": null,
-      "tier": "green",
-      "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
-      "art_path": "res/art/illustration/Inner Sun.png",
-      "tags": [
-        "demo",
-        "hatred-series"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
   "Untimely Death": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Untimely Death.png",
     "spec": {
       "title": "Untimely Death",
       "rules": {
-        "text": "Name a character not on the current map. They die instantly."
+        "text": "Name a character. They die."
       },
       "upgrade": null,
       "tier": "gold",
@@ -57,12 +21,12 @@
     "spec": {
       "title": "Field Medicine",
       "rules": {
-        "hand": "Run twice as fast while carrying friendly characters.",
+        "hand": "Run twice as fast while carrying friendly characters",
         "cast": "Heal a visible character 15. They can move twice as fast for the remainder of the session."
       },
       "upgrade": "Renew",
       "tier": "green",
-      "flavour": "Wee woo, wee woo.",
+      "flavour": "Wee woo, wee woo",
       "art_path": "res/art/illustration/Field Medicine.png",
       "tags": [
         "upgradeable-1"
@@ -75,12 +39,12 @@
     "spec": {
       "title": "Rodent Whisperer",
       "rules": {
-        "hand": "You hold influence over members of Order Rodentia.",
-        "cast": "Turn into a rodent for as long as you want."
+        "hand": "You hold influence over members of Order Rodentia",
+        "cast": "Turn into a rodent for as long as you want"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Sometimes the smallest things take up the most room in your heart",
+      "flavour": "The smallest things take up the most room in the heart",
       "art_path": "res/art/illustration/Rodent Whisperer.png",
       "tags": [
         "druid"
@@ -93,8 +57,8 @@
     "spec": {
       "title": "Avian Spirit",
       "rules": {
-        "hand": "You can speak to birds.",
-        "cast": "Become a small hummingbird for as long as you want."
+        "hand": "You can speak to birds",
+        "cast": "Become a small hummingbird for as long as you want"
       },
       "upgrade": null,
       "tier": "green",
@@ -112,11 +76,11 @@
       "title": "Swarm",
       "rules": {
         "hand": "You are constantly covered in an insect of your choice",
-        "cast": "Pick a small animal or insect for your target to be swarmed by."
+        "cast": "Pick a small animal or insect for your target to be swarmed by"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Surprisingly, it never bugs me.",
+      "flavour": "Surprisingly, it never bugs me",
       "art_path": "res/art/illustration/Swarm.png",
       "tags": [
         "druid"
@@ -129,12 +93,12 @@
     "spec": {
       "title": "Ouphe's Aura",
       "rules": {
-        "hand": "Machines fear you.",
-        "cast": "Disable a visible machine until it is repaired."
+        "hand": "Machines fear you",
+        "cast": "Disable a visible machine until it is repaired"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Yeah, I'm into tech, into smashing it up that is.",
+      "flavour": "Yeah, I'm into tech, into smashing it up that is",
       "art_path": "res/art/illustration/Ouphe_s Aura.png",
       "tags": [
         "druid"
@@ -147,12 +111,12 @@
     "spec": {
       "title": "Equestrian",
       "rules": {
-        "hand": "You can tame anything you can ride.",
-        "cast": "Summon a trusty steed."
+        "hand": "You can tame anything you can ride",
+        "cast": "Summon a trusty steed"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Man was destined to tame the world.",
+      "flavour": "Man was destined to tame the world",
       "art_path": "res/art/illustration/Equestrian.png",
       "tags": [
         "druid"
@@ -165,12 +129,12 @@
     "spec": {
       "title": "Bow Hex",
       "rules": {
-        "hand": "Roll an additional d4 when performing a ranged attack.",
-        "cast": "Deal 10 damage to a visible target."
+        "hand": "Roll an additional d4 when performing a ranged attack",
+        "cast": "Deal 10 damage to a visible target"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "The new moon returns in heaven a bent, beautiful bow.",
+      "flavour": "The new moon returns in heaven a bent, beautiful bow",
       "art_path": "res/art/illustration/Bow Hex.png",
       "tags": [
         "weapons"
@@ -183,12 +147,12 @@
     "spec": {
       "title": "Sword Hex",
       "rules": {
-        "hand": "Roll an additional d6 when you perform a melee attack.",
+        "hand": "Roll an additional d6 when you perform a melee attack",
         "cast": "Cut a 1 meter gash onto a visible surface"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Master swordsmen can resheath their blade before their opponent knows they've been cut.",
+      "flavour": "Master swordsmen can resheath their blade before their opponent knows they've been cut",
       "art_path": "res/art/illustration/Sword Hex.png",
       "tags": [
         "weapons"
@@ -201,8 +165,8 @@
     "spec": {
       "title": "Slingshot",
       "rules": {
-        "hand": "Gain advantage when throwing objects.",
-        "cast": "Launch a baseball sized rock at a visible target."
+        "hand": "Gain advantage when throwing objects",
+        "cast": "Launch a baseball sized rock at a visible target"
       },
       "upgrade": null,
       "tier": "blue",
@@ -214,48 +178,13 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
-  "Zop": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Zop.png",
-    "spec": {
-      "title": "Zop",
-      "rules": {
-        "text": "Stun an NPC for two turns"
-      },
-      "upgrade": null,
-      "tier": "blue",
-      "flavour": "Human beings are basically just big potato batteries.",
-      "art_path": "res/art/illustration/Inner Sun.png",
-      "tags": [
-        "demo"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
-  },
-  "Paz": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Paz.png",
-    "spec": {
-      "title": "Paz",
-      "rules": {
-        "hand": "Everybody hates you",
-        "cast": "Target NPC will love you from now on"
-      },
-      "upgrade": null,
-      "tier": "green",
-      "flavour": "Nobody knew what he saw in her",
-      "art_path": "res/art/illustration/Bean Blast.png",
-      "tags": [
-        "demo"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
   "Lover Fatale": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lover Fatale.png",
     "spec": {
       "title": "Lover Fatale",
       "rules": {
-        "hand": "Attacks against characters who love you deal 25 bonus damage.",
-        "cast": "A visible NPC develops feelings for you."
+        "hand": "Attacks against characters who love you deal 25 bonus damage",
+        "cast": "A visible NPC develops feelings for you"
       },
       "upgrade": null,
       "tier": "green",
@@ -272,12 +201,12 @@
     "spec": {
       "title": "Infamous",
       "rules": {
-        "hand": "Deal 3 bonus damage when attacking characters who know your name.",
+        "hand": "Deal 3 bonus damage when attacking characters who know your name",
         "cast": "Tell a story about yourself. Any number of visible NPCs will believe this story is true."
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "His reputation preceded him.",
+      "flavour": "His reputation preceded him",
       "art_path": "res/art/illustration/Infamous.png",
       "tags": [
         "triggers"
@@ -290,45 +219,45 @@
     "spec": {
       "title": "Flirt",
       "rules": {
-        "text": "Increases your rapport with a visible NPC"
-      },
-      "upgrade": "Charm",
-      "tier": "blue",
-      "flavour": "If you were words on a card, you'd be some fine print.",
-      "art_path": "res/art/illustration/Flirt.png",
-      "tags": [
-        "social"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
-  },
-  "Charm": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Charm.png",
-    "spec": {
-      "title": "Charm",
-      "rules": {
-        "text": "Cause a visible NPC to like you."
+        "text": "Cause a visible NPC to like you"
       },
       "upgrade": "Arouse",
       "tier": "green",
       "flavour": "Do you like raisins? How do you feel about a date?",
-      "art_path": "res/art/illustration/Charm.png",
+      "art_path": "res/art/illustration/Flirt.png",
       "tags": [
         "social"
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
+  "Charm": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Charm.png",
+    "spec": {
+      "title": "Charm",
+      "rules": {
+        "text": "Increases your rapport with a visible NPC"
+      },
+      "upgrade": "Flirt",
+      "tier": "blue",
+      "flavour": "If you were words on a card, you'd be some fine print",
+      "art_path": "res/art/illustration/Charm.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
+  },
   "Arouse": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Arouse.png",
     "spec": {
       "title": "Arouse",
       "rules": {
-        "text": "Causes a visible NPC to become attracted to you."
+        "text": "Cause a visible NPC to become attracted to you"
       },
       "upgrade": "Bond",
       "tier": "red",
-      "flavour": "Here I am - Your other two wishes?",
+      "flavour": "Alice suddently realized that even though Bernard looked like a toadstool, he was an undeniably sexy toadstool",
       "art_path": "res/art/illustration/Arouse.png",
       "tags": [
         "social"
@@ -375,11 +304,11 @@
     "spec": {
       "title": "Apologize",
       "rules": {
-        "text": "Target visible NPC can no longer feel negative emotions towards target visible character."
+        "text": "Target visible NPC no longer feels negative emotions towards target visible character"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "There is no love without forgiveness, and no forgiveness without love.",
+      "flavour": "I'm sorry that you overreacted to my reasonable actions",
       "art_path": "res/art/illustration/Apologize.png",
       "tags": [
         "social"
@@ -392,11 +321,11 @@
     "spec": {
       "title": "Distract",
       "rules": {
-        "text": "Force an NPC to act on their compulsion."
+        "text": "Force an NPC to act on their compulsion"
       },
       "upgrade": "Lie",
       "tier": "blue",
-      "flavour": "It was a lovely moment, but it'd be just as lovely after checking my messages once more.",
+      "flavour": "It was a lovely moment, but it'd be just as lovely after checking my messages once more",
       "art_path": "res/art/illustration/Distract.png",
       "tags": [
         "social"
@@ -409,11 +338,11 @@
     "spec": {
       "title": "Lie",
       "rules": {
-        "text": "Target NPC will believe your next statement."
+        "text": "Target NPC will believe your next statement"
       },
       "upgrade": "Disguise",
       "tier": "green",
-      "flavour": "A lie travels half way around the world before the truth puts on its shoes.",
+      "flavour": "Wanna see me do it again?",
       "art_path": "res/art/illustration/Lie.png",
       "tags": [
         "social"
@@ -426,11 +355,11 @@
     "spec": {
       "title": "Disguise",
       "rules": {
-        "text": "Change your appearance to match that of another exactly for as long as you'd like."
+        "text": "Change your appearance to match that of another exactly for as long as you'd like"
       },
       "upgrade": "Revise",
       "tier": "red",
-      "flavour": "Most people are other people.",
+      "flavour": "Most people are other people",
       "art_path": "res/art/illustration/Disguise.png",
       "tags": [
         "social"
@@ -443,11 +372,11 @@
     "spec": {
       "title": "Revise",
       "rules": {
-        "text": "Rewrite the contents of an NPC's memory."
+        "text": "Rewrite the contents of an NPC's memory"
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "Nothing is ever lost to us as long as we remember it.",
+      "flavour": "Nothing is ever lost to us as long as we remember it",
       "art_path": "res/art/illustration/Revise.png",
       "tags": [
         "social"
@@ -460,11 +389,11 @@
     "spec": {
       "title": "Magic Trick",
       "rules": {
-        "text": "An aura surrounds you. NPCs believe this spell had the effect of your choice."
+        "text": "An aura surrounds you. NPCs believe this spell had the effect of your choice"
       },
       "upgrade": null,
       "tier": "red",
-      "flavour": "\"I don't know exactly what he did.. but I just don't feel.. right? Know what I mean?\" - Barry the Bandit",
+      "flavour": "Conjurors con jurors",
       "art_path": "res/art/illustration/Magic Trick.png",
       "tags": [
         "social"
@@ -472,33 +401,16 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
-  "Polarize": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Polarize.png",
-    "spec": {
-      "title": "Polarize",
-      "rules": {
-        "hand": "NPCs hate you.",
-        "cast": "Target visible NPC will love you from now on."
-      },
-      "upgrade": null,
-      "tier": "green",
-      "flavour": "Nobody knew what he saw in her.",
-      "art_path": "res/art/illustration/Polarize.png",
-      "tags": [
-        "social"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
   "I've Had Enough": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/I've Had Enough.png",
     "spec": {
       "title": "I've Had Enough",
       "rules": {
-        "text": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot."
+        "hand": "This card can only be cast during your turn.",
+        "cast": "At the start of your next turn, teleport to safety and leave behind a piece of valuable loot."
       },
-      "upgrade": "none",
-      "tier": "gold",
+      "upgrade": null,
+      "tier": "rainbow",
       "flavour": "See you next fall!",
       "art_path": "res/art/illustration/I_ve Had Enough.png",
       "tags": [
@@ -506,54 +418,36 @@
         "boss-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
-  },
-  "Attrition": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Attrition.png",
-    "spec": {
-      "title": "Attrition",
-      "rules": {
-        "text": "At the start of your turn during combat, return all blues you've cast this session to your hand."
-      },
-      "upgrade": "none",
-      "tier": "green",
-      "flavour": "You've got nice moves, but you won't be able to keep up for long.",
-      "art_path": "res/art/illustration/Attrition.png",
-      "tags": [
-        "boss",
-        "boss-generic"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/"
   },
   "Take it Outside": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Take it Outside.png",
     "spec": {
       "title": "Take it Outside",
       "rules": {
-        "text": "Move any number of allied NPCs out of combat."
+        "text": "Move any number of allied NPCs out of combat"
       },
-      "upgrade": "none",
-      "tier": "gold",
-      "flavour": "Let's make some space- this is about to get rowdy.",
+      "upgrade": null,
+      "tier": "rainbow",
+      "flavour": "Let's make some space- this is about to get rowdy",
       "art_path": "res/art/illustration/Take it Outside.png",
       "tags": [
         "boss",
         "boss-generic"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/"
   },
   "Lunge": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Lunge.png",
     "spec": {
       "title": "Lunge",
       "rules": {
-        "text": "Move up to 5 metres in any direction."
+        "text": "Move up to 5 metres in any direction"
       },
       "upgrade": "Charge",
       "tier": "blue",
-      "flavour": "These are great for the glutes.",
+      "flavour": "These are great for the glutes",
       "art_path": "res/art/illustration/Lunge.png",
       "tags": [
         "movement"
@@ -566,12 +460,12 @@
     "spec": {
       "title": "Charge",
       "rules": {
-        "hand": "Gain advantage when running through obstacles.",
-        "cast": "Move up to 15 metres in any direction."
+        "hand": "Gain advantage when running through obstacles",
+        "cast": "Move up to 15 metres in any direction"
       },
       "upgrade": "Teleport",
       "tier": "green",
-      "flavour": "Obstacles do not block the path, they are the path.",
+      "flavour": "Obstacles do not block the path, they are the path",
       "art_path": "res/art/illustration/Charge.png",
       "tags": [
         "movement"
@@ -584,7 +478,7 @@
     "spec": {
       "title": "Teleport",
       "rules": {
-        "text": "Teleport to any visible location."
+        "text": "Teleport to any visible location"
       },
       "upgrade": "Leopold's Door",
       "tier": "red",
@@ -601,7 +495,7 @@
     "spec": {
       "title": "Leopold's Door",
       "rules": {
-        "text": "Teleport the entire party anywhere."
+        "text": "Teleport the entire party anywhere"
       },
       "upgrade": null,
       "tier": "gold",
@@ -618,7 +512,7 @@
     "spec": {
       "title": "Queen's Gambit",
       "rules": {
-        "text": "Move as far as you want in an unobstructed horizontal line."
+        "text": "Move as far as you want in an unobstructed horizontal line"
       },
       "upgrade": null,
       "tier": "red",
@@ -635,11 +529,11 @@
     "spec": {
       "title": "Grapple",
       "rules": {
-        "text": "Pick a visible character to be flung towards. Both take 6 damage on impact."
+        "text": "Pick a visible character to be flung into. Both take 6 damage on impact."
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "C'mere.",
+      "flavour": "C'mere",
       "art_path": "res/art/illustration/Grapple.png",
       "tags": [
         "movement"
@@ -656,7 +550,7 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "Travelling is always a pain.",
+      "flavour": "Travelling is always a pain",
       "art_path": "res/art/illustration/Platzfalt Step.png",
       "tags": [
         "movement"
@@ -669,11 +563,11 @@
     "spec": {
       "title": "Spice Rack",
       "rules": {
-        "text": "Swap the flavours of two objects within your reach."
+        "text": "Swap the flavours of two objects within your reach"
       },
       "upgrade": "Ambrosia",
       "tier": "blue",
-      "flavour": "Mmm, Crayons.",
+      "flavour": "Mmm, Crayons",
       "art_path": "res/art/illustration/Spice Rack.png",
       "tags": [
         "food"
@@ -686,11 +580,11 @@
     "spec": {
       "title": "Ambrosia",
       "rules": {
-        "text": "Summon an irresistable brick of Ambrosia, food of the Gods."
+        "text": "Summon an irresistable brick of Ambrosia, food of the Gods"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
+      "flavour": "Ambrosia addicts scuttle about gourmet kitchens like rats.",
       "art_path": "res/art/illustration/Ambrosia.png",
       "tags": [
         "food"
@@ -703,11 +597,11 @@
     "spec": {
       "title": "Positivity",
       "rules": {
-        "text": "A visible NPC is forced to think positive thoughts."
+        "text": "A visible NPC is forced to think positive thoughts"
       },
       "upgrade": "Talk it Out",
       "tier": "blue",
-      "flavour": "You see a distant obstacle, I see an upcoming opportunity.",
+      "flavour": "You see a distant obstacle, I see an upcoming opportunity",
       "art_path": "res/art/illustration/Positivity.png",
       "tags": [
         "anger"
@@ -720,8 +614,8 @@
     "spec": {
       "title": "Talk it Out",
       "rules": {
-        "hand": "Whenever you make an attack, you can choose whether or not it will deal damage.",
-        "cast": "A visible character is forced to stop what they're doing and discuss their feelings with you."
+        "hand": "Whenever you make an attack, you can choose whether or not it will deal damage",
+        "cast": "A visible character is forced to stop what they're doing and discuss their feelings with you"
       },
       "upgrade": "Timeout",
       "tier": "green",
@@ -738,11 +632,11 @@
     "spec": {
       "title": "Timeout",
       "rules": {
-        "text": "For one minute, NPCs will not become hostile unless they take damage."
+        "text": "For one minute, NPCs will not become hostile unless they take damage"
       },
       "upgrade": "Change of Heart",
       "tier": "red",
-      "flavour": "There goes that thief with our jewlerly, what a great guy.",
+      "flavour": "I haven't seen you in the vault before. First day on the job?",
       "art_path": "res/art/illustration/Timeout.png",
       "tags": [
         "anger"
@@ -755,11 +649,11 @@
     "spec": {
       "title": "Change of Heart",
       "rules": {
-        "text": "Name an NPC. They will dedicate their lives to promoting peace."
+        "text": "Name an NPC. They will dedicate their lives to promoting peace"
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "When the power of love overcomes the love of power, the world will know peace.",
+      "flavour": "When the power of love overcomes the love of power, the world will know peace",
       "art_path": "res/art/illustration/Change of Heart.png",
       "tags": [
         "anger"
@@ -776,7 +670,7 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "And that was the second time Randy forgot about my birthday",
+      "flavour": "I see that in hurting you, I was hurting myself",
       "art_path": "res/art/illustration/Rue the Day.png",
       "tags": [
         "anger"
@@ -789,8 +683,8 @@
     "spec": {
       "title": "Shadow Strike",
       "rules": {
-        "hand": "Deal double damage while out of combat.",
-        "cast": "Disappear for as long as you remain perfectly still."
+        "hand": "Deal double damage while out of combat",
+        "cast": "Disappear for as long as you remain perfectly still"
       },
       "upgrade": null,
       "tier": "green",
@@ -807,8 +701,8 @@
     "spec": {
       "title": "Survival Instincts",
       "rules": {
-        "hand": "Triple advantage on all d20 rolls when below 5 health.",
-        "cast": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water."
+        "hand": "Triple advantage on all d20 rolls when below 5 health",
+        "cast": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water"
       },
       "upgrade": null,
       "tier": "green",
@@ -825,11 +719,11 @@
     "spec": {
       "title": "Boost",
       "rules": {
-        "text": "Increase the result of a roll by 1."
+        "text": "Increase the result of a roll by 1"
       },
       "upgrade": null,
       "tier": "grey",
-      "flavour": "The collective will of the people made manifest.",
+      "flavour": "The collective will of the people made manifest",
       "art_path": "res/art/illustration/Boost.png",
       "tags": [
         "greys"
@@ -842,11 +736,11 @@
     "spec": {
       "title": "Shift",
       "rules": {
-        "text": "Move a metre."
+        "text": "Move a metre"
       },
       "upgrade": null,
       "tier": "grey",
-      "flavour": "When speed gets in the blood, one must move to live.",
+      "flavour": "Move beyond physical limits",
       "art_path": "res/art/illustration/Shift.png",
       "tags": [
         "greys"
@@ -859,11 +753,11 @@
     "spec": {
       "title": "Fluster",
       "rules": {
-        "text": "Decrease the result of a roll by 1."
+        "text": "Decrease the result of a roll by 1"
       },
       "upgrade": null,
       "tier": "grey",
-      "flavour": "The collective will of the people made manifest.",
+      "flavour": "The collective will of the people made manifest",
       "art_path": "res/art/illustration/Fluster.png",
       "tags": [
         "greys"
@@ -876,11 +770,11 @@
     "spec": {
       "title": "Force",
       "rules": {
-        "text": "Push or pull a visible object slightly."
+        "text": "Push or pull a visible object slightly"
       },
       "upgrade": null,
       "tier": "grey",
-      "flavour": "Human force extends far past the limits of an earthly body.",
+      "flavour": "Human power extends past the limits of their bodies",
       "art_path": "res/art/illustration/Force.png",
       "tags": [
         "greys"
@@ -893,7 +787,7 @@
     "spec": {
       "title": "Bean Blast",
       "rules": {
-        "text": "Blind everyone within 3 metres with bean juice."
+        "text": "Blind everyone within 3 metres with bean juice"
       },
       "upgrade": null,
       "tier": "blue",
@@ -910,11 +804,11 @@
     "spec": {
       "title": "Anvil Drop",
       "rules": {
-        "text": "Summon a cast-steel anvil into existence above target character's head."
+        "text": "Summon a cast-steel anvil into existence above target character's head"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Meep-Meep.",
+      "flavour": "Meep-Meep",
       "art_path": "res/art/illustration/Anvil Drop.png",
       "tags": [
         "unique-1"
@@ -961,11 +855,11 @@
     "spec": {
       "title": "Rolling Cart",
       "rules": {
-        "text": "Put a large object or willing NPC in your hand."
+        "text": "Put a large object or willing NPC in your hand"
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
+      "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming",
       "art_path": "res/art/illustration/Rolling Cart.png",
       "tags": [
         "unique-1"
@@ -978,11 +872,11 @@
     "spec": {
       "title": "Empouched Earth",
       "rules": {
-        "text": "Cast a handful of sand and pocket lint into the air before you."
+        "text": "Cast a handful of sand and pocket lint into the air before you"
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "In total war, all tactics are acceptable.",
+      "flavour": "In total war, all tactics are acceptable",
       "art_path": "res/art/illustration/Empouched Earth.png",
       "tags": [
         "unique-1"
@@ -999,7 +893,7 @@
       },
       "upgrade": null,
       "tier": "red",
-      "flavour": "Diversification is overrated.",
+      "flavour": "Diversification is overrated",
       "art_path": "res/art/illustration/Card Printer.png",
       "tags": [
         "unique-1"
@@ -1012,11 +906,12 @@
     "spec": {
       "title": "Somnomalum",
       "rules": {
-        "text": "Target visible character will take 25 damage the next time they rest."
+        "hand": "Touching a character deepens their sleep. They will not wake up until they take damage.",
+        "cast": "Target character falls asleep"
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Sweet dreams.",
+      "flavour": "Sweet dreams",
       "art_path": "res/art/illustration/Somnomalum.png",
       "tags": [
         "unique-1"
@@ -1033,7 +928,7 @@
       },
       "upgrade": null,
       "tier": "green",
-      "flavour": "Existence is rather tiring, it's advisable to take a break every once in a while.",
+      "flavour": "Existence is tiring, why not take a break?",
       "art_path": "res/art/illustration/Disappear.png",
       "tags": [
         "unique-1"
@@ -1046,11 +941,11 @@
     "spec": {
       "title": "Exhaust",
       "rules": {
-        "text": "Target NPC becomes tired."
+        "text": "Target NPC becomes tired"
       },
-      "upgrade": null,
+      "upgrade": "Somnomalum",
       "tier": "blue",
-      "flavour": "Man is born tired, and he lives to rest.",
+      "flavour": "Man is born tired, and he lives to rest",
       "art_path": "res/art/illustration/Exhaust.png",
       "tags": [
         "unique-1"
@@ -1067,7 +962,7 @@
       },
       "upgrade": null,
       "tier": "red",
-      "flavour": "After years of living in a cage, a lion no longer believes it is a lion.",
+      "flavour": "After years in captivity, a lion forgets it's a lion",
       "art_path": "res/art/illustration/Prison.png",
       "tags": [
         "unique-1"
@@ -1132,7 +1027,7 @@
     "spec": {
       "title": "Groundburst",
       "rules": {
-        "text": "The ground shakes beneath you. All characters within 4 metres are knocked airborne."
+        "text": "The ground shakes beneath you. All characters within 4 metres are knocked airborne and drop whatever they're holding."
       },
       "upgrade": null,
       "tier": "green",
@@ -1170,7 +1065,7 @@
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
+      "flavour": "To get you out of a tight spot, like a colonial insurrection.",
       "art_path": "res/art/illustration/Musty Musket.png",
       "tags": [
         "unique-1"
@@ -1303,7 +1198,7 @@
     "spec": {
       "title": "Locomotor Hex",
       "rules": {
-        "text": "Choose an NPC. They are stuck in place for ten seconds."
+        "text": "Choose an NPC. Their speed is halved until the end of the session."
       },
       "upgrade": null,
       "tier": "green",
@@ -1383,24 +1278,6 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
-  "Gloven Mitt": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Gloven Mitt.png",
-    "spec": {
-      "title": "Gloven Mitt",
-      "rules": {
-        "hand": "Your hands are invulnerable to damage.",
-        "cast": "Your next melee attack sets your opponent on fire."
-      },
-      "upgrade": null,
-      "tier": "green",
-      "flavour": "I'm about to turn your Kitchen Dream into a Kitchen Nightmare",
-      "art_path": "res/art/illustration/Gloven Mitt.png",
-      "tags": [
-        "unique-1"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
   "Blank Deed": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Blank Deed.png",
     "spec": {
@@ -1410,7 +1287,7 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "Property is not the natural, obvious, and inevitable concept that most people think it is.",
+      "flavour": "Property is not the natural, obvious, and inevitable concept that most people think it is",
       "art_path": "res/art/illustration/Blank Deed.png",
       "tags": [
         "story-changing-golds"
@@ -1444,7 +1321,7 @@
       },
       "upgrade": "Brainstorm",
       "tier": "blue",
-      "flavour": "Live by the luck of the draw.",
+      "flavour": "Live by the luck of the draw",
       "art_path": "res/art/illustration/Wing It.png",
       "tags": [
         "card-manipulation"
@@ -1461,7 +1338,7 @@
       },
       "upgrade": "Spark of Inspiration",
       "tier": "green",
-      "flavour": "You never know what she'll pull out of thin air.",
+      "flavour": "You never know what she'll pull out of thin air",
       "art_path": "res/art/illustration/Brainstorm.png",
       "tags": [
         "card-manipulation"
@@ -1495,30 +1372,13 @@
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "History rarely goes according to plan.",
+      "flavour": "History rarely goes according to plan",
       "art_path": "res/art/illustration/Randomize.png",
       "tags": [
         "card-manipulation"
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
-  },
-  "": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/.png",
-    "spec": {
-      "title": "",
-      "rules": {
-        "text": "Draw 6 greys."
-      },
-      "upgrade": "Slipshod Sorcery",
-      "tier": "green",
-      "flavour": "Oh man, I've really d this one.",
-      "art_path": "res/art/illustration/.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
   },
   "Slipshod Sorcery": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Slipshod Sorcery.png",
@@ -1529,7 +1389,7 @@
       },
       "upgrade": "Spectrum Dance",
       "tier": "red",
-      "flavour": "What we lack in quality we've made up with quantity.",
+      "flavour": "What we lack in quality we've made up with quantity",
       "art_path": "res/art/illustration/Slipshod Sorcery.png",
       "tags": [
         "card-manipulation"
@@ -1546,7 +1406,7 @@
       },
       "upgrade": "Copy",
       "tier": "blue",
-      "flavour": "This is how stupid you look, watch this.",
+      "flavour": "This is how stupid you look, watch this",
       "art_path": "res/art/illustration/Imitate.png",
       "tags": [
         "card-manipulation"
@@ -1580,7 +1440,7 @@
       },
       "upgrade": "Improvise",
       "tier": "blue",
-      "flavour": "Now, what do we have here...",
+      "flavour": "And just like that, he's gone!",
       "art_path": "res/art/illustration/Adlib.png",
       "tags": [
         "card-manipulation"
@@ -1614,7 +1474,7 @@
       },
       "upgrade": null,
       "tier": "red",
-      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
+      "flavour": "Say goodbye to the rails, script, chain, and beaten path",
       "art_path": "res/art/illustration/Helter-Skelter.png",
       "tags": [
         "card-manipulation"
@@ -1622,29 +1482,12 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
-  "Helter-Skelter": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Helter-Skelter.png",
-    "spec": {
-      "title": "Helter-Skelter",
-      "rules": {
-        "text": "Draw 5 reds, face-up. Cast up to 3 and discard the rest."
-      },
-      "upgrade": null,
-      "tier": "gold",
-      "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
-      "art_path": "res/art/illustration/Helter-Skelter.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
-  },
   "Four-Leaf Clover": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Four-Leaf Clover.png",
     "spec": {
       "title": "Four-Leaf Clover",
       "rules": {
-        "text": "Draw 3 greens, face-up. Cast 1 and discard the rest."
+        "text": "Draw 3 greens, face-up. Cast 1, discard the rest."
       },
       "upgrade": "Rabbit's Foot",
       "tier": "blue",
@@ -1661,34 +1504,17 @@
     "spec": {
       "title": "Rabbit's Foot",
       "rules": {
-        "text": "Draw 3 reds, face-up. Cast 1 and discard the rest."
+        "text": "Draw 3 reds, face-up. Cast 1, discard the rest."
       },
       "upgrade": "Jackpot",
       "tier": "green",
-      "flavour": "I might be able to pull it off - but just this once.",
+      "flavour": "I might be able to pull it off, but just this once",
       "art_path": "res/art/illustration/Rabbit_s Foot.png",
       "tags": [
         "card-manipulation"
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
-  "Jackpot": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Jackpot.png",
-    "spec": {
-      "title": "Jackpot",
-      "rules": {
-        "text": "Draw 3 golds, face-up. Cast 1 and discard the rest."
-      },
-      "upgrade": null,
-      "tier": "red",
-      "flavour": "Do you believe in miracles?",
-      "art_path": "res/art/illustration/Jackpot.png",
-      "tags": [
-        "card-manipulation"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Quick Shot": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Quick Shot.png",
@@ -1697,9 +1523,9 @@
       "rules": {
         "text": "Make an instant attack that cannot miss."
       },
-      "upgrade": "Empty the Clip",
+      "upgrade": null,
       "tier": "blue",
-      "flavour": "A single, well timed strike can have greater impact than any barrage of blows.",
+      "flavour": "From way downtown!",
       "art_path": "res/art/illustration/Quick Shot.png",
       "tags": [
         "npc",
@@ -1708,48 +1534,12 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/blue.png"
   },
-  "Empty the Clip": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Empty the Clip.png",
-    "spec": {
-      "title": "Empty the Clip",
-      "rules": {
-        "text": "Make two instant attacks. Return a Card with Blue Rarity to your hand."
-      },
-      "upgrade": "Bullet Rain",
-      "tier": "green",
-      "flavour": "Always have a plan B.",
-      "art_path": "res/art/illustration/Empty the Clip.png",
-      "tags": [
-        "npc",
-        "npc-generic"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
-  "Suppression Maneuver": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Suppression Maneuver.png",
-    "spec": {
-      "title": "Suppression Maneuver",
-      "rules": {
-        "text": "You can use four additional ranged attacks. Return a Card with Green Rarity to your hand."
-      },
-      "upgrade": "Bullet Rain",
-      "tier": "red",
-      "flavour": "Though outnumbered, their opponents could never match Quasimodo's devastating aresnal.",
-      "art_path": "res/art/illustration/Suppression Maneuver.png",
-      "tags": [
-        "npc",
-        "npc-generic"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
-  },
   "Bullet Rain": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bullet Rain.png",
     "spec": {
       "title": "Bullet Rain",
       "rules": {
-        "text": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand."
+        "text": "Each time you cast a card until the end of the session, return one you've cast with lesser rarity to your hand"
       },
       "upgrade": null,
       "tier": "red",
@@ -1767,11 +1557,11 @@
     "spec": {
       "title": "Toss",
       "rules": {
-        "text": "Throw an object accurately at a target up to 5 metres away."
+        "text": "Throw an object accurately at a target up to 5 metres away"
       },
       "upgrade": "Throw",
       "tier": "blue",
-      "flavour": "Go ahead, toss your hat in the ring.",
+      "flavour": "Go ahead, toss your hat in the ring",
       "art_path": "res/art/illustration/Toss.png",
       "tags": [
         "upgradeable-1"
@@ -1784,12 +1574,12 @@
     "spec": {
       "title": "Throw",
       "rules": {
-        "hand": "Advantage when catching.",
-        "cast": "Throw an object accurately at a target up to 12 metres away."
+        "hand": "Advantage when catching",
+        "cast": "Throw an object accurately at a target up to 12 metres away"
       },
       "upgrade": "Pitch",
       "tier": "green",
-      "flavour": "If you're going to throw in the towel, at least do it properly.",
+      "flavour": "If you're going to throw in the towel, at least do it properly",
       "art_path": "res/art/illustration/Throw.png",
       "tags": [
         "upgradeable-1"
@@ -1802,8 +1592,8 @@
     "spec": {
       "title": "Pitch",
       "rules": {
-        "hand": "Advantage when catching.",
-        "cast": "Throw an object accurately as far as you want."
+        "hand": "Double advantage when catching",
+        "cast": "Throw an object accurately as far as you want"
       },
       "upgrade": "Launch",
       "tier": "red",
@@ -1815,23 +1605,6 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
-  "Launch": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Launch.png",
-    "spec": {
-      "title": "Launch",
-      "rules": {
-        "text": "Throw an object with perfect accuracy as far as you want. It cannot be stopped."
-      },
-      "upgrade": null,
-      "tier": "gold",
-      "flavour": "I guess in a way, we're all still chasing it.",
-      "art_path": "res/art/illustration/Launch.png",
-      "tags": [
-        "upgradeable-1"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
-  },
   "Spark": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Spark.png",
     "spec": {
@@ -1841,7 +1614,7 @@
       },
       "upgrade": "Lightning Bolt",
       "tier": "blue",
-      "flavour": "A spark is a little thing, yet it may kindle the world.",
+      "flavour": "A spark is a little thing, yet it may kindle the world",
       "art_path": "res/art/illustration/Spark.png",
       "tags": [
         "upgradeable-1"
@@ -1854,34 +1627,17 @@
     "spec": {
       "title": "Lightning Bolt",
       "rules": {
-        "text": "Deal 4 damage and stun up to 2 visible characters."
+        "text": "Deal 4 damage and stun up to 2 visible characters"
       },
-      "upgrade": "Fork Lightning",
+      "upgrade": "Elektra's Siphon",
       "tier": "green",
-      "flavour": "\"No.\" - Dr. Reed, in response to a question on whether or not a human should be able to shoot lightning out of their hands.",
+      "flavour": "They sicken of the calm, who knew the storm",
       "art_path": "res/art/illustration/Lightning Bolt.png",
       "tags": [
         "upgradeable-1"
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
-  },
-  "Fork Lightning": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Fork Lightning.png",
-    "spec": {
-      "title": "Fork Lightning",
-      "rules": {
-        "text": "Deal 6 damage and stun to up to 6 visible characters."
-      },
-      "upgrade": "Electric Vortex",
-      "tier": "red",
-      "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants.",
-      "art_path": "res/art/illustration/Fork Lightning.png",
-      "tags": [
-        "upgradeable-1"
-      ]
-    },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Elektra's Siphon": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Elektra's Siphon.png",
@@ -1892,7 +1648,7 @@
       },
       "upgrade": null,
       "tier": "red",
-      "flavour": "\"Ouch\" - Dr. Reed and his 5 assistants",
+      "flavour": "A great storm is coming, but the tide has turned",
       "art_path": "res/art/illustration/Elektra_s Siphon.png",
       "tags": [
         "upgradeable-1"
@@ -1905,11 +1661,11 @@
     "spec": {
       "title": "Ignite",
       "rules": {
-        "text": "Ignite a small object within 3 metres."
+        "text": "Ignite a small object within 3 metres"
       },
       "upgrade": "Fireball",
       "tier": "blue",
-      "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money.",
+      "flavour": "Including but not limited to a friend's new article of clothing, letters from their loved ones, and paper money",
       "art_path": "res/art/illustration/Ignite.png",
       "tags": [
         "upgradeable-1"
@@ -1922,7 +1678,7 @@
     "spec": {
       "title": "Fireball",
       "rules": {
-        "text": "Hurl a flaming ball of hot embers at a visible object."
+        "text": "Hurl a flaming ball of hot embers at a visible object"
       },
       "upgrade": "Immolate",
       "tier": "green",
@@ -1939,11 +1695,11 @@
     "spec": {
       "title": "Immolate",
       "rules": {
-        "text": "Deal 15 damage and set fire to all flammable objects within 6 metres."
+        "text": "Deal 15 damage and set fire to all flammable objects within 6 metres"
       },
       "upgrade": "Terrestrial Sun",
       "tier": "red",
-      "flavour": "The best part is that nice campfire smell.",
+      "flavour": "The best part is that nice campfire smell",
       "art_path": "res/art/illustration/Immolate.png",
       "tags": [
         "upgradeable-1"
@@ -1956,8 +1712,8 @@
     "spec": {
       "title": "Terrestrial Sun",
       "rules": {
-        "hand": "Fires you set cannot be put out.",
-        "cast": "Summon a brick of material which burns violently when set out fire."
+        "hand": "Fires you set cannot be put out",
+        "cast": "Summon a brick of material which burns violently when set alight"
       },
       "upgrade": null,
       "tier": "gold",
@@ -1974,11 +1730,11 @@
     "spec": {
       "title": "Jump",
       "rules": {
-        "text": "Jump up 3 metres."
+        "text": "Jump up 3 metres"
       },
       "upgrade": "Leap",
       "tier": "blue",
-      "flavour": "Jump, and you will find out how to unfold your wings as you fall.",
+      "flavour": "Gravity's just a theory",
       "art_path": "res/art/illustration/Jump.png",
       "tags": [
         "upgradeable-1"
@@ -1991,12 +1747,12 @@
     "spec": {
       "title": "Leap",
       "rules": {
-        "hand": "Take no damage from falling.",
-        "cast": "Jump 25 metres into the air."
+        "hand": "Take no damage from falling",
+        "cast": "Jump 25 metres into the air"
       },
       "upgrade": "Levitate",
       "tier": "green",
-      "flavour": "Sometimes all you need is a big leap of faith.",
+      "flavour": "Sometimes all you need is a big leap of faith",
       "art_path": "res/art/illustration/Leap.png",
       "tags": [
         "upgradeable-1"
@@ -2009,11 +1765,11 @@
     "spec": {
       "title": "Levitate",
       "rules": {
-        "text": "Hover up to 20 metres off the ground until you lose concentration."
+        "text": "Hover up to 20 metres off the ground until you lose concentration"
       },
       "upgrade": "Ascend",
       "tier": "red",
-      "flavour": "Rise above earthly ambition.",
+      "flavour": "Rise above earthly ambition",
       "art_path": "res/art/illustration/Levitate.png",
       "tags": [
         "upgradeable-1"
@@ -2026,11 +1782,11 @@
     "spec": {
       "title": "Moisten",
       "rules": {
-        "text": "Target visible object becomes moist."
+        "text": "Target visible object becomes moist"
       },
       "upgrade": "Soak",
       "tier": "blue",
-      "flavour": "I think I'm going to need a change of clothes.",
+      "flavour": "I think I'm going to need a change of clothes",
       "art_path": "res/art/illustration/Moisten.png",
       "tags": [
         "upgradeable-1"
@@ -2044,7 +1800,7 @@
       "title": "Soak",
       "rules": {
         "hand": "Deal double damage when attacking wet enemies",
-        "cast": "Cause everything within 2 metres of a visible object to become saturated with water."
+        "cast": "Cause everything within 2 metres of a visible object to become saturated with water"
       },
       "upgrade": "Drench",
       "tier": "green",
@@ -2061,11 +1817,11 @@
     "spec": {
       "title": "Drench",
       "rules": {
-        "text": "Summon 50 thousand litres of water to a visible location."
+        "text": "Summon 50 thousand litres of water to a visible location"
       },
       "upgrade": "Flood",
       "tier": "red",
-      "flavour": "'Wet' would be an understatement",
+      "flavour": "You have entered the splash zone",
       "art_path": "res/art/illustration/Drench.png",
       "tags": [
         "upgradeable-1"
@@ -2078,11 +1834,11 @@
     "spec": {
       "title": "Flood",
       "rules": {
-        "text": "A Tsunami breaks over the play area from a cardinal direction of your choice."
+        "text": "A Tsunami breaks over the play area from a cardinal direction of your choice"
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "Nature has a myriad of weapons to combat human arrogance.",
+      "flavour": "Surf's up",
       "art_path": "res/art/illustration/Flood.png",
       "tags": [
         "upgradeable-1"
@@ -2099,7 +1855,7 @@
       },
       "upgrade": "Pray",
       "tier": "blue",
-      "flavour": "He works in strange ways.",
+      "flavour": "He works in strange ways",
       "art_path": "res/art/illustration/Hope.png",
       "tags": [
         "upgradeable-1"
@@ -2112,11 +1868,12 @@
     "spec": {
       "title": "Pray",
       "rules": {
-        "text": "Give a character advantage on their next roll."
+        "hand": "+1 to all d20 rolls",
+        "cast": "Give a character advantage on their next roll"
       },
       "upgrade": "Preach",
       "tier": "green",
-      "flavour": "He will save us from our mortal errors.",
+      "flavour": "He will save us from our mortal errors",
       "art_path": "res/art/illustration/Pray.png",
       "tags": [
         "upgradeable-1"
@@ -2131,9 +1888,9 @@
       "rules": {
         "text": "Describe a religious vision. Pick a visible NPC to experience it."
       },
-      "upgrade": "Wish",
+      "upgrade": null,
       "tier": "red",
-      "flavour": "He lives deep in the hearts of all men.",
+      "flavour": "He lives deep in the hearts of all men",
       "art_path": "res/art/illustration/Preach.png",
       "tags": [
         "upgradeable-1"
@@ -2146,24 +1903,24 @@
     "spec": {
       "title": "Wish",
       "rules": {
-        "text": "Cause all players to critically succeed on their next d20 roll."
+        "text": "Cause target player to critically succeed on their next roll"
       },
       "upgrade": null,
-      "tier": "gold",
+      "tier": "red",
       "flavour": "The light will shine bright upon the chosen.",
       "art_path": "res/art/illustration/Wish.png",
       "tags": [
-        "upgradeable-1"
+        "unique-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Cure": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Cure.png",
     "spec": {
       "title": "Cure",
       "rules": {
-        "text": "Cure the ailment of a visible character, or heal them 8."
+        "text": "Cure the ailment of a visible character, or heal them 8"
       },
       "upgrade": "Field Medicine",
       "tier": "blue",
@@ -2184,7 +1941,7 @@
       },
       "upgrade": "Reincarnate",
       "tier": "red",
-      "flavour": "I hope you don't mind if I make some improvements while I'm in here",
+      "flavour": "I hope you don't mind, but I took the liberty of making a few additional improvements",
       "art_path": "res/art/illustration/Renew.png",
       "tags": [
         "upgradeable-1"
@@ -2197,12 +1954,12 @@
     "spec": {
       "title": "Reincarnate",
       "rules": {
-        "hand": "The dead fear you.",
-        "cast": "Revive a dead character."
+        "hand": "The dead fear you",
+        "cast": "Revive a dead character"
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "If man is to play god, he ought to be a kind one.",
+      "flavour": "If man is to play god, he ought to be a kind one",
       "art_path": "res/art/illustration/Reincarnate.png",
       "tags": [
         "upgradeable-1"
@@ -2215,11 +1972,11 @@
     "spec": {
       "title": "Brace",
       "rules": {
-        "text": "Take no damage from the next attack targeting you."
+        "text": "Take no damage from the next attack targeting you"
       },
       "upgrade": "Reflect",
       "tier": "blue",
-      "flavour": "I barely felt that! Who taught you how to punch?",
+      "flavour": "Who taught you how to punch?",
       "art_path": "res/art/illustration/Brace.png",
       "tags": [
         "upgradeable-1"
@@ -2232,12 +1989,12 @@
     "spec": {
       "title": "Reflect",
       "rules": {
-        "hand": "Thrown objects bounce off of you with equal force.",
-        "cast": "The next amount of damage dealt to you is also dealt to your attacker."
+        "hand": "Thrown objects bounce off of you with equal force",
+        "cast": "The next amount of damage dealt to you is also dealt to your attacker"
       },
       "upgrade": "Deflect",
       "tier": "green",
-      "flavour": "Let's see how you like it!.",
+      "flavour": "Let's see how you like it!",
       "art_path": "res/art/illustration/Reflect.png",
       "tags": [
         "upgradeable-1"
@@ -2250,11 +2007,11 @@
     "spec": {
       "title": "Deflect",
       "rules": {
-        "text": "The next amount of damage dealt to you is dealt to your attacker instead."
+        "text": "The next amount of damage dealt to you is dealt to your attacker instead"
       },
       "upgrade": "Golan's Idol",
       "tier": "red",
-      "flavour": "I am rubber, and you are glue.",
+      "flavour": "I am rubber, and you are glue",
       "art_path": "res/art/illustration/Deflect.png",
       "tags": [
         "upgradeable-1"
@@ -2284,11 +2041,11 @@
     "spec": {
       "title": "Double Strike",
       "rules": {
-        "text": "Make two instant attacks."
+        "text": "Make two instant attacks"
       },
       "upgrade": "Quad Strike",
       "tier": "blue",
-      "flavour": "The first blow shatters their defenses, the next their spirit.",
+      "flavour": "The first blow shatters their defenses, the next their spirit",
       "art_path": "res/art/illustration/Double Strike.png",
       "tags": [
         "upgradeable-1"
@@ -2318,11 +2075,11 @@
     "spec": {
       "title": "Endless Blows",
       "rules": {
-        "text": "Take X damage. Make X instant attacks"
+        "text": "Take X damage. Make X instant attacks."
       },
       "upgrade": null,
       "tier": "red",
-      "flavour": "An endless fractal of striking limbs",
+      "flavour": "An endless flurry of striking limbs",
       "art_path": "res/art/illustration/Endless Blows.png",
       "tags": [
         "upgradeable-1"
@@ -2335,11 +2092,11 @@
     "spec": {
       "title": "Gust of Wind",
       "rules": {
-        "text": "Throw a visible character up into the air."
+        "text": "Throw a visible character up into the air"
       },
       "upgrade": "Gale",
       "tier": "blue",
-      "flavour": "He should've worn a windbreaker.",
+      "flavour": "Effect unfettered by windbreakers",
       "art_path": "res/art/illustration/Gust of Wind.png",
       "tags": [
         "upgradeable-1"
@@ -2353,11 +2110,11 @@
       "title": "Gale",
       "rules": {
         "hand": "Whenever you throw a character in the air, throw them 8 metres in any direction",
-        "cast": "Throw any number of characters in a 3 metre radius into the air."
+        "cast": "Throw any number of characters in a 3 metre radius into the air"
       },
       "upgrade": "Wind Storm",
       "tier": "green",
-      "flavour": "You look like a birthday candle.",
+      "flavour": "You look like a birthday candle",
       "art_path": "res/art/illustration/Gale.png",
       "tags": [
         "upgradeable-1"
@@ -2370,11 +2127,11 @@
     "spec": {
       "title": "Wind Storm",
       "rules": {
-        "text": "Throw any number of visible characters up into the air."
+        "text": "Throw any number of visible characters up into the air"
       },
       "upgrade": "Hurricane",
       "tier": "red",
-      "flavour": "Rise, rise towards the heavens.",
+      "flavour": "Rise, rise towards the heavens",
       "art_path": "res/art/illustration/Wind Storm.png",
       "tags": [
         "upgradeable-1"
@@ -2387,11 +2144,11 @@
     "spec": {
       "title": "Hurricane",
       "rules": {
-        "text": "A powerful hurricane is summoned over the play area for as long as you want."
+        "text": "A powerful hurricane is summoned over the play area for as long as you want"
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "It is rare for an area to know such devastation.",
+      "flavour": "It is rare for an area to know such devastation",
       "art_path": "res/art/illustration/Hurricane.png",
       "tags": [
         "upgradeable-1"
@@ -2404,11 +2161,11 @@
     "spec": {
       "title": "Barrier",
       "rules": {
-        "text": "Summon an impenetrable column of light in adjacent square metre for 5 minutes."
+        "text": "Summon an impenetrable column of light in adjacent square metre for 5 minutes"
       },
       "upgrade": null,
       "tier": "blue",
-      "flavour": "\"Quit the mime act and c'mon! We're getting out of here!\" - Barry the Bandit",
+      "flavour": "Ethereal and impregnable",
       "art_path": "res/art/illustration/Barrier.png",
       "tags": [
         "upgradeable-1"
@@ -2421,28 +2178,28 @@
     "spec": {
       "title": "Mirror Image",
       "rules": {
-        "text": "Summon a copy of any NPC."
+        "text": "A copy of you is created. Play as both until you take damage or cast another card."
       },
       "upgrade": null,
-      "tier": "gold",
-      "flavour": "I hated the man so much I made a point of killing him twice",
+      "tier": "red",
+      "flavour": "Just be yourselves",
       "art_path": "res/art/illustration/Mirror Image.png",
       "tags": [
         "upgradeable-1"
       ]
     },
-    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
   },
   "Bond": {
     "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Bond.png",
     "spec": {
       "title": "Bond",
       "rules": {
-        "text": "Cause a visible NPC to bond to you for life."
+        "text": "Cause a visible NPC to bond to you for life"
       },
       "upgrade": null,
       "tier": "gold",
-      "flavour": "There’s only one thing I want to change about you, and that’s your last name.",
+      "flavour": "There’s only one thing I want to change about you, and that’s your last name",
       "art_path": "res/art/illustration/Seduce.png",
       "tags": [
         "social"
@@ -2473,14 +2230,136 @@
     "spec": {
       "title": "Empower",
       "rules": {
-        "text": "Draw 6 greys."
+        "text": "Draw 6 greys"
       },
       "upgrade": "Slipshod Sorcery",
       "tier": "green",
-      "flavour": "Great power lies not on the surface, but within.",
+      "flavour": "Great power lies not on the surface, but within",
       "art_path": "res/art/illustration/Empower.png",
       "tags": [
         "card-manipulation"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
+  },
+  "Puppeteer": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Puppeteer.png",
+    "spec": {
+      "title": "Puppeteer",
+      "rules": {
+        "text": "A character you are touching is stunned. For as long as you continue touching them, you can make them say anything you'd like."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "We are all puppets, some just see the strings",
+      "art_path": "res/art/illustration/Puppeteer.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
+  },
+  "Clone": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Clone.png",
+    "spec": {
+      "title": "Clone",
+      "rules": {
+        "text": "Name an NPC. An identical copy of them appears before you."
+      },
+      "upgrade": null,
+      "tier": "gold",
+      "flavour": "Always have a backup plan",
+      "art_path": "res/art/illustration/Clone.png",
+      "tags": [
+        "social"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
+  },
+  "Immortal Will": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Immortal Will.png",
+    "spec": {
+      "title": "Immortal Will",
+      "rules": {
+        "hand": "At the start of your turn, return all cards not named 'Immortal Will' to your hand",
+        "cast": "Revive at full health after dying in combat"
+      },
+      "upgrade": null,
+      "tier": "rainbow",
+      "flavour": "The determined will of the champion made manifest",
+      "art_path": "res/art/illustration/Attrition.png",
+      "tags": [
+        "boss",
+        "boss-generic"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/"
+  },
+  "Swap": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Swap.png",
+    "spec": {
+      "title": "Swap",
+      "rules": {
+        "text": "Switch positions with a visible NPC"
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Coach says you're up!",
+      "art_path": "res/art/illustration/Swap.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
+  },
+  "Glacial Festival": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Glacial Festival.png",
+    "spec": {
+      "title": "Glacial Festival",
+      "rules": {
+        "text": "Cover the entire map with a thin layer of slippery ice"
+      },
+      "upgrade": null,
+      "tier": "red",
+      "flavour": "'Tis the season",
+      "art_path": "res/art/illustration/Glacial Festival.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/red.png"
+  },
+  "Marathon": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Marathon.png",
+    "spec": {
+      "title": "Marathon",
+      "rules": {
+        "text": "Move twice as fast until you play another card"
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "Never look back",
+      "art_path": "res/art/illustration/Marathon.png",
+      "tags": [
+        "movement"
+      ]
+    },
+    "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"
+  },
+  "Oven Mitt": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Oven Mitt.png",
+    "spec": {
+      "title": "Oven Mitt",
+      "rules": {
+        "hand": "Your hands are invulnerable to damage.",
+        "cast": "Your next melee attack sets your opponent on fire."
+      },
+      "upgrade": null,
+      "tier": "green",
+      "flavour": "I'll make your Kitchen Dream a Kitchen Nightmare",
+      "art_path": "res/art/illustration/Oven Mitt.png",
+      "tags": [
+        "unique-1"
       ]
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/green.png"

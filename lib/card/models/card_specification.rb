@@ -63,6 +63,7 @@ module Card
           hash["tier"].to_sym,
           hash["flavour"],
           hash["art_path"],
+          hash["draft"],
           hash["tags"]
         )
       end
