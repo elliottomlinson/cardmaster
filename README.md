@@ -2,12 +2,10 @@
 
 > A simplified tabletop role-playing game emphasizing casual play
 
-
 [![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
 [![chat](https://img.shields.io/discord/320657485126041601)](https://discord.com/channels/320657485126041601/883083993824759818)
 [![issues](https://img.shields.io/github/issues/elliottomlinson/cardmaster)](https://github.com/elliottomlinson/cardmaster/issues)
 [![version](https://img.shields.io/badge/version-unreleased-red)](https://github.com/elliottomlinson/cardmaster/releases)
-
 
 ## Introduction
 
@@ -17,8 +15,6 @@ Players can cast a card from their hand at any time. Each card has an instant si
 <p align="center">
   <img src="https://git.io/JEQYa" width="50%" id="#Shift" title="⚡ Move a metre">
 </p>
-
-
 
 *Hover over a card's name to see its effect*
 
@@ -117,8 +113,6 @@ Three of the same tier can be exchanged for an upgrade. The tiers are ⚫Grey, �
 - The base set of *Cardmaster* cards which can be used in any campaign
 - A CLI tool to edit and create your own cards
 - A CLI tool to assist in importing these cards into *[Tabletop Simulator](https://tabletopsimulator.com/)*
-- *Cardmaster*'s website, located at https://cardmaster.io/
-
 
 ## Credits
 

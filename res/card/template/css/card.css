@@ -75,7 +75,6 @@
   font-family: 'Karmatic Arcade Plus Filled';
   margin-left: 19px;
   margin-right: 20px;
-  text-shadow: 2px 2px 3px black;
 }
 
 .illustration {
@@ -109,7 +108,7 @@
 
 .type-text-fill {
   font-family: 'Karmatic Arcade Plus Filled';
-  text-shadow: 2px 2px 4px grey;
+  text-shadow: 1px 1px 4px black;
   position: absolute;
   width: 558px;
   top: 8px;
