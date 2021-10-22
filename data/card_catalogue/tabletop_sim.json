@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Card Printer",
+    "upgrade": null,
+    "tier": "red",
+    "details": {
+      "rules": {
+        "cast": "Choose a Blue or green in your hand. All cards in your hand become copies of that card.",
+        "hand": null
+      },
+      "flavour": "Diversification is overrated",
+      "image": "res/art/illustration/Card Printer.png"
+    }
+  }
+]
