@@ -1,6 +1,5 @@
 require 'cli/ui'
 require 'cli/kit'
-require "tmpdir"
 require_relative 'cardmaster/arguments'
 require_relative "./card/catalogue_adapters.rb"
 require_relative "./card/storage_adapters.rb"
@@ -9,6 +8,7 @@ require_relative "./card/generators.rb"
 require_relative "./tabletop_simulator/importers/custom_deck_importer.rb"
 require_relative "./tabletop_simulator/importers/individual_card_importer.rb"
 require_relative "./tabletop_simulator/importers/tagged_deck_importer.rb"
+require_relative "./helpers/portable_tmpdir.rb"
 
 CLI::UI::StdoutRouter.enable
 
