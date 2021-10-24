@@ -1,9 +1,11 @@
 *.DS_Store
 vendor/
 bundle/
+.bundle/
 Gemfile
 Gemfile.lock
 desktop.ini
 archive/
+tmp/
 *.pdn
 generated_stylesheet.css
