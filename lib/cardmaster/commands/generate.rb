@@ -4,6 +4,7 @@ module Cardmaster
   module Commands
     class Generate < Cardmaster::Command
       include Arguments
+      include Helpers::PortableTmpdir
 
       SUPPORTED_FLAGS = ["force", "all"].freeze
 
@@ -52,7 +53,7 @@ module Cardmaster
 
           spec_diffs = catalogue_info
 
-          Dir.mktmpdir do |tmp_dir|
+          local_tmp_dir do |tmp_dir|
             generated_count, generated_cards = generate_cards(spec_diffs, tmp_dir)
 
             if generated_count > 0
