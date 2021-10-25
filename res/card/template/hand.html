@@ -3,7 +3,8 @@
 
 <head>
   <meta charset="utf-8">
-  <title>card creator</title>
+  <title>Cardmaster Card Generator Template</title>
+  <!-- <link rel="stylesheet" href="css/card-test.css"> -->
 </head>
 
 <!-- Hack to get emojis to render -->
@@ -23,7 +24,7 @@
     textSpan = document.getElementById("title-text")
     textSpanFill = document.getElementById("title-text-fill")
     textDiv = document.getElementById("title")
-    
+
     textSpan.style.fontSize = "36pt"
     textSpanFill.style.fontSize = "36pt"
 
@@ -36,23 +37,17 @@
   }
 </script>
 
-
 <body>
   <div class="card">
       <div class="tier"></div>
       <div class="border"></div>
       <div class="frame"></div>
       <div class="title" id="title">
-        <span class="title-text-fill vertical-center" id="title-text-fill">{{title}}</span>
-        <span class="title-text vertical-center" id="title-text">{{title}}</span>
+        <span class="title-text vertical-center" id="title-text" text="{{title}}"></span>
       </div>
       <div class="illustration"></div>
-      <div class="type">
-        <div class="type-text-fill">
-          {{upgrade}}
-        </div>
-        <div class="type-text">
-          {{upgrade}}
+      <div class="type" id="type">
+        <span class="type-text" id="type-text" text="{{type}}"></span>
         </div>
       </div>
       <div class="rules">
@@ -72,7 +67,7 @@
         <table>
           <tr>
             <td>
-              <p class="author">
+              <p class="illustrator">
                 Illus. Elliot Tomlinson
               </p>
             </td>
@@ -86,7 +81,7 @@
                 <span class="series">
                   pre-release
                 </span>
-                <span class="serial">
+                <span class="set">
                   Base Set
                 </span>
               </p>
