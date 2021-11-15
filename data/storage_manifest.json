@@ -1295,17 +1295,17 @@
     },
     "back_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/art/back/gold.png"
   },
-  "Heroic Inspiration": {
-    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Heroic Inspiration.png",
+  "Inspiration": {
+    "image_url": "https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Inspiration.png",
     "spec": {
-      "title": "Heroic Inspiration",
+      "title": "Inspiration",
       "rules": {
         "text": "Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful."
       },
       "upgrade": null,
       "tier": "gold",
       "flavour": "There was a light within us that few can see. One day it will shine through.",
-      "art_path": "res/art/illustration/Heroic Inspiration.png",
+      "art_path": "res/art/illustration/Inspiration.png",
       "tags": [
         "story-changing-golds"
       ]

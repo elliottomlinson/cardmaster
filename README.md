@@ -61,7 +61,7 @@ Cards like
   <i><a href="#Soak" title="⚡ Cause everything within 2 metres of a visible object to become saturated with water">Soak</a></i>, and
   <i><a href="#Poltergeist" title="⚡ Possess a non-magic object within 5 tiles of your body until you lose concentration.">Poltergeist</a></i>, alter the world - like
  <i><a href="#Untimely Death" title="⚡ Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.">Untimely Death</a></i>, and 
- <i><a href="#Heroic Inspiration" title="⚡ Name a character not on the current map. They die.">Heroic Inspiration</a></i>, the story.
+ <i><a href="#Inspiration" title="⚡ Name a character not on the current map. They die.">Inspiration</a></i>, the story.
  
 <br>
 <p align="center">
@@ -74,7 +74,7 @@ Cards like
     <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Untimely%20Death.png" width="19%" 
        id="Untimely Death" title="⚡ Name a character not on the current map. They die.">
   <img src="https://raw.githubusercontent.com/elliottomlinson/cardmaster/master/res/card/generated/Heroic%20Inspiration.png" width="19%" 
-       id="Heroic Inspiration" title="⚡ Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.">
+       id="Inspiration" title="⚡ Name an NPC. They will be suddenly inspired to seek greatness. By next session they will be incredibly powerful.">
 </p>
 
 Some have a **✋ Hand Effect** when held. Like
