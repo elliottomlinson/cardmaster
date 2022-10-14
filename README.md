@@ -93,7 +93,7 @@ they may shape a character's identity.
        id="Lover Fatale" title="⚡ A visible NPC develops feelings for you. &#013;✋ Attacks against characters who love you deal 25 bonus damage.">
 </p>
 
-Three of the same tier can be exchanged for an upgrade. The tiers are ⚫Grey, 🔵Blue, 🟢Green, 🔴Red, and 🟡Gold.
+Three of the same tier can be traded for an upgrade. The tiers are ⚫Grey, 🔵Blue, 🟢Green, 🔴Red, and 🟡Gold.
 
 <br>
 <p align="center">
