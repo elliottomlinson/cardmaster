@@ -34,7 +34,7 @@ On an opponent's turn, the player could
        id="Anvil Drop" title="⚡ Summon a cast-steel anvil into existence above target character's head">
 </p>
 
-During an ally's turn,
+On an ally's turn,
   <i><a href="#Field Medicine" title="⚡ Heal a visible character 15. They can move twice as fast for the remainder of the session &#013;✋ Run twice as fast while carrying friendly characters">Field Medicine</a></i> or
   <i><a href="#Pigeon Partner" title="⚡ Summon a pigeon to perform a simple task">Pigeon Partner</a></i>
 could help, while
