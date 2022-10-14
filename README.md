@@ -61,7 +61,7 @@ Some cards have a **✋ Hand Effect**. Applied until the card is cast, these can
        id="Lover Fatale" title="⚡ A visible NPC develops feelings for you. &#013;✋ Attacks against characters who love you deal 25 bonus damage.">
 </p>
 
-Three of a tier can be traded for an upgrade. The order is ⚫Grey, 🔵Blue, 🟢Green, 🔴Red, 🟡Gold. 
+The tier order is ⚫Grey, 🔵Blue, 🟢Green, 🔴Red, 🟡Gold. Three of a tier can be traded for an upgrade.
 
 <p align="center">
   <br>
