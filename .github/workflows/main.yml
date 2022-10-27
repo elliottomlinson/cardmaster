@@ -34,48 +34,48 @@ jobs:
       - name: add grey emoji
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "grey,"
-          replace: "⚫ grey,"
+          find: "| grey"
+          replace: "| ⚫ grey"
           include: "catalogue.md"
           regex: false
 
       - name: add blue emoji
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "blue,"
-          replace: "🔵 blue,"
+          find: "| blue"
+          replace: "| 🔵 blue"
           include: "catalogue.md"
           regex: false
 
       - name: add green emoji
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "green,"
-          replace: "🟢 green,"
+          find: "| green"
+          replace: "| 🟢 green"
           include: "catalogue.md"
           regex: false
 
       - name: add red emoji
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "red,"
-          replace: "🔴 red,"
+          find: "| red"
+          replace: "| 🔴 red"
           include: "catalogue.md"
           regex: false
 
       - name: add gold emoji
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "gold,"
-          replace: "🟡 gold,"
+          find: "| gold"
+          replace: "| 🟡 gold"
           include: "catalogue.md"
           regex: false
 
       - name: add rainbow emoji
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "rainbow,"
-          replace: "🌈 rainbow,"
+          find: "| rainbow"
+          replace: "| 🌈 rainbow"
           include: "catalogue.md"
           regex: false
 
