@@ -94,7 +94,7 @@ Cards can alter the world to a varying degree - upgrade them enough, and they al
 ## In This Repository
 
 - [Tabletop 101](/docs/TABLETOP_101.md), an introduction for those unfamiliar with the *tabletop role-playing game* format
-- The *Cardmaster* [card catalogue](https://github.com/elliottomlinson/cardmaster/blob/master/Cardmaster%20Catalogue.xlsx)
+- The *Cardmaster* [card catalogue](https://github.com/elliottomlinson/cardmaster/blob/master/catalogue.md)
 - A CLI tool to edit and create your own cards
 - A CLI tool to assist in importing these cards into *[Tabletop Simulator](https://tabletopsimulator.com/)*
 
