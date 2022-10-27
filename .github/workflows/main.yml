@@ -1,6 +1,3 @@
-name: catalogue csv to md
-  uses: petems/csv-to-md-table-action@v2.0.0
-
 on:
   push:
     branches:
