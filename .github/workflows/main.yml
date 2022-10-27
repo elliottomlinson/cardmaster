@@ -37,4 +37,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
-          message: 'updated by github actions - ${date}'
+          message: 'updated by github actions'
