@@ -1,0 +1,137 @@
+﻿Tier,Title,Upgrade,Cast Effect,Hand Effect,Flavour Text,Tags
+grey,Boost,,Increase the result of a roll by 1.,,The collective will of the people made manifest.,"meta, roll"
+grey,Fluster,,Decrease the result of a roll by 1.,,The collective will of the people made manifest.,"meta, roll"
+grey,Force,,Push or pull a visible object slightly.,,Human power extends past the limits of their bodies.,"meta, world"
+grey,Shift,,Move a metre.,,Move beyond physical limits.,movement
+blue,Adlib,Improvise,Draw 3 grey cards.,,"And just like that, he's gone!",draw
+blue,Banana Peel,Object Eject,Pick a point on the floor up to 2 metres away. The next NPC to walk there will fall over.,,Nothing like a little prop humour.,"character, disruption, world"
+blue,Barrier,Porticostatic Hex,Summon an impenetrable column of light in adjacent square metre for 5 minutes.,,Ethereal and impregnable.,"disruption, world"
+blue,Bean Blast,Porticostatic Hex,Blind everyone within 3 metres.,,Industrial Grade.,disruption
+blue,Brace,Reflect,Take no damage from the next attack targeting you.,,Who taught you how to punch?,"defence, combat"
+blue,Charm,Flirt,Increases your rapport with a visible NPC.,,"If you were words on a card, you'd be some fine print.","character, pacifist, social"
+blue,Commune,,Speak with any living NPC. They will be unaware of who they're speaking to.,,How'd you get this number? I don't even own a phone!,"character, information, story"
+blue,Cure,Field Medicine,"Cure the ailment of a visible character, or heal them 8.",,"Good for a broken heart, or a pierced lung.",heal
+blue,Distract,Lie,Force an NPC to act on their compulsion.,,"It was a lovely moment, but it'd be just as lovely after checking my messages once more.","character, disruption, story"
+blue,Double Strike,Quad Strike,Make two instant attacks.,,"The first blow shatters their defenses, the next their spirit.","attack, combat"
+blue,Eidolimb,Poltergeist,Evoke a disembodied hand to perform a simple action within 4 metres of you.,,Give me five!,world
+blue,Empouched Earth,Survival Instincts,Cast a handful of sand and pocket lint into the air before you.,,"In total war, all tactics are acceptable.","attack, disruption, combat"
+blue,Espial Thread,Where-Ware Charm,Choose two visible points. You will be alerted the next time an NPC walks between them.,,"Even if the bird flies high in the sky, the hunter places his trap on the ground.","character, information, world"
+blue,Exhaust,Somnomalum,Target NPC becomes tired.,,"Man is born tired, and he lives to rest.","attack, character, disruption, combat"
+blue,Four-Leaf Clover,Rabbit's Foot,"Draw 3 green cards, face-up. Cast 1, discard the rest.",,No more of this bush-league nonsense.,draw
+blue,Gust of Wind,Gale,Throw a visible character up into the air.,,Effect unfettered by windbreakers.,"attack, character, disruption, combat"
+blue,Hope,Pray,Something unlucky befalls target NPC.,,He works in strange ways.,"attack, character, disruption, story, combat"
+blue,Ignite,Fireball,Ignite a small object within 3 metres.,,"Including, but not limited to, a friend's new article of clothing, letters from their loved ones, and paper money.",world
+blue,Imitate,Copy,Choose a blue card in another player's hand. This card has the same effect as that card.,,"This is how stupid you look, watch this.","identity, meta, player"
+blue,Jump,Leap,Jump up 3 metres.,,Gravity's just a theory.,world
+blue,Lasso,Grapple,Lasso a visible target.,,"The lasso is an excellent tool for capturing large animals, like my portly friend Steve.","attack, character, disruption, combat"
+blue,Lunge,Charge,Move up to 5 metres in any direction.,,These are great for the glutes.,movement
+blue,Moisten,Soak,Target visible object becomes moist.,,I think I'm going to need a change of clothes.,disruption
+blue,Musty Musket,The Gambler,"Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",,"To get you out of a tight spot, like a colonial insurrection.","attack, trade-off, combat"
+blue,PBJT,Throw,Apply a sandwich to the face of a visible character.,,"Indignity defeats the spirit, and the body is soon to follow.","character, disruption"
+blue,Pigeon Partner,Avian Spirit,Summon a pigeon to perform a simple task.,,He will try his best not to be distracted by breadcrumbs.,"disruption, world"
+blue,Platzfalt Step,Object Eject,Teleport to any visible space. Take damage equal to the number of metres moved.,,Travelling is always a pain.,"movement, trade-off"
+blue,Positivity,Talk it Out,A visible NPC is forced to think positive thoughts.,,"You see a distant obstacle, I see an upcoming opportunity.","pacifist, social"
+blue,Quick Shot,Quad Strike,Make an instant attack that cannot miss.,,From way downtown!,"attack, combat"
+blue,Rime,Oven Mitt,Cover an object in a thin layer of ice.,,"Whoa, chill.",world
+blue,Rolling Cart,Locomotor Hex,Put a large object or willing NPC in your hand.,,"Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.","character, meta, world"
+blue,Seance,Poltergeist,Speak with any dead NPC. Their voice can be heard by all nearby NPCs.,,"Talking to the dead is tiring, they never have anything new to talk about.","character, information, world"
+blue,Sheriff's Roundup,Swarm,Choose a visible article of clothing. A snake appears inside of it.,,Always drink upstream from the herd.,"disruption, world"
+blue,Slingshot,Throw,Launch a baseball sized rock at a visible target.,Gain advantage when throwing objects.,You want it? Here.,"disruption, identity"
+blue,Smoke Bomb,Disappear,Choose a 4 square metre area to fill temporarily with an opaque smoke.,,Mildly anoxic.,"disruption, world"
+blue,Spark,Lightning Bolt,Deal 3 damage to a visible character with a painful bolt of electricity.,,"A spark is a little thing, yet it may kindle the world.","attack, character, combat"
+blue,Spice Rack,Ambrosia,Swap the flavours of two objects within your reach.,,"Mmm, Crayons.",world
+blue,Toss,Throw,Accurately throw an object at a target up to 5 metres away.,,"Go ahead, toss your hat in the ring.","disruption, world"
+blue,Wing It,Brainstorm,Draw 2 blue cards. Cast both.,,Live by the luck of the draw.,draw
+green,Akindle,Immolate,Burst into flames along with anyone you're touching.,,I'm taking you straight to hell.,"attack, character, trade-off, combat"
+green,Ambrosia,Magic Trick,"Summon an irresistible brick of Ambrosia, food of the Gods.",,Ambrosia addicts scuttle about gourmet kitchens like rats.,create
+green,Anvil Drop,,Summon a cast-steel anvil into existence above a target.,,Meep-Meep.,"attack, create, combat"
+green,Apologize,Timeout,Target visible NPC no longer feels negative emotions towards target visible character.,,I'm sorry that you overreacted to my reasonable actions.,"character, pacifist, social"
+green,Avian Spirit,,Become a small bird for as long as you want.,You can speak to birds.,Birds never fail to see the forest from the trees.,"creature, identity"
+green,Bashbolster,Bullet Rain,Deal double damage until you play another card.,,"I'm not unarmed, I've got two of them.","attack, identity, meta, combat"
+green,Bow Hex,Bullet Rain,Deal 10 damage to a visible target.,Roll an additional d4 when performing a ranged attack.,"The new moon returns in heaven a bent, beautiful bow.","attack, identity, combat"
+green,Brainstorm,Inspiration,Draw 2 green cards. Cast both.,,You never know what she'll pull out of thin air.,draw
+green,Charge,Teleport,Move up to 15 metres in any direction.,Gain advantage when running through obstacles.,"Obstacles do not block the path, they are the path.","attack, disruption, identity, movement, combat"
+green,Copy,Mirror Image,Cast the effect of a green card in another player's hand.,,Stop copying me. Stop copying me.,"identity, meta, player"
+green,Disappear,Magic Trick,Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.,,"Existence is tiring, why not take a break?","character, defence, story"
+green,Empower,Slipshod Sorcery,Draw 6 grey cards.,,"Great power lies not on the surface, but within.",draw
+green,Equestrian,,Summon a trusty steed.,You can tame anything you can ride.,Man was destined to tame the world.,"identity, world"
+green,Field Medicine,Renew,Heal a visible character 15. They can move twice as fast for the remainder of the game.,Run twice as fast while carrying friendly characters.,"Wee woo, wee woo.","character, heal, identity"
+green,Fireball,Immolate,Hurl a flaming ball of hot embers at a visible object.,,Time for a game of hot potato!,"attack, world, combat"
+green,Flirt,Arouse,Cause a visible NPC to like you.,,Do you like raisins? How do you feel about a date?,"pacifist, social, story"
+green,Gale,Wind Storm,Throw any number of characters in a 3 metre radius into the air.,"Whenever you throw a character in the air, throw them 8 metres in any direction.",You look like a birthday candle.,"attack, disruption, identity, combat"
+green,Grapple,Queen's Gambit,Pick a visible character to be flung into. Both take 6 damage on impact.,,C'mere.,"attack, character, trade-off, combat"
+green,Groundburst,Wind Storm,The ground shakes beneath you. All characters within 4 metres are knocked airborne and drop whatever they're holding.,,Not suitable for tectonic fault zones.,"attack, character, disruption, world, combat"
+green,Improvise,Extemporize,"Draw 5 blue cards, face-up. Cast up to 3 and discard the rest.",,"You criticize, I improvise.","disruption, draw"
+green,Infamous,Magic Trick,Tell a story about yourself. Any number of visible NPCs will believe this story is true.,Deal 3 bonus damage when attacking characters who know your name.,His reputation preceded him.,"antagonist, character, social, story"
+green,Leap,Levitate,Jump 25 metres into the air.,Take no damage from falling.,Sometimes all you need is a big leap of faith.,"identity, world"
+green,Lie,Disguise,Critically succeed the next time you lie.,,One lie is enough to question all truths.,"antagonist, meta, social"
+green,Lightning Bolt,Elektra's Siphon,Deal 4 damage and stun up to 2 visible characters.,,"They sicken of the calm, who knew the storm.","attack, character, disruption, combat"
+green,Locomotor Hex,Prison,Choose an NPC. Their speed is halved until the end of the game.,,Have my legs always been this heavy?,"character, disruption"
+green,Lover Fatale,Arouse,A visible NPC develops feelings for you.,Attacks against characters who love you deal 25 bonus damage.,I trust him completely.,"character, identity, pacifist, social, story"
+green,Marathon,Endless Blows,Move twice as fast until you play another card.,,Never look back.,"identity, meta, movement"
+green,Object Eject,Pitch,You and the object you're standing on are flung in the direction of your choice.,,How clumsy of me.,"disruption, movement, trade-off, world"
+green,Ouphe's Aura,Elektra's Siphon,Disable a visible machine until it is repaired.,Machines fear you.,"Yeah, I'm into tech, into smashing it up that is.","disruption, identity, world"
+green,Oven Mitt,Glacial Hand,Your next melee attack sets your opponent on fire.,Your hands are invulnerable to damage.,"If you can't take the heat, get out of the kitchen.","attack, identity, combat"
+green,Poltergeist,Magic Trick,Possess a non-magic object within 5 tiles of your body until you lose concentration.,,There's something rather lively about this chair.,"identity, world"
+green,Porticostatic Hex,,Target an entranceway. The next living creature to pass through it remains stuck until they take damage.,,"Well don't just stand there, come on in!","attack, world, combat"
+green,Pray,Preach,Give a character advantage on their next roll.,+1 to all d20 rolls.,"Before we can, we must believe we can.","character, identity"
+green,Puppeteer,Glacial Hand,"A character you are touching is stunned. For as long as you continue touching them, you can make them say anything you'd like.",,"We are all puppets, some just see the strings.","character, disruption, social"
+green,Quad Strike,Endless Blows,Make four instant attacks.,,"Their defense won't last forever. Strike, and strike again.","attack, combat"
+green,Rabbit's Foot,Jackpot,"Draw 3 red cards, face-up. Cast 1, discard the rest.",,"I might be able to pull it off, but just this once.",draw
+green,Reflect,Deflect,The next amount of damage dealt to you is also dealt to your attacker.,Thrown objects bounce off of you with equal force.,Let's see how you like it!,"attack, defence, identity, trade-off, combat"
+green,Rodent Whisperer,,Turn into a rodent for as long as you want.,You hold influence over members of Order Rodentia.,The smallest things take up the most room in the heart.,"creature, identity"
+green,Rue the Day,,Name a character who has wronged you. They feel remorse for what they have done.,,"I see that in hurting you, I was hurting myself.","character, pacifist, social, story"
+green,Shadow Strike,Disguise,Disappear for as long as you remain perfectly still.,Deal double damage while out of combat.,Most battles are over before they've even begun.,"attack, identity, combat"
+green,Soak,Drench,Cause everything within 2 metres of a visible object to become saturated with water.,Deal double damage when attacking wet enemies.,My plan: complete. Their day: ruined.,"attack, disruption, identity, world, combat"
+green,Somnomalum,Magic Trick,Target character falls asleep.,Touching a character deepens their sleep. They will not wake up until they take damage.,Sweet dreams.,"character, disruption, identity, social"
+green,Spectreblast,,Fire a cannonball at a target of your choice.,You're surrounded by a ghostly aura.,Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.,"attack, identity, combat"
+green,Survival Instincts,Wish,"Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water.",Triple advantage on all d20 rolls when below 5 health.,,identity
+green,Swap,Mirror Image,Switch positions with a visible NPC.,,Coach says you're up!,"character, disruption, movement, world"
+green,Swarm,,Pick a small animal or insect for your target to be swarmed by.,You are constantly covered in an insect of your choice.,"Surprisingly, it never bugs me.","character, disruption, identity"
+green,Sword Hex,Bullet Rain,"Cut a shallow, metre-long incision in a visible surface.",Roll an additional d6 when you perform a melee attack.,Master swordsmen can resheath their blade before their opponent knows they've been cut.,"attack, identity, combat"
+green,Talk it Out,Timeout,A visible character is forced to pause whatever they're currently doing and discuss their feelings with you instead.,"Whenever you make an attack, you can choose whether or not it will deal damage.",,"identity, pacifist, social, story"
+green,The Gambler,Magic Trick,"Summon a pair of dice. When rolling them, decide the outcome in advance.","Whenever you would roll a d20, flip a coin instead. Heads for a critical success, tails for a critical failure.",,"identity, social"
+green,Throw,Pitch,Accurately throw an object at a target up to 12 metres away.,Advantage when catching.,"If you're going to throw in the towel, at least do it right.","disruption, identity, world"
+green,Where-Ware Charm,Magic Trick,Teleport to a visible object you've touched.,You know the location of every object you've ever touched.,"I may not know who stole my socks from the dryer, but I do know that their days are numbered.","identity, information, movement"
+red,Arouse,Bond,Cause an NPC to become attracted to you.,,"Alice suddenly realized that even though Bernard looked like a toadstool, he was an undeniably sexy toadstool.","character, pacifist, social"
+red,Bullet Rain,Untimely Death,"Until the end of the game, perform an instant attack every time you cast a card.",,"Long forgotten armories sprawl out before you, weapons chanting out your name.","attack, combat"
+red,Deflect,Golan's Idol,The next amount of damage dealt to you is dealt to your attacker instead.,,"I am rubber, and you are glue.","attack, defence, combat"
+red,Disguise,Revise,Change your appearance to match that of another exactly for as long as you'd like.,,Most people are other people.,"character, identity"
+red,Drench,Flood,Summon 50 thousand litres of water to a visible location.,,You have entered the splash zone.,"disruption, story, world"
+red,Elektra's Siphon,Hurricane,Extract all electricity in a 10 metre radius. Deal 6 damage and stun to up to 6 visible characters.,,"A great storm is coming, but the tide has turned.","attack, disruption, world, combat"
+red,Endless Blows,Untimely Death,Take X damage. Make X instant attacks.,,An endless flurry of striking limbs.,"attack, trade-off, combat, create"
+red,Extemporize,Randomize,"Draw 5 green cards, face-up. Cast up to 3 and discard the rest.",,"Say goodbye to the rails, script, chain, and beaten path.",draw
+red,Glacial Festival,Flood,Cover the entire map with a thin layer of slippery ice.,,'Tis the season.,"disruption, world"
+red,Glacial Hand,Terrestrial Sun,"Touch an NPC to freeze both of you. Until your hand is removed, neither of you can move.",,Let's savour this moment forever.,"character, trade-off"
+red,Immolate,Terrestrial Sun,Deal 15 damage and set fire to all flammable objects within 6 metres.,,The best part is that nice campfire smell.,"attack, disruption, world, combat"
+red,Inspiration,Randomize,Draw 2 red cards. Cast both.,,I've got an idea...,draw
+red,Levitate,Ascend,Hover up to 20 metres off the ground until you lose concentration.,,Rise above earthly ambition.,"movement, world"
+red,Magic Trick,Revise,NPCs believe this spell had the effect of your choice.,,Conjurors con jurors.,"antagonist, character, pacifist, social"
+red,Mirror Image,Clone,A copy of you is created. Play as both until you take damage or cast another card.,,Just be yourselves.,"character, identity, meta, story"
+red,Pitch,Hurricane,Accurately throw an object as far as you want.,Double advantage when catching.,"I want this thing gone, understand?","disruption, identity, world"
+red,Preach,Golan's Idol,Describe a religious vision. Pick a visible NPC to experience it.,,Faith lives deep in the hearts of all.,"antagonist, character, pacifist, social"
+red,Prison,Leopold's Door,"A boundary appears 5 metres away from you in all directions. It is impenetrable from within, and lasts as long as you'd like.",,"After years in captivity, a lion forgets it's a lion.","disruption, world"
+red,Queen's Gambit,Leopold's Door,Move in a straight line until obstructed.,,Checkmate.,movement
+red,Renew,Reincarnate,Restore a visible character to maximum health. Their maximum health permanently increases by 10 and they grow a foot taller.,,I took the liberty of making some extra improvements.,"heal, identity, story"
+red,Slipshod Sorcery,Randomize,"Draw 10 blue cards, face-up. Cast up to 8 and discard the rest.",,What we lack in quality we've made up with quantity.,draw
+red,Teleport,Leopold's Door,Teleport to any visible location.,,"If teleportation was impossible, why did they make a word for it? Answer that one, smart guy.",movement
+red,Timeout,Change of Heart,"For one minute, NPCs will not become hostile unless they take damage.",,The clerk just told me a pair were trying to rob our vault - Would you two in the masks mind keeping an eye out for them while you're in there?,"pacifist, social"
+red,Wind Storm,Hurricane,Throw any number of visible characters up into the air.,,"Rise, rise towards the heavens.","disruption, world"
+red,Wish,Heroic Inspiration,Cause target player to critically succeed on their next roll.,,The light will shine bright upon the chosen.,"player, roll"
+gold,Blank Deed,,Become the legal owner of a building of your choice. Existing tenants will be evicted immediately.,,"Property is not the natural, obvious, and inevitable concept that most people think it is.","story, world"
+gold,Bond,,Cause a visible NPC to bond to you for life.,,"There’s only one thing I want to change about you, and that’s your last name.","character, pacifist, social"
+gold,Change of Heart,,Name an NPC. They will dedicate their lives to promoting peace.,,"When the power of love overcomes the love of power, the world will know peace.","character, story"
+gold,Clone,,Name an NPC. An identical copy of them appears before you.,,Always have a backup plan.,"character, story"
+gold,Flood,,A Tsunami breaks over the play area from a cardinal direction of your choice.,,Surf's up.,"disruption, story, world"
+gold,Golan's Idol,,Name a character. They can no longer deal damage to you.,,It's futile. I've already analyzed all of your moves.,"character, defence, story"
+gold,Heroic Inspiration,,Name an NPC. They will be suddenly inspired to seek greatness. By the next game they will be incredibly powerful.,,There was a light within us that few can see. One day it will shine through.,"character, story"
+gold,Hurricane,,A powerful hurricane is summoned over the play area for as long as you want.,,It is rare for an area to know such devastation.,"disruption, story, world"
+gold,Leopold's Door,,Teleport all players anywhere.,,Endless folds in spacetime reveal themselves to the worthy.,"disruption, movement, party, story"
+gold,Randomize,,Draw 2 gold cards. Cast both.,,History rarely goes according to plan.,"draw, story"
+gold,Reincarnate,,Revive a dead character.,The dead fear you.,"If man is to play god, he ought to be a kind one.","heal, identity, story"
+gold,Revise,,Rewrite the contents of an NPC's memory.,,Nothing is ever lost to us as long as we remember it.,"character, disruption, social, story"
+gold,Terrestrial Sun,,Summon a brick of material which burns violently when set alight.,Fires you set cannot be put out.,The fire in our hearts will never burn out.,"disruption, story, world"
+gold,Untimely Death,,Name a character. They die.,,,"attack, character, story, combat"
+rainbow,Immortal Will,,Revive at full health after dying in combat.,"At the start of your turn, return all cards not named 'Immortal Will' to your hand.",The determined will of the champion made manifest.,npc-only
+rainbow,I've Had Enough,,"At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",This card can only be cast during your turn.,See you next fall!,npc-only
+rainbow,Take it Outside,,Move any number of allied NPCs out of combat.,,Let's make some space. This is about to get rowdy.,npc-only
