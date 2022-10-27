@@ -35,7 +35,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "| grey"
-          replace: "| ⚫ grey"
+          replace: "| ⚫"
           include: "catalogue.md"
           regex: false
 
@@ -43,7 +43,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "| blue"
-          replace: "| 🔵 blue"
+          replace: "| 🔵"
           include: "catalogue.md"
           regex: false
 
@@ -51,7 +51,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "| green"
-          replace: "| 🟢 green"
+          replace: "| 🟢"
           include: "catalogue.md"
           regex: false
 
@@ -59,7 +59,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "| red"
-          replace: "| 🔴 red"
+          replace: "| 🔴"
           include: "catalogue.md"
           regex: false
 
@@ -67,7 +67,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "| gold"
-          replace: "| 🟡 gold"
+          replace: "| 🟡"
           include: "catalogue.md"
           regex: false
 
@@ -75,7 +75,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "| rainbow"
-          replace: "| 🌈 rainbow"
+          replace: "| 🌈"
           include: "catalogue.md"
           regex: false
 
