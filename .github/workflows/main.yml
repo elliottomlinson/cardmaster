@@ -1,10 +1,10 @@
-- name: catalogue csv to md
+name: catalogue csv to md
   uses: petems/csv-to-md-table-action@v2.0.0
 
 on:
   push:
-    paths:
-      - './catalogue.csv'
+    branches:
+    - main
 
 jobs:
   build:
