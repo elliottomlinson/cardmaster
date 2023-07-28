@@ -6,7 +6,6 @@
 [![chat](https://img.shields.io/discord/320657485126041601)](https://discord.com/channels/320657485126041601/883083993824759818)
 [![issues](https://img.shields.io/github/issues/elliottomlinson/cardmaster)](https://github.com/elliottomlinson/cardmaster/issues)
 [![version](https://img.shields.io/badge/version-alpha-red)](https://github.com/elliottomlinson/cardmaster/releases)
-[![uniques](https://img.shields.io/badge/cards-136-blue)](https://github.com/elliottomlinson/cardmaster/releases)
 
 ## Introduction
 Each card has an instant single-use **⚡ Cast Effect**. Players can cast cards from their hand at any time.
