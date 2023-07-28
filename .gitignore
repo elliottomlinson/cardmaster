@@ -9,3 +9,4 @@ archive/
 tmp/
 *.pdn
 generated_stylesheet.css
+~$*
